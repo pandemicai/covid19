@@ -1,0 +1,6 @@
+{
+ "flight_cancellations": [
+    {"airline": "Air Canada", "url":"https://www.cbc.ca/news/business/coronavirus-air-travel-1.5444326",
+       "action": "Suspend all flights to Beijing and Shanghai", "time_frame":"From Jan. 30 to Feb. 29"}
+ ]
+}

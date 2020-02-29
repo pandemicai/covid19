@@ -1,0 +1,14 @@
+{
+ "outbreak_comparisons":  [
+  { "virus": "COVID-19", "confirmed": "83,372", "outside_of_china": "4,548", "death": "2,858", "num_countries": 55, "fatality": "3.43%", "R0": "2.5-6.6", "source":"", "R0_url":"https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1", "url":"", "ident": ""},
+  { "virus": "Cases with outcome", "confirmed": "39,421", "outside_of_china": "", "death": "2,858", "num_countries": "48", "fatality": "7.25%", "R0":"", "source":"World Meters", "url":"https://www.worldometers.info/coronavirus/", "ident": "1"},
+  { "virus": "Wuhan", "confirmed": "48,137", "outside_of_china": "", "death": "2,132", "num_countries": "", "fatality": "4.43%", "R0":"", "source":"", "url":"", "ident": "1"},
+  { "virus": "Wuhan cases with outcome", "confirmed": "17,958", "outside_of_china": "", "death": "2,132", "num_countries": "", "fatality": "11.87%", "R0":"", "source":"Sina News", "url":"https://news.sina.cn/zt_d/yiqing0121", "ident": "1"},
+  { "virus": "Hubei", "confirmed": "65,914", "outside_of_china": "", "death": "2,682", "num_countries": "", "fatality": "4.07%", "R0":"", "source":"", "url":"", "ident": "1"},
+  { "virus": "Hubei cases with outcome", "confirmed": "29,085", "outside_of_china": "", "death": "2,682", "num_countries": "", "fatality": "9.22%", "R0":"", "source":"Sina News", "url":"https://news.sina.cn/zt_d/yiqing0121", "ident": "1"},
+  { "virus": "Rest of China", "confirmed": "12,910", "outside_of_china": "", "death": 106, "num_countries": "", "fatality": "0.82%", "R0":"", "source":"", "url":"", "ident": "1"},
+  { "virus": "Rest of China cases with outcome", "confirmed": "9,869", "outside_of_china": "", "death": 106, "num_countries": "", "R0":"", "fatality": "1.07%", "source":"Sina News", "url":"https://www.worldometers.info/coronavirus/", "ident": "1"},
+  { "virus": "Rest of World", "confirmed": "4,548", "outside_of_china": "", "death": 70, "num_countries": 54, "fatality": "1.54%", "R0":"", "source":"", "url":"", "ident": "1"},
+  { "virus": "Rest of World with outcome", "confirmed": 467, "outside_of_china": "", "death": 70, "num_countries": 54, "fatality": "14.99%", "R0":"", "source":"", "url":"", "ident": "1"}
+]
+}

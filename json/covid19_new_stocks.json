@@ -1,0 +1,5 @@
+{
+  "stocks": [
+    {"stock":"Under Armour", "symbol": "UAA", "stock_url": "https://www.marketwatch.com/investing/stock/uaa", "news": "Under Armour stock sinks 18% as challenges include a North American turnaround and coronavirus", "url": "https://www.marketwatch.com/story/under-armour-stock-sinks-18-as-challenges-include-a-north-american-turnaround-and-coronavirus-2020-02-11"}
+  ]
+}

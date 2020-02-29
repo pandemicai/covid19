@@ -1,0 +1,6 @@
+{
+ "travel_advisories": [
+   {"country": "UK", "icon": "GB.png", "date": "Feb 17", "annoucement": "Against all travel to Hubei Province, Against all but essential travel to the rest of mainland China",
+      "source": "Foreign and Commonwealth Office", "url": "https://www.gov.uk/foreign-travel-advice/china"}
+ ]
+}

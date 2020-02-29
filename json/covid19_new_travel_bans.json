@@ -1,0 +1,6 @@
+{
+ "travel_ban": [
+    {"country": "Australia", "icon": "AU.png", "date": "Feb 13", "starting": "February 13", "annoucement": "Extend the entry restrictions on foreign nationals who have recently been in mainland China for a further week from 15 February 2020 to protect Australians from the risk of coronavirus. Foreign nationals – excluding permanent residents – who have been in mainland China will not be allowed to enter Australia for 14 days from the time they left. As before, Australian citizens and permanent residents will still be able to enter, as will their immediate family members (spouses, legal guardians and dependants only).",
+      "source": "Prime Minister of Australia", "url": "https://www.pm.gov.au/media/extension-travel-ban-protect-australians-coronavirus"}
+    ]
+}

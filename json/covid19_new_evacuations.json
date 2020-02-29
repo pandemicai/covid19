@@ -1,0 +1,5 @@
+{"evacuations": [
+  {"country": "Canada", "icon": "CA.png", "date": "Feb 18", "evacuation": "Flight to evacuate Canadians from coronavirus-hit cruise ship ‘expected’ to depart Japan on Thursday", "source": "The Star", "url": "https://www.thestar.com/news/canada/2020/02/18/flight-to-evacuate-canadians-from-coronavirus-hit-cruise-ship-expected-to-depart-japan-on-thursday.html"},
+  {"country": "USA", "icon": "US.png", "date": "Feb 18", "evacuation": "Two planes carrying hundreds of Americans taken off a quarantined cruise ship in Japan arrived at U.S. military bases overnight. The first touched down at Travis Air Force Base in California and the other landed several hours later in Texas.", "source": "CBS News", "url": "https://www.cbsnews.com/live-updates/coronavirus-china-outbreak-death-toll-infections-latest-updates-2020-02-17/"}
+ ]
+}

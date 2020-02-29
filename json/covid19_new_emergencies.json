@@ -1,0 +1,8 @@
+{
+ "emergencies": [
+    {"country": "Taiwan", "icon": "TW.png","date": "Feb 27", "announcement": "Raised its epidemic response level to the highest", "source": "CNA",
+    "url": "https://www.channelnewsasia.com/news/asia/covid19-taiwan-raises-epidemic-response-level-highest-12474922"},
+    {"country": "UK", "icon": "GB.png","date": "Feb 10", "announcement": "Serious and Imminent Threat", "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3049905/coronavirus-uk-warns-serious-and-imminent-threat-infections"}
+  ]
+}
