@@ -3,6 +3,20 @@
 Our discord server:
 https://discordapp.com/invite/FPQvNR
 
+Our Websites:
+https://outbreak.cc
+https://pandemic.ai
+
+Our Twitter
+https://twitter.com/pandemic_ai
+
+We need
+- Frontend developers (Javacript, Typescript with React Framework)
+- Backend developers (Python Flask) with data/web scrapping experience
+- UI developer
+- People who know how to create inforgraphics using Adoble Illustrators and Powerpoint
+- People who have the time to update the data in JSON files
+
 You can edit JSON files with this online editor https://json-csv.com/editor
 You can also convert JSON to CSV at https://json-csv.com. Then you can edit the file in Excel. Once you are done, you can convert the CSV back to JSON at https://json-csv.com/reverse
 
