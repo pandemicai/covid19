@@ -22,6 +22,8 @@ You can also convert JSON to CSV at https://json-csv.com. Then you can edit the 
 
 Try it.  https://raw.githubusercontent.com/pandemicai/covid19/master/json/covid19_live_update.json
 
+Use https://www.iban.com/country-codes to look up the two letter country code if you need to add a country.
+
 If you are a programmer, I recommend using Visual Code Studio as the editor. It is free. You can download a copy from here:
 https://code.visualstudio.com/
 
