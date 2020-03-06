@@ -17,10 +17,25 @@ We need
 - People who know how to create inforgraphics using Adoble Illustrators and Powerpoint
 - People who have the time to update the data in JSON files
 
-You can edit JSON files with this online editor https://json-csv.com/editor
-You can also convert JSON to CSV at https://json-csv.com. Then you can edit the file in Excel. Once you are done, you can convert the CSV back to JSON at https://json-csv.com/reverse
+You can edit the data in Google sheets
+
+Live Update:
+https://docs.google.com/spreadsheets/d/1yRGeLf5qUcKxq_zcv8K0zyDImNg6t7nAtgULHc-UyP4/
+
+Summary Report:
+https://docs.google.com/spreadsheets/d/1pg4CW6ipf5FwakLkwneqdbZxBsdSpr2UflrjrKGKHgA/
+
+Timeline:
+https://docs.google.com/spreadsheets/d/1g_1UqT2RPAnWjWylTco7edUxfQxHZu6gT2-fuCNPvaw/
+
+Please request access.
+
+You can also edit JSON files with this online editor https://json-csv.com/editor
+You can convert JSON to CSV at https://json-csv.com. Then you can edit the file in Excel. Once you are done, you can convert the CSV back to JSON at https://json-csv.com/reverse
 
 Try it.  https://raw.githubusercontent.com/pandemicai/covid19/master/json/covid19_live_update.json
+
+Use https://www.iban.com/country-codes to look up the two letter country code if you need to add a country.
 
 If you are a programmer, I recommend using Visual Code Studio as the editor. It is free. You can download a copy from here:
 https://code.visualstudio.com/
@@ -40,6 +55,3 @@ For timeline update,  use https://bnonews.com/index.php/2020/02/the-latest-coron
 
 For map update, use this as a template and create maps for your own country.
 https://www.google.com/maps/d/viewer?mid=1yCPR-ukAgE55sROnmBUFmtLN6riVLTu3
-
-
-
