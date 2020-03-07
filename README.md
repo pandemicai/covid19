@@ -22,9 +22,6 @@ You can edit the data in Google sheets
 Live Update:
 https://docs.google.com/spreadsheets/d/1yRGeLf5qUcKxq_zcv8K0zyDImNg6t7nAtgULHc-UyP4/
 
-Summary Report:
-https://docs.google.com/spreadsheets/d/1pg4CW6ipf5FwakLkwneqdbZxBsdSpr2UflrjrKGKHgA/
-
 Timeline:
 https://docs.google.com/spreadsheets/d/1g_1UqT2RPAnWjWylTco7edUxfQxHZu6gT2-fuCNPvaw/
 
