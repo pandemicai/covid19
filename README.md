@@ -12,6 +12,10 @@ https://twitter.com/pandemic_ai
 
 TODO List:
 - Add US Maps and details about cases/deaths in each state
+- Add UK Maps and case details
+- Add Maps and Case details for all affected countries
+- Add stock charts, heat maps, and tickers for all major sectors and stock market to track the impact of the coronavirus outbreak on the economy
+- Develop dashboard Web App to track the coronavirus outbreak in each country
 - Update timeline with details
 
 We need
