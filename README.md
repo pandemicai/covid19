@@ -17,6 +17,25 @@ We need
 - People who know how to create inforgraphics using Adoble Illustrators and Powerpoint
 - People who have the time to update the data in JSON files
 
+If you are new to git, please read this cheat sheet first.
+
+https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+https://rogerdudler.github.io/git-guide/
+
+If you are new to python, please complete this tutorial first
+
+https://docs.python.org/3/tutorial/
+
+If you are new the Javascript or Jquery, please complete those tutorials first
+
+https://javascript.info/
+
+https://learn.jquery.com/
+
+If you are new to Visual Studio Code, please complete this tutorial first
+
+https://flaviocopes.com/vscode/
+
 You can edit the data in Google sheets
 
 Live Update:
