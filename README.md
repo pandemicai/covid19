@@ -1,5 +1,7 @@
 # covid19
 
+Together We Can Make a Difference. Become a contributor today.
+
 Our discord server:
 https://discordapp.com/invite/d6vb5SP
 
