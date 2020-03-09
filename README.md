@@ -1,7 +1,7 @@
 # covid19
 
 Our discord server:
-https://discordapp.com/invite/FPQvNR
+https://discordapp.com/invite/d6vb5SP
 
 Our Websites:
 https://outbreak.cc
@@ -9,6 +9,10 @@ https://pandemic.ai
 
 Our Twitter
 https://twitter.com/pandemic_ai
+
+TODO List:
+- Add US Maps and details about cases/deaths in each state
+- Update timeline with details
 
 We need
 - Frontend developers (Javacript, Typescript with React Framework)
