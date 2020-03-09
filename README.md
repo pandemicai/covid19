@@ -15,10 +15,10 @@ https://twitter.com/pandemic_ai
 TODO List:
 - Add US Maps and details about cases/deaths in each state
 - Add UK Maps and case details
-- Add Maps and Case details for all affected countries
-- Add stock charts, heat maps, and tickers for all major sectors and stock market to track the impact of the coronavirus outbreak on the economy
-- Develop dashboard Web App to track the coronavirus outbreak in each country
 - Update timeline with details
+- Add Maps and Case details for all affected countries
+- Add charts, heat maps, and tickers for all major sectors and stock markets to track the impact of the coronavirus outbreak on the global economy
+- Develop dashboard Web app to track the coronavirus outbreak in each country
 
 We need
 - Frontend developers (Javacript, Typescript with React Framework)
@@ -26,37 +26,9 @@ We need
 - UI developer
 - People who know how to create inforgraphics using Adoble Illustrators and Powerpoint
 - People who have the time to update the data in JSON files
+- Peolpe who can help with fundraising
 
-If you are new to git, please read this cheat sheet first.
-
-https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
-https://rogerdudler.github.io/git-guide/
-
-If you are new to python, please complete this tutorial first
-
-https://docs.python.org/3/tutorial/
-
-If you are new the Javascript or Jquery, please complete those tutorials first
-
-https://javascript.info/
-
-https://learn.jquery.com/
-
-If you are new to Visual Studio Code, please complete this tutorial first
-
-https://flaviocopes.com/vscode/
-
-You can edit the data in Google sheets
-
-Live Update:
-https://docs.google.com/spreadsheets/d/1yRGeLf5qUcKxq_zcv8K0zyDImNg6t7nAtgULHc-UyP4/
-
-Timeline:
-https://docs.google.com/spreadsheets/d/1g_1UqT2RPAnWjWylTco7edUxfQxHZu6gT2-fuCNPvaw/
-
-Please request access.
-
-You can also edit JSON files with this online editor https://json-csv.com/editor
+You can edit JSON files with this online editor https://json-csv.com/editor
 You can convert JSON to CSV at https://json-csv.com. Then you can edit the file in Excel. Once you are done, you can convert the CSV back to JSON at https://json-csv.com/reverse
 
 Try it.  https://raw.githubusercontent.com/pandemicai/covid19/master/json/covid19_live_update.json
@@ -81,3 +53,23 @@ For timeline update,  use https://bnonews.com/index.php/2020/02/the-latest-coron
 
 For map update, use this as a template and create maps for your own country.
 https://www.google.com/maps/d/viewer?mid=1yCPR-ukAgE55sROnmBUFmtLN6riVLTu3
+
+If you are new to git, please read this cheat sheet first.
+
+https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+https://rogerdudler.github.io/git-guide/
+
+If you are new to python, please complete this tutorial first
+
+https://docs.python.org/3/tutorial/
+
+If you are new the Javascript or Jquery, please complete those tutorials first
+
+https://javascript.info/
+
+https://learn.jquery.com/
+
+If you are new to Visual Studio Code, please complete this tutorial first
+
+https://flaviocopes.com/vscode/
+
