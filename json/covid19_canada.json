@@ -1,18 +1,18 @@
 {
   "canada_cases": [
-    {"province": "Ontario", "img_url":"ON.png", "confirmed": "24", "resolved":"4", "under_investigation": "78", "tested": "1,566",
+    {"province": "Ontario", "img_url":"ON.png", "confirmed": "32", "resolved":"4", "under_investigation": "55", "tested": "2,178",
         "url": "https://www.ontario.ca/page/2019-novel-coronavirus#section-0"},
-    {"province": "British Columbia", "img_url":"BC.png", "confirmed": "21", "resolved":"4", "under_investigation": "", "tested": "1,012",
+    {"province": "British Columbia", "img_url":"BC.png", "confirmed": "27", "resolved":"4", "under_investigation": "", "tested": "2,008",
       "url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus"},
-    {"province": "Alberta", "img_url":"AB.png", "confirmed": "1 presumptive", "resolved": "", "under_investigation": "", "tested": "174",
+    {"province": "Alberta", "img_url":"AB.png", "confirmed": "4 presumptive", "resolved": "", "under_investigation": "", "tested": "379",
       "url": "https://www.alberta.ca/coronavirus-info-for-albertans.aspx"},
     {"province": "Saskatchewan", "img_url":"SK.png", "confirmed": "", "resolved": "", "under_investigation": "", "tested": "52",
         "url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus"},
     {"province": "Manitoba", "img_url":"MB.png", "confirmed": "", "resolved":"", "under_investigation": "", "tested": "97",
         "url": "https://www.gov.mb.ca/health/coronavirus/"},
-    {"province": "Quebec", "img_url":"QC.png", "confirmed": "3 (1 probable)", "resolved":"", "under_investigation": "20", "tested": "244",
+    {"province": "Quebec", "img_url":"QC.png", "confirmed": "4 (2 probable)", "resolved":"", "under_investigation": "10", "tested": "344",
         "url": "https://msss.gouv.qc.ca/professionnels/maladies-infectieuses/coronavirus-2019-ncov/#situation-au-quebec"},
-    {"province": "New Brunswick", "img_url":"NB.png", "confirmed": "", "resolved":"", "under_investigation": "", "tested": "4",
+    {"province": "New Brunswick", "img_url":"NB.png", "confirmed": "", "resolved":"", "under_investigation": "", "tested": "9",
       "url": "https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html"},
     {"province": "Nova Scotia", "img_url":"NS.png", "confirmed": "", "resolved":"", "under_investigation": "", "tested": "",
       "url": "https://novascotia.ca/coronavirus/"},
@@ -26,7 +26,7 @@
       "url": "https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19"},
     {"province": "Yukon", "img_url":"YT.png", "confirmed": "", "resolved":"", "under_investigation": "", "tested": "",
       "url": "https://yukon.ca/novel-coronavirus"},
-    {"province": "Canada", "img_url":"canada.png", "confirmed": "49 (2 presumptiive)", "resolved":"8", "under_investigation": "", "tested": "533",
+    {"province": "Canada", "img_url":"canada.png", "confirmed": "67 (6 presumptiive)", "resolved":"8", "under_investigation": "", "tested": "553",
         "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1"}
   ],
   "canada_case_details": [
