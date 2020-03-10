@@ -436,7 +436,7 @@
   {"country": "Paraguay", "country_fr": "Paraguay", "country_cn": "巴拉圭", "country_jp": "パラグアイ", "cities": "", "new": "0", "confirmed": "1", "suspected": "0", "death": "0", "death_new": "0",
     "active": "1", "cured": "0", "serious": "0", "url": "https://www.reuters.com/article/us-health-coronavirus-paraguay/paraguay-confirms-its-first-case-of-coronavirus-idUSKBN20U0TC",
     "time": "Mar 7", "new_24h": "", "death_new_24h": "", "source": "Reuters",
-    "country_code": "PE", "icon": "PE.png", "official_url": ""},
+    "country_code": "PY", "icon": "PY.png", "official_url": ""},
   {"country": "Sri Lanka", "country_fr": "Sri Lanka", "country_cn": "斯里兰卡", "country_jp": "スリランカ", "cities": "", "new": "0", "confirmed": "1", "suspected": "0", "death": "0", "death_new": "0",
       "active": "0", "cured": "1", "serious": "0", "url": "https://nationalpost.com/pmn/health-pmn/sri-lanka-confirms-first-case-of-coronavirus-health-official",
       "time": "", "new_24h": "", "death_new_24h": "", "source": "",
