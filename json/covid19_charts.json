@@ -905,7 +905,10 @@
    { "day": "3/7", "type": "Iran", "cases": 5823 },
    { "day": "3/8", "type": "South Korea", "cases": 7313 },
    { "day": "3/8", "type": "Italy", "cases": 7375 },
-   { "day": "3/8", "type": "Iran", "cases": 6566 }
+   { "day": "3/8", "type": "Iran", "cases": 6566 },
+   { "day": "3/9", "type": "South Korea", "cases": 7478 },
+   { "day": "3/9", "type": "Italy", "cases": 9172 },
+   { "day": "3/9", "type": "Iran", "cases": 7161 }
  ],
  "cases_by_country_by_day_group2":  [
    { "day": "2/15", "type": "Japan", "cases": 59 },
@@ -1020,9 +1023,14 @@
    { "day": "3/7", "type": "USA", "cases": 439 },
    { "day": "3/8", "type": "Japan", "cases": 494 },
    { "day": "3/8", "type": "France", "cases": 1126 },
-   { "day": "3/8", "type": "Germany", "cases": 1018 },
-   { "day": "3/8", "type": "Spain", "cases": 613 },
-   { "day": "3/8", "type": "USA", "cases": 468 }
+   { "day": "3/8", "type": "Germany", "cases": 1040 },
+   { "day": "3/8", "type": "Spain", "cases": 673 },
+   { "day": "3/8", "type": "USA", "cases": 544 },
+   { "day": "3/9", "type": "Japan", "cases": 521 },
+   { "day": "3/9", "type": "France", "cases": 1191 },
+   { "day": "3/9", "type": "Germany", "cases": 1151 },
+   { "day": "3/9", "type": "Spain", "cases": 1044 },
+   { "day": "3/9", "type": "USA", "cases": 599 }
  ],
   "market_by_day":  [
    { "day": "2/17", "type": "Confirmed", "value": 896 },
@@ -1056,21 +1064,26 @@
    { "day": "2/28", "type": "DOW", "value": 25409.36 },
    { "day": "2/28", "type": "NASDAQ", "value": 8567.37 },
    { "day": "2/29", "type": "Confirmed", "value": 6780 },
-   { "day": "3/1", "type": "Confirmed", "value": 8555 },
-   { "day": "3/2", "type": "Confirmed", "value": 10288 },
+   { "day": "3/1", "type": "Confirmed", "value": 8559 },
+   { "day": "3/2", "type": "Confirmed", "value": 10292 },
    { "day": "3/2", "type": "DOW", "value": 26703.32 },
    { "day": "3/2", "type": "NASDAQ", "value": 8952.17 },
-   { "day": "3/3", "type": "Confirmed", "value": 12742 },
+   { "day": "3/3", "type": "Confirmed", "value": 12746 },
    { "day": "3/3", "type": "DOW", "value": 25917.41 },
    { "day": "3/3", "type": "NASDAQ", "value": 8684.09 },
-   { "day": "3/4", "type": "Confirmed", "value": 14901 },
+   { "day": "3/4", "type": "Confirmed", "value": 14905 },
    { "day": "3/4", "type": "DOW", "value": 27090.86 },
    { "day": "3/4", "type": "NASDAQ", "value": 9018.09 },
-   { "day": "3/5", "type": "Confirmed", "value": 17867 },
+   { "day": "3/5", "type": "Confirmed", "value": 17873 },
    { "day": "3/5", "type": "DOW", "value": 26121.28 },
    { "day": "3/5", "type": "NASDAQ", "value": 8738.59 },
-   { "day": "3/6", "type": "Confirmed", "value": 21395 },
+   { "day": "3/6", "type": "Confirmed", "value": 21399 },
    { "day": "3/6", "type": "DOW", "value": 25864.78 },
-   { "day": "3/6", "type": "NASDAQ", "value": 8575.62 }
+   { "day": "3/6", "type": "NASDAQ", "value": 8575.62 },
+   { "day": "3/7", "type": "Confirmed", "value": 25404 },
+   { "day": "3/8", "type": "Confirmed", "value": 29256 },
+   { "day": "3/9", "type": "Confirmed", "value": 33306 },
+   { "day": "3/9", "type": "DOW", "value": 23851.02	},
+   { "day": "3/9", "type": "NASDAQ", "value": 7950.68	}
   ]
 }
