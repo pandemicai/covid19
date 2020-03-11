@@ -20,6 +20,26 @@ TODO List:
 - Add charts, heat maps, and tickers for all major sectors and stock markets to track the impact of the coronavirus outbreak on the global economy
 - Develop dashboard Web app to track the coronavirus outbreak in each country
 
+Software Projects:
+
+1) Develop a frontend that converts JSON data file into HTML table. 
+The frontend should allow user to add rows to the table, move rows up or down, and enter data in the fields.
+
+Tabulator library provides most of the needed funcitonalities.
+http://tabulator.info/examples/4.5#editable
+
+2) Dashboard Apps based on React framework
+Simialr to what they have in Hongkong and Singapore
+https://chp-dashboard.geodata.gov.hk/covid-19/en.html
+https://www.moh.gov.sg/covid-19
+
+3) Webscraping statistics for coronavirus cases and automate the process of data collection using Python or GO scripts.
+
+Data projects:
+1) Update Timeline with details
+2) Update Youtube Playlist per country
+3) Update "must read" section
+
 We need
 - Frontend developers (Javacript, Typescript with React Framework)
 - Backend developers (Python Flask) with data/web scrapping experience
