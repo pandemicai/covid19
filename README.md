@@ -16,9 +16,11 @@ TODO List:
 - Add US Maps and details about cases/deaths in each state
 - Add UK Maps and case details
 - Update timeline with details
-- Add Maps and Case details for all affected countries
+  (Automate this using GO or Python scripts with web scraping)
+- Add Maps and Case details for all affected countries (at least top 20 countries)
 - Add charts, heat maps, and tickers for all major sectors and stock markets to track the impact of the coronavirus outbreak on the global economy
-- Develop dashboard Web app to track the coronavirus outbreak in each country
+  (Automate this)
+- Develop dashboard Web app based on React framework to track the coronavirus outbreak in each country
 
 Software Projects:
 
@@ -37,8 +39,8 @@ https://www.moh.gov.sg/covid-19
 
 Data projects:
 1) Update Timeline with details
-2) Update Youtube Playlist per country
-3) Update "must read" section
+2) Update Youtube Playlist per country (This can be automated)
+3) Update "must read" section (This can be done through a Webform)
 
 We need
 - Frontend developers (Javacript, Typescript with React Framework)
