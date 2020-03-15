@@ -1,9 +1,45 @@
 {
  "timeline": [
-   {"Mar 11": [
-     {"time": "11:01 GMT", "icon": "IR.png", "title": "Iran's coronavirus death toll rises to 354", "source": "Reuters",
-      "detail": "Iran’s death toll from the coronavirus outbreak reached 354, a rise of 63 in the past 24 hours. Around 9,000 people were infected.",
-      "url": "https://www.reuters.com/article/us-health-coronavirus-iran/irans-coronavirus-death-toll-rises-to-354-ministry-idUSKBN20Y1G9"}
+   {"Mar 15": [
+    {"time": "16:51 GMT", "icon": "ES.png", "title": "The number of confirmed cases in Spain rised to 7,753 with 288 deaths", "source": "El Confidencial (in Spanish)",
+      "detail": "Prime Minister, Pedro Sánchez, declared state of emergency this Saturday after the increase in cases in the country. The number of confirmed cases rised to 7,753,. There is a significant rise in deaths in 24 hours, from 183 deaths yesterday to 288 people dead today.",
+      "url": "https://www.elconfidencial.com/espana/2020-03-15/ultima-hora-coronavirus-espana-fallecidos-estado-alarma_2487559/"},
+     {"time": "10:50 GMT", "icon": "IR.png", "title": "Iran's death toll from coronavirus reaches 724 and the number of infected people had reached 13,938", "source": "Reuters",
+      "detail": "Iran said on Sunday that the new coronavirus has killed 113 people in the past 24 hours, raising the country’s death toll to 724. The number of infected people had reached 13,938.",
+      "url": "https://www.reuters.com/article/us-health-coronavirus-iran/irans-death-toll-from-coronavirus-reaches-724-says-health-official-idUSKBN2120G0"},
+     {"time": "08:39 GMT", "icon": "NO.png", "title": "The Coronavirus is spreading in Norway with 1207 total confirmed cases and 96 new cases today", "source": "VG.NO",
+      "detail": "There are 1207 confirmed cases of infection in Norway. There are 96 new confirmed case today.",
+      "url": "https://www.vg.no/spesial/2020/corona-viruset/?utm_source=vgfront&utm_content=row-1"},
+    {"time": "08:36 GMT", "icon": "PH.png", "title": "COVID-19 cases in the Philippines jump to 140, death toll at 12", "source": "CNN Philippines",
+      "detail": "The Philippines reported 29 new patients with COVID-19 on Sunday, brings the total number of patients with the viral disease to 140. Among them is a 13-year-old girl from Quezon City, who is the youngest patient who tested positive for the disease in the country. Thirteen of the new cases had no known contact with a COVID-19 patient and had no travel history abroad, while three were confirmed to have been in contact with someone with the viral disease. Most of the COVID-19 patients live in Quezon City, with 22 of them residing in Metro Manila's biggest city. Fifteen patients take residence in San Juan City, while another 15 live in Makati City. There are four new deaths due to the disease: an 86-year-old American man from Marikina City, a 40-year-old Filipino from Pasig City and a 64-year-old man from Negros Oriental, and a 56-year-old Filipino man who was admitted to Makati Medical Center. The 64-year-old man was a town councilor in Negros Oriental. He had been to Greenhills Shopping Center in San Juan, which houses a prayer hall which was frequented by another COVID-19 patient who also died later on. Both the councilor, the American man, and the 56-year-old Filipino had preexisting conditions. The councilor had chronic renal disease and had a renal transplant in 2010, the other Filipino man was reported to have had asthma, while the American man had hypertension, diabetes and chronic artery disease. Also among the new deaths is a 40-year-old Filipino man from Pasig City who had not traveled abroad and had no known exposure to any COVID-19 patient.",
+      "url": "https://cnnphilippines.com/news/2020/3/15/Philippines-COVID-19-coronavirus-cases-deaths.html"},
+    {"time": "08:15 GMT", "icon": "AT.png", "title": "Austria reported 145 new confirmed cases, bringing its total confirmed cases to 860", "source": "Federal Ministry, Republic of Austria",
+      "detail": "Austria reported 145 new confirmed cases, bringing its total confirmed cases to 860",
+      "url": "https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html"},
+    {"time": "07:39 GMT", "icon": "KW.png", "title": "Kuwait confirms eight new coronavirus cases, total now 112", "source": "Alarabiya",
+      "detail": "Kuwait recorded eight new coronavirus cases within the past 24 hours, bringing the total to 112 in the country. Three of the new cases are associated with travel to the United Kingdom, three others came into contact with the three who traveled to the UK.  One of the cases recently arrived to France via the United Arab Emirates. The eighth case is associated with travel to the Islamic Republic of Iran. Meanwhile, nine people have recovered as of Sunday. Three people with preexisting conditions are in critical conditions in the intensive care unit (ICU).  Another person is also in the ICU but is in stable condition.",
+      "url": "http://english.alarabiya.net/en/News/gulf/2020/03/15/Kuwait-confirms-eight-new-coronavirus-cases-total-now-112-Spokesman.html"},
+    {"time": "07:00 GMT", "icon": "TH.png", "title": "Thailand reports 32 new coronavirus cases in biggest single-day rise", "source": "Bangkok Post",
+      "detail": "Thailand reported 32 new cases of the coronavirus on Sunday in the largest daily jump in infections since the outbreak began, bringing its total tally to 114. The new patients include 17 people infected at pubs and boxing stadiums, persons who were in contact with foreigners, and those who returned from overseas.",
+      "url": "https://www.bangkokpost.com/thailand/general/1879300/thailand-reports-32-new-coronavirus-cases-in-biggest-single-day-rise"},
+    {"time": "06:49 GMT", "icon": "ID.png", "title": "Indonesia reports 21 new coronavirus cases, total at 117", "source": "Reuters",
+      "detail": "Indonesia reported 21 new coronavirus infections, bringing the total number of confirmed cases to 117. Of the new cases, 19 were detected in Jakarta and two in the Central Java province.",
+      "url": "https://www.reuters.com/article/us-health-coronavirus-indonesia/indonesia-reports-21-new-coronavirus-cases-total-at-117-cnn-indonesia-idUSKBN212089"},
+    {"time": "06:00 GMT", "icon": "UZ.png", "title": "Uzbekistan confirms first coronavirus case", "source": "Reuters",
+      "detail": "An Uzbek citizen has tested positive for coronavirus after returning from France, marking the first infection from the virus in the Central Asian country of 34 million.",
+      "url": "https://www.reuters.com/article/health-coronavirus-uzbekistan/uzbekistan-confirms-first-coronavirus-case-govt-idUSL8N2B802F"},
+    {"time": "05:42 GMT", "icon": "AF.png", "title": "5 New Coronavirus Cases in Afghanistan", "source": "Tolo News",
+      "detail": "Five new positive coronavirus cases have been reported in Afghanistan. 4 in Herat and 1 in Daikund. The total positive cases in Afghanistan is now 16.",
+    "url": "https://tolonews.com/afghanistan/coronavirus-afghanistan-5-new-cases"},
+    {"time": "02:15 GMT", "icon": "MX.png", "title": "Mexican coronavirus tally increases to 41", "source": "Reuters",
+      "detail": "Mexico has registered a rise in the number of confirmed coronavirus cases to 41 from 26 a day earlier.",
+      "url": "https://www.reuters.com/article/us-health-coronavirus-mexico-cases/mexican-coronavirus-tally-increases-to-41-health-ministry-idUSKBN21201U"},
+    {"time": "02:00 GMT", "icon": "DE.png", "title": "1021 new cases and 2 new deaths in Germany. Total 5620 confirmed cases and 11 deaths", "source": "Berliner Morgenpost",
+      "detail": "1021 new cases and 2 new deaths have been reported in Germany, bringing the total number of confirmed cases to 5620 and total number of deaths to 11.",
+      "url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/"},
+    {"time": "01:16 GMT", "icon": "KR.png", "title": "South Korea reports 76 new coronavirus cases, total 8,162", "source": "CNA",
+      "detail": "South Korea on Sunday (Mar 15) reported 76 new coronavirus cases and three more deaths, a fall in new cases to double-digits for the first time in over three weeks. South Korea, which has the highest number of cases in Asia after China, now has a total to 8,162 confirmed infections and 75 deaths, the Korea Centers for Disease Control and Prevention said (KCDC).",
+      "url": "https://www.channelnewsasia.com/news/asia/coronavirus-covid-19-south-korea-cases-12539596"}
     ]}
   ]
 }
