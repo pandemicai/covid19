@@ -54,7 +54,8 @@
     { "day": "3/11", "confirmed": 126214 },
     { "day": "3/12", "confirmed": 134576 },
     { "day": "3/13", "confirmed": 145483 },
-    { "day": "3/14", "confirmed": 156621 }
+    { "day": "3/14", "confirmed": 156653 },
+    { "day": "3/15", "confirmed": 169577 }
   ],
   "confirmed_cases_in_china_by_day":  [
    { "day": "1/20", "confirmed": 291 },
@@ -152,7 +153,8 @@
    { "day": "3/11", "confirmed": 45421 },
    { "day": "3/12", "confirmed": 53763 },
    { "day": "3/13", "confirmed": 64659 },
-   { "day": "3/14", "confirmed": 75777 }
+   { "day": "3/14", "confirmed": 75809 },
+   { "day": "3/15", "confirmed": 88717 }
  ],
   "new_confirmed_cases_by_day":  [
    { "day": "1/20", "confirmed": 97 },
@@ -209,7 +211,8 @@
    { "day": "3/11", "confirmed": 7266 },
    { "day": "3/12", "confirmed": 8362 },
    { "day": "3/13", "confirmed": 10907 },
-   { "day": "3/14", "confirmed": 11138 }
+   { "day": "3/14", "confirmed": 11170 },
+   { "day": "3/15", "confirmed": 12924 }
  ],
  "new_confirmed_cases_outside_of_china_by_day":  [
    { "day": "1/21", "confirmed": 1 },
@@ -265,7 +268,8 @@
    { "day": "3/11", "confirmed": 7251 },
    { "day": "3/12", "confirmed": 8342 },
    { "day": "3/13", "confirmed": 10896 },
-   { "day": "3/14", "confirmed": 11118 }
+   { "day": "3/14", "confirmed": 11150 },
+   { "day": "3/15", "confirmed": 12908 }
  ],
   "suspected_cases_by_day":  [
    { "day": "1/20", "cases": 54 },
@@ -322,7 +326,8 @@
    { "day": "3/11", "cases": 253 },
    { "day": "3/12", "cases": 147 },
    { "day": "3/13", "cases": 115 },
-   { "day": "3/14", "cases": 113 }
+   { "day": "3/14", "cases": 113 },
+   { "day": "3/15", "cases": 134 }
  ],
  "china_recovered_by_day":  [
    { "day": "1/20", "cases": 25 },
@@ -420,7 +425,8 @@
    { "day": "3/11", "cases": 68307 },
    { "day": "3/12", "cases": 70383 },
    { "day": "3/13", "cases": 72607 },
-   { "day": "3/14", "cases": 75932 }
+   { "day": "3/14", "cases": 75932 },
+   { "day": "3/15", "cases": 77455 }
  ],
  "deaths_by_day":  [
    { "day": "1/20", "deaths": 6 },
@@ -477,7 +483,8 @@
    { "day": "3/11", "deaths": 4628 },
    { "day": "3/12", "deaths": 4981 },
    { "day": "3/13", "deaths": 5429 },
-   { "day": "3/14", "deaths": 5833 }
+   { "day": "3/14", "deaths": 5833 },
+   { "day": "3/15", "deaths": 6519 }
  ],
  "new_deaths_by_day":  [
    { "day": "1/20", "deaths": 2 },
@@ -534,7 +541,8 @@
    { "day": "3/11", "deaths": 332 },
    { "day": "3/12", "deaths": 353 },
    { "day": "3/13", "deaths": 448 },
-   { "day": "3/14", "deaths": 404 }
+   { "day": "3/14", "deaths": 404 },
+   { "day": "3/15", "deaths": 686 }
  ],
   "cases_by_day":  [
    { "day": "1/20", "type": "Confirmed", "cases": 295 },
@@ -751,10 +759,14 @@
    { "day": "3/13", "type": "Active",  "cases": 67447 },
    { "day": "3/13", "type": "Outside of China", "cases": 64659 },
    { "day": "3/13", "type": "Suspected", "cases": 115 },
-   { "day": "3/14", "type": "Confirmed", "cases": 156621 },
-   { "day": "3/14", "type": "Active",  "cases": 74856 },
-   { "day": "3/14", "type": "Outside of China", "cases": 75777 },
-   { "day": "3/14", "type": "Suspected", "cases": 113 }
+   { "day": "3/14", "type": "Confirmed", "cases": 156653 },
+   { "day": "3/14", "type": "Active",  "cases": 74888 },
+   { "day": "3/14", "type": "Outside of China", "cases": 75809 },
+   { "day": "3/14", "type": "Suspected", "cases": 113 },
+   { "day": "3/15", "type": "Confirmed", "cases": 169577 },
+   { "day": "3/15", "type": "Active",  "cases": 85603 },
+   { "day": "3/15", "type": "Outside of China", "cases": 88717 },
+   { "day": "3/15", "type": "Suspected", "cases": 134 }
  ],
  "cases_outside_of_china_by_day":  [
    { "day": "1/20", "type": "Confirmed", "cases": 4 },
@@ -893,9 +905,12 @@
    { "day": "3/13", "type": "Confirmed", "cases": 64659 },
    { "day": "3/13", "type": "New", "cases": 10896 },
    { "day": "3/13", "type": "New (China)", "cases": 11 },
-   { "day": "3/14", "type": "Confirmed", "cases": 75777 },
-   { "day": "3/14", "type": "New", "cases": 11118 },
-   { "day": "3/14", "type": "New (China)", "cases": 20 }
+   { "day": "3/14", "type": "Confirmed", "cases": 75809 },
+   { "day": "3/14", "type": "New", "cases": 11150 },
+   { "day": "3/14", "type": "New (China)", "cases": 20 },
+   { "day": "3/15", "type": "Confirmed", "cases": 88717 },
+   { "day": "3/15", "type": "New", "cases": 12908 },
+   { "day": "3/15", "type": "New (China)", "cases": 16 }
  ],
  "recovered_vs_deaths_by_day":  [
    { "day": "1/20", "type": "Death Toll", "cases": 6 },
@@ -1059,8 +1074,11 @@
    { "day": "3/13", "type": "Active",  "cases": 67447 },
    { "day": "3/13", "type": "Recovered", "cases": 72607 },
    { "day": "3/14", "type": "Death Toll", "cases": 5833 },
-   { "day": "3/14", "type": "Active",  "cases": 74856 },
-   { "day": "3/14", "type": "Recovered", "cases": 75932 }
+   { "day": "3/14", "type": "Active",  "cases": 74888 },
+   { "day": "3/14", "type": "Recovered", "cases": 75932 },
+   { "day": "3/15", "type": "Death Toll", "cases": 6519 },
+   { "day": "3/15", "type": "Active",  "cases": 85603 },
+   { "day": "3/15", "type": "Recovered", "cases": 77455 }
  ],
  "cases_by_country_by_day":  [
    { "day": "2/15", "type": "South Korea", "cases": 28 },
@@ -1194,12 +1212,17 @@
    { "day": "3/13", "type": "Iran", "cases": 11364 },
    { "day": "3/13", "type": "South Korea", "cases": 7979 },
    { "day": "3/13", "type": "Spain", "cases": 5201 },
-   { "day": "3/13", "type": "Germany", "cases": 3670 },
+   { "day": "3/13", "type": "Germany", "cases": 3675 },
    { "day": "3/14", "type": "Italy", "cases": 21157 },
    { "day": "3/14", "type": "Iran", "cases": 12729 },
    { "day": "3/14", "type": "South Korea", "cases": 8086 },
    { "day": "3/14", "type": "Spain", "cases": 6391 },
-   { "day": "3/14", "type": "Germany", "cases": 4585 }
+   { "day": "3/14", "type": "Germany", "cases": 4599 },
+   { "day": "3/15", "type": "Italy", "cases": 24747 },
+   { "day": "3/15", "type": "Iran", "cases": 13939 },
+   { "day": "3/15", "type": "South Korea", "cases": 8162 },
+   { "day": "3/15", "type": "Spain", "cases": 7988 },
+   { "day": "3/15", "type": "Germany", "cases": 5813 }
  ],
  "cases_by_country_by_day_group2":  [
    { "day": "2/15", "type": "France", "cases": 12 },
@@ -1257,17 +1280,17 @@
    { "day": "2/29", "type": "UK", "cases": 23 },
    { "day": "2/29", "type": "Norway", "cases": 15 },
    { "day": "3/1", "type": "France", "cases": 130 },
-   { "day": "3/1", "type": "USA", "cases": 79 },
+   { "day": "3/1", "type": "USA", "cases": 75 },
    { "day": "3/1", "type": "Switzerland", "cases": 24 },
    { "day": "3/1", "type": "UK", "cases": 36 },
    { "day": "3/1", "type": "Norway", "cases": 19 },
    { "day": "3/2", "type": "France", "cases": 191 },
-   { "day": "3/2", "type": "USA", "cases": 102 },
+   { "day": "3/2", "type": "USA", "cases": 100 },
    { "day": "3/2", "type": "Switzerland", "cases": 42 },
    { "day": "3/2", "type": "UK", "cases": 40 },
    { "day": "3/2", "type": "Norway", "cases": 24 },
    { "day": "3/3", "type": "France", "cases": 212 },
-   { "day": "3/3", "type": "USA", "cases": 122 },
+   { "day": "3/3", "type": "USA", "cases": 124 },
    { "day": "3/3", "type": "Switzerland", "cases": 57 },
    { "day": "3/3", "type": "UK", "cases": 51 },
    { "day": "3/3", "type": "Norway", "cases": 32 },
@@ -1277,55 +1300,60 @@
    { "day": "3/4", "type": "UK", "cases": 87 },
    { "day": "3/4", "type": "Norway", "cases": 63 },
    { "day": "3/5", "type": "France", "cases": 423 },
-   { "day": "3/5", "type": "USA", "cases": 228 },
+   { "day": "3/5", "type": "USA", "cases": 221 },
    { "day": "3/5", "type": "Switzerland", "cases": 112 },
    { "day": "3/5", "type": "UK", "cases": 115 },
    { "day": "3/5", "type": "Norway", "cases": 93 },
    { "day": "3/6", "type": "France", "cases": 653 },
-   { "day": "3/6", "type": "USA", "cases": 320 },
+   { "day": "3/6", "type": "USA", "cases": 319 },
    { "day": "3/6", "type": "Switzerland", "cases": 210 },
    { "day": "3/6", "type": "UK", "cases": 163 },
    { "day": "3/6", "type": "Norway", "cases": 130 },
    { "day": "3/7", "type": "France", "cases": 949 },
-   { "day": "3/7", "type": "USA", "cases": 439 },
+   { "day": "3/7", "type": "USA", "cases": 435 },
    { "day": "3/7", "type": "Switzerland", "cases": 264 },
    { "day": "3/7", "type": "UK", "cases": 209 },
    { "day": "3/7", "type": "Norway", "cases": 158 },
    { "day": "3/8", "type": "France", "cases": 1126 },
-   { "day": "3/8", "type": "USA", "cases": 544 },
+   { "day": "3/8", "type": "USA", "cases": 541 },
    { "day": "3/8", "type": "Switzerland", "cases": 332 },
    { "day": "3/8", "type": "UK", "cases": 278 },
    { "day": "3/8", "type": "Norway", "cases": 175 },
    { "day": "3/9", "type": "France", "cases": 1412 },
-   { "day": "3/9", "type": "USA", "cases": 684 },
+   { "day": "3/9", "type": "USA", "cases": 704 },
    { "day": "3/9", "type": "Switzerland", "cases": 374 },
    { "day": "3/9", "type": "UK", "cases": 319 },
    { "day": "3/9", "type": "Norway", "cases": 227 },
    { "day": "3/10", "type": "France", "cases": 1784 },
-   { "day": "3/10", "type": "USA", "cases": 1009 },
+   { "day": "3/10", "type": "USA", "cases": 994 },
    { "day": "3/10", "type": "Switzerland", "cases": 491 },
    { "day": "3/10", "type": "UK", "cases": 383 },
    { "day": "3/10", "type": "Denmark", "cases": 264 },
    { "day": "3/11", "type": "France", "cases": 2281 },
-   { "day": "3/11", "type": "USA", "cases": 1246 },
+   { "day": "3/11", "type": "USA", "cases": 1301 },
    { "day": "3/11", "type": "Switzerland", "cases": 645 },
    { "day": "3/11", "type": "UK", "cases": 460 },
    { "day": "3/11", "type": "Norway", "cases": 629 },
    { "day": "3/12", "type": "France", "cases": 2876 },
-   { "day": "3/12", "type": "USA", "cases": 1611 },
+   { "day": "3/12", "type": "USA", "cases": 1697 },
    { "day": "3/12", "type": "Switzerland", "cases": 858 },
    { "day": "3/12", "type": "UK", "cases": 590 },
    { "day": "3/12", "type": "Norway", "cases": 800 },
    { "day": "3/13", "type": "France", "cases": 3661 },
-   { "day": "3/13", "type": "USA", "cases": 2078 },
+   { "day": "3/13", "type": "USA", "cases": 2247 },
    { "day": "3/13", "type": "Switzerland", "cases": 1121 },
    { "day": "3/13", "type": "UK", "cases": 798 },
    { "day": "3/13", "type": "Norway", "cases": 996 },
    { "day": "3/14", "type": "France", "cases": 4499 },
-   { "day": "3/14", "type": "USA", "cases": 2752 },
+   { "day": "3/14", "type": "USA", "cases": 2943 },
    { "day": "3/14", "type": "Switzerland", "cases": 1359 },
    { "day": "3/14", "type": "UK", "cases": 1140 },
-   { "day": "3/14", "type": "Norway", "cases": 1108 }
+   { "day": "3/14", "type": "Norway", "cases": 1108 },
+   { "day": "3/15", "type": "France", "cases": 5423 },
+   { "day": "3/15", "type": "USA", "cases": 3680 },
+   { "day": "3/15", "type": "Switzerland", "cases": 2217 },
+   { "day": "3/15", "type": "UK", "cases": 1391 },
+   { "day": "3/15", "type": "Norway", "cases": 1256 }
  ],
  "cases_by_country_by_day_group3":  [
   { "day": "2/25", "type": "Sweden", "cases": 1 },
@@ -1418,7 +1446,12 @@
   { "day": "3/14", "type": "Netherlands", "cases": 959 },
   { "day": "3/14", "type": "Denmark", "cases": 836 },
   { "day": "3/14", "type": "Japan", "cases": 804 },
-  { "day": "3/14", "type": "Belgium", "cases": 692 }
+  { "day": "3/14", "type": "Belgium", "cases": 692 },
+  { "day": "3/15", "type": "Sweden", "cases": 1040 },
+  { "day": "3/15", "type": "Netherlands", "cases": 1135 },
+  { "day": "3/15", "type": "Denmark", "cases": 864 },
+  { "day": "3/15", "type": "Japan", "cases": 839 },
+  { "day": "3/15", "type": "Belgium", "cases": 886 }
 ],
 "cases_by_country_by_day_group4":  [
   { "day": "2/25", "type": "Austria", "cases": 2 },
@@ -1510,7 +1543,12 @@
   { "day": "3/14", "type": "Australia", "cases": 250 },
   { "day": "3/14", "type": "Qatar", "cases": 337 },
   { "day": "3/14", "type": "Canada", "cases": 193 },
-  { "day": "3/14", "type": "Greece", "cases": 228 }
+  { "day": "3/14", "type": "Greece", "cases": 228 },
+  { "day": "3/15", "type": "Austria", "cases": 860 },
+  { "day": "3/15", "type": "Australia", "cases": 300 },
+  { "day": "3/15", "type": "Qatar", "cases": 401 },
+  { "day": "3/15", "type": "Canada", "cases": 341 },
+  { "day": "3/15", "type": "Greece", "cases": 331 }
 ],
   "market_by_day":  [
    { "day": "2/17", "type": "New", "value": 115 },
@@ -1623,8 +1661,10 @@
    { "day": "3/13", "type": "NASDAQ", "value": 7874.88 },
    { "day": "3/13", "type": "TSX", "value": 13716.30	 },
    { "day": "3/13", "type": "BTC", "value": 5563.71	},
-   { "day": "3/14", "type": "New", "value": 11119 },
-   { "day": "3/14", "type": "BTC", "value": 5200.37	}
+   { "day": "3/14", "type": "New", "value": 11150 },
+   { "day": "3/14", "type": "BTC", "value": 5200.37	},
+   { "day": "3/15", "type": "New", "value": 12908 },
+   { "day": "3/15", "type": "BTC", "value": 5392.31 }
   ],
 "market_by_day_old":  [
   { "day": "2/17", "type": "Confirmed", "value": 896 },
