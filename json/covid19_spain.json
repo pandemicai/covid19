@@ -1,4 +1,28 @@
 {
+	"summary": {
+		"country": "Spain",
+		"country_fr": "Espagne",
+		"country_cn": "西班牙",
+		"country_jp": "スペイン",
+		"url": "https://www.rtve.es/noticias/20200315/mapa-del-coronavirus-espana/2004681.shtml",
+		"source": "RTVE.ES (in Spanish)",
+		"country_code": "ES",
+		"icon": "ES.png",
+		"official_url": "https://elpais.com/sociedad/2020-03-04/ultimas-noticias-del-coronavirus-en-directo.html",
+		"new": "0",
+		"confirmed": "65719",
+		"suspected": "0",
+		"death": "5138",
+		"death_new": "0",
+		"active": "51224",
+		"cured": "9357",
+		"serious": "4165",
+		"time": "Mar 28",
+		"new_24h": "0",
+		"death_new_24h": "0",
+		"population": "46754778",
+		"cities": ""
+	},
 	"day": [
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
 		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
