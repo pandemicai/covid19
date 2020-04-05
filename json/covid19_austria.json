@@ -1,0 +1,165 @@
+{
+	"summary": {
+		"country": "Austria",
+		"country_fr": "L'Autriche",
+		"country_cn": "奥地利",
+		"country_jp": "オーストリア",
+		"url": "https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html",
+		"source": "Federal Ministry (in German)",
+		"country_code": "AT",
+		"icon": "AT.png",
+		"official_url": "https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html",
+		"new": "0",
+		"confirmed": "10180",
+		"suspected": "0",
+		"death": "128",
+		"death_new": "0",
+		"active": "8957",
+		"cured": "1095",
+		"serious": "198",
+		"time": "Apr 01",
+		"new_24h": "0",
+		"death_new_24h": "0",
+		"population": "9006398",
+		"cities": ""
+	},
+	"day": [
+		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
+		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
+		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31",
+		"4/1", "4/2", "4/3", "4/4"
+	],
+	"confirmed_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,2,2,5,7,10,14,18,24,29,43,66,81,104,131,182,246,361,504,655,860,1018,1332,1646,2179,2649,2992,3582,4474,
+		5283,5588,6909,7697,8271,8788,9618,10180,10711,11129,11524,11781
+	],
+	"new_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,4,4,6,5,14,23,15,23,27,51,64,115,143,151,205,158,314,314,533,470,343,590,892,809,305,1321,788,
+		574,517,830,562,531,418,395,257
+	],
+	"active_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,2,2,5,7,10,14,18,24,29,41,64,79,102,129,178,242,356,497,648,853,1007,1319,1633,2164,2634,2975,3557,4444,
+		5246,5548,6748,7414,7978,8223,8874,8957,9129,9222,9334,9088
+	],
+	"deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,4,4,6,6,8,16,21,28,31,49,58,68,86,108,128,146,158,168,186
+	],
+	"new_deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,2,0,2,8,5,7,3,18,9,10,18,22,20,18,12,10,18
+	],
+	"new_recoveries_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,2,0,0,2,1,0,0,0,0,0,0,0,0,103,113,0,254,157,459,341,313,273,485
+	],
+	"youtube_playlist": [
+		{"vid": "zjDvO0xAfZ0", "title": "Tirol eröffnet 2. Screening-Station", "source": "OE24.TV"},
+		{"vid": "_kU4oCmRFTw", "title": "Das Coronavirus Kindern einfach erklärt", "source": "Stadt Wien"},
+		{"vid": "stahS9Kgq1A", "title": "Cuantiosas multas en Austria por no respetar las medidas contra el coronavrirus", "source": "Euro News"},
+		{"vid": "BbRUc7cru4Y", "title": "(Austria) Die wahrscheinlich wichtigste Abbildung der Coronavirus Epidemie", "source": "Medmastery"}
+	],
+	"map_data": [
+		{
+			"id": "AT-1",
+			"name:": "Burgenland",
+			"value": 224,
+			"death": 3
+		},
+		{
+			"id": "AT-2",
+			"name:": "Carinthia",
+			"value": 310,
+			"death": 3
+		},
+		{
+			"id": "AT-3",
+			"name:": "Lower Austria",
+			"value": 1863,
+			"death": 31
+		},
+		{
+			"id": "AT-4",
+			"name:": "Upper Austria",
+			"value": 1916,
+			"death": 18
+		},
+		{
+			"id": "AT-5",
+			"name:": "Salzburg",
+			"value": 1068,
+			"death": 12
+		},
+		{
+			"id": "AT-6",
+			"name:": "Styria",
+			"value": 1285,
+			"death": 47
+		},
+		{
+			"id": "AT-7",
+			"name:": "Tyrol",
+			"value": 2690,
+			"death": 31
+		},
+		{
+			"id": "AT-8",
+			"name:": "Vorarlberg",
+			"value": 722,
+			"death": 4
+		},
+		{
+			"id": "AT-9",
+			"name:": "Vienna",
+			"value": 1689,
+			"death": 37
+		}
+	],
+	"menu": [
+		{
+			"url": "#austria-covid19-summary",
+			"section": "Austria Covid-19 Summary"
+		},
+		{
+			"url": "#austria-covid-19-map",
+			"section": "Austria Covid-19 Map"
+		},
+		{
+			"url": "#austria-charts",
+			"section": "Charts"
+		},
+		{
+			"url": "#youtube-playlist",
+			"section": "Youtube Playlist"
+		},
+		{
+			"url": "index.html#outbreak-summary-reports",
+			"section": "Global Summary Report"
+		},
+		{
+			"url": "index.html#outbreak-map",
+			"section": "Global Interactive Map"
+		},
+		{
+			"url": "index.html#live-update",
+			"section": "Global Live Updates"
+		},
+		{
+			"url": "index.html#outbreak-charts",
+			"section": "Global Outbreak Charts"
+		},
+		{
+			"url": "index.html#timeline",
+			"section": "Global Timeline"
+		},
+		{
+			"url": "index.html#must-read",
+			"section": "Must Read"
+		},
+		{
+			"url": "index.html#outbreak-comparisons",
+			"section": "Outbreak Comparisons"
+		},
+		{
+			"url": "index.html#youtube-playlist",
+			"section": "Global Youtube Playlist"
+		}
+	]
+}

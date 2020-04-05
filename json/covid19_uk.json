@@ -1,0 +1,108 @@
+{
+	"summary": {
+		"country": "United Kingdom",
+		"country_fr": "Royaume-Uni",
+		"country_cn": "英国",
+		"country_jp": "イギリス",
+		"url": "https://www.bbc.com/news/uk-51768274",
+		"source": "BBC",
+		"country_code": "GB",
+		"icon": "GB.png",
+		"official_url": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public",
+		"new": "0",
+		"confirmed": "25150",
+		"suspected": "0",
+		"death": "1789",
+		"death_new": "0",
+		"active": "23226",
+		"cured": "135",
+		"serious": "163",
+		"time": "Apr 01",
+		"new_24h": "0",
+		"death_new_24h": "0",
+		"population": "67886011",
+		"cities": ""
+	},
+	"day": [
+		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
+		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
+		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31"
+	],
+	"confirmed_cases_by_day": [
+		9,9,9,9,9,9,9,9,13,13,13,13,16,20,23,36,39,51,87,116,164,209,278,321,383,460,590,798,1140,1391,1543,1950,2626,3269,3983,
+		5018,5683,6650,8077,9529,11658,14543,17089,19522,22141,25150
+	],
+	"new_cases_by_day": [
+		0,0,0,0,0,0,0,0,4,0,0,0,3,4,3,13,3,12,36,29,48,45,69,43,62,77,130,208,342,251,152,407,676,643,714,1035,665,967,1427,
+		1452,2129,2885,2546,2433,2619,3009
+	],
+	"active_cases_by_day": [
+		1,1,1,1,1,1,1,1,5,5,5,5,8,12,15,28,31,43,79,97,144,189,257,298,359,434,562,769,1101,1336,1436,1814,2457,3060,3741,4692,
+		5309,6180,7520,8931,10945,13649,15935,18159,20598,23226
+	],
+	"deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,5,6,8,10,11,21,35,55,71,104,144,177,233,281,335,422,463,578,759,1019,1228,1408,1789
+	],
+	"new_deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1,2,2,1,10,14,20,16,33,40,33,56,48,54,87,41,115,181,260,209,180,381
+	],
+	"new_recoveries_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,2,32,13,0,0,0,28,0,42,0,0,0,0,0,0,0,0
+	],
+	"youtube_playlist": [
+		{"vid": "W58TDx-zAIY", "title": "33,000 new UK hospital beds for coronavirus patients", "source": "BBC News"},
+		{"vid": "sel-w2DBxpA", "title": "Coronavirus: UK government unveils aid for self-employed", "source": "BBC"},
+		{"vid": "FrOyJMgC1rY", "title": "Coronavirus: UK deaths rise by 185 to 769", "source": "Sky News"},
+		{"vid": "mc6OVmNnPJo", "title": "Coronavirus: How can we improve NHS support?", "source": "BBC"}
+	],
+	"menu": [
+		{
+			"url": "#uk-covid19-summary",
+			"section": "UK Covid-19 Summary"
+		},
+		{
+			"url": "#uk-covid-19-map",
+			"section": "UK Covid-19 Map"
+		},
+		{
+			"url": "#uk-charts",
+			"section": "Charts"
+		},
+		{
+			"url": "#youtube-playlist",
+			"section": "Youtube Playlist"
+		},
+		{
+			"url": "index.html#outbreak-summary-reports",
+			"section": "Global Summary Report"
+		},
+		{
+			"url": "index.html#outbreak-map",
+			"section": "Global Interactive Map"
+		},
+		{
+			"url": "index.html#live-update",
+			"section": "Global Live Updates"
+		},
+		{
+			"url": "index.html#outbreak-charts",
+			"section": "Global Outbreak Charts"
+		},
+		{
+			"url": "index.html#timeline",
+			"section": "Global Timeline"
+		},
+		{
+			"url": "index.html#must-read",
+			"section": "Must Read"
+		},
+		{
+			"url": "index.html#outbreak-comparisons",
+			"section": "Outbreak Comparisons"
+		},
+		{
+			"url": "index.html#youtube-playlist",
+			"section": "Global Youtube Playlist"
+		}
+	]
+}

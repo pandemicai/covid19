@@ -1,0 +1,85 @@
+{
+	"day": [
+		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
+		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
+		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28","3/29", "3/30", "3/31","4/1"
+	],
+	"confirmed_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,10,18,23,38,82,128,188,265,321,382,503,614,804,959,1135,1413,1705,2051,2460,2994,3631,4204,
+		4749,5560,6412,7431,8603,9762,10866,11750,12595,13614
+	],
+	"new_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,8,5,15,44,46,60,77,56,61,121,111,190,155,176,278,292,346,409,534,637,573,545,811,852,1019,
+		1172,1159,1104,884,845,1019
+	],
+	"active_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,10,18,23,38,82,127,187,262,317,378,498,607,792,945,1113,1387,1660,1991,2382,2886,3493,4023,
+		4534,5282,6053,6994,8054,9120,9845,10636,11306,12191
+	],
+	"deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,4,5,5,10,12,20,24,43,58,76,106,136,179,213,276,356,434,546,639,771,864,1039,1173
+	],
+	"new_deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,1,0,5,2,8,4,19,15,18,30,30,43,34,63,80,78,112,93,132,93,175,134
+	],
+	"new_recoveries_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,8,5,15,44,46,60,77,56,61,121,111,190,155,176,278,292,346,409,534,637,573,545,811,852,1019,1172,
+		1159,1104,884,845,1019
+	],
+	"youtube_playlist": [
+		{"vid": "ozmh40wwAGc", "title": "The Netherlands Is Letting People Get Sick to Beat Coronavirus", "source": "VICE News"},
+		{"vid": "Fw_j07m-l1Y", "title": "Coronavirus In The Netheherlands Reizen Met De Tram (traveling by tram)", "source": "Dutchies to be - Learn Dutch with Kim"},
+		{"vid": "ejqgMGXmjjE", "title": "Utrecht City Amid Corona Virus Lockdown", "source": "anderlust Travel Videos"},
+		{"vid": "nntDwnBqbSI", "title": "Netherlands: Locals comment on COVID-19 outbreak as govt introduces new measures", "source": "Ruptly"}
+	],
+	"menu": [
+		{
+			"url": "#netherlands-covid19-summary",
+			"section": "Netherlands Covid-19 Summary"
+		},
+		{
+			"url": "#netherlands-covid-19-map",
+			"section": "Netherlands Covid-19 Map"
+		},
+		{
+			"url": "#netherlands-charts",
+			"section": "Charts"
+		},
+		{
+			"url": "#youtube-playlist",
+			"section": "Youtube Playlist"
+		},
+		{
+			"url": "index.html#outbreak-summary-reports",
+			"section": "Global Summary Report"
+		},
+		{
+			"url": "index.html#outbreak-map",
+			"section": "Global Interactive Map"
+		},
+		{
+			"url": "index.html#live-update",
+			"section": "Global Live Updates"
+		},
+		{
+			"url": "index.html#outbreak-charts",
+			"section": "Global Outbreak Charts"
+		},
+		{
+			"url": "index.html#timeline",
+			"section": "Global Timeline"
+		},
+		{
+			"url": "index.html#must-read",
+			"section": "Must Read"
+		},
+		{
+			"url": "index.html#outbreak-comparisons",
+			"section": "Outbreak Comparisons"
+		},
+		{
+			"url": "index.html#youtube-playlist",
+			"section": "Global Youtube Playlist"
+		}
+	]
+}

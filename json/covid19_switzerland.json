@@ -1,0 +1,212 @@
+{
+	"day": [
+		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
+		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
+		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31", "4/1"
+	],
+	"confirmed_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,1,1,8,15,19,24,30,58,93,120,214,268,332,374,497,652,868,1139,1375,2217,2353,2742,3115,4222,5615,6863,7474,8795,9877,
+		10897,11811,12928,14076,14829,15922,16605,17768
+	],
+	"new_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,7,7,4,5,6,28,35,27,94,54,64,42,123,155,216,271,236,842,136,389,373,1107,1393,1248,611,1321,1082,1020,914,1117,
+		1148,753,1093,683,1163
+	],
+	"active_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,1,1,8,15,19,23,29,56,90,116,210,264,327,369,491,644,857,1124,1358,2199,2330,2700,3067,4164,5544,6652,7245,8544,9624,
+		10613,11488,11167,12282,12934,13740,14349,14313
+	],
+	"deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,3,4,7,11,13,14,19,27,33,43,56,80,98,120,122,153,192,231,264,300,359,433,488
+	],
+	"new_deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,3,4,2,1,5,8,6,10,13,24,18,22,2,31,39,39,33,36,59,74,55
+	],
+	"new_recoveries_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,11,0,0,0,116,0,0,0,0,0,1399,0,65,228,0,1144
+	],
+	"youtube_playlist": [
+		{"vid": "HeJiAYwhUcE", "title": "Coronavirus latest in Switzerland: How to stay sane in times of crisis", "source": "CNNMoney Switzerland"},
+		{"vid": "ZKIR7DxFD-8", "title": "Inside a Swiss Hospital Dealing With the Cornavirus Pandemic", "source": "Journeyman Pictures"},
+		{"vid": "zCff1U0yRqE", "title": "Coronavirus latest: Calculating the cost to Switzerland", "source": "CNNMoney Switzerlan"},
+		{"vid": "l1xrBt6c5-4", "title": "Coronavirus: first Lockdown Weekend in Basel, Switzerland", "source": "FlySensation"}
+	],
+	"map_data": [
+		{
+			"id": "CH-AG",
+			"name:": "Aargau",
+			"value": 362
+		},
+		{
+			"id": "CH-AI",
+			"name:": "Appenzell Inner-Rhoden",
+			"value": 12
+		},
+		{
+			"id": "CH-AR",
+			"name:": "Appenzell Ausser-Rhoden",
+			"value": 767
+		},
+		{
+			"id": "CH-BL",
+			"name:": "Basel-Landschaft",
+			"value": 502
+		},
+		{
+			"id": "CH-BE",
+			"name:": "Bern",
+			"value": 574
+		},
+		{
+			"id": "CH-FR",
+			"name:": "Fribourg",
+			"value": 369
+		},
+		{
+			"id": "CH-GE",
+			"name:": "GenÃ¨ve",
+			"value": 1743
+		},
+		{
+			"id": "CH-GL",
+			"name:": "Glarus",
+			"value": 43
+		},
+		{
+			"id": "CH-GR",
+			"name:": "GraubÃ¼nden",
+			"value": 373
+		},
+		{
+			"id": "CH-JU",
+			"name:": "Jura",
+			"value": 1497,
+			"death": 83
+		},
+		{
+			"id": "CH-LU",
+			"name:": "Luzern",
+			"value": 253
+		},
+		{
+			"id": "CH-NE",
+			"name:": "NeuchÃ¢tel",
+			"value": 271
+		},
+		{
+			"id": "CH-NW",
+			"name:": "Nidwalden",
+			"value": 44
+		},
+		{
+			"id": "CH-OW",
+			"name:": "Obwalden",
+			"value": 27
+		},
+		{
+			"id": "CH-SG",
+			"name:": "Sankt Gallen",
+			"value": 280
+		},
+		{
+			"id": "CH-SH",
+			"name:": "Schaffhausen",
+			"value": 35
+		},
+		{
+			"id": "CH-SO",
+			"name:": "Solothurn",
+			"value": 141
+		},
+		{
+			"id": "CH-SZ",
+			"name:": "Schwyz",
+			"value": 99
+		},
+		{
+			"id": "CH-TG",
+			"name:": "Thurgau",
+			"value": 110
+		},
+		{
+			"id": "CH-TI",
+			"name:": "Ticino",
+			"value": 1401
+		},
+		{
+			"id": "CH-UR",
+			"name:": "Uri",
+			"value": 38
+		},
+		{
+			"id": "CH-VD",
+			"name:": "Vaud",
+			"value": 2351
+		},
+		{
+			"id": "CH-VS",
+			"name:": "Valais",
+			"value":651
+		},
+		{
+			"id": "CH-ZG",
+			"name:": "Zug",
+			"value": 87
+		},
+		{
+			"id": "CH-ZH",
+			"name:": "ZÃ¼rich",
+			"value": 1496
+		}
+	],
+	"menu": [
+		{
+			"url": "#switzerland-covid19-summary",
+			"section": "Switzerland Covid-19 Summary"
+		},
+		{
+			"url": "#switzerland-covid-19-map",
+			"section": "Switzerland Covid-19 Map"
+		},
+		{
+			"url": "#switzerland-charts",
+			"section": "Charts"
+		},
+		{
+			"url": "#youtube-playlist",
+			"section": "Youtube Playlist"
+		},
+		{
+			"url": "index.html#outbreak-summary-reports",
+			"section": "Global Summary Report"
+		},
+		{
+			"url": "index.html#outbreak-map",
+			"section": "Global Interactive Map"
+		},
+		{
+			"url": "index.html#live-update",
+			"section": "Global Live Updates"
+		},
+		{
+			"url": "index.html#outbreak-charts",
+			"section": "Global Outbreak Charts"
+		},
+		{
+			"url": "index.html#timeline",
+			"section": "Global Timeline"
+		},
+		{
+			"url": "index.html#must-read",
+			"section": "Must Read"
+		},
+		{
+			"url": "index.html#outbreak-comparisons",
+			"section": "Outbreak Comparisons"
+		},
+		{
+			"url": "index.html#youtube-playlist",
+			"section": "Global Youtube Playlist"
+		}
+	]
+}

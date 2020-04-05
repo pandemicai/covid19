@@ -1,0 +1,108 @@
+{
+	"summary": {
+		"country": "Sweden",
+		"country_fr": "Suède",
+		"country_cn": "瑞典",
+		"country_jp": "スウェーデン",
+		"url": "https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/",
+		"source": "Public Health of Sweden",
+		"country_code": "SE",
+		"icon": "SE.png",
+		"official_url": "https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/",
+		"new": "0",
+		"confirmed": "4435",
+		"suspected": "0",
+		"death": "180",
+		"death_new": "0",
+		"active": "4239",
+		"cured": "16",
+		"serious": "358",
+		"time": "Apr 01",
+		"new_24h": "0",
+		"death_new_24h": "0",
+		"population": "10099265",
+		"cities": ""
+	},
+	"day": [
+		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
+		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
+		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31"
+	],
+	"confirmed_cases_by_day": [
+		1,1,1,1,1,1,1,1,1,1,1,2,7,11,13,14,15,30,52,94,137,161,203,260,355,500,687,814,961,1040,1121,1196,1301,1439,1639,1770,
+		1934,2046,2299,2526,2840,3069,3447,3700,4028,4435
+	],
+	"new_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,1,5,4,2,1,1,15,22,42,43,24,42,57,95,145,187,127,147,79,81,75,105,138,200,131,164,112,253,227,
+		314,229,378,253,328,407
+	],
+	"active_cases_by_day": [
+		1,1,1,1,1,1,1,1,1,1,1,2,7,11,13,14,15,29,51,93,136,160,202,259,354,498,685,812,958,1036,1113,1187,1276,1412,1607,1734,
+		1897,2003,2243,2448,2747,2948,3326,3574,3866,4239
+	],
+	"deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7,8,10,11,16,20,21,27,40,62,77,105,105,110,146,180
+	],
+	"new_deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,1,2,1,5,4,1,6,13,22,15,28,0,5,36,34
+	],
+	"new_recoveries_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0
+	],
+	"youtube_playlist": [
+		{"vid": "WGA2TJoBRL0", "title": "Coronavirus pandemic in Germany", "source": "Source: TRT World"},
+		{"vid": "aAGm1M96VnM", "title": "COVID 19 Germany sees low fatalities despite high infection rate of coronavirus", "source": "Al Jazeera English"},
+		{"vid": "1rySNbECcQQ", "title": "Coronavirus: German parliament approves massive aid package", "source": "DW News"},
+		{"vid": "bLfriUWYlQE", "title": "Coronavirus in Germany", "source": "DW Documentary"}
+	],
+	"menu": [
+		{
+			"url": "#sweden-covid19-summary",
+			"section": "Sweden Covid-19 Summary"
+		},
+		{
+			"url": "#sweden-covid-19-map",
+			"section": "Sweden Covid-19 Map"
+		},
+		{
+			"url": "#sweden-charts",
+			"section": "Charts"
+		},
+		{
+			"url": "#youtube-playlist",
+			"section": "Sweden Youtube Playlist"
+		},
+		{
+			"url": "index.html#outbreak-summary-reports",
+			"section": "Global Summary Report"
+		},
+		{
+			"url": "index.html#outbreak-map",
+			"section": "Global Interactive Map"
+		},
+		{
+			"url": "index.html#live-update",
+			"section": "Global Live Updates"
+		},
+		{
+			"url": "index.html#outbreak-charts",
+			"section": "Global Outbreak Charts"
+		},
+		{
+			"url": "index.html#timeline",
+			"section": "Global Timeline"
+		},
+		{
+			"url": "index.html#must-read",
+			"section": "Must Read"
+		},
+		{
+			"url": "index.html#outbreak-comparisons",
+			"section": "Outbreak Comparisons"
+		},
+		{
+			"url": "index.html#youtube-playlist",
+			"section": "Global Youtube Playlist"
+		}
+	]
+}
