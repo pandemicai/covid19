@@ -2,11 +2,10 @@
 
 Together We Can Make a Difference. Become a contributor today.
 
-Our discord server:
-https://discordapp.com/invite/d6vb5SP
-
 Our Websites:
+
 https://outbreak.cc
+
 https://pandemic.ai
 
 Our Twitter
