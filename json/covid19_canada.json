@@ -82,25 +82,25 @@
 			"province": "Alberta",
 			"id": "CA-AB",
 			"img_url": "AB.png",
-			"confirmed": "1451",
-			"new": "",
+			"confirmed": "1500",
+			"new": "49",
 			"probable": "",
-			"death": "32",
-			"death_new": "",
-			"hospitalization": "47",
-			"icu": "14",
+			"death": "39",
+			"death_new": "7",
+			"hospitalization": "48",
+			"icu": "13",
 			"ventilator": "",
-			"resolved": "592",
+			"resolved": "713",
 			"under_investigation": "",
-			"tested": "70247",
+			"tested": "70080",
 			"male": "",
 			"female": "",
 			"age_group": "",
 			"age_group_death": "",
 			"population": "4413146",
 			"twitter_url": "https://twitter.com/GoAHealth",
-			"url": "https://globalnews.ca/news/6801336/alberta-health-covid-19-coronavirus-april-9/",
-			"death_url": "https://globalnews.ca/news/6801336/alberta-health-covid-19-coronavirus-april-9/",
+			"url": "https://globalnews.ca/news/6804999/alberta-health-covid-19-coronavirus-april-10/",
+			"death_url": "https://globalnews.ca/news/6804999/alberta-health-covid-19-coronavirus-april-10/",
 			"official_url": "https://www.alberta.ca/coronavirus-info-for-albertans.aspx",
 			"yesterday": {
 				"date": "Apr 9",
@@ -121,15 +121,15 @@
 			"province": "British Columbia",
 			"id": "CA-BC",
 			"img_url": "BC.png",
-			"confirmed": "1370",
-			"new": "",
+			"confirmed": "1410",
+			"new": "40",
 			"probable": "",
-			"death": "50",
-			"death_new": "",
-			"hospitalization": "132",
-			"icu": "68",
+			"death": "55",
+			"death_new": "5",
+			"hospitalization": "128",
+			"icu": "65",
 			"ventilator": "",
-			"resolved": "838",
+			"resolved": "879",
 			"under_investigation": "",
 			"tested": "53505",
 			"male": "",
@@ -138,8 +138,8 @@
 			"age_group_death": "",
 			"population": "5110917",
 			"twitter_url": "https://twitter.com/PHSAofBC",
-			"url": "https://globalnews.ca/news/6800965/bc-coronavirus-update-april-9/",
-			"death_url": "https://globalnews.ca/news/6800965/bc-coronavirus-update-april-9/",
+			"url": "https://globalnews.ca/news/6806265/bc-coronavirus-update-april-10/",
+			"death_url": "https://globalnews.ca/news/6806265/bc-coronavirus-update-april-10/",
 			"official_url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus",
 			"yesterday": {
 				"date": "Apr 9",
@@ -204,24 +204,24 @@
 			"province": "Saskatchewan",
 			"id": "CA-SK",
 			"img_url": "SK.png",
-			"confirmed": "278",
-			"new": "",
+			"confirmed": "285",
+			"new": "7",
 			"probable": "",
 			"death": "3",
 			"death_new": "",
 			"hospitalization": "8",
 			"icu": "2",
 			"ventilator": "",
-			"resolved": "115",
+			"resolved": "136",
 			"under_investigation": "",
-			"tested": "16672",
+			"tested": "17634",
 			"male": "",
 			"female": "",
 			"age_group": "",
 			"age_group_death": "",
 			"population": "1181666",
 			"twitter_url": "",
-			"url": "https://globalnews.ca/news/6801972/coronavirus-saskatchewan-covid-19-april-9/",
+			"url": "https://globalnews.ca/news/6805174/coronavirus-saskatchewan-covid-19-april-10/",
 			"death_url": "https://globalnews.ca/news/6785150/coronavirus-saskatchewan-covid-19-april-6/",
 			"official_url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus",
 			"yesterday": {
@@ -282,25 +282,25 @@
 			"province": "Manitoba",
 			"id": "CA-MB",
 			"img_url": "MB.png",
-			"confirmed": "224",
-			"new": "",
-			"probable": "17",
-			"death": "",
-			"death_new": "",
-			"hospitalization": "11",
+			"confirmed": "230",
+			"new": "6",
+			"probable": "15",
+			"death": "4",
+			"death_new": "1",
+			"hospitalization": "10",
 			"icu": "5",
 			"ventilator": "",
-			"resolved": "76",
+			"resolved": "92",
 			"under_investigation": "",
-			"tested": "15259",
+			"tested": "16220",
 			"male": "",
 			"female": "",
 			"age_group": "",
 			"age_group_death": "",
 			"population": "1377517",
 			"twitter_url": "https://twitter.com/MBGov",
-			"url": "https://globalnews.ca/news/6799148/manitoba-health-officials-to-give-coronavirus-update-thursday/",
-			"death_url": "https://globalnews.ca/news/6788166/tuesday-coronavirus-update-from-manitoba-health-officials/",
+			"url": "https://globalnews.ca/news/6805048/manitoba-covid-19-update-april-10/",
+			"death_url": "https://globalnews.ca/news/6805048/manitoba-covid-19-update-april-10/",
 			"official_url": "https://www.gov.mb.ca/health/coronavirus/",
 			"yesterday": {
 				"date": "Apr 9",
@@ -2305,6 +2305,10 @@
 		{
 			"day": "4/9",
 			"confirmed": 20765
+		},
+		{
+			"day": "4/10",
+			"confirmed": 22148
 		}
 	],
 	"canada_new_confirmed_cases_by_day": [
@@ -2611,6 +2615,10 @@
 		{
 			"day": "4/9",
 			"confirmed": 1474
+		},
+		{
+			"day": "4/10",
+			"confirmed": 1383
 		}
 	],
 	"canada_cases_by_day": [
@@ -3460,6 +3468,26 @@
 			"day": "4/9",
 			"type": "Alberta",
 			"cases": 1451
+		},
+		{
+			"day": "4/10",
+			"type": "Quebec",
+			"cases": 11677
+		},
+		{
+			"day": "4/10",
+			"type": "Ontario",
+			"cases": 6237
+		},
+		{
+			"day": "4/10",
+			"type": "B.C.",
+			"cases": 1410
+		},
+		{
+			"day": "4/10",
+			"type": "Alberta",
+			"cases": 1500
 		}
 	],
 	"canada_cases_by_province_by_day_group_2": [
@@ -4495,6 +4523,46 @@
 		},
 		{
 			"day": "4/9",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/10",
+			"type": "Saskatchewan",
+			"cases": 285
+		},
+		{
+			"day": "4/10",
+			"type": "N.L.",
+			"cases": 239
+		},
+		{
+			"day": "4/10",
+			"type": "Nova Scotia",
+			"cases": 407
+		},
+		{
+			"day": "4/10",
+			"type": "Manitoba",
+			"cases": 230
+		},
+		{
+			"day": "4/10",
+			"type": "New Brunswick",
+			"cases": 112
+		},
+		{
+			"day": "4/10",
+			"type": "P.E.I.",
+			"cases": 25
+		},
+		{
+			"day": "4/10",
+			"type": "Yukon",
+			"cases": 8
+		},
+		{
+			"day": "4/10",
 			"type": "N.W.T.",
 			"cases": 5
 		}
