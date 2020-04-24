@@ -27,51 +27,53 @@
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
 		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
 		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31",
-		"4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13"
+		"4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13", "4/14", "4/15",
+		"4/16", "4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23"
 	],
 	"confirmed_cases_by_day": [
 		16,16,16,16,16,16,16,16,16,16,18,26,48,74,79,130,165,203,262,545,670,800,1040,1224,1565,1966,2745,3675,4599,5813,7272,9367,
 		12327,15320,19848,22364,24873,29056,32991,37323,43938,50871,57695,62435,66885,71808,77981,84794,91159,96092,100123,103375,
-		107663,113296,118235,122171,125452,127854,130072
+		107663,113296,118235,122171,125452,127854,130072,132210,134753,137698,141397,143724,145742,147065,148453,150648,153129
 	],
 	"new_cases_by_day": [
 		0,0,0,0,0,0,0,0,0,0,2,8,22,26,5,51,35,38,59,283,125,130,240,184,341,401,779,930,924,1214,1459,2095,2960,2993,4528,2516,2509,
-		4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218
+		4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218,2138,2543,2945,
+		3699,2327,2018,1323,1388,2195,2481
 	],
 	"active_cases_by_day": [
 		13,13,9,7,7,3,2,2,2,2,3,11,32,58,63,114,149,187,246,528,652,782,1022,1204,1545,1938,2714,3621,4544,5754,7188,9274,12194,15161,
 		19600,22071,24513,28480,29542,33570,37998,43862,48781,52683,52740,54933,58350,61247,65309,68248,69839,72865,69566,64647,63221,
-		65522,65181,64532,62578
+		65522,65181,64532,62578,60515,58349,56646,53931,53786,53100,50703,48167,45933,44254
 	],
 	"deaths_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,8,9,13,17,26,28,44,68,84,94,123,159,206,267,351,433,541,645,
-		775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194
+		775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194,3495,3804,4052,4352,4538,4642,4862,5086,5315,5575
 	],
 	"new_deaths_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1,4,4,9,2,16,24,16,10,29,36,47,61,84,82,108,104,
-		130,156,176,168,169,140,226,206,333,258,129,135,151,172
+		130,156,176,168,169,140,226,206,333,258,129,135,151,172,301,309,248,300,186,104,220,224,229,260
 	],
 	"new_recoveries_by_day": [
 		0,0,4,2,0,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,7,0,21,0,0,21,0,38,10,65,29,57,187,2837,257,2126,985,1823,730,4289,
-		2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000
+		2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000,3900,4400,4400,6114,2286,2600,3500,3700,4200,3900
 	],
 	"youtube_playlist": [
-		{"vid": "rMWdPRhu_p8", "title": " Coronavirus: German study shows COVID-19 might not be fatal as previously thought", "source": "CNBC Television "},
-		{"vid": "OkVVyLC9jQ8", "title": "Why Germany has a lower coronavirus death rate", "source": "SKY News"},
-		{"vid": "z5CrScIHAuE", "title": "Coronavirus: Germans sing Bella Ciao from rooftops in solidarity with Italy", "source": "Guardian News"},
-		{"vid": "aDNccwIhDdY", "title": "Coronavirus Germany: Life on partial lockdown", "source": "DW News"},
-		{"vid": "ZoqAqoJx1v8", "title": "Coronavirus: Germany bans export of medical protection gear", "source": "DW News"},
-		{"vid": "hEQ44JpWjBg", "title": "How Germany is saving coronavirus patients in France", "source": "SKY News"},
-		{"vid": "COhgWje7PSo", "title": "Coronavirus: Germany imposes strict social restrictions", "source": "DW News"},
-		{"vid": "gsOVhMzr4eY", "title": "German Air Ambulances Evacuate Coronavirus Patients", "source": "VOA News"},
-		{"vid": "vbaI4pEHPR8", "title": "Coronavirus in Berlin", "source": "DW Documentary"},
-		{"vid": "6CGi41nB3tA", "title": "Merkel: Most people in Germany likely to contract Coronavirus", "source": "DW News"},
-		{"vid": "wpaiUK9j6RM", "title": "German President Steinmeier: Coronavirus a 'test of our humanity’ ", "source": " DW News"},
-		{"vid": "NWzpSEFDYJM", "title": "German Chancellor Angela Merkel: Coronavirus Germany's biggest challenge since WW2", "source": "euronews (in English)"},
-		{"vid": "WGA2TJoBRL0", "title": "Coronavirus pandemic in Germany", "source": "Source: TRT World"},
-		{"vid": "aAGm1M96VnM", "title": "COVID 19 Germany sees low fatalities despite high infection rate of coronavirus", "source": "Al Jazeera English"},
-		{"vid": "1rySNbECcQQ", "title": "Coronavirus: German parliament approves massive aid package", "source": "DW News"},
-		{"vid": "bLfriUWYlQE", "title": "Coronavirus in Germany", "source": "DW Documentary"}
+		{"vid": "EPCqPwXKzKQ", "title": "Germany eases coronavirus restrictions on shops", "source": "BBC News"},
+		{"vid": "3kPZogQXmY0", "title": "Germany eases coronavirus restrictions | Interview with Health Minister Spahn", "source": "DW News"},
+		{"vid": "7_FFSJR5qik", "title": "Germany: 'Biggest increase' in coronavirus deaths last week - RKI", "source": "Ruptly"},
+		{"vid": "dkJfEWYiiwI", "title": "Germany's Munich Oktoberfest cancelled due to Coronavirus", "source": "DW News"},
+		{"vid": "kY2RnN5xGjI", "title": "Germany takes in refugee children amid coronavirus pandemic", "source": "DW News"},
+		{"vid": "XwGqhamSh5Q", "title": "Germany is taking its first steps into re-opening since the coronavirus pandemic struck", "source": "Euronews"},
+		{"vid": "YILJnEqznZc", "title": "What Germany is doing right to fight the coronavirus", "source": "Los Angeles Times"},
+		{"vid": "VqboZGO99Lg", "title": "Employees Try to Keep Trains Clean to Curb Coronavirus Spread in Germany", "source": "VOA News"},
+		{"vid": "NGiW-Kgqjb0", "title": "Germany will start to ease lockdown, says Angela Merkel", "source": "Channel 4 News"},
+		{"vid": "22SQVZ4CeXA", "title": "Angela Merkel uses science background in coronavirus explainer", "source": "Guardian News"},
+		{"vid": "MJ4jY6ZqXQs", "title": "Germany starts mass-testing for coronavirus antibodies in bid to learn more about COVID-19", "source": "Euronews"},
+		{"vid": "I6tE4iL6Opc", "title": "Germany declares its coronavirus outbreak 'under control'", "source": "Sky News Australia"},
+		{"vid": "mz-aep91l8U", "title": "Life Inside Germany As National Lockdown Is Extended", "source": "NBC News"},
+		{"vid": "anLlOOYXRtc", "title": "Berlin 2020 Drone 4K Drone Germany Deutschland Aerial Ultra HD", "source": "Cretanis"},
+		{"vid": "YyqRsOPo4Ik", "title": "A Tale of Two Countries: Sweden, Germany take different COVID-19 approaches", "source": "ABC News"},
+		{"vid": "oI8CpW4lw7M", "title": "Did Germany pass peak point, as government eases lockdown rules?", "source": "TRT World Now"}
 	],
 	"menu": [
 		{
@@ -84,14 +86,22 @@
 		},
 		{
 			"url": "#germany-charts",
-			"section": "Charts"
+			"section": "Germany COVID-19 Charts"
+		},
+		{
+			"url": "#epidemiological-charts",
+			"section": "Germany Epidemiological Charts"
+		},
+		{
+			"url": "#germany-testing-charts",
+			"section": "Germany COVID-19 Testing"
 		},
 		{
 			"url": "#youtube-playlist",
 			"section": "Youtube Playlist"
 		},
 		{
-			"url": "index.html#outbreak-summary-reports",
+			"url": "index.html#summary-reports",
 			"section": "Global Summary Report"
 		},
 		{
@@ -107,16 +117,8 @@
 			"section": "Global Outbreak Charts"
 		},
 		{
-			"url": "index.html#timeline",
-			"section": "Global Timeline"
-		},
-		{
 			"url": "index.html#must-read",
 			"section": "Must Read"
-		},
-		{
-			"url": "index.html#outbreak-comparisons",
-			"section": "Outbreak Comparisons"
 		},
 		{
 			"url": "index.html#youtube-playlist",

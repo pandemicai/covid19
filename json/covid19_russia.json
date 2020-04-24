@@ -1,0 +1,177 @@
+{
+	"summary": {
+		"country": "Russia",
+		"country_fr": "Russie",
+		"country_cn": "俄罗斯",
+		"country_jp": "ロシア",
+		"url": "https://meduza.io/en/feature/2020/03/25/putin-s-newly-announced-covid-19-crisis-response-point-by-point",
+		"source": "Meduza.io",
+		"country_code": "RU",
+		"icon": "RU.png",
+		"continent": "Europe",
+		"official_url": "",
+		"new": "5236",
+		"confirmed": "57999",
+		"suspected": "0",
+		"death": "513",
+		"death_new": "57",
+		"active": "53066",
+		"cured": "4420",
+		"serious": "700",
+		"time": "Apr 22",
+		"new_24h": "5236",
+		"death_new_24h": "57",
+		"population": "145934462",
+		"tested": "2250000"
+	},
+	"day": [
+		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
+		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
+		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31",
+		"4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13", "4/14", "4/15",
+		"4/16", "4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23"
+	],
+	"confirmed_cases_by_day": [
+		2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,7,13,14,17,20,20,28,34,45,59,63,93,114,147,199,253,306,367,438,495,658,840,1036,1264,
+		1534,1836,2337,2777,3548,4149,4731,5389,6343,7497,8672,10131,11917,13584,15770,18328,21102,24490,27938,32008,36793,42853,
+		47121,52763,57999,62773
+	],
+	"new_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,6,1,3,3,0,8,6,11,14,4,30,21,33,52,54,53,61,71,57,163,182,196,228,270,302,501,440,771,
+		601,582,658,954,1154,1175,1459,1786,1667,2186,2558,2774,3388,3448,4070,4785,6060,4268,5642,5236,4774
+	],
+	"active_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,11,11,14,17,17,25,31,37,51,55,85,106,139,190,240,289,350,420,472,626,799,987,1211,1462,
+		1761,2199,2563,3283,3834,4355,4989,5890,6945,8029,9357,11028,12433,14349,16710,19238,22306,25402,29145,33423,39201,43270,48434,
+		53066,57327
+	],
+	"deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,3,3,4,4,8,9,17,24,30,34,43,45,47,58,63,76,94,106,
+		130,148,170,198,232,273,313,361,405,456,513,555
+	],
+	"new_deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0,4,1,8,7,6,4,9,2,2,11,5,13,18,12,24,18,22,
+		28,34,41,40,48,44,51,57,42
+	],
+	"youtube_playlist": [
+		{"vid": "cLqikC274a8", "title": "Russia reports record number of new coronavirus cases", "source": "DW News"},
+		{"vid": "fsmL-gxpRUs", "title": "Communists defy COVID-19 restrictions to celebrate Lenin's 150th birthday", "source": "Ruptly"},
+		{"vid": "GzBN0lK1kvc", "title": "Putin warns peak of COVID-19 yet to come", "source": "Ruptly"},
+		{"vid": "YXQaFPhm_qg", "title": "Amazing Timelapse Footage of Coronavirus Hospital Built in Russia", "source": "On Demand News"}
+	],
+	"map_data": [
+		{
+			"id": "RU-ZAB",
+			"name:": "Zabaykalsky",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-YEV",
+			"name:": "Yevrey",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-YAR",
+			"name:": "Yaroslavl",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-YAN",
+			"name:": "Yamalo-Nenets",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-VOR",
+			"name:": "Voronezh",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-VLG",
+			"name:": "Vologda",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-VGG",
+			"name:": "Volgograd",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-VLA",
+			"name:": "Vladimir",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "RU-ULY",
+			"name:": "Ulyanovsk",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		}
+	],
+	"menu": [
+		{
+			"url": "#russia-covid19-summary",
+			"section": "Russia Covid-19 Summary"
+		},
+		{
+			"url": "#russia-covid-19-map",
+			"section": "Russia Covid-19 Map"
+		},
+		{
+			"url": "#russia-charts",
+			"section": "Russia COVID-19 Charts"
+		},
+		{
+			"url": "#epidemiological-charts",
+			"section": "Russia Epidemiological Charts"
+		},
+		{
+			"url": "#russia-testing-charts",
+			"section": "Russia COVID-19 Testing"
+		},
+		{
+			"url": "#youtube-playlist",
+			"section": "Youtube Playlist"
+		},
+		{
+			"url": "index.html#summary-reports",
+			"section": "Global Summary Report"
+		},
+		{
+			"url": "index.html#outbreak-map",
+			"section": "Global Interactive Map"
+		},
+		{
+			"url": "index.html#live-update",
+			"section": "Global Live Updates"
+		},
+		{
+			"url": "index.html#outbreak-charts",
+			"section": "Global Outbreak Charts"
+		},
+		{
+			"url": "index.html#must-read",
+			"section": "Must Read"
+		},
+		{
+			"url": "index.html#youtube-playlist",
+			"section": "Global Youtube Playlist"
+		}
+	]
+}

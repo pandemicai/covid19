@@ -27,37 +27,52 @@
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
 		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
 		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31",
-		 "4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13"
+		 "4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13", "4/14", "4/15",
+		 "4/16", "4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23"
 	],
 	"confirmed_cases_by_day": [
 		15,15,15,15,15,17,19,21,22,22,22,23,23,25,25,29,33,39,53,60,63,74,83,93,116,128,156,199,248,300,401,455,596,756,928,1072,1609,1887,
-		2317,2676,3050,3378,3635,4163,4460,4763,5048,5314,5454,5550,5750,5895,5988,6052,6152,6238,6303,6313,6359
+		2317,2676,3050,3378,3635,4163,4460,4763,5048,5314,5454,5550,5750,5895,5988,6052,6152,6238,6303,6313,6359,6400,6447,6468,6533,6586,
+		6612,6625,6645,6649,6667
 	],
 	"new_cases_by_day": [
 		0,0,0,0,0,2,2,2,1,0,0,1,0,2,0,4,4,6,14,7,3,11,9,10,23,12,28,43,49,52,101,54,141,160,172,144,537,278,430,359,374,328,257,528,297,
-		303,285,266,140,96,200,145,93,64,100,86,65,10,46
+		303,285,266,140,96,200,145,93,64,100,86,65,10,46,41,47,21,65,53,26,13,20,4,18
 	],
 	"active_cases_by_day": [
 		5,5,5,5,5,6,8,10,11,11,7,8,8,10,10,13,17,17,30,36,39,49,58,68,91,101,127,170,218,268,369,423,547,703,875,1019,1514,1762,2191,2547,2867,
-		3195,3451,3902,4197,4398,4680,4704,4841,4935,4633,3418,3392,3189,3114,2916,2804
+		3195,3451,3902,4197,4398,4680,4704,4841,4935,4633,3418,3392,3189,3114,2916,2804,2741,2698,2658,2647,2349,2311,2296,1889,
+		1655,1547
 	],
 	"deaths_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,3,3,3,3,3,3,5,5,5,6,7,7,7,7,7,8,11,13,13,14,17,19,20,23,25,
-		28,30,37,45,49,50,51,54,56,59,61
+		28,30,37,45,49,50,51,54,56,59,61,61,63,63,65,70,71,71,71,74,75
 	],
 	"new_deaths_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,1,3,2,0,1,3,2,1,3,2,3,2,7,8,4,1,
-		1,3,2,3,2
+		1,3,2,3,2,0,2,0,2,5,1,0,0,3,1
 	],
 	"new_recoveries_by_day": [
 		0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,6,0,1,0,0,0,0,0,2,2,0,1,0,0,0,16,3,0,0,42,30,0,0,52,0,0,74,0,101,0,240,0,0,495,
-		1352,115,266,174,154,124,73,156
+		1352,115,266,174,154,124,73,156,104,88,61,74,346,63,28,427,235,125
 	],
 	"youtube_playlist": [
-		{"vid": "MC89RJ_eUYA", "title": "Coronavirus update: The latest COVID-19 news for Saturday March 28", "source": "ABC News"},
-		{"vid": "LAMK-5FQVfM", "title": "Coronavirus: Mandatory lock ins in effect from midnight", "source": "Nine News Australia"},
-		{"vid": "sljB-JXDUtM", "title": "Coronavirus cruise ship passengers to be quarantined in Western Australia", "source": "ABC News"},
-		{"vid": "cef0PxYYdbs", "title": "Millions of Australians out of jobs", "source": "Nine News Australia"}
+		{"vid": "rl4LQ0b0APs", "title": "The latest COVID-19 news for on Tuesday, April 21", "source": "7NEWS Australia"},
+		{"vid": "k3yHKRBw3VM", "title": "Coronavirus: Sydney students to return to school", "source": "Nine News Australia"},
+		{"vid": "aRgi8T0fBbI", "title": "Coronavirus: Scott Morrison provides update", "source": "Nine News Australia"},
+		{"vid": "rH8ef6vv2OY", "title": "Australia to resume elective surgeries as coronavirus cases dwindle", "source": "ABC News"},
+		{"vid": "jnu5UJGscHs", "title": "Coronavirus: New drug testing underway in Australia", "source": "Nine News Australia"},
+		{"vid": "zhSqCXCcy-0", "title": "Coronavirus: Virgin to go into administration", "source": "Nine News Australia"},
+		{"vid": "nj8OyxVXxZI", "title": "Coronavirus: The renewed call for more Australian manufacturing", "source": "7NEWS Australia"},
+		{"vid": "v93kIGICXDI", "title": "Coronavirus: Can Australia really reopen in four weeks?", "source": "7NEWS Australia"},
+		{"vid": "MWIpywKE5VQ", "title": "Aussie family-of-three all diagnosed with COVID-19", "source": "Nine News Australia"},
+		{"vid": "oEZZMqN7joI", "title": "Coronavirus restrictions force trial of flexible working for Australian dads", "source": "ABC News"},
+		{"vid": "c1kP6LkQ4-s", "title": "Catastrophic predictions of Victorian death toll revealed", "source": "Nine News Australia"},
+		{"vid": "svzaY0_9YHI", "title": "Coronavirus: Dozens of volunteers sewing medical scrubs", "source": "Nine News Australia"},
+		{"vid": "wQZ29vdDrzo", "title": "Coronavirus: QLD's battle plan, Grim jobs outlook", "source": "Nine News Australia"},
+		{"vid": "7BDA8bknmpc", "title": "Coronavirus data analysis from Australia and around the world", "source": "ABC News"},
+		{"vid": "TtKa4FVbsRg", "title": "Some beaches reopened with strict physical distancing rules", "source": "ABC News"},
+		{"vid": "BGmWPArhESE", "title": "Can we beat COVID-19 without a vaccine?", "source": "Nine News Australia"}
 	],
 	"map_data": [
 		{
@@ -69,44 +84,44 @@
 		{
 			"id": "AU-WA",
 			"name:": "Western Australia",
-			"value": 527,
-			"death": 6
+			"value": 546,
+			"death": 7
 		},
 		{
 			"id": "AU-ACT",
 			"name:": "Australian Capital Territory",
-			"value": 103,
-			"death": 2
+			"value": 104,
+			"death": 3
 		},
 		{
 			"id": "AU-NSW",
 			"name:": "New South Wales",
-			"value": 2870,
-			"death": 25
+			"value": 2974,
+			"death": 31
 		},
 		{
 			"id": "AU-SA",
 			"name:": "South Australia",
-			"value": 433,
+			"value": 437,
 			"death": 4
 		},
 		{
 			"id": "AU-VIC",
 			"name:": "Victoria",
-			"value": 1291,
-			"death": 14
+			"value": 1336,
+			"death": 15
 		},
 		{
 			"id": "AU-QLD",
 			"name:": "Queensland",
-			"value": 998,
-			"death": 5
+			"value": 1024,
+			"death": 6
 		},
 		{
 			"id": "AU-TAS",
 			"name:": "Tasmania",
-			"value": 151,
-			"death": 5
+			"value": 202,
+			"death": 8
 		}
 	],
 	"menu": [
@@ -120,14 +135,22 @@
 		},
 		{
 			"url": "#australia-charts",
-			"section": "Charts"
+			"section": "Australia COVID-19 Charts"
+		},
+		{
+			"url": "#epidemiological-charts",
+			"section": "Australia Epidemiological Charts"
+		},
+		{
+			"url": "#australia-testing-charts",
+			"section": "Australia COVID-19 Testing"
 		},
 		{
 			"url": "#youtube-playlist",
 			"section": "Youtube Playlist"
 		},
 		{
-			"url": "index.html#outbreak-summary-reports",
+			"url": "index.html#summary-reports",
 			"section": "Global Summary Report"
 		},
 		{
@@ -143,16 +166,8 @@
 			"section": "Global Outbreak Charts"
 		},
 		{
-			"url": "index.html#timeline",
-			"section": "Global Timeline"
-		},
-		{
 			"url": "index.html#must-read",
 			"section": "Must Read"
-		},
-		{
-			"url": "index.html#outbreak-comparisons",
-			"section": "Outbreak Comparisons"
 		},
 		{
 			"url": "index.html#youtube-playlist",

@@ -4,17 +4,17 @@
 			"province": "Quebec",
 			"id": "CA-QC",
 			"img_url": "QC.png",
-			"confirmed": "13557",
-			"new": "711",
+			"confirmed": "21838",
+			"new": "",
 			"probable": "",
-			"death": "360",
-			"death_new": "32",
-			"hospitalization": "879",
-			"icu": "226",
+			"death": "1243",
+			"death_new": "",
+			"hospitalization": "1411",
+			"icu": "207",
 			"ventilator": "",
-			"resolved": "1982",
-			"under_investigation": "2645",
-			"tested": "131570",
+			"resolved": "4484",
+			"under_investigation": "3007",
+			"tested": "180833",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -29,39 +29,39 @@
 			"pending": "",
 			"population": "8537674",
 			"twitter_url": "https://twitter.com/sante_qc",
-			"url": "https://montreal.ctvnews.ca/quebec-reports-32-new-covid-19-deaths-as-confirmed-cases-rise-above-13-500-1.4893917",
-			"death_url": "https://montreal.ctvnews.ca/quebec-reports-32-new-covid-19-deaths-as-confirmed-cases-rise-above-13-500-1.4893917",
+			"url": "https://globalnews.ca/news/6857255/quebec-coronavirus-april-23/",
+			"death_url": "https://globalnews.ca/news/6857255/quebec-coronavirus-april-23/",
 			"official_url": "https://www.inspq.qc.ca/covid-19/donnees",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "12846",
-				"new": "554",
+				"date": "Apr 23",
+				"confirmed": "21838",
+				"new": "873",
 				"probable": "",
-				"death": "328",
-				"death_new": "39",
-				"hospitalization": "824",
-				"icu": "217",
+				"death": "1243",
+				"death_new": "109",
+				"hospitalization": "1411",
+				"icu": "207",
 				"ventilator": "",
-				"resolved": "1745",
-				"under_investigation": "2250",
-				"tested": "126771"
+				"resolved": "4484",
+				"under_investigation": "3007",
+				"tested": "180833"
 			}
 		},
 		{
 			"province": "Ontario",
 			"id": "CA-ON",
 			"img_url": "ON.png",
-			"confirmed": "7470",
-			"new": "421",
+			"confirmed": "12879",
+			"new": "",
 			"probable": "",
-			"death": "291",
-			"death_new": "17",
-			"hospitalization": "760",
-			"icu": "263",
-			"ventilator": "203",
-			"resolved": "3357",
-			"under_investigation": "1534",
-			"tested": "108230",
+			"death": "713",
+			"death_new": "",
+			"hospitalization": "887",
+			"icu": "233",
+			"ventilator": "185",
+			"resolved": "6680",
+			"under_investigation": "6757",
+			"tested": "194745",
 			"male": "45.1",
 			"female": "54.3",
 			"age_group_19_under": "2.4",
@@ -76,39 +76,39 @@
 			"pending": "46.1",
 			"population": "14711827",
 			"twitter_url": "https://twitter.com/ONThealth",
-			"url": "https://globalnews.ca/news/6811348/ontario-coronavirus-covid19-cases-april-13/",
-			"death_url": "https://globalnews.ca/news/6811348/ontario-coronavirus-covid19-cases-april-13/",
+			"url": "https://toronto.citynews.ca/2020/04/23/ontario-confirms-634-new-cases-of-coronavirus-54-more-deaths/",
+			"death_url": "https://toronto.citynews.ca/2020/04/23/ontario-confirms-634-new-cases-of-coronavirus-54-more-deaths/",
 			"official_url": "https://www.ontario.ca/page/2019-novel-coronavirus#section-0",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "7049",
-				"new": "401",
+				"date": "Apr 23",
+				"confirmed": "12879",
+				"new": "634",
 				"probable": "",
-				"death": "274",
-				"death_new": "21",
-				"hospitalization": "738",
-				"icu": "261",
-				"ventilator": "196",
-				"resolved": "3121",
-				"under_investigation": "1619",
-				"tested": "103165"
+				"death": "713",
+				"death_new": "54",
+				"hospitalization": "887",
+				"icu": "233",
+				"ventilator": "185",
+				"resolved": "6680",
+				"under_investigation": "6757",
+				"tested": "194745"
 			}
 		},
 		{
 			"province": "Alberta",
 			"id": "CA-AB",
 			"img_url": "AB.png",
-			"confirmed": "1732",
-			"new": "81",
+			"confirmed": "3720",
+			"new": "",
 			"probable": "",
-			"death": "46",
-			"death_new": "2",
-			"hospitalization": "47",
-			"icu": "14",
+			"death": "68",
+			"death_new": "",
+			"hospitalization": "70",
+			"icu": "18",
 			"ventilator": "",
-			"resolved": "877",
+			"resolved": "1357",
 			"under_investigation": "",
-			"tested": "79781",
+			"tested": "117835",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -123,39 +123,39 @@
 			"pending": "",
 			"population": "4413146",
 			"twitter_url": "https://twitter.com/GoAHealth",
-			"url": "https://globalnews.ca/news/6812262/alberta-health-coronavirus-covid-19-april-13/",
-			"death_url": "https://globalnews.ca/news/6812262/alberta-health-coronavirus-covid-19-april-13/",
+			"url": "https://edmonton.ctvnews.ca/319-new-covid-19-cases-two-more-deaths-in-alberta-1.4909058",
+			"death_url": "https://edmonton.ctvnews.ca/319-new-covid-19-cases-two-more-deaths-in-alberta-1.4909058",
 			"official_url": "https://www.alberta.ca/coronavirus-info-for-albertans.aspx",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "1651",
-				"new": "82",
+				"date": "Apr 23",
+				"confirmed": "3720",
+				"new": "319",
 				"probable": "",
-				"death": "44",
-				"death_new": "4",
-				"hospitalization": "44",
-				"icu": "14",
+				"death": "68",
+				"death_new": "2",
+				"hospitalization": "70",
+				"icu": "18",
 				"ventilator": "",
-				"resolved": "823",
+				"resolved": "1357",
 				"under_investigation": "",
-				"tested": "77316"
+				"tested": "117835"
 			}
 		},
 		{
 			"province": "British Columbia",
 			"id": "CA-BC",
 			"img_url": "BC.png",
-			"confirmed": "1490",
-			"new": "45",
+			"confirmed": "1824",
+			"new": "",
 			"probable": "",
-			"death": "69",
-			"death_new": "11",
-			"hospitalization": "137",
-			"icu": "58",
+			"death": "94",
+			"death_new": "",
+			"hospitalization": "103",
+			"icu": "44",
 			"ventilator": "",
-			"resolved": "926",
+			"resolved": "1092",
 			"under_investigation": "",
-			"tested": "56142",
+			"tested": "68553",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -170,39 +170,39 @@
 			"pending": "",
 			"population": "5110917",
 			"twitter_url": "https://twitter.com/PHSAofBC",
-			"url": "https://globalnews.ca/news/6812160/bc-coronavirus-update-april-13/",
-			"death_url": "https://globalnews.ca/news/6812160/bc-coronavirus-update-april-13/",
+			"url": "https://globalnews.ca/news/6859608/bc-coronavirus-update-april-23/",
+			"death_url": "https://globalnews.ca/news/6859608/bc-coronavirus-update-april-23/",
 			"official_url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "1445",
-				"new": "",
+				"date": "Apr 23",
+				"confirmed": "1824",
+				"new": "29",
 				"probable": "",
-				"death": "58",
-				"death_new": "",
-				"hospitalization": "134",
-				"icu": "63",
+				"death": "94",
+				"death_new": "4",
+				"hospitalization": "103",
+				"icu": "44",
 				"ventilator": "",
-				"resolved": "905",
+				"resolved": "1092",
 				"under_investigation": "",
-				"tested": "53505"
+				"tested": "68553"
 			}
 		},
 		{
 			"province": "Nova Scotia",
 			"id": "CA-NS",
 			"img_url": "NS.png",
-			"confirmed": "474",
-			"new": "29",
+			"confirmed": "827",
+			"new": "",
 			"probable": "",
-			"death": "3",
-			"death_new": "1",
-			"hospitalization": "9",
+			"death": "16",
+			"death_new": "",
+			"hospitalization": "10",
 			"icu": "4",
 			"ventilator": "",
-			"resolved": "101",
+			"resolved": "358",
 			"under_investigation": "",
-			"tested": "16054",
+			"tested": "24558",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -217,39 +217,39 @@
 			"pending": "",
 			"population": "977457",
 			"twitter_url": "https://twitter.com/HealthNS",
-			"url": "https://globalnews.ca/news/6811286/covid19-ns-update-april-13/",
-			"death_url": "https://globalnews.ca/news/6811286/covid19-ns-update-april-13/",
+			"url": "https://globalnews.ca/news/6852800/northwood-deaths-nova-scotia-coronavirus-covid-19-update/",
+			"death_url": "https://globalnews.ca/news/6852800/northwood-deaths-nova-scotia-coronavirus-covid-19-update/",
 			"official_url": "https://novascotia.ca/coronavirus/",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "445",
-				"new": "17",
+				"date": "Apr 23",
+				"confirmed": "827",
+				"new": "55",
 				"probable": "",
-				"death": "2",
-				"death_new": "",
-				"hospitalization": "9",
+				"death": "16",
+				"death_new": "4",
+				"hospitalization": "10",
 				"icu": "4",
 				"ventilator": "",
-				"resolved": "97",
+				"resolved": "358",
 				"under_investigation": "",
-				"tested": "14740"
+				"tested": "24558"
 			}
 		},
 		{
 			"province": "Saskatchewan",
 			"id": "CA-SK",
 			"img_url": "SK.png",
-			"confirmed": "300",
-			"new": "2",
-			"probable": "",
+			"confirmed": "331",
+			"new": "",
+			"probable": "1",
 			"death": "4",
 			"death_new": "",
-			"hospitalization": "8",
-			"icu": "",
+			"hospitalization": "6",
+			"icu": "1",
 			"ventilator": "",
-			"resolved": "178",
+			"resolved": "270",
 			"under_investigation": "",
-			"tested": "19804",
+			"tested": "25872",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -264,86 +264,39 @@
 			"pending": "",
 			"population": "1181666",
 			"twitter_url": "",
-			"url": "https://globalnews.ca/news/6812934/coronavirus-saskatchewan-2-new-cases-14-recoveries/",
+			"url": "https://globalnews.ca/news/6859528/coronavirus-saskatchewan-update-april-23/",
 			"death_url": "https://globalnews.ca/news/6812934/coronavirus-saskatchewan-2-new-cases-14-recoveries/",
 			"official_url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "298",
-				"new": "9",
-				"probable": "",
+				"date": "Apr 23",
+				"confirmed": "331",
+				"new": "5",
+				"probable": "1",
 				"death": "4",
 				"death_new": "",
-				"hospitalization": "7",
-				"icu": "",
+				"hospitalization": "6",
+				"icu": "1",
 				"ventilator": "",
-				"resolved": "164",
+				"resolved": "270",
 				"under_investigation": "",
-				"tested": "19276"
-			}
-		},
-		{
-			"province": "Newfoundland and Labrador",
-			"id": "CA-NL",
-			"img_url": "NL.png",
-			"confirmed": "244",
-			"new": "2",
-			"probable": "",
-			"death": "3",
-			"death_new": "",
-			"hospitalization": "8",
-			"icu": "3",
-			"ventilator": "",
-			"resolved": "133",
-			"under_investigation": "",
-			"tested": "4907",
-			"male": "",
-			"female": "",
-			"age_group_19_under": "",
-			"age_group_20_39": "",
-			"age_group_40_59": "",
-			"age_group_60_79": "",
-			"age_group_80_over": "",
-			"heath_care_workers": "",
-			"travel": "",
-			"close contact": "",
-			"community transmission": "",
-			"pending": "",
-			"population": "521365",
-			"twitter_url": "https://twitter.com/HCS_GovNL",
-			"url": "https://globalnews.ca/news/6812823/newfoundland-coronavirus-cases-april-13/",
-			"death_url": "https://www.theguardian.pe.ca/news/canada/we-are-in-different-times-first-covid-19-death-confirmed-in-newfoundland-and-labrador-431622/",
-			"official_url": "https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/",
-			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "242",
-				"new": "1",
-				"probable": "",
-				"death": "3",
-				"death_new": "",
-				"hospitalization": "7",
-				"icu": "3",
-				"ventilator": "",
-				"resolved": "129",
-				"under_investigation": "",
-				"tested": "4812"
+				"tested": "25872"
 			}
 		},
 		{
 			"province": "Manitoba",
 			"id": "CA-MB",
 			"img_url": "MB.png",
-			"confirmed": "246",
-			"new": "3",
-			"probable": "17",
-			"death": "4",
+			"confirmed": "262",
+			"new": "",
+			"probable": "",
+			"death": "6",
 			"death_new": "",
-			"hospitalization": "8",
-			"icu": "4",
+			"hospitalization": "7",
+			"icu": "2",
 			"ventilator": "",
-			"resolved": "99",
+			"resolved": "174",
 			"under_investigation": "",
-			"tested": "17245",
+			"tested": "21387",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -358,39 +311,86 @@
 			"pending": "",
 			"population": "1377517",
 			"twitter_url": "https://twitter.com/MBGov",
-			"url": "https://globalnews.ca/news/6811839/health-officials-to-update-on-latest-covid-19-measures-in-manitoba/",
-			"death_url": "https://globalnews.ca/news/6805048/manitoba-covid-19-update-april-10/",
+			"url": "https://globalnews.ca/news/6857654/cornavirus-situation-to-be-updated-by-manitoba-health-officials-thursday/",
+			"death_url": "https://globalnews.ca/news/6821743/manitoba-health-officials-to-update-province-on-latest-covid-19-numbers-wednesday/",
 			"official_url": "https://www.gov.mb.ca/health/coronavirus/",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "243",
-				"new": "",
-				"probable": "17",
-				"death": "4",
+				"date": "Apr 23",
+				"confirmed": "262",
+				"new": "5",
+				"probable": "",
+				"death": "6",
 				"death_new": "",
-				"hospitalization": "8",
-				"icu": "5",
+				"hospitalization": "7",
+				"icu": "2",
 				"ventilator": "",
-				"resolved": "96",
+				"resolved": "174",
 				"under_investigation": "",
-				"tested": "16383"
+				"tested": "21387"
+			}
+		},
+		{
+			"province": "Newfoundland and Labrador",
+			"id": "CA-NL",
+			"img_url": "NL.png",
+			"confirmed": "256",
+			"new": "",
+			"probable": "",
+			"death": "3",
+			"death_new": "",
+			"hospitalization": "5",
+			"icu": "2",
+			"ventilator": "",
+			"resolved": "205",
+			"under_investigation": "",
+			"tested": "6902",
+			"male": "",
+			"female": "",
+			"age_group_19_under": "",
+			"age_group_20_39": "",
+			"age_group_40_59": "",
+			"age_group_60_79": "",
+			"age_group_80_over": "",
+			"heath_care_workers": "",
+			"travel": "",
+			"close contact": "",
+			"community transmission": "",
+			"pending": "",
+			"population": "521365",
+			"twitter_url": "https://twitter.com/HCS_GovNL",
+			"url": "https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/",
+			"death_url": "https://www.theguardian.pe.ca/news/canada/we-are-in-different-times-first-covid-19-death-confirmed-in-newfoundland-and-labrador-431622/",
+			"official_url": "https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/",
+			"yesterday": {
+				"date": "Apr 23",
+				"confirmed": "256",
+				"new": "",
+				"probable": "",
+				"death": "3",
+				"death_new": "",
+				"hospitalization": "5",
+				"icu": "2",
+				"ventilator": "",
+				"resolved": "205",
+				"under_investigation": "",
+				"tested": "6902"
 			}
 		},
 		{
 			"province": "New Brunswick",
 			"id": "CA-NB",
 			"img_url": "NB.png",
-			"confirmed": "116",
-			"new": "2",
+			"confirmed": "118",
+			"new": "",
 			"probable": "",
 			"death": "",
 			"death_new": "",
 			"hospitalization": "5",
-			"icu": "3",
+			"icu": "1",
 			"ventilator": "",
-			"resolved": "74",
+			"resolved": "104",
 			"under_investigation": "",
-			"tested": "7889",
+			"tested": "12014",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -405,29 +405,29 @@
 			"pending": "",
 			"population": "779993",
 			"twitter_url": "https://twitter.com/NBHealth",
-			"url": "https://globalnews.ca/news/6811841/new-brunswick-coronavirus-covid19-update-monday-april-13/",
+			"url": "https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/maps_graphs.html",
 			"death_url": "",
 			"official_url": "https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "114",
-				"new": "2",
+				"date": "Apr 23",
+				"confirmed": "118",
+				"new": "",
 				"probable": "",
 				"death": "",
 				"death_new": "",
-				"hospitalization": "7",
-				"icu": "3",
+				"hospitalization": "5",
+				"icu": "1",
 				"ventilator": "",
-				"resolved": "70",
+				"resolved": "104",
 				"under_investigation": "",
-				"tested": "7657"
+				"tested": "12014"
 			}
 		},
 		{
 			"province": "Prince Edward Island",
 			"id": "CA-PE",
 			"img_url": "PE.png",
-			"confirmed": "25",
+			"confirmed": "26",
 			"new": "",
 			"probable": "",
 			"death": "",
@@ -435,9 +435,9 @@
 			"hospitalization": "0",
 			"icu": "",
 			"ventilator": "",
-			"resolved": "23",
-			"under_investigation": "71",
-			"tested": "1912",
+			"resolved": "24",
+			"under_investigation": "27",
+			"tested": "2543",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -452,12 +452,12 @@
 			"pending": "",
 			"population": "158158",
 			"twitter_url": "https://twitter.com/Health_PEI",
-			"url": "https://www.theguardian.pe.ca/news/local/watch-live-dr-heather-morrison-provides-coronavirus-update-at-130-pm-on-april-8-2020-435344/",
+			"url": "https://www.princeedwardisland.ca/en/topic/covid-19",
 			"death_url": "",
 			"official_url": "https://www.princeedwardisland.ca/en/topic/covid-19",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "25",
+				"date": "Apr 23",
+				"confirmed": "26",
 				"new": "",
 				"probable": "",
 				"death": "",
@@ -465,9 +465,9 @@
 				"hospitalization": "0",
 				"icu": "",
 				"ventilator": "",
-				"resolved": "17",
-				"under_investigation": "155",
-				"tested": "1821"
+				"resolved": "24",
+				"under_investigation": "27",
+				"tested": "2543"
 			}
 		},
 		{
@@ -503,7 +503,7 @@
 			"death_url": "",
 			"official_url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1",
 			"yesterday": {
-				"date": "Apr 12",
+				"date": "Apr 23",
 				"confirmed": "13",
 				"new": "",
 				"probable": "",
@@ -521,7 +521,7 @@
 			"province": "Yukon",
 			"id": "CA-YT",
 			"img_url": "YT.png",
-			"confirmed": "8",
+			"confirmed": "11",
 			"new": "",
 			"probable": "",
 			"death": "",
@@ -529,9 +529,9 @@
 			"hospitalization": "",
 			"icu": "",
 			"ventilator": "",
-			"resolved": "6",
-			"under_investigation": "18",
-			"tested": "832",
+			"resolved": "8",
+			"under_investigation": "8",
+			"tested": "881",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -550,8 +550,8 @@
 			"death_url": "",
 			"official_url": "https://yukon.ca/en/health-and-wellness/covid-19/current-covid-19-situation",
 			"yesterday": {
-				"date": "Apr 12",
-				"confirmed": "8",
+				"date": "Apr 23",
+				"confirmed": "11",
 				"new": "",
 				"probable": "",
 				"death": "",
@@ -559,9 +559,9 @@
 				"hospitalization": "",
 				"icu": "",
 				"ventilator": "",
-				"resolved": "4",
-				"under_investigation": "19",
-				"tested": "794"
+				"resolved": "8",
+				"under_investigation": "8",
+				"tested": "881"
 			}
 		},
 		{
@@ -576,9 +576,9 @@
 			"hospitalization": "",
 			"icu": "",
 			"ventilator": "",
-			"resolved": "2",
-			"under_investigation": "33",
-			"tested": "1453",
+			"resolved": "5",
+			"under_investigation": "47",
+			"tested": "1605",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -593,11 +593,11 @@
 			"pending": "",
 			"population": "44904",
 			"twitter_url": "",
-			"url": "https://cabinradio.ca/33672/news/beaufort-delta/nwt-confirms-second-case-of-covid-19-this-time-in-inuvik/",
+			"url": "https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19",
 			"death_url": "",
 			"official_url": "https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19",
 			"yesterday": {
-				"date": "Apr 12",
+				"date": "Apr 23",
 				"confirmed": "5",
 				"new": "",
 				"probable": "",
@@ -606,9 +606,9 @@
 				"hospitalization": "",
 				"icu": "",
 				"ventilator": "",
-				"resolved": "1",
-				"under_investigation": "37",
-				"tested": "1448"
+				"resolved": "5",
+				"under_investigation": "47",
+				"tested": "1605"
 			}
 		},
 		{
@@ -624,8 +624,8 @@
 			"icu": "",
 			"ventilator": "",
 			"resolved": "",
-			"under_investigation": "229",
-			"tested": "376",
+			"under_investigation": "235",
+			"tested": "485",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -644,7 +644,7 @@
 			"death_url": "",
 			"official_url": "https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus",
 			"yesterday": {
-				"date": "Apr 12",
+				"date": "Apr 23",
 				"confirmed": "0",
 				"new": "",
 				"probable": "",
@@ -654,8 +654,8 @@
 				"icu": "",
 				"ventilator": "",
 				"resolved": "",
-				"under_investigation": "229",
-				"tested": "376"
+				"under_investigation": "235",
+				"tested": "485"
 			}
 		}
 	],
@@ -663,9 +663,9 @@
 		{
 			"city": "Abitibi Temiscamingue, QC",
 			"img_url": "abitibi_temiscamingue.jpg",
-			"confirmed": "138",
+			"confirmed": "149",
 			"probable": "",
-			"death": "2",
+			"death": "3",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -679,12 +679,12 @@
 		{
 			"city": "Aurora, ON",
 			"img_url": "aurora.jpg",
-			"confirmed": "29",
+			"confirmed": "54",
 			"probable": "",
-			"death": "1",
+			"death": "4",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "5",
+			"resolved": "16",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -727,12 +727,12 @@
 		{
 			"city": "Brampton, ON",
 			"img_url": "brampton.png",
-			"confirmed": "427",
+			"confirmed": "852",
 			"probable": "",
-			"death": "",
+			"death": "16",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "78",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.peelregion.ca/coronavirus/testing/#cases",
@@ -743,12 +743,12 @@
 		{
 			"city": "Burlington, ON",
 			"img_url": "burlington.png",
-			"confirmed": "68",
-			"probable": "11",
-			"death": "",
+			"confirmed": "93",
+			"probable": "12",
+			"death": "6",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "43",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus",
@@ -759,12 +759,12 @@
 		{
 			"city": "Caledon, ON",
 			"img_url": "caledon_on.png",
-			"confirmed": "41",
+			"confirmed": "57",
 			"probable": "",
-			"death": "",
+			"death": "1",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "12",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.peelregion.ca/coronavirus/testing/#cases",
@@ -775,9 +775,9 @@
 		{
 			"city": "Calgary, AB",
 			"img_url": "calgary.png",
-			"confirmed": "1046",
+			"confirmed": "2633",
 			"probable": "",
-			"death": "30",
+			"death": "42",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -791,7 +791,7 @@
 		{
 			"city": "Campbellton, NB",
 			"img_url": "",
-			"confirmed": "11",
+			"confirmed": "12",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -807,9 +807,9 @@
 		{
 			"city": "Capitale Nationale, QC",
 			"img_url": "quebec_city.png",
-			"confirmed": "480",
+			"confirmed": "658",
 			"probable": "",
-			"death": "14",
+			"death": "35",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -839,7 +839,7 @@
 		{
 			"city": "Central, NS",
 			"img_url": "",
-			"confirmed": "312",
+			"confirmed": "687",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -855,7 +855,7 @@
 		{
 			"city": "Central Zone, AB",
 			"img_url": "central_zone_ab.jpg",
-			"confirmed": "72",
+			"confirmed": "80",
 			"probable": "",
 			"death": "1",
 			"hospitalization": "",
@@ -871,12 +871,12 @@
 		{
 			"city": "Central Zone, SK",
 			"img_url": "central_sk.png",
-			"confirmed": "10",
+			"confirmed": "11",
 			"probable": "",
 			"death": "1",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "6",
+			"resolved": "8",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan",
@@ -887,9 +887,9 @@
 		{
 			"city": "Chaudière Appalaches, QC",
 			"img_url": "chaudiere_appalaches.jpg",
-			"confirmed": "272",
+			"confirmed": "349",
 			"probable": "",
-			"death": "3",
+			"death": "7",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -903,7 +903,7 @@
 		{
 			"city": "Côte Nord, QC",
 			"img_url": "cote_nord.png",
-			"confirmed": "95",
+			"confirmed": "112",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -919,23 +919,23 @@
 		{
 			"city": "East Gwillimbury, ON",
 			"img_url": "east_gwillimbury.png",
-			"confirmed": "9",
+			"confirmed": "25",
 			"probable": "",
 			"death": "",
 			"hospitalization": "1",
 			"icu": "1",
-			"resolved": "1",
+			"resolved": "4",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
 			"death_url": "",
-			"twitter_url": "https://twitter.com/YorkRegionGovt",
+			"twitter_url": "https://twi tter.com/YorkRegionGovt",
 			"official_url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/"
 		},
 		{
 			"city": "Eastern, NL",
 			"img_url": "",
-			"confirmed": "227",
+			"confirmed": "238",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -951,7 +951,7 @@
 		{
 			"city": "Eastern, NS",
 			"img_url": "",
-			"confirmed": "37",
+			"confirmed": "48",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -967,9 +967,9 @@
 		{
 			"city": "Edmonton, AB",
 			"img_url": "edmonton.png",
-			"confirmed": "395",
+			"confirmed": "454",
 			"probable": "",
-			"death": "7",
+			"death": "9",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -999,9 +999,9 @@
 		{
 			"city": "Estrie, QC",
 			"img_url": "estrie.png",
-			"confirmed": "704",
+			"confirmed": "803",
 			"probable": "",
-			"death": "18",
+			"death": "24",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1015,12 +1015,12 @@
 		{
 			"city": "Far North, SK",
 			"img_url": "",
-			"confirmed": "7",
-			"probable": "",
+			"confirmed": "22",
+			"probable": "1",
 			"death": "",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "2",
+			"resolved": "3",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan",
@@ -1031,12 +1031,12 @@
 		{
 			"city": "Fraser Health Region, BC",
 			"img_url": "fraser.png",
-			"confirmed": "558",
+			"confirmed": "760",
 			"probable": "",
-			"death": "1",
-			"hospitalization": "62",
-			"icu": "",
-			"resolved": "",
+			"death": "27",
+			"hospitalization": "53",
+			"icu": "21",
+			"resolved": "385",
 			"under_investigation": "",
 			"tested": "",
 			"url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus",
@@ -1047,7 +1047,7 @@
 		{
 			"city": "Fredericton, NB",
 			"img_url": "fredericton.jpg",
-			"confirmed": "46",
+			"confirmed": "47",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -1063,9 +1063,9 @@
 		{
 			"city": "Gaspésie Îles de la Madeleine, QC",
 			"img_url": "gaspesie.jpg",
-			"confirmed": "97",
+			"confirmed": "149",
 			"probable": "",
-			"death": "4",
+			"death": "6",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1079,12 +1079,12 @@
 		{
 			"city": "Georgina, ON",
 			"img_url": "",
-			"confirmed": "4",
+			"confirmed": "25",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "2",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -1095,12 +1095,12 @@
 		{
 			"city": "Haliburton, ON",
 			"img_url": "",
-			"confirmed": "6",
+			"confirmed": "7",
 			"probable": "",
 			"death": "",
-			"hospitalization": "",
+			"hospitalization": "1",
 			"icu": "",
-			"resolved": "",
+			"resolved": "5",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.hkpr.on.ca/",
@@ -1111,14 +1111,14 @@
 		{
 			"city": "Hamilton, ON",
 			"img_url": "hamilton.jpg",
-			"confirmed": "256",
-			"probable": "",
-			"death": "9",
-			"hospitalization": "21",
+			"confirmed": "364",
+			"probable": "5",
+			"death": "17",
+			"hospitalization": "20",
 			"icu": "",
-			"resolved": "114",
+			"resolved": "176",
 			"under_investigation": "",
-			"tested": "1813",
+			"tested": "2928",
 			"url": "https://www.hamilton.ca/coronavirus/status-cases",
 			"death_url": "",
 			"twitter_url": "https://twitter.com/cityofhamilton",
@@ -1127,12 +1127,12 @@
 		{
 			"city": "Halton Hills, ON",
 			"img_url": "",
-			"confirmed": "91",
-			"probable": "6",
-			"death": "",
+			"confirmed": "124",
+			"probable": "8",
+			"death": "9",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "19",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus",
@@ -1143,12 +1143,12 @@
 		{
 			"city": "Interior, BC",
 			"img_url": "interior_bc.jpg",
-			"confirmed": "135",
+			"confirmed": "156",
 			"probable": "",
-			"death": "",
+			"death": "1",
 			"hospitalization": "10",
-			"icu": "",
-			"resolved": "",
+			"icu": "3",
+			"resolved": "99",
 			"under_investigation": "",
 			"tested": "",
 			"url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus",
@@ -1159,8 +1159,8 @@
 		{
 			"city": "Interlake Eastern, MB",
 			"img_url": "interlake_eastern.jpg",
-			"confirmed": "18",
-			"probable": "1",
+			"confirmed": "19",
+			"probable": "2",
 			"death": "",
 			"hospitalization": "",
 			"icu": "",
@@ -1175,12 +1175,12 @@
 		{
 			"city": "Kawartha Lakes, ON",
 			"img_url": "kawartha_lakes_on.jpg",
-			"confirmed": "108",
+			"confirmed": "117",
 			"probable": "",
-			"death": "33",
-			"hospitalization": "5",
+			"death": "32",
+			"hospitalization": "8",
 			"icu": "",
-			"resolved": "",
+			"resolved": "80",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.hkpr.on.ca/",
@@ -1191,12 +1191,12 @@
 		{
 			"city": "King, ON",
 			"img_url": "",
-			"confirmed": "12",
+			"confirmed": "19",
 			"probable": "",
-			"death": "1",
-			"hospitalization": "1",
-			"icu": "1",
-			"resolved": "3",
+			"death": "2",
+			"hospitalization": "",
+			"icu": "",
+			"resolved": "11",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -1207,14 +1207,14 @@
 		{
 			"city": "Kingston, ON",
 			"img_url": "kingston.png",
-			"confirmed": "55",
+			"confirmed": "59",
 			"probable": "",
 			"death": "",
-			"hospitalization": "2",
+			"hospitalization": "1",
 			"icu": "",
-			"resolved": "41",
-			"under_investigation": "103",
-			"tested": "1603",
+			"resolved": "56",
+			"under_investigation": "162",
+			"tested": "3131",
 			"url": "https://www.kflaph.ca/en/healthy-living/novel-coronavirus.aspx",
 			"death_url": "",
 			"twitter_url": "https://twitter.com/KFLAPH",
@@ -1239,9 +1239,9 @@
 		{
 			"city": "Lanaudière, QC",
 			"img_url": "lanaudiere.jfif",
-			"confirmed": "868",
+			"confirmed": "1583",
 			"probable": "",
-			"death": "24",
+			"death": "48",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1255,9 +1255,9 @@
 		{
 			"city": "Laurentides, QC",
 			"img_url": "laurentides.jpg",
-			"confirmed": "635",
+			"confirmed": "967",
 			"probable": "",
-			"death": "2",
+			"death": "13",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1271,9 +1271,9 @@
 		{
 			"city": "Laval, QC",
 			"img_url": "laval_qc.png",
-			"confirmed": "1268",
+			"confirmed": "2411",
 			"probable": "",
-			"death": "68",
+			"death": "195",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1287,12 +1287,12 @@
 		{
 			"city": "London and Middlesex, ON",
 			"img_url": "london_on.jpg",
-			"confirmed": "234",
+			"confirmed": "334",
 			"probable": "",
-			"death": "11",
+			"death": "22",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "107",
+			"resolved": "149",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.healthunit.com/novel-coronavirus#local-case-count",
@@ -1303,12 +1303,12 @@
 		{
 			"city": "Markham, ON",
 			"img_url": "markham.png",
-			"confirmed": "162",
+			"confirmed": "319",
 			"probable": "",
-			"death": "17",
-			"hospitalization": "15",
+			"death": "27",
+			"hospitalization": "19",
 			"icu": "10",
-			"resolved": "11",
+			"resolved": "72",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -1319,9 +1319,9 @@
 		{
 			"city": "Mauricie et Centre du Québec, QC",
 			"img_url": "mauricie.jpg",
-			"confirmed": "785",
+			"confirmed": "1086",
 			"probable": "",
-			"death": "41",
+			"death": "76",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1335,12 +1335,12 @@
 		{
 			"city": "Milton, ON",
 			"img_url": "milton_on.jpg",
-			"confirmed": "75",
-			"probable": "11",
-			"death": "",
+			"confirmed": "100",
+			"probable": "15",
+			"death": "2",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "57",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus",
@@ -1367,12 +1367,12 @@
 		{
 			"city": "Mississauga, ON",
 			"img_url": "mississauga.png",
-			"confirmed": "527",
+			"confirmed": "1100",
 			"probable": "",
-			"death": "",
+			"death": "52",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "121",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.peelregion.ca/coronavirus/testing/#cases",
@@ -1399,9 +1399,9 @@
 		{
 			"city": "Montérégie, QC",
 			"img_url": "monteregie.png",
-			"confirmed": "1433",
+			"confirmed": "2650",
 			"probable": "",
-			"death": "14",
+			"death": "71",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1415,9 +1415,9 @@
 		{
 			"city": "Montreal, QC",
 			"img_url": "montreal.jpg",
-			"confirmed": "6393",
+			"confirmed": "10375",
 			"probable": "",
-			"death": "162",
+			"death": "741",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1431,12 +1431,12 @@
 		{
 			"city": "Newmarket, ON",
 			"img_url": "newmarket.jpg",
-			"confirmed": "48",
+			"confirmed": "125",
 			"probable": "",
-			"death": "",
-			"hospitalization": "5",
-			"icu": "3",
-			"resolved": "9",
+			"death": "6",
+			"hospitalization": "2",
+			"icu": "2",
+			"resolved": "24",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -1447,12 +1447,12 @@
 		{
 			"city": "Niagara Region, ON",
 			"img_url": "niagara.png",
-			"confirmed": "250",
+			"confirmed": "412",
 			"probable": "",
-			"death": "10",
+			"death": "34",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "87",
+			"resolved": "158",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.niagararegion.ca/health/covid-19/default.aspx",
@@ -1495,12 +1495,12 @@
 		{
 			"city": "North Zone, SK",
 			"img_url": "north_sk.png",
-			"confirmed": "56",
+			"confirmed": "62",
 			"probable": "",
 			"death": "1",
-			"hospitalization": "",
+			"hospitalization": "1",
 			"icu": "",
-			"resolved": "36",
+			"resolved": "56",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan",
@@ -1511,9 +1511,9 @@
 		{
 			"city": "North Zone, AB",
 			"img_url": "north_zone_ab.jpg",
-			"confirmed": "103",
+			"confirmed": "154",
 			"probable": "",
-			"death": "6",
+			"death": "14",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1527,12 +1527,12 @@
 		{
 			"city": "Northern, BC",
 			"img_url": "northern_bc.png",
-			"confirmed": "26",
+			"confirmed": "42",
 			"probable": "",
 			"death": "",
-			"hospitalization": "4",
-			"icu": "",
-			"resolved": "",
+			"hospitalization": "3",
+			"icu": "3",
+			"resolved": "33",
 			"under_investigation": "",
 			"tested": "",
 			"url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus",
@@ -1559,7 +1559,7 @@
 		{
 			"city": "Northern, NS",
 			"img_url": "",
-			"confirmed": "34",
+			"confirmed": "38",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -1575,12 +1575,12 @@
 		{
 			"city": "Northumberland, ON",
 			"img_url": "northumberland.jpg",
-			"confirmed": "14",
+			"confirmed": "13",
 			"probable": "",
 			"death": "",
 			"hospitalization": "1",
 			"icu": "",
-			"resolved": "",
+			"resolved": "13",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.hkpr.on.ca/",
@@ -1591,7 +1591,7 @@
 		{
 			"city": "Nunavik, QC",
 			"img_url": "",
-			"confirmed": "10",
+			"confirmed": "14",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -1607,12 +1607,12 @@
 		{
 			"city": "Oakville, ON",
 			"img_url": "oakville.png",
-			"confirmed": "122",
-			"probable": "12",
-			"death": "",
+			"confirmed": "148",
+			"probable": "20",
+			"death": "1",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "",
+			"resolved": "98",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus",
@@ -1623,12 +1623,12 @@
 		{
 			"city": "Ottawa, ON",
 			"img_url": "ottawa.jpg",
-			"confirmed": "586",
+			"confirmed": "977",
 			"probable": "",
-			"death": "11",
-			"hospitalization": "41",
-			"icu": "14",
-			"resolved": "198",
+			"death": "35",
+			"hospitalization": "33",
+			"icu": "8",
+			"resolved": "405",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.ottawapublichealth.ca/en/reports-research-and-statistics/la-maladie-coronavirus-covid-19.aspx",
@@ -1639,9 +1639,9 @@
 		{
 			"city": "Outaouais, QC",
 			"img_url": "outaouais.png",
-			"confirmed": "172",
+			"confirmed": "229",
 			"probable": "",
-			"death": "",
+			"death": "1",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1655,8 +1655,8 @@
 		{
 			"city": "Prairie Mountain, MB",
 			"img_url": "",
-			"confirmed": "11",
-			"probable": "1",
+			"confirmed": "13",
+			"probable": "",
 			"death": "",
 			"hospitalization": "",
 			"icu": "",
@@ -1687,7 +1687,7 @@
 		{
 			"city": "Queens, PE",
 			"img_url": "",
-			"confirmed": "17",
+			"confirmed": "18",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -1703,12 +1703,12 @@
 		{
 			"city": "Regina, SK",
 			"img_url": "regina.jpg",
-			"confirmed": "63",
+			"confirmed": "71",
 			"probable": "",
 			"death": "1",
-			"hospitalization": "1",
-			"icu": "",
-			"resolved": "36",
+			"hospitalization": "2",
+			"icu": "1",
+			"resolved": "60",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan",
@@ -1735,12 +1735,12 @@
 		{
 			"city": "Richmond Hill, ON",
 			"img_url": "richmond_hill.jpg",
-			"confirmed": "88",
+			"confirmed": "135",
 			"probable": "",
-			"death": "1",
-			"hospitalization": "8",
-			"icu": "4",
-			"resolved": "15",
+			"death": "4",
+			"hospitalization": "5",
+			"icu": "2",
+			"resolved": "59",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -1751,9 +1751,9 @@
 		{
 			"city": "Saguenay Lac Saint Jean, QC",
 			"img_url": "saguenay_lac_saint_jean.jpg",
-			"confirmed": "161",
+			"confirmed": "257",
 			"probable": "",
-			"death": "5",
+			"death": "16",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1783,12 +1783,12 @@
 		{
 			"city": "Saskatoon, SK",
 			"img_url": "saskatoon.jpg",
-			"confirmed": "147",
+			"confirmed": "150",
 			"probable": "",
 			"death": "1",
-			"hospitalization": "6",
-			"icu": "",
-			"resolved": "78",
+			"hospitalization": "3",
+			"icu": "1",
+			"resolved": "129",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan",
@@ -1799,12 +1799,12 @@
 		{
 			"city": "Simcoe Muskoka, ON",
 			"img_url": "simcoe_muskoka_on.gif",
-			"confirmed": "151",
+			"confirmed": "233",
 			"probable": "",
-			"death": "8",
+			"death": "15",
 			"hospitalization": "11",
 			"icu": "",
-			"resolved": "62",
+			"resolved": "116",
 			"under_investigation": "",
 			"tested": "",
 			"url": "http://www.simcoemuskokahealthstats.org/topics/infectious-diseases/a-h/covid-19",
@@ -1815,9 +1815,9 @@
 		{
 			"city": "South Zone, AB",
 			"img_url": "south_zone_ab.jpg",
-			"confirmed": "31",
+			"confirmed": "373",
 			"probable": "",
-			"death": "",
+			"death": "2",
 			"hospitalization": "",
 			"icu": "",
 			"resolved": "",
@@ -1831,7 +1831,7 @@
 		{
 			"city": "Southern, MB",
 			"img_url": "southern_mb.png",
-			"confirmed": "27",
+			"confirmed": "28",
 			"probable": "5",
 			"death": "",
 			"hospitalization": "",
@@ -1852,7 +1852,7 @@
 			"death": "",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "6",
+			"resolved": "14",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan",
@@ -1863,14 +1863,14 @@
 		{
 			"city": "Sudbury, ON",
 			"img_url": "sudbury.jpg",
-			"confirmed": "36",
+			"confirmed": "49",
 			"probable": "",
 			"death": "1",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "21",
-			"under_investigation": "485",
-			"tested": "1520",
+			"resolved": "38",
+			"under_investigation": "403",
+			"tested": "2769",
 			"url": "https://www.phsd.ca/health-topics-programs/diseases-infections/coronavirus/current-status-covid-19",
 			"death_url": "",
 			"twitter_url": "https://twitter.com/GreaterSudbury",
@@ -1895,12 +1895,12 @@
 		{
 			"city": "Toronto, ON",
 			"img_url": "toronto.jpg",
-			"confirmed": "2225",
+			"confirmed": "4347",
 			"probable": "",
-			"death": "79",
-			"hospitalization": "208",
-			"icu": "85",
-			"resolved": "114",
+			"death": "222",
+			"hospitalization": "293",
+			"icu": "106",
+			"resolved": "286",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.toronto.ca/home/covid-19/",
@@ -1911,12 +1911,12 @@
 		{
 			"city": "Vancouver Coastal, BC",
 			"img_url": "vancouver_coastal.jfif",
-			"confirmed": "642",
+			"confirmed": "755",
 			"probable": "",
-			"death": "6",
-			"hospitalization": "48",
-			"icu": "",
-			"resolved": "",
+			"death": "63",
+			"hospitalization": "32",
+			"icu": "16",
+			"resolved": "495",
 			"under_investigation": "",
 			"tested": "",
 			"url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus ",
@@ -1927,12 +1927,12 @@
 		{
 			"city": "Vancouver Island, BC",
 			"img_url": "island_bc.jpg",
-			"confirmed": "84",
+			"confirmed": "111",
 			"probable": "",
-			"death": "",
-			"hospitalization": "11",
-			"icu": "",
-			"resolved": "",
+			"death": "3",
+			"hospitalization": "5",
+			"icu": "1",
+			"resolved": "80",
 			"under_investigation": "",
 			"tested": "",
 			"url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus",
@@ -1943,12 +1943,12 @@
 		{
 			"city": "Vaughan, ON",
 			"img_url": "vaughan.png",
-			"confirmed": "334",
+			"confirmed": "554",
 			"probable": "",
-			"death": "9",
+			"death": "25",
 			"hospitalization": "14",
-			"icu": "4",
-			"resolved": "50",
+			"icu": "5",
+			"resolved": "214",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -1959,14 +1959,14 @@
 		{
 			"city": "Waterloo Region, ON",
 			"img_url": "waterloo.png",
-			"confirmed": "327",
+			"confirmed": "582",
 			"probable": "",
-			"death": "11",
-			"hospitalization": "27",
-			"icu": "13",
-			"resolved": "106",
+			"death": "39",
+			"hospitalization": "26",
+			"icu": "7",
+			"resolved": "199",
 			"under_investigation": "",
-			"tested": "3154",
+			"tested": "5025",
 			"url": "https://www.regionofwaterloo.ca/en/health-and-wellness/positive-cases-in-waterloo-region.aspx",
 			"death_url": "",
 			"twitter_url": "https://twitter.com/ROWPublicHealth",
@@ -1975,7 +1975,7 @@
 		{
 			"city": "Western, NL",
 			"img_url": "",
-			"confirmed": "1",
+			"confirmed": "4",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -1991,7 +1991,7 @@
 		{
 			"city": "Western, NS",
 			"img_url": "",
-			"confirmed": "45",
+			"confirmed": "54",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
@@ -2007,12 +2007,12 @@
 		{
 			"city": "Whitchurch Stouffville, ON",
 			"img_url": "",
-			"confirmed": "11",
+			"confirmed": "21",
 			"probable": "",
 			"death": "",
 			"hospitalization": "",
 			"icu": "",
-			"resolved": "2",
+			"resolved": "7",
 			"under_investigation": "",
 			"tested": "",
 			"url": "https://www.york.ca/wps/portal/yorkhome/health/yr/infectiousdiseasesandprevention/covid19/",
@@ -2023,8 +2023,8 @@
 		{
 			"city": "Winnipeg, MB",
 			"img_url": "winnipeg.png",
-			"confirmed": "187",
-			"probable": "10",
+			"confirmed": "199",
+			"probable": "4",
 			"death": "",
 			"hospitalization": "",
 			"icu": "",
@@ -2444,6 +2444,46 @@
 		{
 			"day": "4/13",
 			"confirmed": 25680
+		},
+		{
+			"day": "4/14",
+			"confirmed": 27063
+		},
+		{
+			"day": "4/15",
+			"confirmed": 28379
+		},
+		{
+			"day": "4/16",
+			"confirmed": 30106
+		},
+		{
+			"day": "4/17",
+			"confirmed": 31927
+		},
+		{
+			"day": "4/18",
+			"confirmed": 33382
+		},
+		{
+			"day": "4/19",
+			"confirmed": 35055
+		},
+		{
+			"day": "4/20",
+			"confirmed": 36830
+		},
+		{
+			"day": "4/21",
+			"confirmed": 38421
+		},
+		{
+			"day": "4/22",
+			"confirmed": 40190
+		},
+		{
+			"day": "4/23",
+			"confirmed": 42110
 		}
 	],
 	"canada_new_confirmed_cases_by_day": [
@@ -2766,6 +2806,46 @@
 		{
 			"day": "4/13",
 			"confirmed": 1296
+		},
+		{
+			"day": "4/14",
+			"confirmed": 1383
+		},
+		{
+			"day": "4/15",
+			"confirmed": 1316
+		},
+		{
+			"day": "4/16",
+			"confirmed": 1727
+		},
+		{
+			"day": "4/17",
+			"confirmed": 1821
+		},
+		{
+			"day": "4/18",
+			"confirmed": 1455
+		},
+		{
+			"day": "4/19",
+			"confirmed": 1673
+		},
+		{
+			"day": "4/20",
+			"confirmed": 1775
+		},
+		{
+			"day": "4/21",
+			"confirmed": 1591
+		},
+		{
+			"day": "4/22",
+			"confirmed": 1769
+		},
+		{
+			"day": "4/23",
+			"confirmed": 1920
 		}
 	],
 	"canada_cases_by_day": [
@@ -3687,14 +3767,214 @@
 			"cases": 7470
 		},
 		{
-			"day": "4/12",
+			"day": "4/13",
 			"type": "B.C.",
 			"cases": 1490
 		},
 		{
-			"day": "4/12",
+			"day": "4/13",
 			"type": "Alberta",
 			"cases": 1732
+		},
+		{
+			"day": "4/14",
+			"type": "Quebec",
+			"cases": 14248
+		},
+		{
+			"day": "4/14",
+			"type": "Ontario",
+			"cases": 7953
+		},
+		{
+			"day": "4/14",
+			"type": "B.C.",
+			"cases": 1517
+		},
+		{
+			"day": "4/14",
+			"type": "Alberta",
+			"cases": 1870
+		},
+		{
+			"day": "4/15",
+			"type": "Quebec",
+			"cases": 14860
+		},
+		{
+			"day": "4/15",
+			"type": "Ontario",
+			"cases": 8447
+		},
+		{
+			"day": "4/15",
+			"type": "B.C.",
+			"cases": 1561
+		},
+		{
+			"day": "4/15",
+			"type": "Alberta",
+			"cases": 1996
+		},
+		{
+			"day": "4/16",
+			"type": "Quebec",
+			"cases": 15857
+		},
+		{
+			"day": "4/16",
+			"type": "Ontario",
+			"cases": 8961
+		},
+		{
+			"day": "4/16",
+			"type": "B.C.",
+			"cases": 1575
+		},
+		{
+			"day": "4/16",
+			"type": "Alberta",
+			"cases": 2158
+		},
+		{
+			"day": "4/17",
+			"type": "Quebec",
+			"cases": 16798
+		},
+		{
+			"day": "4/17",
+			"type": "Ontario",
+			"cases": 9525
+		},
+		{
+			"day": "4/17",
+			"type": "B.C.",
+			"cases": 1618
+		},
+		{
+			"day": "4/17",
+			"type": "Alberta",
+			"cases": 2397
+		},
+		{
+			"day": "4/18",
+			"type": "Quebec",
+			"cases": 17521
+		},
+		{
+			"day": "4/18",
+			"type": "Ontario",
+			"cases": 10010
+		},
+		{
+			"day": "4/18",
+			"type": "B.C.",
+			"cases": 1647
+		},
+		{
+			"day": "4/18",
+			"type": "Alberta",
+			"cases": 2562
+		},
+		{
+			"day": "4/19",
+			"type": "Quebec",
+			"cases": 18357
+		},
+		{
+			"day": "4/19",
+			"type": "Ontario",
+			"cases": 10578
+		},
+		{
+			"day": "4/19",
+			"type": "B.C.",
+			"cases": 1647
+		},
+		{
+			"day": "4/19",
+			"type": "Alberta",
+			"cases": 2803
+		},
+		{
+			"day": "4/20",
+			"type": "Quebec",
+			"cases": 19319
+		},
+		{
+			"day": "4/20",
+			"type": "Ontario",
+			"cases": 11184
+		},
+		{
+			"day": "4/20",
+			"type": "B.C.",
+			"cases": 1699
+		},
+		{
+			"day": "4/20",
+			"type": "Alberta",
+			"cases": 2908
+		},
+		{
+			"day": "4/21",
+			"type": "Quebec",
+			"cases": 20126
+		},
+		{
+			"day": "4/21",
+			"type": "Ontario",
+			"cases": 11735
+		},
+		{
+			"day": "4/21",
+			"type": "B.C.",
+			"cases": 1724
+		},
+		{
+			"day": "4/21",
+			"type": "Alberta",
+			"cases": 3095
+		},
+		{
+			"day": "4/22",
+			"type": "Quebec",
+			"cases": 20965
+		},
+		{
+			"day": "4/22",
+			"type": "Ontario",
+			"cases": 12245
+		},
+		{
+			"day": "4/22",
+			"type": "B.C.",
+			"cases": 1795
+		},
+		{
+			"day": "4/22",
+			"type": "Alberta",
+			"cases": 3401
+		},
+		{
+			"day": "4/23",
+			"type": "Quebec",
+			"cases": 21838
+		},
+		{
+			"day": "4/23",
+			"type": "Ontario",
+			"cases": 12879
+		},
+		{
+			"day": "4/23",
+			"type": "B.C.",
+			"cases": 1824
+		},
+		{
+			"day": "4/23",
+			"type": "Alberta",
+			"cases": 3720
 		}
 	],
 	"canada_cases_by_province_by_day_group_2": [
@@ -4892,6 +5172,406 @@
 			"day": "4/13",
 			"type": "N.W.T.",
 			"cases": 5
+		},
+		{
+			"day": "4/14",
+			"type": "Saskatchewan",
+			"cases": 301
+		},
+		{
+			"day": "4/14",
+			"type": "N.L.",
+			"cases": 244
+		},
+		{
+			"day": "4/14",
+			"type": "Nova Scotia",
+			"cases": 517
+		},
+		{
+			"day": "4/14",
+			"type": "Manitoba",
+			"cases": 246
+		},
+		{
+			"day": "4/14",
+			"type": "New Brunswick",
+			"cases": 116
+		},
+		{
+			"day": "4/14",
+			"type": "P.E.I.",
+			"cases": 25
+		},
+		{
+			"day": "4/14",
+			"type": "Yukon",
+			"cases": 8
+		},
+		{
+			"day": "4/14",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/15",
+			"type": "Saskatchewan",
+			"cases": 304
+		},
+		{
+			"day": "4/15",
+			"type": "N.L.",
+			"cases": 247
+		},
+		{
+			"day": "4/15",
+			"type": "Nova Scotia",
+			"cases": 549
+		},
+		{
+			"day": "4/15",
+			"type": "Manitoba",
+			"cases": 246
+		},
+		{
+			"day": "4/15",
+			"type": "New Brunswick",
+			"cases": 117
+		},
+		{
+			"day": "4/15",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/15",
+			"type": "Yukon",
+			"cases": 8
+		},
+		{
+			"day": "4/15",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/16",
+			"type": "Saskatchewan",
+			"cases": 305
+		},
+		{
+			"day": "4/16",
+			"type": "N.L.",
+			"cases": 252
+		},
+		{
+			"day": "4/16",
+			"type": "Nova Scotia",
+			"cases": 579
+		},
+		{
+			"day": "4/16",
+			"type": "Manitoba",
+			"cases": 250
+		},
+		{
+			"day": "4/16",
+			"type": "New Brunswick",
+			"cases": 117
+		},
+		{
+			"day": "4/16",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/16",
+			"type": "Yukon",
+			"cases": 8
+		},
+		{
+			"day": "4/16",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/17",
+			"type": "Saskatchewan",
+			"cases": 307
+		},
+		{
+			"day": "4/17",
+			"type": "N.L.",
+			"cases": 256
+		},
+		{
+			"day": "4/17",
+			"type": "Nova Scotia",
+			"cases": 606
+		},
+		{
+			"day": "4/17",
+			"type": "Manitoba",
+			"cases": 250
+		},
+		{
+			"day": "4/17",
+			"type": "New Brunswick",
+			"cases": 117
+		},
+		{
+			"day": "4/17",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/17",
+			"type": "Yukon",
+			"cases": 9
+		},
+		{
+			"day": "4/17",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/18",
+			"type": "Saskatchewan",
+			"cases": 313
+		},
+		{
+			"day": "4/18",
+			"type": "N.L.",
+			"cases": 256
+		},
+		{
+			"day": "4/18",
+			"type": "Nova Scotia",
+			"cases": 649
+		},
+		{
+			"day": "4/18",
+			"type": "Manitoba",
+			"cases": 253
+		},
+		{
+			"day": "4/18",
+			"type": "New Brunswick",
+			"cases": 118
+		},
+		{
+			"day": "4/18",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/18",
+			"type": "Yukon",
+			"cases": 9
+		},
+		{
+			"day": "4/18",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/19",
+			"type": "Saskatchewan",
+			"cases": 315
+		},
+		{
+			"day": "4/19",
+			"type": "N.L.",
+			"cases": 256
+		},
+		{
+			"day": "4/19",
+			"type": "Nova Scotia",
+			"cases": 675
+		},
+		{
+			"day": "4/19",
+			"type": "Manitoba",
+			"cases": 253
+		},
+		{
+			"day": "4/19",
+			"type": "New Brunswick",
+			"cases": 118
+		},
+		{
+			"day": "4/19",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/19",
+			"type": "Yukon",
+			"cases": 9
+		},
+		{
+			"day": "4/19",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/20",
+			"type": "Saskatchewan",
+			"cases": 316
+		},
+		{
+			"day": "4/20",
+			"type": "N.L.",
+			"cases": 256
+		},
+		{
+			"day": "4/20",
+			"type": "Nova Scotia",
+			"cases": 721
+		},
+		{
+			"day": "4/20",
+			"type": "Manitoba",
+			"cases": 254
+		},
+		{
+			"day": "4/20",
+			"type": "New Brunswick",
+			"cases": 118
+		},
+		{
+			"day": "4/20",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/20",
+			"type": "Yukon",
+			"cases": 11
+		},
+		{
+			"day": "4/20",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/21",
+			"type": "Saskatchewan",
+			"cases": 320
+		},
+		{
+			"day": "4/21",
+			"type": "N.L.",
+			"cases": 256
+		},
+		{
+			"day": "4/21",
+			"type": "Nova Scotia",
+			"cases": 737
+		},
+		{
+			"day": "4/21",
+			"type": "Manitoba",
+			"cases": 255
+		},
+		{
+			"day": "4/21",
+			"type": "New Brunswick",
+			"cases": 118
+		},
+		{
+			"day": "4/21",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/21",
+			"type": "Yukon",
+			"cases": 11
+		},
+		{
+			"day": "4/21",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/22",
+			"type": "Saskatchewan",
+			"cases": 326
+		},
+		{
+			"day": "4/22",
+			"type": "N.L.",
+			"cases": 256
+		},
+		{
+			"day": "4/22",
+			"type": "Nova Scotia",
+			"cases": 772
+		},
+		{
+			"day": "4/22",
+			"type": "Manitoba",
+			"cases": 257
+		},
+		{
+			"day": "4/22",
+			"type": "New Brunswick",
+			"cases": 118
+		},
+		{
+			"day": "4/22",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/22",
+			"type": "Yukon",
+			"cases": 11
+		},
+		{
+			"day": "4/22",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "4/23",
+			"type": "Saskatchewan",
+			"cases": 331
+		},
+		{
+			"day": "4/23",
+			"type": "N.L.",
+			"cases": 256
+		},
+		{
+			"day": "4/23",
+			"type": "Nova Scotia",
+			"cases": 827
+		},
+		{
+			"day": "4/23",
+			"type": "Manitoba",
+			"cases": 262
+		},
+		{
+			"day": "4/23",
+			"type": "New Brunswick",
+			"cases": 118
+		},
+		{
+			"day": "4/23",
+			"type": "P.E.I.",
+			"cases": 26
+		},
+		{
+			"day": "4/23",
+			"type": "Yukon",
+			"cases": 11
+		},
+		{
+			"day": "4/23",
+			"type": "N.W.T.",
+			"cases": 5
 		}
 	],
 	"menu": [
@@ -4901,22 +5581,26 @@
 		},
 		{
 			"url": "#canada-charts",
-			"section": "Charts"
+			"section": "Canada COVID-19 Charts"
+		},
+		{
+			"url": "#epidemiological-charts",
+			"section": "Canada Epidemiological Charts"
+		},
+		{
+			"url": "#canada-testing-charts",
+			"section": "Canada COVID-19 Testing"
 		},
 		{
 			"url": "#canada-cases-by-city",
 			"section": "Canada Cases by City"
 		},
 		{
-			"url": "#canada-cases-details",
-			"section": "Canada Case Details"
-		},
-		{
 			"url": "#youtube-playlist",
 			"section": "Canada Youtube Playlist"
 		},
 		{
-			"url": "index.html#outbreak-summary-reports",
+			"url": "index.html#summary-reports",
 			"section": "Global Summary Report"
 		},
 		{
@@ -4932,16 +5616,8 @@
 			"section": "Global Outbreak Charts"
 		},
 		{
-			"url": "index.html#timeline",
-			"section": "Global Timeline"
-		},
-		{
 			"url": "index.html#must-read",
 			"section": "Must Read"
-		},
-		{
-			"url": "index.html#outbreak-comparisons",
-			"section": "Outbreak Comparisons"
 		},
 		{
 			"url": "index.html#youtube-playlist",
