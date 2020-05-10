@@ -27,41 +27,69 @@
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
 		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
 		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31",
-		"4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13", "4/14", "4/15",
-		"4/16", "4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23"
+		"4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13", "4/14", "4/15", "4/16",
+		"4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23", "4/24", "4/25", "4/26", "4/27", "4/28", "4/29", "4/30",
+		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9"
 	],
 
 	"confirmed_cases_by_day": [
 		9,9,9,9,9,9,9,9,13,13,13,13,16,20,23,36,39,51,87,116,164,209,278,321,383,460,590,798,1140,1391,1543,1950,2626,3269,3983,
 		5018,5683,6650,8077,9529,11658,14543,17089,19522,22141,25150,29474,33718,38168,41903,47806,51608,55242,60733,65077,73758,
-		78991,84279,88621,93873,98476,103093,108692,114217,120067,124743,129044,133495,138078
+		78991,84279,88621,93873,98476,103093,108692,114217,120067,124743,129044,133495,138078,143464,148377,152840,157149,161145,
+		165221,171253,177454,182260,186599,190584,194990,201101,206715,211364,215260
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,4,0,0,0,3,4,3,13,3,12,36,29,48,45,69,43,62,77,130,208,342,251,152,407,676,643,714,1035,665,967,1427,
-		1452,2129,2885,2546,2433,2619,3009,4324,4244,4450,3735,5903,3802,3634,5491,4344,8681,5233,5288,4342,5252,4603,4617,
-		5599,5525,5850,4676,4301,4451,4583
+		0,0,0,0,0,0,0,0,4,0,0,0,3,4,3,13,3,12,36,29,48,45,69,43,62,77,130,208,342,251,152,407,676,643,714,1035,665,967,1427,1452,
+		2129,2885,2546,2433,2619,3009,4324,4244,4450,3735,5903,3802,3634,5491,4344,8681,5233,5288,4342,5252,4603,4617,5599,5525,
+		5850,4676,4301,4451,4583,5386,4913,4463,4309,3996,4076,6032,6201,4806,4339,3985,4406,6111,5614,4649,3896
 	],
 	"active_cases_by_day": [
-		1,1,1,1,1,1,1,1,5,5,5,5,8,12,15,28,31,43,79,97,144,189,257,298,359,434,562,769,1101,1336,1436,1814,2457,3060,3741,4692,
-		5309,6180,7520,8931,10945,13649,15935,18159,20598,23226,26987,30662,34428,37455,42737,46100,48948,53501,56964,64456,
-		68772,73323,76948,81422,85264,89020,93772,98409,103663,107890,111363,115051,118996
+		1,1,1,1,1,1,1,1,5,5,5,5,8,12,15,28,31,43,79,97,145,190,258,300,358,435,563,770,1094,1328,1426,1804,2446,3046,3724,4675,5305,
+		6156,7434,8700,10646,13247,15499,17718,19963,22590,26244,29836,33572,36547,41806,45040,47636,52093,55334,62654,67048,71650,
+		75248,79456,83217,86805,91469,95879,101231,105348,108477,112091,115947,120328,124398,128441,132412,135499,138780,144138,149600,
+		153785,157809,161506,165219,170681,175756,179779,183329
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,5,6,8,10,11,21,35,55,71,104,144,177,233,281,335,422,463,578,759,1019,
-		1228,1408,1789,2352,2921,3605,4313,4934,5373,6159,7097,7978,8958,9875,10612,11329,12107,12868,13729,14576,15464,
-		16060,16509,17337,18100,18738
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7,7,9,10,28,43,65,81,115,158,194,250,285,359,508,694,877,1161,1455,1669,
+		2043,2425,3095,3747,4461,5221,5865,6433,7471,8505,9608,10760,11599,12285,13029,14073,14915,15944,16879,17994,18492,19051,
+		20223,21060,21787,22792,23635,24055,24393,25302,26097,26771,27510,28131,28446,28734,29427,30076,30615,31241,31587
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1,2,2,1,10,14,20,16,33,40,33,56,48,54,87,41,115,181,260,209,180,381,
-		563,569,684,708,621,439,786,938,881,980,917,737,717,778,761,861,847,888,596,449,828,763,638
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,0,2,1,18,15,22,16,34,43,36,56,35,74,149,186,183,284,294,214,374,382,670,
+		652,714,760,644,568,1038,1034,1103,1152,839,686,744,1044,842,1029,935,1115,498,559,1172,837,727,1005,843,420,338,909,795,
+		674,739,621,315,288,693,649,539,626,346
 	],
 	"youtube_playlist": [
-		{"vid": "W58TDx-zAIY", "title": "33,000 new UK hospital beds for coronavirus patients", "source": "BBC News"},
-		{"vid": "sel-w2DBxpA", "title": "Coronavirus: UK government unveils aid for self-employed", "source": "BBC"},
-		{"vid": "FrOyJMgC1rY", "title": "Coronavirus: UK deaths rise by 185 to 769", "source": "Sky News"},
-		{"vid": "mc6OVmNnPJo", "title": "Coronavirus: How can we improve NHS support?", "source": "BBC"}
+		{"vid": "4CJQYD5qCNk", "title": "Coronavirus press conference (4 May 2020)", "source": "10 Downing Street"},
+		{"vid": "mc5nU5WVMDk", "title": "UK to test contact tracing app on Isle of Wight ", "source": "BBC"},
+		{"vid": "F52hQhI_qI0", "title": "Boris Johnson releases video reiterating five steps to easing the coronavirus lockdown in the UK", "source": "The Telegraph"},
+		{"vid": "LW63FqvGIkk", "title": "What will Britain’s workplaces look like post-lockdown?", "source": "Evening Standard"},
+		{"vid": "ScIT_a2jF44", "title": "Boris Johnson says he almost died from coronavirus", "source": "ABC News"},
+		{"vid": "ZzfhpTNuugI", "title": "What will the UK's new 'norm' look like when the lockdown eases?", "source": "The Telegraph"},
+		{"vid": "nhHJun775xs", "title": "Boris Johnson addresses world leaders at the Coronavirus Global Response conference", "source": "The Telegraph"},
+		{"vid": "kWDDJV4ux-Q", "title": "Possible post-lockdown workplace rules", "source": "BBC"},
+		{"vid": "-nygLfErZzs", "title": "UK coronavirus hospital admissions 'past peak' -", "source": "BBC"},
+		{"vid": "5vDocUB5_bA", "title": "It would be ‘ageist’ to extend COVID-19 lockdown for UK’s elderly", "source": "Sky News"},
+		{"vid": "-VeCzV5FMAk", "title": "Migrants intercepted at UK border", "source": "Sky News"},
+		{"vid": "GQRPrjjkhKo", "title": "Plans to ease lockdown are studied by ministers", "source": "BBC News"},
+		{"vid": "UMGgqt2hJnc", "title": "We will not open schools until it is safe - Hancock", "source": "BBC"},
+		{"vid": "eVOjpwuMZwA", "title": "Inside One U.K. Hospital’s Fight Against The Coronavirus", "source": "NBC News"},
+		{"vid": "fywQgmn6wJI", "title": "How are different UK regions coping with coronavirus?", "source": "Sky News"},
+		{"vid": "R8o2oJdPlNI", "title": "Coronavirus testing target of 100,000 hit by UK government", "source": "The Telegraph"},
+		{"vid": "zjsr8snRCp4", "title": "UK hospitals warned BAME staff may be at greater risk of coronavirus", "source": "Channel 4 News"},
+		{"vid": "TT780R1-1_k", "title": "How are we really coping in the UK?", "source": "BBC Newsnight"},
+		{"vid": "jsRtZ_g44gU", "title": "How close are we to passing the ‘five tests' to ease UK COVID-19 lockdown?", "source": "The Sun"},
+		{"vid": "4PGOp6WkkG4", "title": "Reopening of schools, PMQs and government's COVID-19 lockdown exit strategy", "source": "The Sun"},
+		{"vid": "iXxKdu2rTac", "title": "UK could be ‘worst affected’ country in Europe", "source": "5 News"},
+		{"vid": "aujX82XrN48", "title": "How London School of Economics Sees the Post-Virus Economy", "source": "Bloomberg Markets and Finance"},
+		{"vid": "7C4RWEJIHGk", "title": "BA warns of 12,000 job losses and years of weaker demand", "source": "BBC"},
+		{"vid": "dB4ccC09UWc", "title": "a third of deaths taking place in care homes", "source": "BBC"}
 	],
 	"menu": [
+		{
+			"url": "index.html",
+			"section": "Go Back to Home Page"
+		},
 		{
 			"url": "#uk-covid19-summary",
 			"section": "UK Covid-19 Summary"

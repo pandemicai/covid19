@@ -1,87 +1,75 @@
 {
-	"summary": {
-		"country": "France",
-		"country_fr": "France",
-		"country_cn": "法国",
-		"country_jp": "フランス",
-		"url": "https://www.reuters.com/article/health-coronavirus-france-toll/france-sees-worst-daily-death-toll-4th-country-to-report-3000-virus-deaths-idUSP6N2AZ026",
-		"source": "Reuters",
-		"country_code": "FR",
-		"icon": "FR.png",
-		"official_url": "",
-		"new": "0",
-		"confirmed": "52128",
-		"suspected": "0",
-		"death": "3523",
-		"death_new": "0",
-		"active": "39161",
-		"cured": "9444",
-		"serious": "5565",
-		"time": "Apr 01",
-		"new_24h": "0",
-		"death_new_24h": "0",
-		"population": "65273511",
-		"cities": ""
-	},
 	"day": [
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
 		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
 		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31",
 		"4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13", "4/14", "4/15",
-		"4/16", "4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23"
+		"4/16", "4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23", "4/24", "4/25", "4/26", "4/27", "4/28", "4/29", "4/30",
+		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9"
 	],
 	"confirmed_cases_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,5,7,11,20,20,45,45,86,103,118,133,171,238,274,344,392,511,562,767,900,
 		1012,1104,1203,1299,1453,1563,1720,1885,2039,2179,2402,2605,2795,2932,3287,3651,4033,4462,4934,5369,5862,6380,
-		7142,8274,9362,10484,11631,12772,13930
+		7142,8274,9362,10484,11631,12772,13930,15102,16299,17522,18811,20077,21402,22753,24097,25459,27011,28656,30251,
+		31938,33731,35432,37136
 	],
 	"new_cases_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,4,9,0,25,0,41,17,15,15,38,67,36,70,48,119,51,205,133,112,92,99,96,
-		154,110,157,165,154,140,223,203,190,137,355,364,382,429,472,435,493,518,762,1132,1088,1122,1147,1141,1158
+		154,110,157,165,154,140,223,203,190,137,355,364,382,429,472,435,493,518,762,1132,1088,1122,1147,1141,1158,1172,
+		1197,1223,1289,1266,1325,1351,1344,1362,1552,1645,1595,1687,1793,1701,1704
 	],
 	"active_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,6,10,19,19,44,44,85,102,115,127,165,232,266,336,376,494,543,738,869,
-		976,1066,1162,1225,1330,1388,1440,1536,1663,1730,1880,2016,2139,2260,2577,2919,3261,3642,4064,4407,4852,5307,
-		6006,6853,7867,8891,9882,10846,11884
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,6,10,19,19,44,44,85,102,115,127,165,232,266,336,376,494,543,738,869,976,
+		1066,1162,1225,1330,1388,1440,1536,1663,1730,1880,2016,2139,2260,2577,2919,3261,3642,4064,4407,4852,5307,6006,6853,
+		7867,8891,9882,10846,11884,12926,13948,15026,16136,17141,18292,19428,20373,21518,22693,23989,24620,24946,25714,
+		26083,26753
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,4,8,8,10,16,21,25,29,34,
-		38,41,41,44,47,52,59,65,73,79,83,87,92,97,103,109,114,121
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,4,8,8,10,16,21,25,29,34,38,41,
+		41,44,47,52,59,65,73,79,83,87,92,97,103,109,114,121,127,136,139,144,152,157,162,169,176,184,191,200,209,219,229,
+		239
 	],
 	"new_deaths_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,4,0,2,6,5,4,4,5,4,3,0,
-		3,3,5,7,6,8,6,4,4,5,5,6,6,5,7
+		3,3,5,7,6,8,6,4,4,5,5,6,6,5,7,6,9,3,5,8,5,5,7,7,8,7,9,9,10,10,10
 	],
 	"new_recoveries_by_day": [
 		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,3,0,0,2,0,8,1,2,9,1,4,2,2,29,49,50,99,64,23,69,
-		68,63,64,16,35,19,35,41,44,84,42,59,59,280,69,92,150,172,113
+		68,63,64,16,35,19,35,41,44,84,42,59,59,280,69,92,150,172,113,124,166,142,174,253,169,210,392,210,369,342,955,
+		1352,1015,1322,1024
 	],
 	"youtube_playlist": [
-		{"vid": "NVQnkFlAhw8", "title": "Coronavirus: 'The fight has only just begun,' says French PM", "source": "FRANCE 24 English"},
-		{"vid": "NaQA5NnuMvs", "title": "Covid-19 : point presse du 28 mars", "source": "RT France"},
-		{"vid": "tcq6HYHf15M", "title": "France extends lockdown as COVID-19 cases spread", "source": "Al Jazeera Englis"},
-		{"vid": "kqMnw6VGvx4", "title": "Covid-19: France stages first train evacuation of virus patients", "source": "FRANCE 24 Englis"}
+		{"vid": "kuxn5ttsfxk", "title": "How is Saudi Arabia responding to COVID-19?", "source": "The Business Year"},
+		{"vid": "CeyxUPSMn3U", "title": "Saudi Arabia Partially Lifts Curfew Except For Makkah", "source": "Malangi Official"},
+		{"vid": "lkWQGYenPQI", "title": "UAE and Saudi Arabia are the most impacted amid coronavirus outbreak", "source": "CNBC International TV"},
+		{"vid": "9RTvhMZfysw", "title": "Saudi Arabia: G20 health ministers hold virtual meeting on COVID-19", "source": "Ruptly"}
+	],
+	"map_data": [
 	],
 	"menu": [
 		{
-			"url": "#france-covid19-summary",
-			"section": "France Covid-19 Summary"
+			"url": "index.html",
+			"section": "Go Back to Home Page"
 		},
 		{
-			"url": "#france-covid-19-map",
-			"section": "France Covid-19 Map"
+			"url": "#saudi-arabia-covid19-summary",
+			"section": "Saudi Arabia Covid-19 Summary"
 		},
 		{
-			"url": "#france-charts",
-			"section": "France COVID-19 Charts"
+			"url": "#saudi-arabia-covid-19-map",
+			"section": "Saudi Arabia Covid-19 Map"
+		},
+		{
+			"url": "#saudi-arabia-charts",
+			"section": "Saudi Arabia COVID-19 Charts"
 		},
 		{
 			"url": "#epidemiological-charts",
-			"section": "France Epidemiological Charts"
+			"section": "Saudi Arabia Epidemiological Charts"
 		},
 		{
-			"url": "#france-testing-charts",
-			"section": "France COVID-19 Testing"
+			"url": "#saudi-arabia-testing-charts",
+			"section": "Saudi Arabia COVID-19 Testing"
 		},
 		{
 			"url": "#youtube-playlist",
