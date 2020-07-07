@@ -9,19 +9,7 @@
 		"country_code": "DE",
 		"icon": "DE.png",
 		"official_url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html",
-		"new": "0",
-		"confirmed": "50871",
-		"suspected": "0",
-		"death": "351",
-		"death_new": "0",
-		"active": "43862",
-		"cured": "6658",
-		"serious": "1581",
-		"time": "Mar 28",
-		"new_24h": "0",
-		"death_new_24h": "0",
-		"population": "83783942",
-		"cities": ""
+		"population": "83783942"
 	},
 	"day": [
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
@@ -32,43 +20,93 @@
 		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9", "5/10", "5/11", "5/12", "5/13", "5/14", "5/15",
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22","5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
-		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21"
+		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
 	],
 	"confirmed_cases_by_day": [
-		16,16,16,16,16,16,16,16,16,16,18,26,48,74,79,130,165,203,262,545,670,800,1040,1224,1565,1966,2745,3675,4599,5813,7272,9367,12327,15320,19848,22364,24873,29056,32991,37323,43938,50871,57695,62435,66885,71808,77981,84794,91159,96092,100123,103375,107663,113296,118235,122171,125452,127854,130072,132210,134753,137698,141397,143724,145742,147065,148453,150648,153129,154999,156513,157770,158758,159912,161539,163009,164077,164967,165664,166152,167007,168162,169430,170588,171324,171879,172576,173171,174098,174975,175699,176244,176651,177289,177827,178531,179021,179713,179986,180328,180789,181288,181895,182452,183019,183294,183494,183765,184091,184425,184923,185414,185696,185869,186205,186516,186510,186795,187251,187423,187671,188044,188382,190179,190126,190660,191216,191575
+		16,16,16,16,16,16,16,16,16,16,18,26,48,74,79,130,165,203,262,545,670,800,1040,1224,1565,1966,2745,3675,4599,5813,7272,9367,12327,15320,19848,22364,24873,29056,32991,37323,43938,50871,57695,62435,66885,71808,77981,84794,91159,96092,100123,103375,107663,113296,118235,122171,125452,127854,130072,132210,134753,137698,141397,143724,145742,147065,148453,150648,153129,154999,156513,157770,158758,159912,161539,163009,164077,164967,165664,166152,167007,168162,169430,170588,171324,171879,172576,173171,174098,174975,175699,176244,176651,177289,177827,178531,179021,179713,179986,180328,180789,181288,181895,182452,183019,183294,183494,183765,184091,184425,184923,185414,185696,185869,186205,186516,186510,186795,187251,187423,187671,188044,188382,190179,190126,190660,191216,191575,192119,192778,193254,193785,194399,194689,194864,195392,195832,196324,196717,197000,197418,197558,198057
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,2,8,22,26,5,51,35,38,59,283,125,130,240,184,341,401,779,930,924,1214,1459,2095,2960,2993,4528,2516,2509,4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218,2138,2543,2945,3699,2327,2018,1323,1388,2195,2481,1870,1514,1257,988,1154,1627,1470,1068,890,697,488,855,1155,1268,1158,736,555,697,595,927,877,724,545,407,638,538,704,490,692,273,342,461,499,607,557,567,275,200,271,326,334,498,491,282,173,336,311,0,285,456,172,248,373,338,1797,622,534,556,359
+		0,0,0,0,0,0,0,0,0,0,2,8,22,26,5,51,35,38,59,283,125,130,240,184,341,401,779,930,924,1214,1459,2095,2960,2993,4528,2516,2509,4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218,2138,2543,2945,3699,2327,2018,1323,1388,2195,2481,1870,1514,1257,988,1154,1627,1470,1068,890,697,488,855,1155,1268,1158,736,555,697,595,927,877,724,545,407,638,538,704,490,692,273,342,461,499,607,557,567,275,200,271,326,334,498,491,282,173,336,311,0,285,456,172,248,373,338,1797,622,534,556,359,544,659,476,531,614,290,175,528,440,492,393,283,418,140,499
 	],
 	"active_cases_by_day": [
-		13,13,9,7,7,3,2,2,2,2,3,11,32,58,63,114,149,187,246,528,652,782,1022,1204,1545,1938,2714,3621,4544,5754,7188,9274,12194,15161,19600,22071,24513,28480,29542,33570,37998,43862,48781,52683,52740,54933,58350,61247,65309,68248,69839,72865,69566,64647,63221,65522,65181,64532,62578,60515,58349,56646,53931,53786,53100,50703,48167,45933,44254,42439,40836,39794,38132,36198,34672,32886,30441,29155,28198,26459,24914,23191,22138,21378,20475,19910,19298,18233,17537,16747,15998,15617,15202,14566,13934,13361,12712,12361,11720,11657,11161,10790,10562,10682,10325,9794,9689,9247,9017,8426,8387,8151,8027,7993,7822,7485,6966,6744,6788,6656,6601,6559,6372,7652,7080,7300,7555,7713
+		13,13,9,7,7,3,2,2,2,2,3,11,32,58,63,114,149,187,246,528,652,782,1022,1204,1545,1938,2714,3621,4544,5754,7188,9274,12194,15161,19600,22071,24513,28480,29542,33570,37998,43862,48781,52683,52740,54933,58350,61247,65309,68248,69839,72865,69566,64647,63221,65522,65181,64532,62578,60515,58349,56646,53931,53786,53100,50703,48167,45933,44254,42439,40836,39794,38132,36198,34672,32886,30441,29155,28198,26459,24914,23191,22138,21378,20475,19910,19298,18233,17537,16747,15998,15617,15202,14566,13934,13361,12712,12361,11720,11657,11161,10790,10562,10682,10325,9794,9689,9247,9017,8426,8387,8151,8027,7993,7822,7485,6966,6744,6788,6656,6601,6559,6372,7652,7080,7300,7555,7713,7850,8092,7951,7973,8273,8163,8135,8251,7680,7463,7353,6927,7037,6772,6765
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,8,9,13,17,26,28,44,68,84,94,123,159,206,267,351,433,541,645,775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194,3495,3804,4052,4352,4538,4642,4862,5086,5315,5575,5760,5877,5976,6126,6314,6467,6623,6736,6812,6866,6993,6993,7275,7392,7510,7549,7569,7661,7738,7861,7928,8001,8027,8049,8123,8193,8270,8309,8352,8366,8371,8428,8498,8533,8570,8594,8600,8605,8618,8674,8699,8736,8763,8769,8776,8783,8831,8844,8851,8863,8867,8870,8885,8910,8927,8946,8960,8961,8962
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,8,9,13,17,26,28,44,68,84,94,123,159,206,267,351,433,541,645,775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194,3495,3804,4052,4352,4538,4642,4862,5086,5315,5575,5760,5877,5976,6126,6314,6467,6623,6736,6812,6866,6993,6993,7275,7392,7510,7549,7569,7661,7738,7861,7928,8001,8027,8049,8123,8193,8270,8309,8352,8366,8371,8428,8498,8533,8570,8594,8600,8605,8618,8674,8699,8736,8763,8769,8776,8783,8831,8844,8851,8863,8867,8870,8885,8910,8927,8946,8960,8961,8962,8969,8986,9003,9012,9026,9026,9029,9041,9052,9061,9064,9073,9081,9086,9092
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1,4,4,9,2,16,24,16,10,29,36,47,61,84,82,108,104,130,156,176,168,169,140,226,206,333,258,129,135,151,172,301,309,248,300,186,104,220,224,229,260,185,117,99,150,188,153,156,113,76,54,127,0,282,117,118,39,20,92,77,123,67,73,26,22,74,70,77,39,43,14,5,57,70,35,37,24,6,5,13,56,25,37,27,6,7,7,48,13,7,12,4,3,15,25,17,19,14,1,1
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1,4,4,9,2,16,24,16,10,29,36,47,61,84,82,108,104,130,156,176,168,169,140,226,206,333,258,129,135,151,172,301,309,248,300,186,104,220,224,229,260,185,117,99,150,188,153,156,113,76,54,127,0,282,117,118,39,20,92,77,123,67,73,26,22,74,70,77,39,43,14,5,57,70,35,37,24,6,5,13,56,25,37,27,6,7,7,48,13,7,12,4,3,15,25,17,19,14,1,1,7,17,17,9,14,0,3,12,11,9,3,9,8,5,6
 	],
 	"new_recoveries_by_day": [
-		0,0,4,2,0,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,7,0,21,0,0,21,0,38,10,65,29,57,187,2837,257,2126,985,1823,730,4289,2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000,3900,4400,4400,6114,2286,2600,3500,3700,4200,3900,3500,3000,2200,2500,2900,3000,3100,3400,2100,1600,2100,2400,2596,2204,1800,1600,1100,1217,1583,1500,1600,1400,900,800,1200,1100,1200,1100,1000,900,400,900,800,800,400,900,800,300,700,500,900,500,700,400,200,500,600,500,500,400,300,300,400,500,500,500,300,300,200
+		0,0,4,2,0,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,7,0,21,0,0,21,0,38,10,65,29,57,187,2837,257,2126,985,1823,730,4289,2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000,3900,4400,4400,6114,2286,2600,3500,3700,4200,3900,3500,3000,2200,2500,2900,3000,3100,3400,2100,1600,2100,2400,2596,2204,1800,1600,1100,1217,1583,1500,1600,1400,900,800,1200,1100,1200,1100,1000,900,400,900,800,800,400,900,800,300,700,500,900,500,700,400,200,500,600,500,500,400,300,300,400,500,500,500,300,300,200,400,400,600,500,300,400,200,400,1000,700,500,700,300,400,500
 	],
 	"youtube_playlist": [
-		{"vid": "EPCqPwXKzKQ", "title": "Germany eases coronavirus restrictions on shops", "source": "BBC News"},
-		{"vid": "3kPZogQXmY0", "title": "Germany eases coronavirus restrictions | Interview with Health Minister Spahn", "source": "DW News"},
-		{"vid": "7_FFSJR5qik", "title": "Germany: 'Biggest increase' in coronavirus deaths last week - RKI", "source": "Ruptly"},
-		{"vid": "dkJfEWYiiwI", "title": "Germany's Munich Oktoberfest cancelled due to Coronavirus", "source": "DW News"},
-		{"vid": "kY2RnN5xGjI", "title": "Germany takes in refugee children amid coronavirus pandemic", "source": "DW News"},
-		{"vid": "XwGqhamSh5Q", "title": "Germany is taking its first steps into re-opening since the coronavirus pandemic struck", "source": "Euronews"},
-		{"vid": "YILJnEqznZc", "title": "What Germany is doing right to fight the coronavirus", "source": "Los Angeles Times"},
-		{"vid": "VqboZGO99Lg", "title": "Employees Try to Keep Trains Clean to Curb Coronavirus Spread in Germany", "source": "VOA News"},
-		{"vid": "NGiW-Kgqjb0", "title": "Germany will start to ease lockdown, says Angela Merkel", "source": "Channel 4 News"},
-		{"vid": "22SQVZ4CeXA", "title": "Angela Merkel uses science background in coronavirus explainer", "source": "Guardian News"},
-		{"vid": "MJ4jY6ZqXQs", "title": "Germany starts mass-testing for coronavirus antibodies in bid to learn more about COVID-19", "source": "Euronews"},
-		{"vid": "I6tE4iL6Opc", "title": "Germany declares its coronavirus outbreak 'under control'", "source": "Sky News Australia"},
-		{"vid": "mz-aep91l8U", "title": "Life Inside Germany As National Lockdown Is Extended", "source": "NBC News"},
-		{"vid": "anLlOOYXRtc", "title": "Berlin 2020 Drone 4K Drone Germany Deutschland Aerial Ultra HD", "source": "Cretanis"},
-		{"vid": "YyqRsOPo4Ik", "title": "A Tale of Two Countries: Sweden, Germany take different COVID-19 approaches", "source": "ABC News"},
-		{"vid": "oI8CpW4lw7M", "title": "Did Germany pass peak point, as government eases lockdown rules?", "source": "TRT World Now"}
+		{
+				"vid": "UZ2YVvXL7Hk",
+				"title": "Coronavirus: Why are there outbreaks in meat processing plants? - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "JZckCXq2QFM",
+				"title": "400,000 forced into lockdown after local COVID-19 outbreak in Germany | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "nCqso36GtGU",
+				"title": "Nursing homes - the invisible epicentres of the coronavirus pandemic | COVID-19 Special",
+				"source": "DW News"
+		},
+		{
+				"vid": "-YKKJGZPmnE",
+				"title": "Why did local youth clash with police in the German city of Stuttgart? | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "SHaBsb-0LEs",
+				"title": "1,400 corona cases at a meat factory: Is Germany unable to get working conditions under control?",
+				"source": "DW News"
+		},
+		{
+				"vid": "MrZkZ2tF01U",
+				"title": "Coronavirus infects more than 1000 at German meat-processing plant | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "bF0cosp4M6E",
+				"title": "Coronavirus tracing apps: Do they work and can we trust them? | COVID-19 Special",
+				"source": "DW News"
+		},
+		{
+				"vid": "QTBN9GyFxdI",
+				"title": "EU leaders launch tough talks on post-coronavirus economy | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "QLW8mACX88w",
+				"title": "How face masks are changing our daily lives and behavior | COVID-19 Special",
+				"source": "DW News"
+		},
+		{
+				"vid": "IJGK4kfOE7U",
+				"title": "How coronavirus pushes women back into traditional roles | COVID-19 Special",
+				"source": "DW News"
+		},
+		{
+				"vid": "22rSRtOkG3Q",
+				"title": "Steroid Dexamethasone hailed as &#39;major breakthrough&#39; in treating COVID-19 | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "ODWcLnpeBag",
+				"title": "Coronavirus: Why has the COVID alert level changed?",
+				"source": "Sky News"
+		},
+		{
+				"vid": "yJN9m6Z0cPg",
+				"title": "McCann: German police want to retest saliva sample",
+				"source": "Sky News"
+		}
 	],
 	"map_data": [
 		{
@@ -184,6 +222,138 @@
 			"recovered": 0
 		}
 	],
+	"headline_news": [
+		{
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Joachim M\u00fcller-Jung",
+            "title": "Die gr\u00e4sslichen Narben der Corona-Pandemie - F.A.Z. - Frankfurter Allgemeine Zeitung",
+            "description": "Infektion \u00fcberlebt, Patient krank? Die \u00c4rzte sorgen sich zunehmend \u00fcber Folge- und Sp\u00e4tsch\u00e4den des \u201eMultiorganvirus\u201c. Das gilt auch f\u00fcr junge Patienten.",
+            "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/folgeschaeden-von-covid-19-die-graesslichen-narben-der-corona-pandemie-16843184.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/2538022708/1.6843187/facebook_teaser/covid-19-patienten-auf-der.jpg",
+            "publishedAt": "2020-07-03T19:31:00Z",
+            "content": "Immer wieder werden diese Vergleiche bem\u00fcht, oft wird es gleichgesetzt: Covid-19 und Influenza, Sars-CoV-2 und Erk\u00e4ltungsviren. Eine tr\u00fcgerische Hoffnung. Infizieren, ausschwitzen und weitermachen, s\u2026 [+2622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Corona-Warn-App: Fast 50.000 neue F\u00e4lle in Brasilien - WELT",
+            "description": "In Brasilien sind fast 1,5 Millionen Menschen mit dem Coronavirus infiziert \u2013 Tendenz steigend. Die Sterblichkeit in Deutschland ist wieder auf einem Vor-Corona-Niveau. Ein \u00dcberblick in Zahlen, Daten und Karten.",
+            "url": "https://www.welt.de/vermischtes/article206504969/Corona-Warn-App-Fast-50-000-neue-Faelle-in-Brasilien.html",
+            "urlToImage": "https://www.welt.de/img/vermischtes/mobile207496223/5801355207-ci16x9-w1200/corona-teaser-weltkarte.jpg",
+            "publishedAt": "2020-07-03T19:03:52Z",
+            "content": "Nach einem Peak im April hat sich die Zahl der Sterbef\u00e4lle in Deutschland anscheinend langfristig normalisiert. Das Statistische Bundesamt wertet w\u00f6chentlich die Sterbefallmeldungen der Standes\u00e4mter \u2026 [+7954 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "DER SPIEGEL",
+            "title": "Mutation D614G: Neue Corona-Variante offenbar ansteckender als urspr\u00fcngliches Virus - DER SPIEGEL",
+            "description": "Eine Mutation von Sars-CoV-2 hat sich mittlerweile weltweit durchgesetzt - offenbar ist sie infekti\u00f6ser als die urspr\u00fcngliche Variante aus China. Ob sie auch gef\u00e4hrlicher ist, ist unklar.",
+            "url": "https://www.spiegel.de/wissenschaft/medizin/coronavirus-neue-mutation-infektioeser-als-urspruengliches-virus-a-4db9b4e8-1851-4f89-ae6b-10be7a726517",
+            "urlToImage": "https://cdn.prod.www.spiegel.de/images/e54d59df-384a-4d39-b946-af145996055b_w1280_r1.77_fpx63.98_fpy50.jpg",
+            "publishedAt": "2020-07-03T18:39:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "N-tv.de"
+            },
+            "author": "n-tv NACHRICHTEN",
+            "title": "D\u00fcrfte H\u00f6hen-R\u00e4tsel erkl\u00e4ren:Hilft ein Dopingmittel gegen Covid-19? - n-tv NACHRICHTEN",
+            "description": "Menschen, die in H\u00f6henlagen leben, zeigen seltener schwere Symptome bei einer Corona-Infektion als jene im Flachland. Des R\u00e4tsels L\u00f6sung k\u00f6nnte im k\u00f6rpereigenen Hormon Epo liegen. Forscher glauben daher, dass es ein wirksames Medikament gegen Covid-19 sein k\u00f6\u2026",
+            "url": "https://www.n-tv.de/wissen/Hilft-ein-Dopingmittel-gegen-Covid-19-article21889122.html",
+            "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop21889159/632132384-cImg_16_9-w1200/imago0073985675h.jpg",
+            "publishedAt": "2020-07-03T17:27:04Z",
+            "content": "Menschen, die in H\u00f6henlagen leben, zeigen seltener schwere Symptome bei einer Corona-Infektion als jene im Flachland. Des R\u00e4tsels L\u00f6sung k\u00f6nnte im k\u00f6rpereigenen Hormon Epo liegen. Forscher glauben da\u2026 [+3687 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heilpraxisnet.de"
+            },
+            "author": "Volker Blasek",
+            "title": "COVID-19: Birgt diese Gicht-Heilpflanze ein Heilmittel? - Heilpraxisnet.de",
+            "description": "Colchicin scheint gegen COVID-19 zu wirken Die Herbstzeitlose (Colchicum autumnale) ist hochgiftig und kann bereits in kleinen Mengen f\u00fcr den Menschen t\u00f6dlich sein. Ausgerechnet in dieser Giftpflanze scheint laut einer aktuellen Studie ein Wirkstoff zu schlum\u2026",
+            "url": "https://www.heilpraxisnet.de/naturheilpraxis/covid-19-birgt-diese-gicht-heilpflanze-ein-heilmittel-20200703517909/",
+            "urlToImage": "https://www.heilpraxisnet.de/wp-content/uploads/2020/07/Herbstzeitlose.jpeg",
+            "publishedAt": "2020-07-03T14:05:34Z",
+            "content": "Colchicin scheint gegen COVID-19 zu wirken\r\nDie Herbstzeitlose (Colchicum autumnale) ist hochgiftig und kann bereits in kleinen Mengen f\u00fcr den Menschen t\u00f6dlich sein. Ausgerechnet in dieser Giftpflanz\u2026 [+3467 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aerzteblatt.de"
+            },
+            "author": "Deutscher \u00c4rzteverlag GmbH, Redaktion Deutsches \u00c4rzteblatt",
+            "title": "SARS-CoV-2: Wie gef\u00e4hrlich ist die Virusvariante G614? - Deutsches \u00c4rzteblatt",
+            "description": "Los Alamos/New Mexico \u2013Eine Variante von SARS-CoV-2, die durch eine Mutation an Position 614 des Spike-Proteins gekennzeichnet ist, hat sich von Europa...",
+            "url": "https://www.aerzteblatt.de/nachrichten/114358/SARS-CoV-2-Wie-gefaehrlich-ist-die-Virusvariante-G614",
+            "urlToImage": "https://www.aerzteblatt.de/bilder/cache/00/00/12/07/img-120755-476-0.JPG",
+            "publishedAt": "2020-07-03T13:44:17Z",
+            "content": "Los Alamos/New Mexico Eine Variante von SARS-CoV-2, die durch eine Mutation an Position 614 des Spike-Proteins gekennzeichnet ist, hat sich von Europa ausgehend innerhalb weniger Wochen weltweit ausg\u2026 [+4155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businessinsider.de"
+            },
+            "author": null,
+            "title": "Covid-19: Impfung gegen Masern, Mumps und R\u00f6teln k\u00f6nnte helfen - Business Insider Deutschland",
+            "description": "Impfstoffe, wie sie gegen Masern, Mumps und R\u00f6teln eingesetzt werden, k\u00f6nnten laut einer Studie Komplikationen wie etwa eine Sepsis bei Covid-19 verhindern.",
+            "url": "https://www.businessinsider.de/wissenschaft/gesundheit/impfung-gegen-masern-mumps-und-roeteln-koennte-vor-komplikationen-bei-covid-19-schuetzen/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2020/07/shutterstock_1622456521.jpg",
+            "publishedAt": "2020-07-03T08:55:10Z",
+            "content": "Billion Photos/Shutterstock\r\nImpfstoffe, wie sie gegen Masern, Mumps und R\u00f6teln eingesetzt werden, k\u00f6nnten laut einer Studie Komplikationen wie schwere Lungenentz\u00fcndungen bei einer Covid-19-Erkrankun\u2026 [+3855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "futurezone.de"
+            },
+            "author": "Bianca Brien",
+            "title": "Coronavirus-Schutz durch Ern\u00e4hrung: Das hilft dir wirklich - futurezone.de",
+            "description": "F\u00fcr einen Coronavirus-Schutz w\u00fcrden wir alles tun. Vielleicht solltest du dar\u00fcber nachdenken deine Ern\u00e4hrung umzustellen. Das sagt ein Experte.",
+            "url": "https://www.futurezone.de/science/article229438754/Coronavirus-Schutz-ueber-die-Ernaehrung-gewinnen-das-empfiehlt-ein-Experte.html",
+            "urlToImage": "https://img.futurezone.de/img/digital-life/crop228529045/0712605045-w820-cv16_9-q85/handy-essen-foto.jpg",
+            "publishedAt": "2020-07-03T06:46:06Z",
+            "content": "Kannst du dich durch die richtige Ern\u00e4hrung gegen Covid-19 sch\u00fctzen? Inwiefern das wirklich einen Coronavirus-Schutz bietet, erkl\u00e4ren wir dir.\r\nUm Krankheiten jeder Art abzuwehren, spielt unser Immun\u2026 [+3378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nw.de"
+            },
+            "author": "Jemima Wittig",
+            "title": "Schwerer Krankheitsverlauf: Welche Rolle spielt Vitamin D? - Neue Westf\u00e4lische",
+            "description": "Eine Studie weist auf einen Zusammenhang zwischen Risikogruppen, einem niedrigen Vitamin D-Spiegel und dem schweren Verlauf einer Covid-19-Erkrankung hin. Wie sinnvoll sind Vitamin-D-Produkte?",
+            "url": "https://www.nw.de/nachrichten/zwischen_weser_und_rhein/22817386_Schwerer-Krankheitsverlauf-Welche-Rolle-spielt-Vitamin-D.html",
+            "urlToImage": "https://www.nw.de/_em_daten/201901985/_/1xNhGwGlaCxpW8yCTbZ7v7yZPz2KMTetHIQphd9WqMBv4eyvHF9rOmgjs__Pq-XcGJBmEXvCG1D2YZwxivTLLFFrRkWTMxEeWr/200702-1500-293402141.jpg",
+            "publishedAt": "2020-07-02T17:40:00Z",
+            "content": "Paderborn. Bislang gibt es keinen Wirkstoff gegen das Coronavirus. Daf\u00fcr gibt es diverse Theorien, welche Mittel entweder vor einem schweren Verlauf sch\u00fctzen oder eine Ansteckung gar ganz verhindern.\u2026 [+157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "t-online.de"
+            },
+            "author": "Melanie Weiner, Manfred Sch\u00e4fer, Nicole Sagener, Sandra Simonsen, Anna Aridzanjan",
+            "title": "Coronavirus: Wer k\u00f6nnte ein gef\u00e4hrlicher \"Superspreader\" sein? - t-online.de",
+            "description": "Wie gef\u00e4hrlich ist das Coronavirus?\u00a0Was unterscheidet Covid-19 von einer Grippe oder einer Allergie?\u00a0Bei welchen Vorerkrankungen sind Infizierte besonders gef\u00e4hrdet?",
+            "url": "https://www.t-online.de/gesundheit/krankheiten-symptome/id_87342884/coronavirus-wer-koennte-ein-gefaehrlicher-superspreader-sein-.html",
+            "urlToImage": "https://bilder.t-online.de/b/87/66/62/34/id_87666234/tid_da/ein-mann-muss-husten-beim-ungeschuetzten-husten-kann-sekret-aus-den-atemwegen-in-form-von-troepfchen-und-aerosol-in-die-umgebung-gelangen-.jpg",
+            "publishedAt": "2020-07-02T14:51:28Z",
+            "content": "Mit den ersten Lockerungen der Corona-Ma\u00dfnahmen in Deutschland sinkt bei einigen Menschen die Sorge vor dem Virus. t-online.de erkl\u00e4rt, warum Vorsicht noch immer wichtig ist, welche Risikogruppen bes\u2026 [+26912 chars]"
+        }
+    ],
 	"menu": [
 		{
 			"url": "index.html",
@@ -212,6 +382,10 @@
 		{
 			"url": "#germany-testing-charts",
 			"section": "Germany COVID-19 Testing"
+		},
+		{
+			"url":"#headline-news",
+			"section":"Germany COVID-19 Headline News"
 		},
 		{
 			"url": "#youtube-playlist",

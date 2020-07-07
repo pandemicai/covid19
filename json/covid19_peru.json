@@ -8,22 +8,23 @@
 		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9", "5/10", "5/11", "5/12", "5/13", "5/14", "5/15",
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22", "5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
-		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21"
+		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
 	],
 	"confirmed_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,9,11,17,22,38,43,71,86,117,145,234,263,318,363,395,416,480,580,635,671,852,950,1065,1323,1414,1595,1746,2281,2561,2954,4342,5256,5897,6848,7519,9784,10303,11475,12491,13489,14420,15628,16325,17837,19250,20914,21648,25331,27517,28699,31190,33931,36976,40459,42534,45928,47372,51189,54817,58526,61847,65015,67307,68822,72059,76306,80604,84495,88541,92273,94933,99483,104020,108769,111698,115754,119959,123979,129751,135905,141779,148285,155671,164476,170039,174884,178914,183198,187400,191758,196515,199696,203736,208823,214788,220749,225132,229736,232992,237156,240908,244388,247925,251338,254936
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,9,11,17,22,38,43,71,86,117,145,234,263,318,363,395,416,480,580,635,671,852,950,1065,1323,1414,1595,1746,2281,2561,2954,4342,5256,5897,6848,7519,9784,10303,11475,12491,13489,14420,15628,16325,17837,19250,20914,21648,25331,27517,28699,31190,33931,36976,40459,42534,45928,47372,51189,54817,58526,61847,65015,67307,68822,72059,76306,80604,84495,88541,92273,94933,99483,104020,108769,111698,115754,119959,123979,129751,135905,141779,148285,155671,164476,170039,174884,178914,183198,187400,191758,196515,199696,203736,208823,214788,220749,225132,229736,232992,237156,240908,244388,247925,251338,254936,257447,260810,264689,268602,272364,275989,279419,282365,285213,288477,292004,295599,299080,302718,305703
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,2,2,6,5,16,5,28,15,31,28,89,29,55,45,32,21,64,100,55,36,181,98,115,258,91,181,151,535,280,393,1388,914,641,951,671,2265,519,1172,1016,998,931,1208,697,1512,1413,1664,734,3683,2186,1182,2491,2741,3045,3483,2075,3394,1444,3817,3628,3709,3321,3168,2292,1515,3237,4247,4298,3891,4046,3732,2660,4550,4537,4749,2929,4056,4205,4020,5772,6154,5874,6506,7386,8805,5563,4845,4030,4284,4202,4358,4757,3181,4040,5087,5965,5961,4383,4604,3256,4164,3752,3480,3537,3413,3598
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,2,2,6,5,16,5,28,15,31,28,89,29,55,45,32,21,64,100,55,36,181,98,115,258,91,181,151,535,280,393,1388,914,641,951,671,2265,519,1172,1016,998,931,1208,697,1512,1413,1664,734,3683,2186,1182,2491,2741,3045,3483,2075,3394,1444,3817,3628,3709,3321,3168,2292,1515,3237,4247,4298,3891,4046,3732,2660,4550,4537,4749,2929,4056,4205,4020,5772,6154,5874,6506,7386,8805,5563,4845,4030,4284,4202,4358,4757,3181,4040,5087,5965,5961,4383,4604,3256,4164,3752,3480,3537,3413,3598,2511,3363,3879,3913,3762,3625,3430,2946,2848,3264,3527,3595,3481,3638,2985
 	],
 	"active_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,9,11,17,22,38,43,71,85,116,144,232,258,312,357,389,408,470,557,608,639,818,873,641,891,822,997,759,1209,1472,1546,2888,3680,4159,4928,5528,6926,7204,8113,6097,6648,7388,8417,8912,10371,11693,12920,13518,16834,18701,19492,21157,22951,25520,28206,28900,31092,31601,34332,35757,38511,41121,42955,44069,44455,46678,49813,53186,54956,57746,61004,61838,60045,59028,62034,63606,64466,66708,69401,73057,75753,78238,81264,84853,92762,96898,100860,101701,101939,103024,103726,104831,104569,105069,104889,106250,107308,106910,107469,106723,104895,105029,105737,104745,104714,104924
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,9,11,17,22,38,43,71,85,116,144,232,258,312,357,389,408,470,557,608,639,818,873,641,891,822,997,759,1209,1472,1546,2888,3680,4159,4928,5528,6926,7204,8113,6097,6648,7388,8417,8912,10371,11693,12920,13518,16834,18701,19492,21157,22951,25520,28206,28900,31092,31601,34332,35757,38511,41121,42955,44069,44455,46678,49813,53186,54956,57746,61004,61838,60045,59028,62034,63606,64466,66708,69401,73057,75753,78238,81264,84853,92762,96898,100860,101701,101939,103024,103726,104831,104569,105069,104889,106250,107308,106910,107469,106723,104895,105029,105737,104745,104714,104924,103904,103969,104514,103767,103619,102830,102104,101702,101001,100372,99862,99521,99047,98172,97312
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,5,5,7,9,9,11,16,18,24,30,38,55,61,73,83,92,107,121,138,169,181,193,216,230,254,274,300,348,400,445,484,530,572,634,700,728,782,854,943,1051,1124,1200,1286,1344,1444,1533,1627,1714,1814,1889,1961,2057,2169,2267,2392,2523,2648,2789,2914,3024,3148,3244,3373,3456,3629,3788,3983,4099,4230,4371,4506,4634,4767,4894,5031,5162,5301,5465,5571,5738,5903,6109,6308,6498,6688,6860,7056,7257,7461,7660,7861,8045
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,5,5,7,9,9,11,16,18,24,30,38,55,61,73,83,92,107,121,138,169,181,193,216,230,254,274,300,348,400,445,484,530,572,634,700,728,782,854,943,1051,1124,1200,1286,1344,1444,1533,1627,1714,1814,1889,1961,2057,2169,2267,2392,2523,2648,2789,2914,3024,3148,3244,3373,3456,3629,3788,3983,4099,4230,4371,4506,4634,4767,4894,5031,5162,5301,5465,5571,5738,5903,6109,6308,6498,6688,6860,7056,7257,7461,7660,7861,8045,8223,8404,8586,8761,8939,9135,9317,9504,9677,9860,10045,10226,10412,10589,10772
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,2,2,0,2,5,2,6,6,8,17,6,12,10,9,15,14,17,31,12,12,23,14,24,20,26,48,52,45,39,46,42,62,66,28,54,72,89,108,73,76,86,58,100,89,94,87,100,75,72,96,112,98,125,131,125,141,125,110,124,96,129,83,173,159,195,116,131,141,135,128,133,127,137,131,139,164,106,167,165,206,199,190,190,172,196,201,204,199,201,184
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,2,2,0,2,5,2,6,6,8,17,6,12,10,9,15,14,17,31,12,12,23,14,24,20,26,48,52,45,39,46,42,62,66,28,54,72,89,108,73,76,86,58,100,89,94,87,100,75,72,96,112,98,125,131,125,141,125,110,124,96,129,83,173,159,195,116,131,141,135,128,133,127,137,131,139,164,106,167,165,206,199,190,190,172,196,201,204,199,201,184,178,181,182,175,178,196,182,187,173,183,185,181,186,177,183
 	],
 	"youtube_playlist": [
 		{"vid": "qYV09eIggZw", "title": "Coronavirus en Perú: Conferencia de prensa de Martín Vizcarra en el día 42 del estado de emergencia", "source": "RTV - The Republic"},
@@ -222,6 +223,99 @@
 			"recovered": 0
 		}
 	],
+	"headline_news": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Peru looks to restart economy after months-long lockdown - Reuters",
+            "description": "Peru entered the final stage of its economic reopening on Wednesday after ending a months-long lockdown to try and contain the spread of the novel coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-peru-idUSKBN2427CP",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200701&t=2&i=1524336518&w=1200&r=LYNXMPEG604J3",
+            "publishedAt": "2020-07-01T21:01:00Z",
+            "content": "LIMA (Reuters) - Peru entered the final stage of its economic reopening on Wednesday after ending a months-long lockdown to try and contain the spread of the novel coronavirus. \r\nThe government said \u2026 [+1329 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Peru's biggest LGBTQ nightclub reopens as grocery store to survive pandemic - Reuters India",
+            "description": "As Peru begins to ease its strict coronavirus lockdown, the country's biggest LGBTQ nightclub opened its doors on Tuesday, but there will be no nighttime revelers; its dance floor will instead be filled with shelves stocked with groceries.",
+            "url": "https://in.reuters.com/article/health-coronavirus-peru-nightclub-idINKBN24244D",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200701&t=2&i=1524215581&w=1200&r=LYNXMPEG602I0",
+            "publishedAt": "2020-07-01T03:12:09Z",
+            "content": "LIMA (Reuters) - As Peru begins to ease its strict coronavirus lockdown, the country\u2019s biggest LGBTQ nightclub opened its doors on Tuesday, but there will be no nighttime revelers; its dance floor wi\u2026 [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marco Aquino",
+            "title": "Peruvian prices sink into deflationary territory in June - Reuters",
+            "description": "Consumer prices in Peru fell 0.27% in June mainly due to a contraction in food prices, the government said on Wednesday, as the country moves to cautiously resume economic activity halted by the novel coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/peru-economy-idUSL1N2E80ZI",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-07-01T14:38:00Z",
+            "content": "LIMA, July 1 (Reuters) - Consumer prices in Peru fell 0.27% in June mainly due to a contraction in food prices, the government said on Wednesday, as the country moves to cautiously resume economic ac\u2026 [+962 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marco Aquino",
+            "title": "Peru mining activity tumbles in May for third straight month - Reuters",
+            "description": "Activity in Peru's mining and hydrocarbons sector plummeted 45.79% in May from a year earlier, the third straight monthly drop, the government said on Wednesday, due to a lockdown to fight the COVID-19 pandemic.",
+            "url": "https://www.reuters.com/article/peru-economy-mining-idUSL1N2E81CG",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-07-01T15:27:00Z",
+            "content": "LIMA, July 1 (Reuters) - Activity in Peru\u2019s mining and hydrocarbons sector plummeted 45.79% in May from a year earlier, the third straight monthly drop, the government said on Wednesday, due to a loc\u2026 [+759 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "FRANKLIN BRICENO / AP",
+            "title": "Peruvians Fill the Streets as Lockdown Ends Despite New Infections",
+            "description": "Blocks-long lines formed at bus stops, food markets and shopping centers in Peru's capital Wednesday as people left their homes en masse.",
+            "url": "https://time.com/5862495/peru-lockdown-ends/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2020/07/AP20183649556222.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2020-07-02T04:54:02Z",
+            "content": "LIMA, Peru \u2014 Blocks-long lines formed at bus stops, food markets and shopping centers in Peru\u2019s capital Wednesday as people left their homes en masse to go to work or shop as a 106-day coronavirus lo\u2026 [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Colombia tops 100,000 coronavirus cases, nears 3,500 deaths - Reuters",
+            "description": "Colombia's confirmed coronavirus infections tipped across the 100,000 case threshold on Wednesday, as the country's quarantine measures roll on and intensive care units fill.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-colombia-idUSKBN2427IR",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200701&t=2&i=1524344379&w=1200&r=LYNXMPEG604MF",
+            "publishedAt": "2020-07-01T22:24:00Z",
+            "content": "BOGOTA (Reuters) - Colombia\u2019s confirmed coronavirus infections tipped across the 100,000 case threshold on Wednesday, as the country\u2019s quarantine measures roll on and intensive care units fill. \r\nCon\u2026 [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Uruguay, Paraguay, Argentina get best marks in Latin America for pandemic response - poll - Reuters",
+            "description": "Uruguay, Paraguay and Argentina are the Latin American countries that earned the best grades for their response to the coronavirus, according to a poll conducted in the region and released on Friday, while Brazil was tagged as the worst performer.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-latam-poll-idUSKBN2441QN",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200703&t=2&i=1524554104&w=1200&r=LYNXMPEG620XZ",
+            "publishedAt": "2020-07-03T14:01:52Z",
+            "content": "BUENOS AIRES (Reuters) - Uruguay, Paraguay and Argentina are the Latin American countries that earned the best grades for their response to the coronavirus, according to a poll conducted in the regio\u2026 [+1624 chars]"
+        }
+    ],
 	"menu": [
 		{
 			"url": "index.html",
@@ -250,6 +344,10 @@
 		{
 			"url": "#peru-testing-charts",
 			"section": "Peru COVID-19 Testing"
+		},
+		{
+			"url":"#headline-news",
+			"section":"Peru COVID-19 Headline News"
 		},
 		{
 			"url": "#youtube-playlist",

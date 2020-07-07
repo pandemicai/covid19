@@ -9,19 +9,7 @@
 		"country_code": "GB",
 		"icon": "GB.png",
 		"official_url": "https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public",
-		"new": "0",
-		"confirmed": "25150",
-		"suspected": "0",
-		"death": "1789",
-		"death_new": "0",
-		"active": "23226",
-		"cured": "135",
-		"serious": "163",
-		"time": "Apr 01",
-		"new_24h": "0",
-		"death_new_24h": "0",
-		"population": "67886011",
-		"cities": ""
+		"population": "67886011"
 	},
 	"day": [
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
@@ -32,21 +20,22 @@
 		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9", "5/10", "5/11", "5/12", "5/13", "5/14", "5/15",
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22", "5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
-		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21"
+		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
 	],
 	"confirmed_cases_by_day": [
-		9,9,9,9,9,9,9,9,13,13,13,13,16,20,23,36,39,51,87,116,164,209,278,321,383,460,590,798,1140,1391,1543,1950,2626,3269,3983,5018,5683,6650,8077,9529,11658,14543,17089,19522,22141,25150,29474,33718,38168,41903,47806,51608,55242,60733,65077,73758,78991,84279,88621,93873,98476,103093,108692,114217,120067,124743,129044,133495,138078,143464,148377,152840,157149,161145,165221,171253,177454,182260,186599,190584,194990,201101,206715,211364,215260,219183,223060,226463,229705,233151,236711,240161,243695,246406,248818,250332,252947,256234,259193,261598,263223,265227,267240,269127,271222,272826,274762,276332,277985,279856,281661,283311,284868,286194,287399,289140,290143,291409,292950,294375,295889,296857,298136,299251,300469,301815,303110,304331
+		9,9,9,9,9,9,9,9,13,13,13,13,16,20,23,35,38,49,82,108,151,192,254,293,349,419,536,724,1033,1260,1397,1765,2376,2957,3602,4537,5138,6012,7301,8613,10536,13142,15442,17640,20006,22724,26630,30464,34484,37858,43190,46624,49907,54867,58791,66628,71355,76132,80054,84798,88956,93127,98185,103176,108461,112685,116570,120591,124731,129596,134034,138066,141958,145568,149250,154699,160301,164642,168562,172162,176142,181662,186733,190933,194452,197996,201498,204572,207501,210614,213830,216947,220139,222588,224767,226135,228497,231466,234139,236312,237780,239590,241408,243113,245005,246454,248203,249621,251114,252804,254435,255926,257332,258530,259619,261192,262098,263242,264634,265921,267289,268163,269318,270325,271425,272641,273811,274914,275779,276611,277200,278210,279457,280261,281075,281810,282432,283181,283757,284276,284900,285416,285768
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,4,0,0,0,3,4,3,13,3,12,36,29,48,45,69,43,62,77,130,208,342,251,152,407,676,643,714,1035,665,967,1427,1452,2129,2885,2546,2433,2619,3009,4324,4244,4450,3735,5903,3802,3634,5491,4344,8681,5233,5288,4342,5252,4603,4617,5599,5525,5850,4676,4301,4451,4583,5386,4913,4463,4309,3996,4076,6032,6201,4806,4339,3985,4406,6111,5614,4649,3896,3923,3877,3403,3242,3446,3560,3450,3534,2711,2412,1514,2615,3287,2959,2405,1625,2004,2013,1887,2095,1604,1936,1570,1653,1871,1805,1650,1557,1326,1205,1741,1003,1266,1541,1425,1514,968,1279,1115,1218,1346,1295,1221
+		0,0,0,0,0,0,0,0,4,0,0,0,3,4,3,12,3,11,33,26,43,41,62,39,56,70,117,188,309,227,137,368,611,581,645,935,601,874,1289,1312,1923,2606,2300,2198,2366,2718,3906,3834,4020,3374,5332,3434,3283,4960,3924,7837,4727,4777,3922,4744,4158,4171,5058,4991,5285,4224,3885,4021,4140,4865,4438,4032,3892,3610,3682,5449,5602,4341,3920,3600,3980,5520,5071,4200,3519,3544,3502,3074,2929,3113,3216,3117,3192,2449,2179,1368,2362,2969,2673,2173,1468,1810,1818,1705,1892,1449,1749,1418,1493,1690,1631,1491,1406,1198,1089,1573,906,1144,1392,1287,1368,874,1155,1007,1100,1216,1170,1103,865,832,589,1010,1247,804,814,735,622,749,576,519,624,516,352
 	],
 	"active_cases_by_day": [
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7,7,9,10,28,43,65,81,115,158,194,250,285,359,508,694,877,1161,1455,1669,2043,2425,3095,3747,4461,5221,5865,6433,7471,8505,9608,10760,11599,12285,13029,14073,14915,15944,16879,17994,18492,19051,20223,21060,21787,22792,23635,24055,24393,25302,26097,26771,27510,28131,28446,28734,29427,30076,30615,31241,31587,31855,32065,32692,33186,33614,33998,34466,34636,34796,35341,35704,36042,36393,36675,37116,37237,37373,37807,38220,38593,38819,38934,39045,39369,39728,39904,40261,40465,40542,40597,40883,41128,41279,41481,41662,41698,41736,41969,42153,42288,42461,42589,42632
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7,7,9,10,28,43,65,81,115,158,194,250,285,359,508,694,877,1161,1455,1669,2043,2425,3095,3747,4461,5221,5865,6433,7471,8505,9608,10760,11599,12285,13029,14073,14915,15944,16879,17994,18492,19051,20223,21060,21787,22792,23635,24055,24393,25302,26097,26771,27510,28131,28446,28734,29427,30076,30615,31241,31587,31855,32065,32692,33186,33614,33998,34466,34636,34796,35341,35704,36042,36393,36675,37116,37237,37373,37807,38220,38593,38819,38934,39045,39369,39728,39904,40261,40465,40542,40597,40883,41128,41279,41481,41662,41698,41736,41969,42153,42288,42461,42589,42632,42647,42927,43081,43230,43414,43514,43550,43575,43730,43906,43995,44131,44198,44220,44236
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,0,2,1,18,15,22,16,34,43,36,56,35,74,149,186,183,284,294,214,374,382,670,652,714,760,644,568,1038,1034,1103,1152,839,686,744,1044,842,1029,935,1115,498,559,1172,837,727,1005,843,420,338,909,795,674,739,621,315,288,693,649,539,626,346,268,210,627,494,428,384,468,170,160,545,363,338,351,282,441,121,136,434,413,373,226,115,111,324,359,176,357,204,77,55,286,245,151,202,181,36,38,233,184,135,173,128,43
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,0,2,1,18,15,22,16,34,43,36,56,35,74,149,186,183,284,294,214,374,382,670,652,714,760,644,568,1038,1034,1103,1152,839,686,744,1044,842,1029,935,1115,498,559,1172,837,727,1005,843,420,338,909,795,674,739,621,315,288,693,649,539,626,346,268,210,627,494,428,384,468,170,160,545,363,338,351,282,441,121,136,434,413,373,226,115,111,324,359,176,357,204,77,55,286,245,151,202,181,36,38,233,184,135,173,128,43,15,280,154,149,184,100,36,25,155,176,89,136,67,22,16
 	],
 	"youtube_playlist": [
 		{"vid": "4CJQYD5qCNk", "title": "Coronavirus press conference (4 May 2020)", "source": "10 Downing Street"},
@@ -56,9 +45,7 @@
 		{"vid": "ScIT_a2jF44", "title": "Boris Johnson says he almost died from coronavirus", "source": "ABC News"},
 		{"vid": "ZzfhpTNuugI", "title": "What will the UK's new 'norm' look like when the lockdown eases?", "source": "The Telegraph"},
 		{"vid": "nhHJun775xs", "title": "Boris Johnson addresses world leaders at the Coronavirus Global Response conference", "source": "The Telegraph"},
-		{"vid": "kWDDJV4ux-Q", "title": "Possible post-lockdown workplace rules", "source": "BBC"},
 		{"vid": "-nygLfErZzs", "title": "UK coronavirus hospital admissions 'past peak' -", "source": "BBC"},
-		{" vid": "5vDocUB5_bA", "title": "It would be ‘ageist’ to extend COVID-19 lockdown for UK’s elderly", "source": "Sky News"},
 		{"vid": "-VeCzV5FMAk", "title": "Migrants intercepted at UK border", "source": "Sky News"},
 		{"vid": "GQRPrjjkhKo", "title": "Plans to ease lockdown are studied by ministers", "source": "BBC News"},
 		{"vid": "UMGgqt2hJnc", "title": "We will not open schools until it is safe - Hancock", "source": "BBC"},
@@ -188,6 +175,151 @@
 			"recovered": 0
 		}
 	],
+	"headline_news": [
+		{
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "Adam Aspinall",
+            "title": "British town has an even higher coronavirus infection rate than Leicester - Mirror Online",
+            "description": "The former steel town of Merthyr Tydfil in the Welsh valleys has a weekly infection rate of 179 - far higher than the 141 in the Midlands Covid hotspot, figures from Public Health Wales show",
+            "url": "https://www.mirror.co.uk/news/uk-news/british-town-even-higher-coronavirus-22299325",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22269623.ece/ALTERNATES/s1200/0_Coronavirus-Lockdown-Eases-In-Wales.jpg",
+            "publishedAt": "2020-07-03T22:01:03Z",
+            "content": "One British town has an even higher coronavirus infection rate than Leicester.\r\nThe former steel town of Merthyr Tydfil in the Welsh valleys has a weekly infection rate of 179 compared to 141 in the \u2026 [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Somerset Live"
+            },
+            "author": "Jack Colwill",
+            "title": "South West infection R rate rises above national average as lockdown eases - Somerset Live",
+            "description": "The region's rate was the lowest in the country two weeks ago",
+            "url": "https://www.somersetlive.co.uk/news/health/south-west-infection-r-rate-4292088",
+            "urlToImage": "https://i2-prod.somersetlive.co.uk/incoming/article4292112.ece/ALTERNATES/s1200/0_Coronavirus-Test-Centre.jpg",
+            "publishedAt": "2020-07-03T21:37:05Z",
+            "content": "The South West's regional 'R' rate range has climbed back above the national average, according to the latest official figures.\r\nThe latest government data on the rate, which was published today (Jul\u2026 [+1624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": "By\nBill Gardner",
+            "title": "NHS cleaners and porters were coronavirus 'super-spreaders' in hospitals, data reveals - Telegraph.co.uk",
+            "description": "Domiciliary workers in some hospitals found to have 'sky-high' levels of antibodies compared to intensive care doctors",
+            "url": "https://www.telegraph.co.uk/news/2020/07/03/nhs-cleaners-porters-coronavirus-super-spreaders-hospitals-data/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/06/29/TELEMMGLPICT000128478694_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7MUKrV3CVaer8GmnSDU9KzI.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2020-07-03T20:30:00Z",
+            "content": "According to one Whitehall source, however, frustration is growing among ministers over delays in collecting crucial data from individual NHS trusts in order to build up a national picture.\r\n\"Given t\u2026 [+1539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Nicola Davis",
+            "title": "Is coronavirus really in retreat in the UK? - The Guardian",
+            "description": "Key questions about Covid-19 answered as lockdowns ease across the four nations",
+            "url": "https://www.theguardian.com/world/2020/jul/03/is-coronavirus-really-in-retreat-in-the-uk",
+            "urlToImage": "https://i.guim.co.uk/img/media/3c304f8c315f968bed44caac0462661e7db59e13/640_753_5936_3562/master/5936.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=160edcc2397e9d51c7c864d934e00036",
+            "publishedAt": "2020-07-03T19:32:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Echo"
+            },
+            "author": "Maria Zaccaro",
+            "title": "Sharp increase in declared Hampshire coronavirus case figures - Daily Echo",
+            "description": "MORE than 6,000 coronavirus cases have been recorded in Hampshire since the start of the pandemic, according to new figures published for the first\u2026",
+            "url": "https://www.dailyecho.co.uk/news/18560894.sharp-increase-declared-hampshire-coronavirus-case-figures/",
+            "urlToImage": "https://www.dailyecho.co.uk/resources/images/11140480/",
+            "publishedAt": "2020-07-03T19:31:00Z",
+            "content": "MORE than 6,000 coronavirus cases have been recorded in Hampshire since the start of the pandemic, according to new figures published for the first time.\r\nThe total number of positive Covid-19 cases \u2026 [+2663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "St Helens Star"
+            },
+            "author": "Kenny Lomas",
+            "title": "Massive jump in coronavirus cases in St Helens following 'hidden' data release - St Helens Star",
+            "description": "HUNDREDS of coronavirus infections that were not previously made public have now been added to the total for St Helens in Public Health England\u2019s\u2026",
+            "url": "https://www.sthelensstar.co.uk/news/18560862.massive-jump-coronavirus-cases-st-helens/",
+            "urlToImage": "https://www.sthelensstar.co.uk/resources/images/11472422/",
+            "publishedAt": "2020-07-03T19:00:00Z",
+            "content": "HUNDREDS of coronavirus infections that were not previously made public have now been added to the total for St Helens in Public Health England\u2019s (PHE) official coronavirus data.\r\nUp until Tuesday, t\u2026 [+2115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": "By\nBen Riley-Smith,",
+            "title": "New mutation of coronavirus spreads disease more easily, warns Fauci - Telegraph.co.uk",
+            "description": "Mutation yet to be confirmed but appears to be more 'transmissable'",
+            "url": "https://www.telegraph.co.uk/news/2020/07/03/dr-fauci-warns-coronavirus-mutation-spreads-easily-may-have/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2020/05/12/TELEMMGLPICT000230953901_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2020-07-03T18:52:00Z",
+            "content": "Some exceptions were listed included for children who are under 10 years old or people who are exercising, eating or drinking outdoors.\r\nGreg Abbott, the Republican governor of Texas, said that if th\u2026 [+785 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Lizzie Dearden",
+            "title": "Lockdown England: Gatherings of 30 people allowed but Matt Hancock given power to close any outdoor space - The Independent",
+            "description": "Relaxed restrictions do not apply to Leicester, which is subject to separate new laws",
+            "url": "https://www.independent.co.uk/news/uk/home-news/lockdown-new-laws-20-people-gathering-leicester-a9600716.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/03/13/pubs-reopen.jpg",
+            "publishedAt": "2020-07-03T17:51:31Z",
+            "content": "Gatherings of up to 30 people will be allowed anywhere in England apart from Leicester under new lockdown laws coming into force on Saturday.\r\nLarger meetings will be permitted if venues, such as pub\u2026 [+5780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Derbyshire Live"
+            },
+            "author": "Eddie Bisknell",
+            "title": "More than 80 patients discharged to care homes without being tested for Covid-19 - Derbyshire Live",
+            "description": "82 were placed in a care home without a test",
+            "url": "https://www.derbytelegraph.co.uk/news/local-news/more-80-patients-discharged-care-4286925",
+            "urlToImage": "https://i2-prod.derbytelegraph.co.uk/incoming/article3862903.ece/ALTERNATES/s1200/0_DM_TEM_180220GV-5880GVJPG.jpg",
+            "publishedAt": "2020-07-03T17:11:00Z",
+            "content": "More than 80 Chesterfield Royal Hospital patients were discharged to local care homes without being tested for Covid-19 before wholesale checks were government policy.\r\nThe figures have been revealed\u2026 [+4854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.gov.uk"
+            },
+            "author": "Prime Minister's Office, 10 Downing Street",
+            "title": "Prime Minister's statement on coronavirus (COVID-19): 3 July 2020 - GOV.UK",
+            "description": "Prime Minister Boris Johnson's statement on coronavirus.",
+            "url": "https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-3-july-2020",
+            "urlToImage": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/person/image/2792/10_Downing_Street.jpg",
+            "publishedAt": "2020-07-03T16:49:05Z",
+            "content": "Good evening,\r\nSince I last spoke to you from this podium, we have continued to make progress nationally against the virus.\r\nWe are now reporting regularly fewer than 1,000 new cases each day.\r\nThe O\u2026 [+8971 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Peter Stubley",
+            "title": "UK coronavirus death toll rises by 137 to 44,131 as England set to ease lockdown further - The Independent",
+            "description": "A further 544 people test\u00a0positive for Covid-19 in 24 hours",
+            "url": "https://www.independent.co.uk/news/uk/home-news/uk-coronavirus-death-toll-new-cases-lockdown-eased-pubs-reopen-england-a9600496.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/03/17/england-pubs.jpg",
+            "publishedAt": "2020-07-03T16:20:41Z",
+            "content": "The UKs coronavirus death toll has risen by 137 to 44,131, according to the latest government update.\r\nData from the Department of Health and Social Care shows the daily figure has fallen significant\u2026 [+1581 chars]"
+        }
+    ],
 	"menu": [
 		{
 			"url": "index.html",
@@ -216,6 +348,10 @@
 		{
 			"url": "#uk-testing-charts",
 			"section": "UK COVID-19 Testing"
+		},
+		{
+			"url":"#headline-news",
+			"section":"UK COVID-19 Headline News"
 		},
 		{
 			"url": "#youtube-playlist",

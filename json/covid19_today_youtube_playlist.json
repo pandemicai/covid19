@@ -1,30 +1,386 @@
 {
  "youtube_playlist": [
-    {"June 19": [
-        {"vid": "QLW8mACX88w", "title": "How face masks are changing our daily lives and behavior ", "source": "DW News"},
-        {"vid": "R-VH9VEMVJo", "title": "WHO: Coronavirus enters 'new and dangerous phase' as new cases hit record high", "source": "CNBC"},
-        {"vid": "hHcY4Vw532Y", "title": "Excess deaths: How many are dying from coronavirus?", "source": "BBC News"},
-        {"vid": "5STfmLF4EOo", "title": "Worried about a second wave of coronavirus? Experts like Fauci say we’re still in the first.", "source": "Washington Post"},
-        {"vid": "mAHiMsX-uok", "title": "Canada surpasses 100,000 cases of coronavirus", "source": "CBC News"},
-        {"vid": "fypFDgkbvLE", "title": "Coronavirus: UK's alert level reduced from 4 to 3", "source": "BBC"},
-        {"vid": "A62Ofu7EY70", "title": "China says new coronavirus outbreaks in Beijing are under control", "source": "DW News"},
-        {"vid": "QTBN9GyFxdI", "title": "EU leaders launch tough talks on post-coronavirus economy", "source": "DW News"},
-        {"vid": "0G9obcyweoc", "title": "A tale of two plagues: Locusts in South Asia and the coronavirus", "source": "TRT World"},
-        {"vid": "vEU-ZoMcG2Y", "title": "How the coronavirus pandemic could be redefining retail", "source": "CNBC"},
-        {"vid": "FWxTMBbZhaI", "title": "‘We Are Struggling’: Hospital Staff Working Overtime To Treat Coronavirus Patients", "source": "NBC News"},
-        {"vid": "bkhrq-fsi9A", "title": "Coronavirus South Africa: Cape Town braces for COVID-19 peak", "source": "DW News"},
-        {"vid": "Rh1y_Eix-WI", "title": "COVID-19: Singapore begins Phase 2 of reopening", "source": "CNA"},
-        {"vid": "Q_3yiV49Y-k", "title": "Blood type, genes tied to risk of severe COVID-19: European study", "source": "Reuters"},
-        {"vid": "4csf9QRNM38", "title": "India is planning to build the world’s largest temporary Covid-19 hospital", "source": "South China Morning Post"},
-        {"vid": "q3C2TiR7Nwk", "title": "Scientists struggle to find Covid-19 vaccine", "source": "TRT World"},
-        {"vid": "vquaknWJVvA", "title": "WHO on a COVID-19 Vaccine and Treatment", "source": "United Nations"},
-        {"vid": "bF0cosp4M6E", "title": "Coronavirus tracing apps: Do they work and can we trust them?", "source": "DW News"},
-        {"vid": "YVvLnQI04QE", "title": "Coronavirus Outbreak (COVID - 19): WHO Update (19 June 2020)", "source": "United Nations"},
-        {"vid": "n6pG-rEbKQ8", "title": "How Coronavirus has accelerated the death of cash", "source": "The Telegraph"},
-        {"vid": "jOgoZjiPUCg", "title": "Boost in testing numbers but zero new cases of Covid-19 in New Zealand recorded on June 19", "source": "1 News"},
-        {"vid": "0ddSmbI380M", "title": "COVID-19: New cases continue to rise in greater Seoul area", "source": "CNA"},
-        {"vid": "-eM7HCOvEbw", "title": "From NASA to Covid-19 Social-Distancing Gadget?", "source": "Bloomberg QuickTake News"},
-        {"vid": "3H5KlGENmTQ", "title": "India and China deploy additional troops in Ladakh border conflict", "source": "DW News"}
+    {"July 6": [
+		{
+			"vid": "dKkJAKsfL78",
+			"title": "Entrepreneur in Turkey looks for opportunity amid pandemic - My Story",
+			"source": "TRT World"
+		},
+		{
+				"vid": "QZV7zxVWISk",
+				"title": "Afghan oxygen plant owner helps people fight Covid-19",
+				"source": "TRT World"
+		},
+		{
+				"vid": "6wZuZRCW7bI",
+				"title": "Studies suggest hydroxychloroquine could be useful against Covid-19",
+				"source": "TRT World"
+		},
+		{
+				"vid": "wiL2Fg7RhZA",
+				"title": "Scientists: Mexico&#39;s true caseload far higher than reported",
+				"source": "TRT World"
+		},
+		{
+				"vid": "DE7uqONQCoY",
+				"title": "Volunteer groups provide aid to Yemen&#39;s Covid-19 patients",
+				"source": "TRT World"
+		},
+		{
+				"vid": "IIFeGaX3nfk",
+				"title": "UK pubs, restaurants set to reopen on Saturday",
+				"source": "TRT World"
+		},
+		{
+				"vid": "cc69_B4lR5g",
+				"title": "Coronavirus: Massive support package for the arts promised",
+				"source": "Sky News"
+		},
+		{
+				"vid": "1T16L3e6CS8",
+				"title": "Black Lives Matter: Confronting History",
+				"source": "Sky News"
+		},
+		{
+				"vid": "rR2C7gkd_4E",
+				"title": "Former MI6 chief claims coronavirus came from Wuhan lab",
+				"source": "Sky News"
+		},
+		{
+				"vid": "XeEgBOmCTEM",
+				"title": "Coronavirus: Sky reporter called &#39;stupid&#39; for wearing mask",
+				"source": "Sky News"
+		},
+		{
+				"vid": "fh1Oaus6dCg",
+				"title": "‘Drunk people can’t socially distance’, police chief warns – UK COVID-19 update",
+				"source": "Sky News"
+		},
+		{
+				"vid": "jT6TEUR5Bz8",
+				"title": "A quarter of deaths if UK entered lockdown a week earlier",
+				"source": "Sky News"
+		},
+		{
+				"vid": "un9xApUP3AE",
+				"title": "Broadway star Nick Cordero dies after battle with COVID-19 | USA TODAY",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "Z61WalX3m_k",
+				"title": "President Trump participates in 2020 Mount Rushmore Fireworks Celebration (LIVE)  | USA TODAY",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "Kklm1DBF8Oo",
+				"title": "VP Pence holds press conference with Florida governor to discuss COVID-19 | USA TODAY",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "I2gS9MMpaq0",
+				"title": "Patient sobs when he realizes paramedic is his son | Humankind",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "P9tk5TGUNC8",
+				"title": "Trump remarks on jobs report",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "yMo-Gp_OXIk",
+				"title": "Pentagon holds briefing to provide update on COVID-19 (LIVE) | USA TODAY",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "nMNuGSYbKus",
+				"title": "GE2020: Government will not listen to opposition&#39;s COVID-19 proposals, says SDA",
+				"source": "CNA"
+		},
+		{
+				"vid": "xduVtfGIs8Y",
+				"title": "GE2020: SDP&#39;s &quot;4Y1N&quot; campaign tackles long-term recovery plans, says Chee Soon Juan",
+				"source": "CNA"
+		},
+		{
+				"vid": "Wz_UIug568s",
+				"title": "Hundreds of drones display motivational, COVID-19 awareness messages in Seoul",
+				"source": "CNA"
+		},
+		{
+				"vid": "j5EvIyNDdPw",
+				"title": "COVID-19: Indonesia records more than 1,200 new cases",
+				"source": "CNA"
+		},
+		{
+				"vid": "LSu8-FKalbA",
+				"title": "Analysis: EU countries using Covid-19 as excuse to keep out migrants",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "khQeJUVE6WE",
+				"title": "Australian state hit by second wave of virus",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "eM-JEwm4vDs",
+				"title": "What are the economic challenges facing the new French government?",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "J1E3yjGoM3g",
+				"title": "Australia shuts internal border after Melbourne case spike",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "5X2xC9gm__Q",
+				"title": "Italy to take in 180 migrants rescued at sea",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "ZYw-LKEaeAc",
+				"title": "Australia closes state border for first time in 100 years to stop Covid-19 spread",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "cNdZivjZHIQ",
+				"title": "Air Conditioning suspected to play major role in coronavirus spread | Covid-19 Special",
+				"source": "DW News"
+		},
+		{
+				"vid": "Ntu5dv6HuNc",
+				"title": "Trump&#39;s Mt. Rushmore 4th of July speech: Protesters want to &#39;wipe out our history&#39;",
+				"source": "DW News"
+		},
+		{
+				"vid": "GQGn9Ts_YWI",
+				"title": "Why we’re seeing the worst locust invasion in decades and how Covid-19 exacerbates it | DW Analysis",
+				"source": "DW News"
+		},
+		{
+				"vid": "JgkoKLDfUBw",
+				"title": "Researching coronavirus: What are the findings? | COVID-19 Special",
+				"source": "DW News"
+		},
+		{
+				"vid": "P1ZGcs0cBvY",
+				"title": "Dr. Nesheiwat on WHO shutting doing hydroxychloroquine trials",
+				"source": "Fox News"
+		},
+		{
+				"vid": "37H7PdFoHEg",
+				"title": "Secretary Eugene Scalia on job creation surge amid spike in coronavirus cases",
+				"source": "Fox News"
+		},
+		{
+				"vid": "ljKDAa6Hbd0",
+				"title": "Gutfeld: To say we&#39;ve had our freedom tested this year is an understatement",
+				"source": "Fox News"
+		},
+		{
+				"vid": "DDiu6vtPjYE",
+				"title": "Trump warns anarchists and looters as he heads to Mount Rushmore",
+				"source": "Fox News"
+		},
+		{
+				"vid": "wIPfRE3ggg8",
+				"title": "Social distancing not required at Mount Rushmore event",
+				"source": "Fox News"
+		},
+		{
+				"vid": "6vHZ50G0ryA",
+				"title": "Toronto hospital&#39;s ICU free of COVID-19 patients for first time in months",
+				"source": "CBC News"
+		},
+		{
+				"vid": "W4vi5kM-Jxk",
+				"title": "B.C. growers face shortage of fruit pickers during pandemic",
+				"source": "CBC News"
+		},
+		{
+				"vid": "rfwidBUYJb8",
+				"title": "Siksika First Nation may have spike in COVID-19 cases",
+				"source": "CBC News"
+		},
+		{
+				"vid": "4Tl_1gRlNE4",
+				"title": "COVID-19 outbreak in the U.S. is a concern, Canadian health officials say",
+				"source": "CBC News"
+		},
+		{
+				"vid": "HIZ_1rloFQw",
+				"title": "Coronavirus: UK police warn physical distancing and intoxication don&#39;t mix",
+				"source": "Global News"
+		},
+		{
+				"vid": "1_mL859goI8",
+				"title": "Coronavirus: Could 4th of July rallies fuel further outbreaks in the US?",
+				"source": "Global News"
+		},
+		{
+				"vid": "wdtM3v2Wtko",
+				"title": "Global National: July 5, 2020 | The high cost of the novel coronavirus pandemic",
+				"source": "Global News"
+		},
+		{
+				"vid": "ydy65acc_j0",
+				"title": "Broadway star Nick Cordero dies of coronavirus at 41",
+				"source": "Washington Post"
+		},
+		{
+				"vid": "ScOcne-BlyM",
+				"title": "After Trump downplays coronavirus danger, officials call for national measures to stop rising spread",
+				"source": "Washington Post"
+		},
+		{
+				"vid": "56TTAOp_qdg",
+				"title": "Nurses in Riverside, Calif. are on strike alleging unsafe staffing and inadequate PPE",
+				"source": "Washington Post"
+		},
+		{
+				"vid": "CqUF0PkmFT0",
+				"title": "Pence makes case for Trump amid pandemic | The 2020 Fix",
+				"source": "Washington Post"
+		},
+		{
+				"vid": "GkIVYkKgJ8c",
+				"title": "The science behind reliable COVID-19 testing",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "EBH6KJkAXh0",
+				"title": "Coronavirus: Spain imposes local lockdown in second region",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "KGYhG4mTWrY",
+				"title": "Latin America and the Caribbean surpass Europe&#39;s number of coronavirus cases",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "IcFYIadmmlM",
+				"title": "Egypt reopens pyramids to tourists after virus closure",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "nl1lGfi7i9k",
+				"title": "Lockdown rules: How to keep your guests safe from Covid-19 - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "y4XQS_vPslQ",
+				"title": "“Enjoy summer safely” says PM as pubs and restaurants open in England - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "-nMFoqfzEhA",
+				"title": "Why Texas is seeing a coronavirus surge - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "91CBoU0GqBM",
+				"title": "Doctors warn coronavirus spreads more easily than first thought",
+				"source": "CNN"
+		},
+		{
+				"vid": "nVUnAgGboNE",
+				"title": "FDA commissioner refuses to defend Trump claim",
+				"source": "CNN"
+		},
+		{
+				"vid": "qVOSONOlegQ",
+				"title": "Fareed: Coronavirus won&#39;t be a death knell for big cities. Here&#39;s why",
+				"source": "CNN"
+		},
+		{
+				"vid": "4oXMM2L88W4",
+				"title": "US setting records as Covid-19 cases soar",
+				"source": "CNN"
+		},
+		{
+				"vid": "rVjFt0gvpZw",
+				"title": "India registers record spike in Covid-19 cases, opens 10,000 bed temporary hospital",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "mjhPBOQIyBo",
+				"title": "Seoul area sees influx of workers amid COVID-19",
+				"source": "ARIRANG NEWS"
+		},
+		{
+				"vid": "8k9X4BLFcpU",
+				"title": "South Korea reports 48 new COVID-19 cases on Monday; distancing level to be adjusted by region",
+				"source": "ARIRANG NEWS"
+		},
+		{
+				"vid": "sMyGjNnAYzs",
+				"title": "COVID-19 is airborne and has mutated to be more infectious: Studies",
+				"source": "ARIRANG NEWS"
+		},
+		{
+				"vid": "AhGA5i4zltM",
+				"title": "In-depth: Global market wrap-up",
+				"source": "ARIRANG NEWS"
+		},
+		{
+				"vid": "1XRj9lAN77Q",
+				"title": "Hundreds of scientists say coronavirus is airborne",
+				"source": "Reuters"
+		},
+		{
+				"vid": "rFkOWz262rg",
+				"title": "&#39;I can&#39;t predict when a vaccine will be available&#39;: Dr. Stephen Hahn | ABC News",
+				"source": "ABC News"
+		},
+		{
+				"vid": "uvRKmwutpMs",
+				"title": "More pro athletes test positive for COVID-19",
+				"source": "ABC News"
+		},
+		{
+				"vid": "w5pmWtXF55o",
+				"title": "Meet the combat medics who came to treat COVID-19 in New York City | Nightline",
+				"source": "ABC News"
+		},
+		{
+				"vid": "1ONTEnAj9o8",
+				"title": "U.S. Is Headed In &#39;Wrong Direction&#39; With Virus, Says Doctor | Morning Joe | MSNBC",
+				"source": "MSNBC"
+		},
+		{
+				"vid": "65XiJgHXh2g",
+				"title": "Island That Takes Tourists &#39;Back In Time&#39; Works To Make Visitors Feel Safe In The Age Of Coronavirus",
+				"source": "MSNBC"
+		},
+		{
+				"vid": "2xaM_BFlg8Q",
+				"title": "Coronavirus mythbusters: Ultra-violet (UV) lamps and COVID-19",
+				"source": "World Health Organization (WHO)"
+		},
+		{
+				"vid": "oDE8_4UTuRM",
+				"title": "Coronavirus mythbusters: 5G mobile networks DO NOT spread COVID-19",
+				"source": "World Health Organization (WHO)"
+		},
+		{
+				"vid": "3xG1-EHdNb8",
+				"title": "Coronavirus Updates: China Reports Cases of Bubonic Plague; Experts Say Covid-19 Can Float in Air",
+				"source": "Bloomberg QuickTake News"
+		},
+		{
+				"vid": "oF8UKGFwTUA",
+				"title": "Covid19-Like Virus Was Sent to Wuhan in 2013, The Sunday Times Reports",
+				"source": "Bloomberg QuickTake News"
+		},
+		{
+				"vid": "p1bd1nFbxeM",
+				"title": "Pubs in Ireland After 3 Months of Coronavirus Lockdown",
+				"source": "Bloomberg QuickTake News"
+		},
+		{
+			"vid": "ZSKTnpDYgGs",
+			"title": "As Arizona becomes the coronavirus epicenter, a dire warning from health-care workers",
+			"source": "Washington Post"
+		}
     ]}
  ]
 }

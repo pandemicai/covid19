@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Doctor says states should consider going into lockdown again as COVID cases rise",
+            "description": "The U.S. just reported its largest single-day increase in coronavirus cases since the outbreak began, with more than 38,600 reported Wednesday. CBS News' Manuel Bojorquez reports on the latest, and Dr. Angela Rasmussen, a virologist at Columbia University, jo\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-doctor-states-should-consider-going-into-lockdown-again/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/25/d6e2cad2-7ef6-4017-bb59-29121b6062a1/thumbnail/1200x630/5fe65365c717f2c8f39ab4f693c3aa26/cbsn-fusion-doctor-says-states-should-consider-going-into-lockdown-again-thumbnail-504942-640x360.jpg",
+            "publishedAt": "2020-06-25T19:12:11+00:00",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Bolton: Biden admin would essentially be another 4 years of the Obama admin",
+            "description": "Former National Security Adviser John Bolton discusses the 2020 election, the future of the Republican Party and Trump\u2019s handling of the coronavirus with Dana Perino on \u2018The Daily Briefing.\u2019",
+            "url": "https://video.foxnews.com/v/6167261942001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05397d06-afbd-4491-ace1-1c5747ec5f27/4d6a71a2-193d-4b5e-bf4a-0689258da90a/1280x720/match/image.jpg",
+            "publishedAt": "2020-06-25T19:07:16.9656425Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jonathan Allen",
+            "title": "Trump says the coronavirus is 'going away.' His own task force disagrees.",
+            "description": "New internal data obtained by NBC News show the White House is closely tracking big virus spikes around the nation.",
+            "url": "https://www.nbcnews.com/politics/politics-news/trump-says-coronavirus-going-away-his-own-task-force-disagrees-n1232061",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_26/3392674/200625-donald-trump-al-1404_81504244fa92304483abeb27294141d6.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-06-25T19:06:48Z",
+            "content": "WASHINGTON President Donald Trump keeps spinning a tale about COVID-19 that is at odds with his own administration's disease experts and data compiled by his own coronavirus task force, which was obt\u2026 [+5015 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "CDC: For every coronavirus case, 10 go undiagnosed - CNN Video",
+            "description": "CNN senior medical correspondent Elizabeth Cohen discusses the latest CDC finding saying there are 10 undiagnosed cases of coronavirus for every reported case.",
+            "url": "http://us.cnn.com/videos/health/2020/06/25/cdc-says-ten-times-more-coronavirus-cases-than-reported-nr-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625125202-elizabeth-cohen-brianna-keilar-0625-super-tease.jpg",
+            "publishedAt": "2020-06-25T18:52:23.6924853Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Cohen and Dakin Andone, CNN",
+            "title": "Florida is seeing Covid-19 cases skyrocket among young people",
+            "description": "Months ago, as the coronavirus was first spreading across the country, public health officials warned of the heightened risk it posed to older populations and those with underlying health conditions.",
+            "url": "http://us.cnn.com/2020/06/25/health/florida-coronavirus-cases-young-people/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200624210543-02-florida-coronavirus-testing-0624-super-tease.jpg",
+            "publishedAt": "2020-06-25T17:50:59Z",
+            "content": "(CNN)Months ago, as the coronavirus was first spreading across the country, public health officials warned of the heightened risk it posed to older populations and those with underlying health condit\u2026 [+3917 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Zeke Miller, Marilynn Marchione",
+            "title": "U.S. health officials believe as many as 20 million Americans have contracted novel coronavirus",
+            "description": "That\u2019s nearly 10 times as many infections as the 2.3 million cases that have been confirmed",
+            "url": "https://www.theglobeandmail.com/world/article-us-health-officials-believe-as-many-as-20-million-americans-have/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/aY3PB4KdJ1ieqh1htKkJvL3u2rY=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/LDRGKPKOU5ODTIMNALK6IVQOBU.jpg",
+            "publishedAt": "2020-06-25T17:46:06Z",
+            "content": "A health care worker administers a coronavirus test to a patient at the Lee Davis Community Resource Center, in Tampa, Fla., on June 25, 2020.\r\nOctavio Jones/Getty Images\r\nU.S. officials believe as m\u2026 [+6904 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "'Tip of the iceberg': Airbnb, Vrbo guests fighting for refunds after coronavirus cancellations",
+            "description": "Short-term rental services like Airbnb and Vrbo have created a complicated refund situation for guests and hosts during the coronavirus pandemic.",
+            "url": "https://www.usatoday.com/story/travel/hotels/2020/06/25/airbnb-covid-19-refund-struggles-anger-guests-after-cancellations/3248831001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/09/19/USAT/ec65bb7a-1679-476c-afcc-3b79a2aa6fac-AP_Airbnb-IPO.JPG?crop=2999,1687,x0,y133&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-06-25T17:40:14+00:00",
+            "content": "Airbnb is establishing a new \"cleaning protocol\" for their rental property hosts and guests, stemming from the coronavirus outbreak.\r\nUSA TODAY\r\nEvan Skowronski was supposed to stay in a Connecticut\u00a0\u2026 [+9653 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Florida coronavirus mask rule upsets Palm Beach, Florida, residents  - CNN Video",
+            "description": "Residents of Palm Beach County in Florida erupted in anger at a commissioner's meeting after an unanimous vote to make masks mandatory.",
+            "url": "http://us.cnn.com/videos/politics/2020/06/24/mask-mandate-florida-anger-erupts-coronavirus-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200624141748-angry-residents-mask-super-tease.jpg",
+            "publishedAt": "2020-06-25T17:22:42.9275985Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
+            "title": "Donald Trump has been suggesting the coronavirus is under control for 156 days now",
+            "description": "On January 22, President Donald Trump did an interview with CNBC from Davos, Switzerland, where he was asked, for the first time, about the coronavirus in America.",
+            "url": "http://us.cnn.com/2020/06/25/politics/donald-trump-coronavirus-downplaying/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200623210500-donald-trump-campaa-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-06-25T16:52:37Z",
+            "content": "(CNN)On January 22, President Donald Trump did an interview with CNBC from Davos, Switzerland, where he was asked, for the first time, about the coronavirus in America.\r\n\"We have it totally under con\u2026 [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Dr. Gupta: I can't believe we're in the position we're in - CNN Video",
+            "description": "CNN's chief medical correspondent Dr. Sanjay Gupta expresses his frustration over the country's current state in the coronavirus pandemic with CNN's John Berman.",
+            "url": "http://us.cnn.com/videos/us/2020/06/25/coronavirus-frustration-gupta-newday-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625081902-dr-sanjay-gupta-0625-super-tease.jpg",
+            "publishedAt": "2020-06-25T14:22:18.8741909Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "California is breaking coronavirus records. Gatherings in homes may fuel spread",
+            "description": "California, the most populous US state and the first to implement a statewide lockdown to combat the coronavirus outbreak, is setting daily records this week for new cases as officials urge caution and dangle enforcement threats to try to curb the spikes.",
+            "url": "http://us.cnn.com/2020/06/25/health/california-coronavirus-cases-surge/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625001809-california-coronavirus-cases-surge-super-tease.jpg",
+            "publishedAt": "2020-06-25T14:00:12Z",
+            "content": "(CNN)California, the most populous US state and the first to implement a statewide lockdown to combat the coronavirus outbreak, is setting daily records this week for new cases as officials urge caut\u2026 [+5688 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Europe coronavirus resurgences alarm WHO",
+            "description": "If left unchecked the resurgences will \"push health systems to the brink once again\", the WHO warns.",
+            "url": "http://www.bbc.co.uk/news/world-europe-53175459",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12B7D/production/_113096667_mediaitem113096663.jpg",
+            "publishedAt": "2020-06-25T13:14:33Z",
+            "content": "Image copyrightPA MediaImage caption\r\n Close to 20,000 new cases are being recorded daily in the WHO's European region\r\nEurope has seen an increase in weekly cases of Covid-19 for the first time in m\u2026 [+2941 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Coronavirus: What's happening around the world on Thursday | CBC News",
+            "description": "Here's what's happening with COVID-19 in the United States and around the world on Thursday.",
+            "url": "http://www.cbc.ca/news/world/coronavirus-covid19-june25-world-thursday-1.5626409",
+            "urlToImage": "https://i.cbc.ca/1.5626433.1593082453!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1252246526.jpg",
+            "publishedAt": "2020-06-25T12:37:21.6539076Z",
+            "content": "The latest:\r\nThe United States\u00a0is dealing with an uptick in coronavirus cases in several states, prompting governors across the country\u00a0to take a range of measures from mandating masks to imposing fr\u2026 [+9164 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Eiffel Tower reopens after three-month lockdown",
+            "description": "Social distancing remains at the Paris landmark, and for the first week, the lifts will stay shut.",
+            "url": "http://www.bbc.co.uk/news/live/world-53174059",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
+            "publishedAt": "2020-06-25T10:07:32.9069523Z",
+            "content": "Many Secret\r\nService agents who attended President Trump's rally in Oklahoma last weekend\r\nhave been quarantined as a precaution after some tested positive for\r\ncoronavirus, US media report.\r\nThe sto\u2026 [+942 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi and Douglas Wood, CNN",
+            "title": "'Apocalyptic' coronavirus surges feared in major cities as most populous states hit record numbers",
+            "description": "The three most populous states are setting records for new coronavirus cases daily -- and an expert fears major Texas cities could see \"apocalyptic\" numbers if the trend continues.",
+            "url": "http://us.cnn.com/2020/06/25/health/us-coronavirus-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625001809-california-coronavirus-cases-surge-super-tease.jpg",
+            "publishedAt": "2020-06-25T08:30:48Z",
+            "content": null
+        }
+    ]
+}

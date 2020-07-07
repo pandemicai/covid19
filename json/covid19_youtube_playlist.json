@@ -2,7 +2,6 @@
  "youtube_playlist": [
     {"COVID-19": [
         {"vid": "MnhnoM8X-YU", "title": "How close are we to a coronavirus vaccine?", "source": "BBC News"},
-        {"vid": "_wox36bFDqE", "title": "COVID-19 in Asia", "source": "DW Documentary"},
         {"vid": "YRfwZcLeOm4", "title": "Coronavirus: Virology, Epidemiology, Pathophysiology", "source": "Ninja Nerd Science"},
         {"vid": "YLhq4cPXlI8", "title": "Remdesivir had no effect on Covid-19 patients, according to leaked study", "source": "CNBC"},
         {"vid": "MmHG87QanEE", "title": "Doctors finds disturbing trend of strokes in young coronavirus patients", "source": "ABC News"},
@@ -35,82 +34,320 @@
         {"vid": "kRNt8LQRWl4", "title": "Why South Korea's coronavirus death toll is comparatively low", "source": "Guardian News"}
     ]},
     {"Economy": [
-        {"vid": "vQUiPnDoHs0", "title": "US Congress passes $484 billion Covid-19 bailout, bringing total to unprecedented $1 trillion", "source": "FRANCE 24 English"},
-        {"vid": "cFSfswuVyCY", "title": "Australia 'on track to COVID-safe economy'", "source": "Sky News Australia"},
-        {"vid": "xUSSM57YEI0", "title": "Will the COVID-19 change Chinese economy forever?", "source": "Arirang News"},
-        {"vid": "9uwuMSUn4Os", "title": "Coronavirus: How will the oil slump hit the economy?", "source": "Sly News"},
-        {"vid": "8C1l0ixUzb4", "title": "How the economic fallout is being felt in the US", "source": "BBC Newsnight"},
-        {"vid": "zI3Ua7iuIkQ", "title": "South Korea to show fast economic recovery from COVID-19 recessio", "source": "Arirang News"},
-        {"vid": "5wK6SuC-zUY", "title": "Coronavirus outbreak: What negative oil prices mean for the economy", "source": "Global News"},
-        {"vid": "eejvJ_oJPYI", "title": "Yanis Varoufakis: Coronavirus economic fallout could heap more misery onto Greece", "source": "Euronews"},
-        {"vid": "T7c1RM-I5gY", "title": "Jobless Thais queue for food as economy worsens amid the coronavirus pandemic", "source": "South China Morning Post"},
-        {"vid": "832jhy_LFM8", "title": "Japan offers bleak view of economy as coronavirus damage deepens", "source": "CNA"},
-        {"vid": "9x3C0v4cAF8", "title": "U.S. economy could contract up to 14% in 2020 due to coronavirus crisis", "source": "CNBC"},
-        {"vid": "8lbdfSh7lnc", "title": "When and how to re-open the economy from coronavirus lockdown: Starwood Capital CEO", "source": "CNBC"},
-        {"vid": "zOyDRfI6DEI", "title": "Mnuchin: Economy will recover in months, not years", "source": "CNN"},
-        {"vid": "Lap2gNBQ0iY", "title": "Coronavirus Recession: What Will Be the Legacy?", "source": "Bloomberg Markets and Finance"},
-        {"vid": "2jS_85p0jhg", "title": "EU Coronavirus Economic Crisis: Spain proposes 1.5 trillion euros fund for hardest-hit countries", "source": "Euronews"},
-        {"vid": "jf67CdIV4vw", "title": "Canadian small businesses feeling the economic strain amid pandemic", "source": "Global News"},
-        {"vid": "ZO44B271tfk", "title": "Pence on the federal roadmap to restart the economy", "source": "Fox News"},
-        {"vid": "7jVEhnWT9Po", "title": "Virus Freezes Economy, Business Leaders Urge Testing", "source": "Wall Street Journal"},
-        {"vid": "WqyDyLZiX_s", "title": "Trump adviser says oil price plunge is 'very short disruption'", "source": "Fox News"},
-        {"vid": "Yy_-ChG-ZhM", "title": "Oil prices drop to historic lows amid pandemic", "source": "Global News"},
-        {"vid": "tVvgxgIpGQo", "title": "Another punishing day for North American energy sector", "source": "Global News"},
-        {"vid": "3st1ymPKOsQ", "title": "Canada’s economy headed for strong, slow recovery after COVID-19", "source": "CBC News"},
-        {"vid": "Lk6e2OI8R4k", "title": "Martin Wolf: coronavirus could be worst economic crisis since Great Depression", "source": "Financial Times"},
-        {"vid": "2sovt9YZf5Y", "title": "China's Q1 GDP shrank 6.8% y/y after COVID-19 hit economy", "source": "Arirang News"}
-    ]},
+        {
+                "vid": "ImZb3pywITc",
+                "title": "More stimulus payments? Scalia weighs in as coronavirus cases surge",
+                "source": "Fox News"
+        },
+        {
+                "vid": "QrOEXmOSb0c",
+                "title": "Pakistan mango farmers hit hard by COVID-19, locust attacks",
+                "source": "Al Jazeera English"
+        },
+        {
+                "vid": "jQ-7kgggHn4",
+                "title": "Latin America outbreak: COVID-19 inflicts stark economic losses",
+                "source": "Al Jazeera English"
+        },
+        {
+                "vid": "AX2T_9vRkJE",
+                "title": "&#39;Build build build!&#39;: Boris Johnson sets out &#39;new deal&#39; on infrastructure to boost UK economy",
+                "source": "euronews (in English)"
+        },
+        {
+                "vid": "y7nrmbAiC1g",
+                "title": "Macron green funding: French president pledges 15 billion euros to speed transition to green economy",
+                "source": "euronews (in English)"
+        },
+        {
+                "vid": "qI7GCiu1nB8",
+                "title": "Studies indicate how the coronavirus will shape the future of work | COVID-19 Special",
+                "source": "DW News"
+        },
+        {
+                "vid": "6rBWh2-anFc",
+                "title": "Alberta unveils COVID-19 economic-recovery plan",
+                "source": "CBC News"
+        },
+        {
+                "vid": "gfT3rOSb9ko",
+                "title": "COVID-19 could close Canada-U.S. border for a year, expert says",
+                "source": "CBC News"
+        },
+        {
+                "vid": "X7QI0p63Vhs",
+                "title": "Battleground voters begin to question Pres. Donald Trump&#39;s handling of economy: Survey",
+                "source": "CNBC Television"
+        },
+        {
+                "vid": "I625_mY0O0Q",
+                "title": "Mortgage applications fall for second straight week",
+                "source": "CNBC Television"
+        },
+        {
+                "vid": "FOy3Y4enny4",
+                "title": "Fmr. Airline CEO on EU travel ban decision, hurdles facing industry",
+                "source": "CNBC Television"
+        },
+        {
+                "vid": "KAihKiErlgk",
+                "title": "Traditional economic data very difficult to follow, so we&#39;re watching consumer confidence: Shah",
+                "source": "CNBC Television"
+        },
+        {
+                "vid": "PCzvwKaLui8",
+                "title": "Coronavirus: Will £5billion be enough to save the UK economy?",
+                "source": "Sky News"
+        },
+        {
+                "vid": "ddV9s569aTU",
+                "title": "Former govt adviser: &#39;The economy is critical for health&#39;",
+                "source": "Sky News"
+        }
+     ]},
      {"US":[
-        {"vid": "Qut7Us9tUks", "title": "Kayleigh McEnany holds White House press briefing", "source": "Fox News"},
-        {"vid": "6F9fxOFQ71g", "title": "NJ Gov. Phil Murphy Gives Updates on New Jersey's COVID-19 Response", "source": "NBC News"},
-        {"vid": "DyyjNSLlcdc", "title": "New York Governor Cuomo Holds Briefing On Coronavirus, George Floyd Protests", "source": "NBC News"},
-        {"vid": "X1-yps7xrMY", "title": "NYC mayor speaks to press as police presence increases", "source": "Fox News"},
-        {"vid": "9iQ5iOAduec", "title": "Governor DeWine updates COVID-19", "source": "WKYC Channel 3"},
-        {"vid": "Vaa8qHF1m6I", "title": "Minnesota governor holds news conference on protests", "source": "Washington Post"},
-        {"vid": "wxnxVosUX1g", "title": "New series looks at Coronavirus recovery efforts ", "source": "USA Today"},
-        {"vid": "2HnlBoCFOGk", "title": "Growing Concern Over Spread Of Coronavirus Among George Floyd Protesters", "source": "NBC News"},
-        {"vid": "xtIJXYaYVO8", "title": "Trump walks to St. John's parish amid rioting near by", "source": "Fox News"},
-        {"vid": "n1Mc8xGB99E", "title": "Protesters Gather For Protest Near NYC's Police Headquarters", "source": "MSNBC"},
-        {"vid": "LMabQx7xwMw", "title": "Biden: 'Moment Has Come For Our Country To Deal With Systemic Racism'", "source": "NBC News"},
-        {"vid": "1z4HTQ49jWI", "title": "Governor Newsom Update on Statewide Demonstrations & COVID-19", "source": "California Governor Gavin Newsom"},
-        {"vid": "YCyC1MwM8xo", "title": "Governor Raimondo speaks about COVID-19 data, phase 2, and unrest", "source": "WPRI"},
-        {"vid": "7joe7_BhTE8", "title": "Illinois Gov. JB Pritzker with today's COVID-19 update", "source": "KSDK News"},
-        {"vid": "6QV0bEBreGc", "title": "Michigan Governor: What We Need Is Unity And Hope", "source": "MSNBC"},
-        {"vid": "pyum9GDTSOA", "title": "Trump Considers Insurrection Act To Deploy US Troops Domestically", "source": "MSNBC"},
-        {"vid": "HMEzZG8bAGc", "title": "U.S. economy sank at 5% annual rate in Q1 due to COVID-19 pandemic", "source": "Arirang News"},
-        {"vid": "_uX3zO4unn8", "title": "Some Police Officers Show Support For George Floyd Protesters", "source": "NBC News"},
-        {"vid": "rRA1LTsyZqA", "title": "Attendee At Packed Memorial Day Gathering Tests Positive For Coronavirus", "source": "NBC News"},
-        {"vid": "2XAiABuN08o", "title": "U.S. coronavirus deaths top 100,000 -Reuters tally", "source": "Reuters"},
-        {"vid": "224ECmERDrw", "title": "US terminates relationship with WHO", "source": "Sky News"},
-        {"vid": "yCfE2Pz75ww", "title": "CDC Releases New Coronavirus Workplaces Guidelines As U.S. Deaths Pass 100,000", "source": "NBC News"},
-        {"vid": "n-xecDMYvSE", "title": "A look back at Trump's coronavirus response as U.S. death toll nears 100,000", "source": "Global News"},
-        {"vid": "erGyt6-iDQ4", "title": "How coronavirus is propelling a 'bicycle boom' across the U.S.", "source": "Washington Post"}
+        {
+                "vid": "wyT1FXjoC-k",
+                "title": "Lindsey Graham: Trump saved millions of lives by shutting down US",
+                "source": "Fox News"
+        },
+        {
+                "vid": "nVUnAgGboNE",
+                "title": "FDA commissioner refuses to defend Trump claim",
+                "source": "CNN"
+        },
+        {
+                "vid": "qVOSONOlegQ",
+                "title": "Fareed: Coronavirus won&#39;t be a death knell for big cities. Here&#39;s why",
+                "source": "CNN"
+        },
+        {
+                "vid": "4oXMM2L88W4",
+                "title": "US setting records as Covid-19 cases soar",
+                "source": "CNN"
+        },
+        {
+                "vid": "VsvyZam8tGg",
+                "title": "GOP governor: The numbers are glaring warning signs",
+                "source": "CNN"
+        },
+        {
+                "vid": "ey5PuCOU3UY",
+                "title": "Stelter: Trump&#39;s Mt. Rushmore speech won&#39;t make sense to most people",
+                "source": "CNN"
+        },
+        {
+                "vid": "tqKjpqWMFZU",
+                "title": "Trump disregards public health warnings for speech at Mt. Rushmore",
+                "source": "CNN"
+        },
+        {
+                "vid": "w5pmWtXF55o",
+                "title": "Meet the combat medics who came to treat COVID-19 in New York City | Nightline",
+                "source": "ABC News"
+        },
+        {
+                "vid": "0Vcq02YCi2w",
+                "title": "How Ghislaine Maxwell allegedly helped Jeffrey Epstein abuse young women | Nightline",
+                "source": "ABC News"
+        },
+        {
+                "vid": "W_R0L6_RhjE",
+                "title": "US coronavirus infections surge amid new warnings, closures | WNT",
+                "source": "ABC News"
+        },
+        {
+                "vid": "kOotgeao5P0",
+                "title": "Hong Kong: US passes sanctions as nations condemn new law - BBC News",
+                "source": "BBC News"
+        },
+        {
+                "vid": "7fRmK51-Q5o",
+                "title": "Coronavirus: US Buys nearly all of Covid-19 drug remdesivir - BBC News",
+                "source": "BBC News"
+        },
+        {
+                "vid": "Kb5o1QC9PNw",
+                "title": "4th of July: Independence Day celebrations take place despite COVID-19 danger",
+                "source": "Global News"
+        },
+        {
+                "vid": "yeILeYPwdT0",
+                "title": "Coronavirus: U.S. reaches new highs in cases as 4th of July approaches",
+                "source": "Global News"
+        },
+        {
+                "vid": "rmmGIue437g",
+                "title": "Coronavirus: Why reopening the Canada-US border too soon could mean a &#39;second wave&#39;",
+                "source": "Global News"
+        },
+        {
+                "vid": "XeEgBOmCTEM",
+                "title": "Coronavirus: Sky reporter called &#39;stupid&#39; for wearing mask",
+                "source": "Sky News"
+        },
+        {
+                "vid": "s3m60yb8Mck",
+                "title": "The Texan hospital facing &#39;pure hell&#39;",
+                "source": "Sky News"
+        },
+        {
+                "vid": "T3j0GYe2W5k",
+                "title": "Coronavirus hits all-time highs in parts of US",
+                "source": "ABC News"
+        },
+        {
+                "vid": "6oc1x74Ztmg",
+                "title": "Fauci warns US is &#39;going in the wrong direction&#39; l ABC News",
+                "source": "ABC News"
+        },
+        {
+                "vid": "zC8ZBlOFbpU",
+                "title": "U.S. buys global supply of COVID-19 drug remdesivir",
+                "source": "CBC News"
+        },
+        {
+                "vid": "gfT3rOSb9ko",
+                "title": "COVID-19 could close Canada-U.S. border for a year, expert says",
+                "source": "CBC News"
+        },
+        {
+                "vid": "uo4Ih7pMi0Y",
+                "title": "COVID-19 cases are surging throughout the U.S. Why it&#39;s not a surprise",
+                "source": "CBC News"
+        },
+        {
+                "vid": "u_K6lE2Mu2k",
+                "title": "Did some states re-open too quickly? Dr. Tom Frieden weighs in",
+                "source": "Fox News"
+        },
+        {
+                "vid": "zycFlMbd7CA",
+                "title": "Media targets Trump on pandemic after nationwide protests slow down",
+                "source": "Fox News"
+        }
     ]},
     {"Canada":[
-        {"vid": "eVuHWvi86OQ", "title": "Trudeau addresses Canadians - June 2", "source": "CBC News"},
-        {"vid": "RNpMX15phIk", "title": "Federal ministers and health officials provide COVID-19 update – June 2,", "source": "CPAC"},
-        {"vid": "b7RVUJ95JbI", "title": "Quebec to hire 10,000 orderlies ‘crucial’ to preventing second wave", "source": "Global News"},
-        {"vid": "fPe8nrFTsW4", "title": "Nova Scotia officials provide update on province's COVID-19 response", "source": "Global News"},
-        {"vid": "Ds1se3mZzZk", "title": "Manitoba announces $120 million support for front-line workers", "source": "Global News"},
-        {"vid": "Da5onV7C4vg", "title": "Canada lacking COVID-19 data on racialized communities", "source": "Global News"},
-        {"vid": "GWuC5jtOU64", "title": "Canada has failed to modernize healthcare systems", "source": "CTV News"},
-        {"vid": "PzC4GTRwUwI", "title": "B.C. reports 24 new cases of COVID-19, one new death over past 48 hours", "source": "Global News"},
-        {"vid": "05siW2cr7vU", "title": "No new deaths in Alberta as Edmonton sees 10 cases linked to gatherings", "source": "Global News"},
-        {"vid": "EK4GZSRgE9M", "title": "Checking in with how provinces are reopening", "source": "Global News"},
-        {"vid": "rq6-sjMrwT8", "title": "Ontario hospitals failed to flag 700 positive COVID-19 tests to public health units", "source": "CBC News"},
-        {"vid": "JHyd4j8mNY4", "title": "Could large protests also cause COVID-19 outbreaks?", "source": "CBC News: The National"},
-        {"vid": "3WEdD-jR3Z8", "title": "Could the coronavirus pandemic have a deadly second wave like the Spanish flu?", "source": "Global News"},
-        {"vid": "vm-4qhqVw70", "title": "Canada cancels summer cruise ship season", "source": "CBC News"},
-        {"vid": "lEQFAfQ--aU", "title": "Wastewater samples point to where COVID-19 cases are", "source": "CBC News: The National"},
-        {"vid": "lXSr0bfs1yw", "title": "More Canadians dying of overdoses during the pandemic", "source": "Global News"},
-        {"vid": "oq70mA5WL_k", "title": "Ottawa promises more is coming for cities facing cash crunch", "source": "CBC News"},
-        {"vid": "GaR6gFwTdJA", "title": "Thousands rally in anti-racism protests across Canada", "source": "CBC News"},
-        {"vid": "Q_If0f8ntJE", "title": "Searching for solutions to Canada's long-term care crisis", "source": "Global News"},
-        {"vid": "xxGhYChAass", "title": "New Brunswick doctor linked to new COVID-19 outbreak", "source": "CBC News"},
-        {"vid": "--8990NaJ7o", "title": "Working-class getting hit harder by COVID-19, data shows", "source": "CBC News"},
-        {"vid": "W_KrxSUKVg8", "title": "COVID-19 restrictions are having an impact on the environment in a big way", "source": "CTV News"},
-        {"vid": "nJb8zOaqiL4", "title": "Thousands march in Toronto against anti-black, anti-Indigenous racism", "source": "CBC News"},
-        {"vid": "hupKoNgMz-s", "title": "Thousands still flying into Canadian airports amid COVID-19 restrictions", "source": "CBC News"}
+        {
+                "vid": "Fj59LUNVkmY",
+                "title": "Coronavirus: Ottawa boosts senior benefits, prepares to introduce fiscal update",
+                "source": "Global News"
+        },
+        {
+                "vid": "n0yNXsYfzg4",
+                "title": "Coronavirus: Prince Edward Island reports 3 new cases, first since end of April",
+                "source": "Global News"
+        },
+        {
+                "vid": "lfLGG3hNSSM",
+                "title": "Coronavirus: Alberta First Nation sees cases spike",
+                "source": "Global News"
+        },
+        {
+                "vid": "p2d4BDgmjmE",
+                "title": "Trudeau questioned on his relationship with WE charity organization",
+                "source": "Global News"
+        },
+        {
+                "vid": "ndgsliDRR-w",
+                "title": "Deadly tractor crash kills 3 young children in Quebec",
+                "source": "Global News"
+        },
+        {
+                "vid": "rmmGIue437g",
+                "title": "Coronavirus: Why reopening the Canada-US border too soon could mean a &#39;second wave&#39;",
+                "source": "Global News"
+        },
+        {
+                "vid": "AVv-euLGTfg",
+                "title": "Canada Day sees muted celebrations and amplified protests",
+                "source": "Global News"
+        },
+        {
+                "vid": "VHbFfIm43O4",
+                "title": "Global National: July 1, 2020 | Celebrations and protests on Canada Day",
+                "source": "Global News"
+        },
+        {
+                "vid": "5gjY9rtwrrM",
+                "title": "Canada Day: Justin Trudeau, Sophie Grégoire Trudeau speak in Ottawa | FULL",
+                "source": "Global News"
+        },
+        {
+                "vid": "1GPG1cupQfc",
+                "title": "Students can earn up to $5K this summer for volunteer service",
+                "source": "CBC News"
+        },
+        {
+                "vid": "gr5bh71RF4g",
+                "title": "A Canadian scientist is leading a global study on COVID-19’s effects on the brain",
+                "source": "CBC News"
+        },
+        {
+                "vid": "bgrp4kPZQaI",
+                "title": "Doug Ford denounces racism against migrant workers, reveals support plan",
+                "source": "CBC News"
+        },
+        {
+                "vid": "vGGBuNY76Gg",
+                "title": "Atlantic provinces agree to regional COVID-19 pandemic bubble",
+                "source": "CBC News"
+        },
+        {
+                "vid": "GMNN5D5Rix8",
+                "title": "Toronto&#39;s top doctor says physical distancing still needed as city reopens",
+                "source": "CBC News"
+        },
+        {
+                "vid": "js8mWjJNelI",
+                "title": "Alberta invests $10 million in serology testing",
+                "source": "CBC News"
+        },
+        {
+                "vid": "xCrmK_5gHUM",
+                "title": "Employment lawyer answers your questions | COVID-19 Ask an Expert",
+                "source": "CBC News"
+        },
+        {
+                "vid": "LEOfxuS4gKI",
+                "title": "New poll reveals Chinese-Canadians&#39; experiences with racism during COVID-19",
+                "source": "CBC News"
+        },
+        {
+                "vid": "rPQSfuuAcuY",
+                "title": "Windsor-Essex the only Ontario region still stuck in Phase 1 of reopening",
+                "source": "CBC News"
+        },
+        {
+                "vid": "-xalLUsPe0E",
+                "title": "Coronavirus: Alarming rise in COVID-19 cases in young people",
+                "source": "Global News"
+        },
+        {
+                "vid": "sTKB773yy4k",
+                "title": "B.C. announces move to Phase 3 of COVID-19 reopening",
+                "source": "Global News"
+        },
+        {
+                "vid": "BBn7q9MVSYo",
+                "title": "Coronavirus: Manitoba to &quot;kick CERB to the curb&quot; in bid to woo back workers",
+                "source": "Global News"
+        },
+        {
+                "vid": "i65s3kkvCBc",
+                "title": "Third migrant worker dies of COVID-19 in Ontario",
+                "source": "CBC News"
+        },
+        {
+                "vid": "2gwpT8SjnJs",
+                "title": "The COVID-19 roller-coaster in 5 minutes",
+                "source": "CBC News"
+        },
+        {
+                "vid": "eY9b2dgxcM4",
+                "title": "Three regions left out of Ontario&#39;s reopening today",
+                "source": "CBC News"
+        }
    ]}
  ]
 }

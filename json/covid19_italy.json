@@ -9,19 +9,7 @@
 		"country_code": "IT",
 		"icon": "IT.png",
 		"official_url": "http://www.salute.gov.it/nuovocoronavirus",
-		"new": "0",
-		"confirmed": "86498",
-		"suspected": "0",
-		"death": "9134",
-		"death_new": "0",
-		"active": "66414",
-		"cured": "10950",
-		"serious": "3732",
-		"time": "Mar 28",
-		"new_24h": "0",
-		"death_new_24h": "0",
-		"population": "60461826",
-		"cities": ""
+		"population": "60461826"
 	},
 	"day": [
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
@@ -32,25 +20,26 @@
 		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9", "5/10", "5/11", "5/12", "5/13", "5/14", "5/15",
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21" ,"5/22","5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
-		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21"
+		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
 	],
 	"confirmed_cases_by_day": [
-		3,3,3,3,3,4,21,79,157,229,323,470,655,889,1128,1701,2036,2502,3089,3858,4636,5883,7375,9172,10149,12462,15113,17660,21157,24747,27980,31506,35713,41035,47021,53578,59138,63927,69176,74386,80589,86498,92472,97689,101739,105792,110574,115242,119827,124632,128948,132547,135586,139422,143626,147577,152271,156363,159516,162488,165155,168941,172434,175925,178972,181228,183957,187327,189973,192994,195351,197675,199414,201505,203591,205463,207428,209328,210717,211938,213013,214457,215858,217185,218268,219070,219814,221216,222104,223096,223885,224760,225435,225886,226699,227364,228006,228658,229327,229858,230158,230555,231139,231732,232248,232664,232997,233197,233515,233836,234013,234531,234801,234998,235278,235561,235763,236142,236305,236651,236989,237290,237500,237828,238159,238011,238275,238499
+		3,3,3,3,3,4,21,79,157,229,323,470,655,889,1128,1701,2036,2502,3089,3858,4636,5883,7375,9172,10149,12462,15113,17660,21157,24747,27980,31506,35713,41035,47021,53578,59138,63927,69176,74386,80589,86498,92472,97689,101739,105792,110574,115242,119827,124632,128948,132547,135586,139422,143626,147577,152271,156363,159516,162488,165155,168941,172434,175925,178972,181228,183957,187327,189973,192994,195351,197675,199414,201505,203591,205463,207428,209328,210717,211938,213013,214457,215858,217185,218268,219070,219814,221216,222104,223096,223885,224760,225435,225886,226699,227364,228006,228658,229327,229858,230158,230555,231139,231732,232248,232664,232997,233197,233515,233836,234013,234531,234801,234998,235278,235561,235763,236142,236305,236651,236989,237290,237500,237828,238159,238011,238275,238499,238720,238833,239410,239706,239961,240136,240310,240436,240578,240760,240961,241184,241419,241611,241819
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,1,17,58,78,72,94,147,185,234,239,573,335,466,587,769,778,1247,1492,1797,977,2313,2651,2547,3497,3590,3233,3526,4207,5322,5986,6557,5560,4789,5249,5210,6203,5909,5974,5217,4050,4053,4782,4668,4585,4805,4316,3599,3039,3836,4204,3951,4694,4092,3153,2972,2667,3786,3493,3491,3047,2256,2729,3370,2646,3021,2357,2324,1739,2091,2086,1872,1965,1900,1389,1221,1075,1444,1401,1327,1083,802,744,1402,888,992,789,875,675,451,813,665,642,652,669,531,300,397,584,593,516,416,333,200,318,321,177,518,270,197,280,283,202,379,163,346,338,301,210,328,331,251,264,224
+		0,0,0,0,0,1,17,58,78,72,94,147,185,234,239,573,335,466,587,769,778,1247,1492,1797,977,2313,2651,2547,3497,3590,3233,3526,4207,5322,5986,6557,5560,4789,5249,5210,6203,5909,5974,5217,4050,4053,4782,4668,4585,4805,4316,3599,3039,3836,4204,3951,4694,4092,3153,2972,2667,3786,3493,3491,3047,2256,2729,3370,2646,3021,2357,2324,1739,2091,2086,1872,1965,1900,1389,1221,1075,1444,1401,1327,1083,802,744,1402,888,992,789,875,675,451,813,665,642,652,669,531,300,397,584,593,516,416,333,200,318,321,177,518,270,197,280,283,202,379,163,346,338,301,210,328,331,251,264,224,221,113,190,296,255,175,174,126,142,182,201,223,235,192,208
 	],
 	"active_cases_by_day": [
-		3,3,3,3,3,4,19,75,152,221,310,455,593,822,1049,1577,1835,2263,2706,3296,3916,5061,6387,7985,8514,10590,12839,14955,17750,20603,23073,26062,28710,33190,37860,42681,46638,50418,54030,57521,62013,66414,70065,73880,75528,77635,80572,83049,85388,88274,91246,93187,94067,95262,96877,98273,100269,102253,103616,104291,105418,106607,106962,107771,108257,108237,107709,107699,106848,106527,105847,106103,105813,105205,104657,101551,100943,100704,100179,99980,98467,91528,89624,87961,84842,83324,82488,81266,78457,76440,72070,70187,68351,66553,65129,62752,60960,59322,57752,56594,55300,52942,50966,47986,46175,43691,42075,41367,39893,39297,38429,36976,35877,35262,34730,32872,31710,30637,28997,27485,26274,25909,24569,23925,23101,21543,21212,20972
+		3,3,3,3,3,4,19,75,152,221,310,455,593,822,1049,1577,1835,2263,2706,3296,3916,5061,6387,7985,8514,10590,12839,14955,17750,20603,23073,26062,28710,33190,37860,42681,46638,50418,54030,57521,62013,66414,70065,73880,75528,77635,80572,83049,85388,88274,91246,93187,94067,95262,96877,98273,100269,102253,103616,104291,105418,106607,106962,107771,108257,108237,107709,107699,106848,106527,105847,106103,105813,105205,104657,101551,100943,100704,100179,99980,98467,91528,89624,87961,84842,83324,82488,81266,78457,76440,72070,70187,68351,66553,65129,62752,60960,59322,57752,56594,55300,52942,50966,47986,46175,43691,42075,41367,39893,39297,38429,36976,35877,35262,34730,32872,31710,30637,28997,27485,26274,25909,24569,23925,23101,21543,21212,20972,20637,19573,18655,18303,17638,16836,16681,16496,15563,15255,15060,14884,14621,14642,14709
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,1,2,3,7,11,12,17,21,29,41,52,79,107,148,197,233,366,463,631,827,1016,1266,1441,1809,2158,2503,2978,3405,4032,4825,5476,6077,6820,7503,8215,9134,10023,10779,11591,12428,13155,13915,14681,15362,15887,16523,17127,17669,18279,18849,19468,19899,20465,21067,21645,22170,22745,23227,23660,24114,24648,25085,25549,25969,26384,26644,26977,27359,27682,27967,28236,28710,28884,29079,29315,29684,29958,30201,30395,30560,30739,30911,31106,31368,31610,31763,31908,32007,32169,32330,32486,32616,32735,32785,32877,32955,33072,33142,33229,33340,33415,33475,33530,33601,33689,33774,33846,33899,33964,34043,34114,34167,34223,34301,34345,34371,34405,34448,34514,34561,34610,34634
+		0,0,0,0,0,0,1,2,3,7,11,12,17,21,29,41,52,79,107,148,197,233,366,463,631,827,1016,1266,1441,1809,2158,2503,2978,3405,4032,4825,5476,6077,6820,7503,8215,9134,10023,10779,11591,12428,13155,13915,14681,15362,15887,16523,17127,17669,18279,18849,19468,19899,20465,21067,21645,22170,22745,23227,23660,24114,24648,25085,25549,25969,26384,26644,26977,27359,27682,27967,28236,28710,28884,29079,29315,29684,29958,30201,30395,30560,30739,30911,31106,31368,31610,31763,31908,32007,32169,32330,32486,32616,32735,32785,32877,32955,33072,33142,33229,33340,33415,33475,33530,33601,33689,33774,33846,33899,33964,34043,34114,34167,34223,34301,34345,34371,34405,34448,34514,34561,34610,34634,34657,34675,34644,34678,34708,34716,34738,34744,34767,34788,34818,34833,34854,34861,34869
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,1,1,1,4,4,1,5,4,8,12,11,27,28,41,49,36,133,97,168,196,189,250,175,368,349,345,475,427,627,793,651,601,743,683,712,919,889,756,812,837,727,760,766,681,525,636,604,542,610,570,619,431,566,602,578,525,575,482,433,454,534,437,464,420,415,260,333,382,323,285,269,474,174,195,236,369,274,243,194,165,179,172,195,262,242,153,145,99,162,161,156,130,119,50,92,78,117,70,87,111,75,60,55,71,88,85,72,53,65,79,71,53,56,78,44,26,34,43,66,47,49,24
+		0,0,0,0,0,0,1,1,1,4,4,1,5,4,8,12,11,27,28,41,49,36,133,97,168,196,189,250,175,368,349,345,475,427,627,793,651,601,743,683,712,919,889,756,812,837,727,760,766,681,525,636,604,542,610,570,619,431,566,602,578,525,575,482,433,454,534,437,464,420,415,260,333,382,323,285,269,474,174,195,236,369,274,243,194,165,179,172,195,262,242,153,145,99,162,161,156,130,119,50,92,78,117,70,87,111,75,60,55,71,88,85,72,53,65,79,71,53,56,78,44,26,34,43,66,47,49,24,23,18,30,34,30,8,22,6,23,21,30,15,21,7,8
 	],
 	"new_recoveries_by_day": [
-		0,0,0,0,0,0,1,0,0,0,1,1,42,1,4,33,66,11,116,138,109,66,33,102,280,41,213,181,527,369,414,192,1084,415,689,943,952,408,894,1036,999,589,1434,646,1590,1109,1118,1431,1480,1238,819,1022,1555,2099,1979,1985,2079,1677,1224,1695,962,2072,2563,2200,2128,1822,2723,2943,3033,2922,2622,1808,1696,2317,2311,4693,2304,1665,1740,1225,2352,8014,3031,2747,4008,2155,1401,2452,3502,2747,4917,2605,2366,2150,2075,2881,2278,2160,2120,1639,1502,2677,2443,3503,2240,2789,1874,848,1737,846,957,1886,1297,759,747,2062,1293,1399,1747,1780,1505,640,1516,929,1089,1363,546,440
+		0,0,0,0,0,0,1,0,0,0,1,1,42,1,4,33,66,11,116,138,109,66,33,102,280,41,213,181,527,369,414,192,1084,415,689,943,952,408,894,1036,999,589,1434,646,1590,1109,1118,1431,1480,1238,819,1022,1555,2099,1979,1985,2079,1677,1224,1695,962,2072,2563,2200,2128,1822,2723,2943,3033,2922,2622,1808,1696,2317,2311,4693,2304,1665,1740,1225,2352,8014,3031,2747,4008,2155,1401,2452,3502,2747,4917,2605,2366,2150,2075,2881,2278,2160,2120,1639,1502,2677,2443,3503,2240,2789,1874,848,1737,846,957,1886,1297,759,747,2062,1293,1399,1747,1780,1505,640,1516,929,1089,1363,546,440,533,1159,1079,614,890,969,307,305,1052,469,366,384,477,164,133
 	],
 	"youtube_playlist": [
 		{"vid": "GT1yI1XPN0w", "title": "Timelapse Footage of Empty Italy Landmarks Amid Coronavirus Lockdown", "source": "VOA News"},
@@ -232,6 +221,164 @@
 			"recovered": 0
 		}
 	],
+	"headline_news": [
+		{
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "The Canadian Press",
+            "title": "Canada Day: Big parties give way to online shows amid coronavirus pandemic",
+            "description": "A different kind of Canada Day dawned this morning, with large celebrations in many parts of the country replaced with backyard barbecues and digital events.",
+            "url": "https://www.cbc.ca/news/canada/canada-day-2020-1.5634060",
+            "urlToImage": "https://i.cbc.ca/1.5634072.1593607298!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-cda-20200630.JPG",
+            "publishedAt": "2020-07-01T13:10:15Z",
+            "content": "A different kind of Canada Day dawned\u00a0this morning, with large celebrations in many parts of the country replaced with backyard barbecues and digital events.\r\nThe COVID-19 pandemic has led to the can\u2026 [+1424 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Aaron Wherry",
+            "title": "Reopening the Canada-U.S. border will be a long, piecemeal process",
+            "description": "The Donald Trump era began in 2015 with a promise to build a wall between the United States and Mexico. Five years later, the Trump era may end with citizens in much of the rest of the world \u2014 Canadians, in particular \u2014 insisting on a virtual wall between the\u2026",
+            "url": "https://www.cbc.ca/news/politics/canada-u-s-border-pandemic-covid-coronavirus-1.5633650",
+            "urlToImage": "https://i.cbc.ca/1.5598155.1592956157!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ambassador-bridge-trucks-trade.jpg",
+            "publishedAt": "2020-07-01T08:00:00Z",
+            "content": "The Donald Trump era began in 2015 with a promise to build a wall between the United States and Mexico. Five years later, the Trump era may end with citizens in much of the rest of the world Canadian\u2026 [+6690 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "For Canada Day, Duke and Duchess of Cambridge thank B.C. hospital staff for their dedication",
+            "description": "The Duke and Duchess of Cambridge hosted a Zoom call with health-care workers at a hospital in British Columbia\u00a0as a way to mark Canada Day,\u00a0thanking front-line staff for their efforts during the COVID-19 pandemic.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/duke-and-duchess-of-cambridge-video-with-bc-hospital-staff-1.5634115",
+            "urlToImage": "https://i.cbc.ca/1.5634139.1593616691!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/duke-and-duchess-of-cambridge.jpg",
+            "publishedAt": "2020-07-01T16:23:46Z",
+            "content": "The Duke and Duchess of Cambridge hosted a Zoom call with health-care workers at a hospital in British Columbia\u00a0as a way to mark Canada Day,\u00a0thanking front-line staff for their efforts\u00a0during the COV\u2026 [+3357 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Karin Larsen",
+            "title": "Metro Vancouver's Canada Day celebrations move online and into cars",
+            "description": "Canada's 153rd birthday is being celebrated in strange new ways thanks to the COVID-19 pandemic.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-canada-day-celebrations-online-cars-1.5634324",
+            "urlToImage": "https://i.cbc.ca/1.5634500.1593639392!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-day-2020.jpg",
+            "publishedAt": "2020-07-01T22:45:09Z",
+            "content": "Canada's 153rd birthday\u00a0will likely go down in history as one that felt anything but festive\u00a0thanks to the COVID-19 pandemic shutting down almost all events and traditional fireworks displays.\r\nBut i\u2026 [+2525 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Janyce McGregor",
+            "title": "In a world economy reshaped by a virus, the new North American trade deal takes effect",
+            "description": "As negotiators shook hands on the revised North American free trade agreement, they couldn\u2019t have foreseen the fundamental upheaval their countries would soon be facing\u00a0thanks to the COVID-19 pandemic. If the Trudeau government is looking to celebrate somethi\u2026",
+            "url": "https://www.cbc.ca/news/politics/nafta-pandemic-covid-coronavirus-trade-1.5633548",
+            "urlToImage": "https://i.cbc.ca/1.5151245.1558972209!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fca-windsor-cuts-20190329.jpg",
+            "publishedAt": "2020-07-01T08:00:00Z",
+            "content": "As negotiators shook hands on the revised North American free trade agreement, they couldn't have foreseen the fundamental upheaval their countries would soon be facing\u00a0thanks to the COVID-19 pandemi\u2026 [+9379 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Jessica Wong",
+            "title": "3 ways artists are returning to live shows amid COVID-19",
+            "description": "A host of entertainers are returning to live, in-person performances and demonstrating how with flexibility, a raft of new safety measures, artistic ingenuity and a whole lot of hustle, the show can go on amid the pandemic.",
+            "url": "https://www.cbc.ca/news/entertainment/pandemic-live-music-performance-1.5625616",
+            "urlToImage": "https://i.cbc.ca/1.5632535.1593523209!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brett-kissel.jpg",
+            "publishedAt": "2020-07-01T08:00:00Z",
+            "content": "In mid-March, as Brett Kissel\u00a0wrapped up a concert with Brad Paisley in Saskatchewan, concern about the coronavirus pandemic was already on the Canadian country star's mind.\r\n\"We are going to soak th\u2026 [+7369 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "B.C.'s capital city takes Canada Day celebrations virtual for 2020",
+            "description": "Just because there is a pandemic doesn't mean there won't be a party.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/canada-day-victoria-1.5633062",
+            "urlToImage": "https://i.cbc.ca/1.5574082.1589756206!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-victoria-day-20200515.jpg",
+            "publishedAt": "2020-07-01T00:00:00Z",
+            "content": "There will still be entertainment and fireworks in Victoria, B.C., for Canada Day, although this year,\u00a0the celebrations will be viewed from the couch, instead of downtown, the usual epicentre of the \u2026 [+2513 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Ottawans reinvent Canada Day celebrations for 2020",
+            "description": "With no celebration on Parliament Hill, residents find new ways to show their Canadian pride.",
+            "url": "https://www.cbc.ca/news/canada/ottawa/ottawans-reinvent-canada-day-celebrations-for-2020-1.5634352",
+            "urlToImage": "https://i.cbc.ca/1.5634444.1593635327!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/alexandra-bridge.jpg",
+            "publishedAt": "2020-07-01T22:47:39Z",
+            "content": "For the first time in recent memory, Parliament Hill did not host the country's biggest party on Canada Day.\r\nWith no formal celebrations on the hill this year, Ottawans instead turned to their neigh\u2026 [+2270 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Vast majority of Canada Day events to be virtual during pandemic",
+            "description": "Canada marks its 153rd birthday on Wednesday but celebrations will be different this year because of the COVID-19 pandemic.",
+            "url": "https://www.cbc.ca/news/canada/toronto/canada-day-celebrations-toronto-different-this-year-pandemic-1.5633851",
+            "urlToImage": "https://i.cbc.ca/1.5588602.1590687568!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/canadian-flag.jpeg",
+            "publishedAt": "2020-07-01T08:00:00Z",
+            "content": "Canada marks its 153rd birthday on Wednesday but celebrations will be different this year because of the COVID-19 pandemic.\r\nThe vast majority of Canada Day events in Toronto will be virtual.\r\nThat m\u2026 [+4317 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Ontario provincial parks offer free admission for Canada Day",
+            "description": "Parks across the province will be free on Wednesday in honour of Canada Day, Ontario Premier Doug Ford announced Tuesday.",
+            "url": "https://www.cbc.ca/news/canada/toronto/ontario-provincial-parks-offer-free-admission-for-canada-day-1.5634045",
+            "urlToImage": "https://i.cbc.ca/1.4553451.1519735416!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mississagi-provincial-park.jpg",
+            "publishedAt": "2020-07-01T15:17:30Z",
+            "content": "Parks across the province are\u00a0offering free admission today in celebration of Canada Day, Ontario Premier Doug Ford announced Tuesday.\u00a0\r\nCapacity will be limited to prevent overcrowding, so visitors \u2026 [+3365 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Sannah Choi",
+            "title": "How this artist created a 3-D 'Love Letter to Canada'",
+            "description": "Luanga Nuwame\u2019s handmade Beautiful Canada series is an artistic tribute to all the country's provinces and territories.",
+            "url": "https://www.cbc.ca/news/canada/toronto/how-this-artist-created-a-3-d-love-letter-to-canada-1.5633377",
+            "urlToImage": "https://i.cbc.ca/1.5633403.1593548930!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/luanga-nuwame.JPG",
+            "publishedAt": "2020-07-01T10:00:00Z",
+            "content": "To honour each province and territory on Canada Day, Luanga Nuwame created 13 three-dimensional art posters using multiple layers of cardboard.\u00a0\u00a0\r\nThe handmade series is called Beautiful Canada and w\u2026 [+1174 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Stephanie Levitz",
+            "title": "Virtual Canada Day citizenship ceremony celebrates nurses, care workers",
+            "description": "Nineteen people were taking the oath of citizenship to become Canadian citizens at a special virtual ceremony on Canada Day.",
+            "url": "https://www.cbc.ca/news/politics/virtual-citizenship-ceremony-canada-day-1.5634179",
+            "urlToImage": "https://i.cbc.ca/1.5634301.1593628840!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/virtual-citizenship-ceremoiny-canada-day.jpg",
+            "publishedAt": "2020-07-01T19:52:38Z",
+            "content": "When Sweeny Karande was in her nursing program in India, her teacher presented her with an award as the best outgoing student.\r\n\"This is just the beginning,\" her teacher said. \"You can't stop here.\"\r\u2026 [+5545 chars]"
+        }
+    ],
 	"menu": [
 		{
 			"url": "index.html",
@@ -252,6 +399,10 @@
 		{
 			"url": "#charts",
 			"section": "Charts"
+		},
+		{
+			"url":"#headline-news",
+			"section":"Italy COVID-19 Headline News"
 		},
 		{
 			"url": "#youtube-playlist",

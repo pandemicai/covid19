@@ -58,46 +58,76 @@
 		26228,27924,33539
 	],
 	"youtube_playlist": [
-		{"vid": "vQUiPnDoHs0", "title": "US Congress passes $484 billion Covid-19 bailout, bringing total to unprecedented $1 trillion", "source": "FRANCE 24 English"},
-        {"vid": "cFSfswuVyCY", "title": "Australia 'on track to COVID-safe economy'", "source": "Sky News Australia"},
-        {"vid": "xUSSM57YEI0", "title": "Will the COVID-19 change Chinese economy forever?", "source": "Arirang News"},
-        {"vid": "9uwuMSUn4Os", "title": "Coronavirus: How will the oil slump hit the economy?", "source": "Sly News"},
-        {"vid": "8C1l0ixUzb4", "title": "How the economic fallout is being felt in the US", "source": "BBC Newsnight"},
-        {"vid": "zI3Ua7iuIkQ", "title": "South Korea to show fast economic recovery from COVID-19 recessio", "source": "Arirang News"},
-        {"vid": "5wK6SuC-zUY", "title": "Coronavirus outbreak: What negative oil prices mean for the economy", "source": "Global News"},
-        {"vid": "eejvJ_oJPYI", "title": "Yanis Varoufakis: Coronavirus economic fallout could heap more misery onto Greece", "source": "Euronews"},
-        {"vid": "T7c1RM-I5gY", "title": "Jobless Thais queue for food as economy worsens amid the coronavirus pandemic", "source": "South China Morning Post"},
-        {"vid": "832jhy_LFM8", "title": "Japan offers bleak view of economy as coronavirus damage deepens", "source": "CNA"},
-        {"vid": "9x3C0v4cAF8", "title": "U.S. economy could contract up to 14% in 2020 due to coronavirus crisis", "source": "CNBC"},
-        {"vid": "8lbdfSh7lnc", "title": "When and how to re-open the economy from coronavirus lockdown: Starwood Capital CEO", "source": "CNBC"},
-        {"vid": "zOyDRfI6DEI", "title": "Mnuchin: Economy will recover in months, not years", "source": "CNN"},
-        {"vid": "Lap2gNBQ0iY", "title": "Coronavirus Recession: What Will Be the Legacy?", "source": "Bloomberg Markets and Finance"},
-        {"vid": "2jS_85p0jhg", "title": "EU Coronavirus Economic Crisis: Spain proposes 1.5 trillion euros fund for hardest-hit countries", "source": "Euronews"},
-        {"vid": "jf67CdIV4vw", "title": "Canadian small businesses feeling the economic strain amid pandemic", "source": "Global News"},
-        {"vid": "ZO44B271tfk", "title": "Pence on the federal roadmap to restart the economy", "source": "Fox News"},
-        {"vid": "7jVEhnWT9Po", "title": "Virus Freezes Economy, Business Leaders Urge Testing", "source": "Wall Street Journal"},
-        {"vid": "WqyDyLZiX_s", "title": "Trump adviser says oil price plunge is 'very short disruption'", "source": "Fox News"},
-        {"vid": "Yy_-ChG-ZhM", "title": "Oil prices drop to historic lows amid pandemic", "source": "Global News"},
-        {"vid": "tVvgxgIpGQo", "title": "Another punishing day for North American energy sector", "source": "Global News"},
-        {"vid": "3st1ymPKOsQ", "title": "Canada’s economy headed for strong, slow recovery after COVID-19", "source": "CBC News"},
-        {"vid": "Lk6e2OI8R4k", "title": "Martin Wolf: coronavirus could be worst economic crisis since Great Depression", "source": "Financial Times"},
-        {"vid": "2sovt9YZf5Y", "title": "China's Q1 GDP shrank 6.8% y/y after COVID-19 hit economy", "source": "Arirang News"},
-		{"vid": "AKN_DjVDcLk", "title": "IRS Sends Out First Wave Of Coronavirus Stimulus Checks", "source": "MSNBC"},
-		{"vid": "kpclJt9_fYo", "title": "Canada's House of Commons passes COVID-19 wage subsidy bill", "source": "Global News"},
-		{"vid": "PwlB2qw7hAY", "title": "Examining COVID-19's Impact On The U.K. Economy", "source": "NBC News"},
-		{"vid": "L_50mcBMBzc", "title": "COVID-19 economic crisis will be most ‘far reaching and catastrophic’ since Depression", "source": "Sky News Australia"},
-		{"vid": "0cGLrSpaf4o", "title": "The impact COVID-19 is having on the global economy", "source": "Global News"},
-		{"vid": "3yIUCTmzcec", "title": "The Covid-19 economy, explained", "source": "CNN"},
-		{"vid": "fO1CLFDx14c", "title": "Could A Universal Basic Income Fix Covid-19 Economic Devastation?", "source": "QuickTake by Bloomberg"},
-		{"vid": "C91CXD9gTSA", "title": "COVID-19 death toll continues to rise in Europe, economy feeling heat", "source": "Arirang News"},
-		{"vid": "H6iy9GVqs_c", "title": "How the coronavirus pandemic affects the world's working poor", "source": "DW News"},
-		{"vid": "-VZMWLeO1HA", "title": "Economic recovery is going to be, 'A long process,' says Gary Cohn", "source": "Yahoo Finance"},
-		{"vid": "bivPO2RkCDc", "title": "Nearly 10 million have filed for unemployment benefits", "source": "ABC News"},
-		{"vid": "kOkIRe2nv2Q", "title": "Fed Chair Jerome Powell discusses impact of COVID-19 on the US economy", "source": "Yahoo Finance"},
-		{"vid": "Apt-doamfmk", "title": "Over a million jobs lost in Canada amid COVID-19 pandemic", "source": "CTV News"},
-		{"vid": "JQtNkLtQ08A", "title": "Japan declares state of emergency, approves near $1 trillion stimulus package", "source": "Global News"},
-		{"vid": "94wGHRDHyHo", "title": "How will the global economy ever recover from the coronavirus?", "source": "Al Jazeera English"},
-		{"vid": "wUUWoN4LKuE", "title": "Covid-19: how bad will it be for the economy?", "source": "The Economist"}
+		{
+			"vid": "ImZb3pywITc",
+			"title": "More stimulus payments? Scalia weighs in as coronavirus cases surge",
+			"source": "Fox News"
+		},
+		{
+				"vid": "QrOEXmOSb0c",
+				"title": "Pakistan mango farmers hit hard by COVID-19, locust attacks",
+				"source": "Al Jazeera English"
+		},
+		{
+				"vid": "jQ-7kgggHn4",
+				"title": "Latin America outbreak: COVID-19 inflicts stark economic losses",
+				"source": "Al Jazeera English"
+		},
+		{
+				"vid": "AX2T_9vRkJE",
+				"title": "&#39;Build build build!&#39;: Boris Johnson sets out &#39;new deal&#39; on infrastructure to boost UK economy",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "y7nrmbAiC1g",
+				"title": "Macron green funding: French president pledges 15 billion euros to speed transition to green economy",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "qI7GCiu1nB8",
+				"title": "Studies indicate how the coronavirus will shape the future of work | COVID-19 Special",
+				"source": "DW News"
+		},
+		{
+				"vid": "6rBWh2-anFc",
+				"title": "Alberta unveils COVID-19 economic-recovery plan",
+				"source": "CBC News"
+		},
+		{
+				"vid": "gfT3rOSb9ko",
+				"title": "COVID-19 could close Canada-U.S. border for a year, expert says",
+				"source": "CBC News"
+		},
+		{
+				"vid": "X7QI0p63Vhs",
+				"title": "Battleground voters begin to question Pres. Donald Trump&#39;s handling of economy: Survey",
+				"source": "CNBC Television"
+		},
+		{
+				"vid": "I625_mY0O0Q",
+				"title": "Mortgage applications fall for second straight week",
+				"source": "CNBC Television"
+		},
+		{
+				"vid": "FOy3Y4enny4",
+				"title": "Fmr. Airline CEO on EU travel ban decision, hurdles facing industry",
+				"source": "CNBC Television"
+		},
+		{
+				"vid": "KAihKiErlgk",
+				"title": "Traditional economic data very difficult to follow, so we&#39;re watching consumer confidence: Shah",
+				"source": "CNBC Television"
+		},
+		{
+				"vid": "PCzvwKaLui8",
+				"title": "Coronavirus: Will £5billion be enough to save the UK economy?",
+				"source": "Sky News"
+		},
+		{
+				"vid": "ddV9s569aTU",
+				"title": "Former govt adviser: &#39;The economy is critical for health&#39;",
+				"source": "Sky News"
+		}
 	],
 	"menu": [
 		{

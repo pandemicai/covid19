@@ -9,19 +9,7 @@
 		"country_code": "AU",
 		"icon": "AU.png",
 		"official_url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-		"new": "0",
-		"confirmed": "4763",
-		"suspected": "0",
-		"death": "20",
-		"death_new": "0",
-		"active": "4398",
-		"cured": "345",
-		"serious": "28",
-		"time": "Apr 01",
-		"new_24h": "0",
-		"death_new_24h": "0",
-		"population": "25499884",
-		"cities": ""
+		"population": "25499884"
 	},
 	"day": [
 		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
@@ -32,25 +20,26 @@
 		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9", "5/10", "5/11", "5/12", "5/13", "5/14", "5/15",
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22", "5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
-		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21"
+		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
 	],
 	"confirmed_cases_by_day": [
-		15,15,15,15,15,17,19,21,22,22,22,23,23,25,25,29,33,39,53,60,63,74,83,93,116,128,156,199,248,300,401,455,596,756,928,1072,1609,1887,2317,2676,3050,3378,3635,4163,4460,4763,5048,5314,5454,5550,5750,5895,5988,6052,6152,6238,6303,6313,6359,6400,6447,6468,6533,6586,6612,6625,6645,6649,6667,6675,6695,6716,6720,6738,6746,6754,6767,6781,6801,6825,6849,6875,6896,6914,6929,6941,6948,6964,6980,6989,7019,7036,7045,7060,7068,7079,7081,7095,7111,7114,7118,7133,7139,7150,7173,7185,7195,7204,7221,7229,7240,7251,7255,7260,7265,7267,7276,7285,7290,7302,7320,7335,7347,7370,7391,7409,7436,7461
+		15,15,15,15,15,17,19,21,22,22,22,23,23,25,25,29,33,39,53,60,63,74,83,93,116,128,156,199,248,300,401,455,596,756,928,1072,1609,1887,2317,2676,3050,3378,3635,4163,4460,4763,5048,5314,5454,5550,5750,5895,5988,6052,6152,6238,6303,6313,6359,6400,6447,6468,6533,6586,6612,6625,6645,6649,6667,6675,6695,6716,6720,6738,6746,6754,6767,6781,6801,6825,6849,6875,6896,6914,6929,6941,6948,6964,6980,6989,7019,7036,7045,7060,7068,7079,7081,7095,7111,7114,7118,7133,7139,7150,7173,7185,7195,7204,7221,7229,7240,7251,7255,7260,7265,7267,7276,7285,7290,7302,7320,7335,7347,7370,7391,7409,7436,7461,7474,7492,7521,7558,7595,7641,7686,7767,7836,7920,8001,8255,8362,8449,8586
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,2,2,2,1,0,0,1,0,2,0,4,4,6,14,7,3,11,9,10,23,12,28,43,49,52,101,54,141,160,172,144,537,278,430,359,374,328,257,528,297,303,285,266,140,96,200,145,93,64,100,86,65,10,46,41,47,21,65,53,26,13,20,4,18,8,20,21,4,18,8,8,13,14,20,24,24,26,21,18,15,12,7,16,16,9,30,17,9,15,8,11,2,14,16,3,4,15,6,11,23,12,10,9,17,8,11,11,4,5,5,2,9,9,5,12,18,15,12,23,21,18,27,25
+		0,0,0,0,0,2,2,2,1,0,0,1,0,2,0,4,4,6,14,7,3,11,9,10,23,12,28,43,49,52,101,54,141,160,172,144,537,278,430,359,374,328,257,528,297,303,285,266,140,96,200,145,93,64,100,86,65,10,46,41,47,21,65,53,26,13,20,4,18,8,20,21,4,18,8,8,13,14,20,24,24,26,21,18,15,12,7,16,16,9,30,17,9,15,8,11,2,14,16,3,4,15,6,11,23,12,10,9,17,8,11,11,4,5,5,2,9,9,5,12,18,15,12,23,21,18,27,25,13,18,29,37,37,46,45,81,69,84,81,254,107,87,137
 	],
 	"active_cases_by_day": [
-		5,5,5,5,5,6,8,10,11,11,7,8,8,10,10,13,17,17,30,36,39,49,58,68,91,101,127,170,218,268,369,423,547,703,875,1019,1514,1762,2191,2547,2867,3195,3451,3902,4197,4398,4680,4704,4841,4935,4633,3418,3392,3189,3114,3043,2982,2916,2804,2741,2698,2658,2647,2349,2311,2296,1889,1655,1547,1460,1243,1073,1051,1024,990,947,929,899,889,871,864,794,759,738,697,681,672,638,611,590,584,576,580,569,555,535,509,515,515,504,485,478,471,468,489,477,479,483,493,487,490,466,463,455,457,445,430,422,405,388,380,382,392,409,412,429,453,463
+		5,5,5,5,5,6,8,10,11,11,7,8,8,10,10,13,17,17,30,36,39,49,58,68,91,101,127,170,218,268,369,423,547,703,875,1019,1514,1762,2191,2547,2867,3195,3451,3902,4197,4398,4680,4704,4841,4935,4633,3418,3392,3189,3114,3043,2982,2916,2804,2741,2698,2658,2647,2349,2311,2296,1889,1655,1547,1460,1243,1073,1051,1024,990,947,929,899,889,871,864,794,759,738,697,681,672,638,611,590,584,576,580,569,555,535,509,515,515,504,485,478,471,468,489,477,479,483,493,487,490,466,463,455,457,445,430,422,405,388,380,382,392,409,412,429,453,463,469,486,503,523,533,558,603,655,724,776,807,832,903,946,1060
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,3,3,3,3,3,3,5,5,5,6,7,7,7,7,7,8,11,13,13,14,17,19,20,23,25,28,30,37,45,49,50,51,54,56,59,61,61,63,63,65,70,71,71,71,74,75,79,80,83,83,88,89,92,93,93,95,95,96,97,97,97,97,97,97,97,98,98,98,98,98,99,100,100,100,101,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,3,3,3,3,3,3,5,5,5,6,7,7,7,7,7,8,11,13,13,14,17,19,20,23,25,28,30,37,45,49,50,51,54,56,59,61,61,63,63,65,70,71,71,71,74,75,79,80,83,83,88,89,92,93,93,95,95,96,97,97,97,97,97,97,97,98,98,98,98,98,99,100,100,100,101,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,103,104,104,104,104,104,104,104,104,104,104,104,106
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,1,3,2,0,1,3,2,1,3,2,3,2,7,8,4,1,1,3,2,3,2,0,2,0,2,5,1,0,0,3,1,4,1,3,0,5,1,3,1,0,2,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,1,3,2,0,1,3,2,1,3,2,3,2,7,8,4,1,1,3,2,3,2,0,2,0,2,5,1,0,0,3,1,4,1,3,0,5,1,3,1,0,2,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
 	],
 	"new_recoveries_by_day": [
-		0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,6,0,1,0,0,0,0,0,2,2,0,1,0,0,0,16,3,0,0,42,30,0,0,52,0,0,74,0,101,0,240,0,0,495,1352,115,266,174,154,124,73,156,104,88,61,74,346,63,28,427,235,125,91,236,188,26,40,41,48,30,44,28,42,30,95,56,39,56,28,16,50,42,30,36,25,5,25,21,31,28,7,15,14,23,22,13,14,2,24,8,5,7,14,8,35,7,13,3,14,24,17,22,29,26,13,2,6,18,1,3,15
+		0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,6,0,1,0,0,0,0,0,2,2,0,1,0,0,0,16,3,0,0,42,30,0,0,52,0,0,74,0,101,0,240,0,0,495,1352,115,266,174,154,124,73,156,104,88,61,74,346,63,28,427,235,125,91,236,188,26,40,41,48,30,44,28,42,30,95,56,39,56,28,16,50,42,30,36,25,5,25,21,31,28,7,15,14,23,22,13,14,2,24,8,5,7,14,8,35,7,13,3,14,24,17,22,29,26,13,2,6,18,1,3,15,7,1,16,27,21,0,29,0,32,50,229,36,44,21
 	],
 	"youtube_playlist": [
 		{"vid": "rl4LQ0b0APs", "title": "The latest COVID-19 news for on Tuesday, April 21", "source": "7NEWS Australia"},
@@ -120,6 +109,151 @@
 			"death": 8
 		}
 	],
+	"headline_news": [
+		{
+            "source": {
+                "id": null,
+                "name": "Thebigsmoke.com.au"
+            },
+            "author": null,
+            "title": "This is why some people are refusing to take a COVID test - The Big Smoke Australia",
+            "description": "Despite the bounce in cases, some are reluctant to take a COVID test. The reasons why are numerous.",
+            "url": "https://www.thebigsmoke.com.au/2020/07/05/this-is-why-some-people-are-refusing-to-take-a-covid-test/",
+            "urlToImage": "https://www.thebigsmoke.com.au/wp-content/uploads/photo-1582974006777-1117ffbdd7d6.jpg",
+            "publishedAt": "2020-07-04T22:01:16Z",
+            "content": "Despite the bounce in cases, some are reluctant to take a COVID test. The reasons why are numerous.\u00a0\r\nLast week, outgoing chief medical officer Brendan Murphy announced all returned travellers would \u2026 [+5708 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "https://www.abc.net.au/news/yara-murray-atfield/9329528",
+            "title": "Residents of Melbourne's locked-down public housing towers 'treated like criminals' - ABC News",
+            "description": "Some of the 3,000 people living in nine public housing towers in inner Melbourne under strict lockdown due to fears of a coronavirus outbreak say  they feel unfairly targeted by the new rules.",
+            "url": "https://www.abc.net.au/news/2020-07-05/coronavirus-lockdown-melbourne-public-housing-residents-speak/12423170",
+            "urlToImage": "https://www.abc.net.au/cm/rimage/12423280-16x9-large.jpg?v=3",
+            "publishedAt": "2020-07-04T21:47:00Z",
+            "content": "It was only when Tekeste Hailu tried to leave his building that he realised he was one of 3,000 people in mandatory lockdown.\r\nMr Hailu, 27, lives with his grandmother in public housing on Racecourse\u2026 [+6333chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Insider Australia"
+            },
+            "author": "Sonam Sheth",
+            "title": "A new strain of coronavirus is more infectious but doesn't make people any sicker than before, according to a global study - Business Insider Australia",
+            "description": "A new strain of the novel coronavirus that\u2019s spreading from Europe to the US is more infectious than its predecessor, according to a new global study published in the journal Cell and first reported on by CNN.",
+            "url": "https://www.businessinsider.com.au/new-coronavirus-strain-infectious-does-not-make-people-sicker-study-2020-7",
+            "urlToImage": "https://i.insider.com/5ec7bb2a988ee33e4f27b8c2",
+            "publishedAt": "2020-07-04T18:19:25Z",
+            "content": "<ul><li>\r\nA new strain of the novel coronavirus that\u2019s spreading from Europe to the US is more infectious than its predecessor but is not making people any sicker than before, according to a new glob\u2026 [+4114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News"
+            },
+            "author": "9NEWS",
+            "title": "Four more Newmarch House residents tested for COVID-19 - 9News",
+            "description": "<p>Four Newmarch House residents were tested for COVID-19 yesterday, after showing signs of respiratory illness.</p>",
+            "url": "https://www.9news.com.au/national/newmarch-house-coronavirus-outbreak-four-more-residents-tested/807e8a4d-05d9-4b6f-91c8-21b8c4d46b9f",
+            "urlToImage": "https://imageresizer.static9.net.au/mrzxfVuoS6D3lMHAt-bbjK32MtA=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F6d6fa358-d881-44d2-bb10-625b8d8575c6",
+            "publishedAt": "2020-07-04T16:55:34Z",
+            "content": "Property News:\u00a0Expert money tips on how to tighten the belt at home - domain.com.au"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Canberra Times"
+            },
+            "author": "Meredith Cliby",
+            "title": "The Informer: Victoria takes drastic action - The North West Star",
+            "description": "Here come some more lockdowns after Victoria recorded its second highest total of new cases so far.",
+            "url": "https://www.canberratimes.com.au/story/6819177/victoria-takes-drastic-action-after-triple-figure-rise/",
+            "urlToImage": "https://nnimgt-a.akamaihd.net/transform/v1/crop/frm/3BUUzmFAhrhLyX9rFCubPq5/608216b9-f60c-4cde-8a7a-c8fed801cfa9.jpg/r3_307_5757_3558_w1200_h678_fmax.jpg",
+            "publishedAt": "2020-07-04T07:30:00Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "World Socialist Web Site"
+            },
+            "author": "Oscar Grenfell",
+            "title": "Australia: Melbourne's coronavirus outbreak continues to spread despite localised lockdown - World Socialist Web Site",
+            "description": "It only took days for the Victorian Labor government\u2019s lockdown of ten Melbourne postcodes to be exposed as an ineffectual and punitive response to the rise in infections.",
+            "url": "https://www.wsws.org/en/articles/2020/07/04/auco-j04.html",
+            "urlToImage": "https://www.wsws.org/asset/efc30b6a-7afd-4581-a689-30d79ea30d9e/image.jpg",
+            "publishedAt": "2020-07-04T05:59:03Z",
+            "content": "By\r\n Oscar Grenfell\r\n 4 July 2020\r\nA surge in COVID-19 infections in the Victorian capital, Melbourne, has continued over the past days, after the state Labor government reinstituted limited lockdown\u2026 [+8812 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "WHO expects to see first results from coronavirus drug trials within two weeks - ABC News",
+            "description": "The World Health Organization says it should soon see interim results from clinical studies of possible treatments for COVID-19, involving close to 5,500 recruits in 39 countries.",
+            "url": "https://www.abc.net.au/news/2020-07-04/who-expects-first-results-from-covid-19-drug-trials-coronavirus/12422744",
+            "urlToImage": "https://www.abc.net.au/cm/rimage/12422776-16x9-large.jpg?v=2",
+            "publishedAt": "2020-07-04T05:41:55Z",
+            "content": "The director-general of the World Health Organization (WHO) says it should soon get results from the clinical trials of drugs that might be effective in treating COVID-19 patients.\r\nKey points:\r\n<ul>\u2026 [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Age"
+            },
+            "author": "Craig Butt, Mark Stehle, Richard Lama",
+            "title": "From hope to hotspots: How coronavirus cases are surging in the suburbs - The Age",
+            "description": "Only a month ago, Melbourne was ready to confidently ease more coronavirus restrictions. Now cases are surging. This map shows where the case numbers are multiplying.",
+            "url": "https://www.theage.com.au/national/victoria/from-hope-to-hotspots-how-coronavirus-cases-are-surging-in-the-suburbs-20200704-p558z5.html",
+            "urlToImage": "https://static.ffx.io/images/$zoom_3.268518518518518%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_270%2C$y_332/t_crop_custom/q_86%2Cf_auto/de3894b1c7227c690096f6a85cd8c24b33e2065a",
+            "publishedAt": "2020-07-04T03:48:20Z",
+            "content": "The council area of Hume, in Melbourne' north, has nearly 100 known active cases more than twice as many as there were in the entire state three weeks ago.\r\nThe hotspot suburbs of Broadmeadows, Craig\u2026 [+1011 chars]"
+        },
+		{
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Polls close in tightly contested Australian by-election - Reuters Australia",
+            "description": "Polling closed on Saturday in an Australian by-election being seen as a referendum on Prime Minister Scott Morrison's handling of bushfires and the COVID-19 pandemic, with a tight contest expected.",
+            "url": "https://www.reuters.com/article/us-australia-election-idUSKCN2450BB",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200704&t=2&i=1524617656&w=1200&r=LYNXNPEG63074",
+            "publishedAt": "2020-07-04T09:18:00Z",
+            "content": "SYDNEY (Reuters) - Polling closed on Saturday in an Australian by-election being seen as a referendum on Prime Minister Scott Morrison\u2019s handling of bushfires and the COVID-19 pandemic, with a tight \u2026 [+1328 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus Australia: Melbourne locks down tower blocks as cases rise",
+            "description": "Nine housing estate blocks in the Australian city are locked down amid a \u201cnew phase of the pandemic\u201d.",
+            "url": "https://www.bbc.co.uk/news/world-australia-53289616",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1115F/production/_113238996_mediaitem113238994.jpg",
+            "publishedAt": "2020-07-04T09:29:28Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Nine tower blocks are under \"hard lockdown\"\r\nAuthorities in the Australian city of Melbourne have confined people living in nine housing estate tower blocks\u2026 [+3243 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Australia's Victoria reports 108 new coronavirus cases, biggest jump in over three months - Reuters",
+            "description": "Australia's second most-populous state, Victoria, reported its biggest jump in coronavirus cases since late March on Saturday, forcing it to expand stay-at-home orders to two more suburbs and sending nine public housing towers in a complete lockdown.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-australia-idUSKCN24508A",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200704&t=2&i=1524612161&w=1200&r=LYNXNPEG6305C",
+            "publishedAt": "2020-07-04T06:46:00Z",
+            "content": "SYDNEY (Reuters) - Australia\u2019s second most-populous state, Victoria, reported its biggest jump in coronavirus cases since late March on Saturday, forcing it to expand stay-at-home orders to two more \u2026 [+1018 chars]"
+        }
+    ],
 	"menu": [
 		{
 			"url": "index.html",
@@ -144,6 +278,10 @@
 		{
 			"url": "#australia-testing-charts",
 			"section": "Australia COVID-19 Testing"
+		},
+		{
+			"url":"#headline-news",
+			"section":"Australia COVID-19 Headline News"
 		},
 		{
 			"url": "#youtube-playlist",
