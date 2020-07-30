@@ -21,91 +21,122 @@
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22","5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
 		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
-		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6", "7/7", "7/8", "7/9", "7/10", "7/11", "7/12", "7/13", "7/14", "7/15",
+		"7/16", "7/17", "7/18", "7/19", "7/20", "7/21", "7/22", "7/23", "7/24", "7/25", "7/26", "7/27", "7/28", "7/29"
 	],
 	"confirmed_cases_by_day": [
-		16,16,16,16,16,16,16,16,16,16,18,26,48,74,79,130,165,203,262,545,670,800,1040,1224,1565,1966,2745,3675,4599,5813,7272,9367,12327,15320,19848,22364,24873,29056,32991,37323,43938,50871,57695,62435,66885,71808,77981,84794,91159,96092,100123,103375,107663,113296,118235,122171,125452,127854,130072,132210,134753,137698,141397,143724,145742,147065,148453,150648,153129,154999,156513,157770,158758,159912,161539,163009,164077,164967,165664,166152,167007,168162,169430,170588,171324,171879,172576,173171,174098,174975,175699,176244,176651,177289,177827,178531,179021,179713,179986,180328,180789,181288,181895,182452,183019,183294,183494,183765,184091,184425,184923,185414,185696,185869,186205,186516,186510,186795,187251,187423,187671,188044,188382,190179,190126,190660,191216,191575,192119,192778,193254,193785,194399,194689,194864,195392,195832,196324,196717,197000,197418,197558,198057
+		16,16,16,16,16,16,16,16,16,16,18,26,48,74,79,130,165,203,262,545,670,800,1040,1224,1565,1966,2745,3675,4599,5813,7272,9367,12327,15320,19848,22364,24873,29056,32991,37323,43938,50871,57695,62435,66885,71808,77981,84794,91159,96092,100123,103375,107663,113296,118235,122171,125452,127854,130072,132210,134753,137698,141397,143724,145742,147065,148453,150648,153129,154999,156513,157770,158758,159912,161539,163009,164077,164967,165664,166152,167007,168162,169430,170588,171324,171879,172576,173171,174098,174975,175699,176244,176651,177289,177827,178531,179021,179713,179986,180328,180789,181288,181895,182452,183019,183294,183494,183765,184091,184425,184923,185414,185696,185869,186205,186516,186510,186795,187251,187423,187671,188044,188382,190179,190126,190660,191216,191575,192119,192778,193254,193785,194399,194689,194864,195392,195832,196324,196717,197000,197418,197558,198057,198355,198765,199198,199588,199812,199950,200436,200766,201252,201836,202345,202572,202845,203487,203890,204470,205142,205960,206332,206741,207379,207951,208811
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,2,8,22,26,5,51,35,38,59,283,125,130,240,184,341,401,779,930,924,1214,1459,2095,2960,2993,4528,2516,2509,4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218,2138,2543,2945,3699,2327,2018,1323,1388,2195,2481,1870,1514,1257,988,1154,1627,1470,1068,890,697,488,855,1155,1268,1158,736,555,697,595,927,877,724,545,407,638,538,704,490,692,273,342,461,499,607,557,567,275,200,271,326,334,498,491,282,173,336,311,0,285,456,172,248,373,338,1797,622,534,556,359,544,659,476,531,614,290,175,528,440,492,393,283,418,140,499
+		0,0,0,0,0,0,0,0,0,0,2,8,22,26,5,51,35,38,59,283,125,130,240,184,341,401,779,930,924,1214,1459,2095,2960,2993,4528,2516,2509,4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218,2138,2543,2945,3699,2327,2018,1323,1388,2195,2481,1870,1514,1257,988,1154,1627,1470,1068,890,697,488,855,1155,1268,1158,736,555,697,595,927,877,724,545,407,638,538,704,490,692,273,342,461,499,607,557,567,275,200,271,326,334,498,491,282,173,336,311,0,285,456,172,248,373,338,1797,622,534,556,359,544,659,476,531,614,290,175,528,440,492,393,283,418,140,499,298,410,433,390,224,138,486,330,486,584,509,227,273,642,403,580,672,818,372,409,638,572,860
 	],
 	"active_cases_by_day": [
-		13,13,9,7,7,3,2,2,2,2,3,11,32,58,63,114,149,187,246,528,652,782,1022,1204,1545,1938,2714,3621,4544,5754,7188,9274,12194,15161,19600,22071,24513,28480,29542,33570,37998,43862,48781,52683,52740,54933,58350,61247,65309,68248,69839,72865,69566,64647,63221,65522,65181,64532,62578,60515,58349,56646,53931,53786,53100,50703,48167,45933,44254,42439,40836,39794,38132,36198,34672,32886,30441,29155,28198,26459,24914,23191,22138,21378,20475,19910,19298,18233,17537,16747,15998,15617,15202,14566,13934,13361,12712,12361,11720,11657,11161,10790,10562,10682,10325,9794,9689,9247,9017,8426,8387,8151,8027,7993,7822,7485,6966,6744,6788,6656,6601,6559,6372,7652,7080,7300,7555,7713,7850,8092,7951,7973,8273,8163,8135,8251,7680,7463,7353,6927,7037,6772,6765
+		13,13,9,7,7,3,2,2,2,2,3,11,32,58,63,114,149,187,246,528,652,782,1022,1204,1545,1938,2714,3621,4544,5754,7188,9274,12194,15161,19600,22071,24513,28480,29542,33570,37998,43862,48781,52683,52740,54933,58350,61247,65309,68248,69839,72865,69566,64647,63221,65522,65181,64532,62578,60515,58349,56646,53931,53786,53100,50703,48167,45933,44254,42439,40836,39794,38132,36198,34672,32886,30441,29155,28198,26459,24914,23191,22138,21378,20475,19910,19298,18233,17537,16747,15998,15617,15202,14566,13934,13361,12712,12361,11720,11657,11161,10790,10562,10682,10325,9794,9689,9247,9017,8426,8387,8151,8027,7993,7822,7485,6966,6744,6788,6656,6601,6559,6372,7652,7080,7300,7555,7713,7850,8092,7951,7973,8273,8163,8135,8251,7680,7463,7353,6927,7037,6772,6765,6552,6950,6473,6458,6178,6216,6197,6122,6104,6279,5985,5910,5882,6514,6610,6688,6955,6359,6530,6938,6774,6744,7599
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,8,9,13,17,26,28,44,68,84,94,123,159,206,267,351,433,541,645,775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194,3495,3804,4052,4352,4538,4642,4862,5086,5315,5575,5760,5877,5976,6126,6314,6467,6623,6736,6812,6866,6993,6993,7275,7392,7510,7549,7569,7661,7738,7861,7928,8001,8027,8049,8123,8193,8270,8309,8352,8366,8371,8428,8498,8533,8570,8594,8600,8605,8618,8674,8699,8736,8763,8769,8776,8783,8831,8844,8851,8863,8867,8870,8885,8910,8927,8946,8960,8961,8962,8969,8986,9003,9012,9026,9026,9029,9041,9052,9061,9064,9073,9081,9086,9092
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,8,9,13,17,26,28,44,68,84,94,123,159,206,267,351,433,541,645,775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194,3495,3804,4052,4352,4538,4642,4862,5086,5315,5575,5760,5877,5976,6126,6314,6467,6623,6736,6812,6866,6993,6993,7275,7392,7510,7549,7569,7661,7738,7861,7928,8001,8027,8049,8123,8193,8270,8309,8352,8366,8371,8428,8498,8533,8570,8594,8600,8605,8618,8674,8699,8736,8763,8769,8776,8783,8831,8844,8851,8863,8867,8870,8885,8910,8927,8946,8960,8961,8962,8969,8986,9003,9012,9026,9026,9029,9041,9052,9061,9064,9073,9081,9086,9092,9103,9115,9125,9130,9134,9134,9139,9144,9148,9157,9160,9162,9163,9173,9180,9182,9187,9201,9202,9203,9205,9207,9212
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1,4,4,9,2,16,24,16,10,29,36,47,61,84,82,108,104,130,156,176,168,169,140,226,206,333,258,129,135,151,172,301,309,248,300,186,104,220,224,229,260,185,117,99,150,188,153,156,113,76,54,127,0,282,117,118,39,20,92,77,123,67,73,26,22,74,70,77,39,43,14,5,57,70,35,37,24,6,5,13,56,25,37,27,6,7,7,48,13,7,12,4,3,15,25,17,19,14,1,1,7,17,17,9,14,0,3,12,11,9,3,9,8,5,6
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1,4,4,9,2,16,24,16,10,29,36,47,61,84,82,108,104,130,156,176,168,169,140,226,206,333,258,129,135,151,172,301,309,248,300,186,104,220,224,229,260,185,117,99,150,188,153,156,113,76,54,127,0,282,117,118,39,20,92,77,123,67,73,26,22,74,70,77,39,43,14,5,57,70,35,37,24,6,5,13,56,25,37,27,6,7,7,48,13,7,12,4,3,15,25,17,19,14,1,1,7,17,17,9,14,0,3,12,11,9,3,9,8,5,6,11,12,10,5,4,0,5,5,4,9,3,2,1,10,7,2,5,14,1,1,2,2,5
 	],
 	"new_recoveries_by_day": [
-		0,0,4,2,0,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,7,0,21,0,0,21,0,38,10,65,29,57,187,2837,257,2126,985,1823,730,4289,2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000,3900,4400,4400,6114,2286,2600,3500,3700,4200,3900,3500,3000,2200,2500,2900,3000,3100,3400,2100,1600,2100,2400,2596,2204,1800,1600,1100,1217,1583,1500,1600,1400,900,800,1200,1100,1200,1100,1000,900,400,900,800,800,400,900,800,300,700,500,900,500,700,400,200,500,600,500,500,400,300,300,400,500,500,500,300,300,200,400,400,600,500,300,400,200,400,1000,700,500,700,300,400,500
+		0,0,4,2,0,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,7,0,21,0,0,21,0,38,10,65,29,57,187,2837,257,2126,985,1823,730,4289,2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000,3900,4400,4400,6114,2286,2600,3500,3700,4200,3900,3500,3000,2200,2500,2900,3000,3100,3400,2100,1600,2100,2400,2596,2204,1800,1600,1100,1217,1583,1500,1600,1400,900,800,1200,1100,1200,1100,1000,900,400,900,800,800,400,900,800,300,700,500,900,500,700,400,200,500,600,500,500,400,300,300,400,500,500,500,300,300,200,400,400,600,500,300,400,200,400,1000,700,500,700,300,400,500,500,0,900,400,500,100,500,400,500,400,800,300,300,0,300,500,400,1400,200,0,800,600,0
 	],
 	"youtube_playlist": [
 		{
-				"vid": "UZ2YVvXL7Hk",
-				"title": "Coronavirus: Why are there outbreaks in meat processing plants? - BBC News",
-				"source": "BBC News"
-		},
-		{
-				"vid": "JZckCXq2QFM",
-				"title": "400,000 forced into lockdown after local COVID-19 outbreak in Germany | DW News",
+				"vid": "uO2l83j9lVI",
+				"title": "Coat of arms of German city of Coburg sparks racism charges | DW News",
 				"source": "DW News"
 		},
 		{
-				"vid": "nCqso36GtGU",
-				"title": "Nursing homes - the invisible epicentres of the coronavirus pandemic | COVID-19 Special",
+			"vid": "8ySTHHp-ecs",
+			"title": "How safe are Jewish citizens in Germany? | DW News",
+			"source": "DW News"
+		},
+		{
+				"vid": "POvw6pdd_7I",
+				"title": "Here&#39;s why the Black Lives Matter movement spread to Germany",
+				"source": "Bloomberg QuickTake News"
+		},
+		{
+			"vid": "_oWH5mRkzEs",
+			"title": "Manhunt continues for armed fugitive in Germany&#39;s Black Forest | DW News",
+			"source": "DW News"
+		},
+		{
+				"vid": "mhzE-NI7UNk",
+				"title": "Coronavirus curses a German meat-processing plant",
 				"source": "DW News"
 		},
 		{
-				"vid": "-YKKJGZPmnE",
-				"title": "Why did local youth clash with police in the German city of Stuttgart? | DW News",
+				"vid": "M6QmkxCBDMM",
+				"title": "UK to ban Huawei from 5G networks +++ Germany debates spyware law | DW Tech Report",
 				"source": "DW News"
 		},
 		{
-				"vid": "SHaBsb-0LEs",
-				"title": "1,400 corona cases at a meat factory: Is Germany unable to get working conditions under control?",
+				"vid": "2093O621M9Q",
+				"title": "Germany slow to condemn China&#39;s Hong Kong security law | DW News",
 				"source": "DW News"
 		},
 		{
-				"vid": "MrZkZ2tF01U",
-				"title": "Coronavirus infects more than 1000 at German meat-processing plant | DW News",
+				"vid": "SX4ktiGyZ9k",
+				"title": "Merkel&#39;s visits Bavaria:  Is she meeting with her successor? | DW News",
 				"source": "DW News"
 		},
 		{
-				"vid": "bF0cosp4M6E",
-				"title": "Coronavirus tracing apps: Do they work and can we trust them? | COVID-19 Special",
+				"vid": "7By5DGCVIc4",
+				"title": "Coronavirus vaccine update: How close are we? | COVID-19 Special",
 				"source": "DW News"
 		},
 		{
-				"vid": "QTBN9GyFxdI",
-				"title": "EU leaders launch tough talks on post-coronavirus economy | DW News",
+				"vid": "ZpBX_qqfC0M",
+				"title": "Coronavirus immunity: What do we know? | COVID-19 Special",
 				"source": "DW News"
 		},
 		{
-				"vid": "QLW8mACX88w",
-				"title": "How face masks are changing our daily lives and behavior | COVID-19 Special",
+				"vid": "lkbx2anzwzk",
+				"title": "EU leaders discuss pandemic recovery plan: What&#39;s at stake? | DW News",
 				"source": "DW News"
 		},
 		{
-				"vid": "IJGK4kfOE7U",
-				"title": "How coronavirus pushes women back into traditional roles | COVID-19 Special",
-				"source": "DW News"
+				"vid": "gMJFuuRDPJM",
+				"title": "Elbow bumps and bows: masked EU leaders join physically distant summit",
+				"source": "Guardian News"
 		},
 		{
-				"vid": "22rSRtOkG3Q",
-				"title": "Steroid Dexamethasone hailed as &#39;major breakthrough&#39; in treating COVID-19 | DW News",
-				"source": "DW News"
+				"vid": "zc-my8oAlgY",
+				"title": "Germany assumes EU presidency as Merkel pushes for massive bloc-wide recovery plan",
+				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "ODWcLnpeBag",
-				"title": "Coronavirus: Why has the COVID alert level changed?",
-				"source": "Sky News"
+				"vid": "lYrmZcdDpcM",
+				"title": "The new normal: FRANCE 24 reports from Cameroon to Germany",
+				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "yJN9m6Z0cPg",
-				"title": "McCann: German police want to retest saliva sample",
-				"source": "Sky News"
+				"vid": "zmNYxpDD_9Q",
+				"title": "Covid-19 drug buyout: US&#39;s EU representative denies &#39;America First&#39; policy on Remdesivir",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "4IoM1ndKuVs",
+				"title": "Germany EU presidency: Pandemic and financial recovery top priorities for Berlin&#39;s six month term",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "S3ECBwsdKGk",
+				"title": "Germany EU presidency: Berlin takes on six-month presidency during unprecedented health crisis",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "lBQ-AXzXACk",
+				"title": "Germany outbreak: Guetersloh restrictions extended in bid to curb new cases",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "B5spOT4A8Q8",
+				"title": "France and Germany under increased pressure to collect racial data",
+				"source": "euronews (in English)"
 		}
 	],
 	"map_data": [
@@ -225,133 +256,159 @@
 	"headline_news": [
 		{
             "source": {
-                "id": null,
-                "name": "Faz.net"
+                "id": "bbc-news",
+                "name": "BBC News"
             },
-            "author": "Joachim M\u00fcller-Jung",
-            "title": "Die gr\u00e4sslichen Narben der Corona-Pandemie - F.A.Z. - Frankfurter Allgemeine Zeitung",
-            "description": "Infektion \u00fcberlebt, Patient krank? Die \u00c4rzte sorgen sich zunehmend \u00fcber Folge- und Sp\u00e4tsch\u00e4den des \u201eMultiorganvirus\u201c. Das gilt auch f\u00fcr junge Patienten.",
-            "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/folgeschaeden-von-covid-19-die-graesslichen-narben-der-corona-pandemie-16843184.html",
-            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/2538022708/1.6843187/facebook_teaser/covid-19-patienten-auf-der.jpg",
-            "publishedAt": "2020-07-03T19:31:00Z",
-            "content": "Immer wieder werden diese Vergleiche bem\u00fcht, oft wird es gleichgesetzt: Covid-19 und Influenza, Sars-CoV-2 und Erk\u00e4ltungsviren. Eine tr\u00fcgerische Hoffnung. Infizieren, ausschwitzen und weitermachen, s\u2026 [+2622 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Halle shooting: Trial begins for Germany synagogue attack suspect",
+            "description": "The 28-year-old suspect is accused of killing two people and attacking a synagogue in Halle.",
+            "url": "https://www.bbc.co.uk/news/world-europe-53471496",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2122/production/_113528480_tv062495924.jpg",
+            "publishedAt": "2020-07-20T23:13:43Z",
+            "content": "Image copyrightEPAImage caption\r\n Two people were killed in the attack, which shocked Germany\r\nThe trial begins on Tuesday of a suspect accused of killing two people after an attack on a synagogue in\u2026 [+5433 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "DIE WELT"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "WELT",
-            "title": "Corona-Warn-App: Fast 50.000 neue F\u00e4lle in Brasilien - WELT",
-            "description": "In Brasilien sind fast 1,5 Millionen Menschen mit dem Coronavirus infiziert \u2013 Tendenz steigend. Die Sterblichkeit in Deutschland ist wieder auf einem Vor-Corona-Niveau. Ein \u00dcberblick in Zahlen, Daten und Karten.",
-            "url": "https://www.welt.de/vermischtes/article206504969/Corona-Warn-App-Fast-50-000-neue-Faelle-in-Brasilien.html",
-            "urlToImage": "https://www.welt.de/img/vermischtes/mobile207496223/5801355207-ci16x9-w1200/corona-teaser-weltkarte.jpg",
-            "publishedAt": "2020-07-03T19:03:52Z",
-            "content": "Nach einem Peak im April hat sich die Zahl der Sterbef\u00e4lle in Deutschland anscheinend langfristig normalisiert. Das Statistische Bundesamt wertet w\u00f6chentlich die Sterbefallmeldungen der Standes\u00e4mter \u2026 [+7954 chars]"
+            "author": "Reuters Editorial",
+            "title": "Germany's confirmed coronavirus cases rise by 522 to 202,345 - RKI - Reuters India",
+            "description": "The number of confirmed coronavirus cases in Germany increased by 522 to 202,345, data from the Robert Koch Institute (RKI) for infectious diseases showed on Tuesday.",
+            "url": "https://in.reuters.com/article/health-coronavirus-germany-cases-idINKCN24M08C",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200721&t=2&i=1526495484&w=1200&r=LYNXNPEG6K03U",
+            "publishedAt": "2020-07-21T02:29:00Z",
+            "content": "BERLIN (Reuters) - The number of confirmed coronavirus cases in Germany increased by 522 to 202,345, data from the Robert Koch Institute (RKI) for infectious diseases showed on Tuesday. \r\nThe reporte\u2026 [+161 chars]"
         },
         {
             "source": {
-                "id": "spiegel-online",
-                "name": "Spiegel Online"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "DER SPIEGEL",
-            "title": "Mutation D614G: Neue Corona-Variante offenbar ansteckender als urspr\u00fcngliches Virus - DER SPIEGEL",
-            "description": "Eine Mutation von Sars-CoV-2 hat sich mittlerweile weltweit durchgesetzt - offenbar ist sie infekti\u00f6ser als die urspr\u00fcngliche Variante aus China. Ob sie auch gef\u00e4hrlicher ist, ist unklar.",
-            "url": "https://www.spiegel.de/wissenschaft/medizin/coronavirus-neue-mutation-infektioeser-als-urspruengliches-virus-a-4db9b4e8-1851-4f89-ae6b-10be7a726517",
-            "urlToImage": "https://cdn.prod.www.spiegel.de/images/e54d59df-384a-4d39-b946-af145996055b_w1280_r1.77_fpx63.98_fpy50.jpg",
-            "publishedAt": "2020-07-03T18:39:25Z",
-            "content": null
+            "author": "Reuters Editorial",
+            "title": "France, Germany, Italy threaten sanctions over arms for Libya - Reuters Africa",
+            "description": "The leaders of France, Germany and Italy on Saturday threatened for the first time to use sanctions against countries that continued to violate a United Nations arms embargo on Libya.",
+            "url": "https://af.reuters.com/article/topNews/idAFKCN24K09Q-OZATP",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200719&t=2&i=1526295144&w=1200&r=LYNXNPEG6I04U-OZATP",
+            "publishedAt": "2020-07-19T08:57:00Z",
+            "content": "PARIS (Reuters) - The leaders of France, Germany and Italy on Saturday threatened for the first time to use sanctions against countries that continued to violate a United Nations arms embargo on Liby\u2026 [+2015 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "N-tv.de"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "n-tv NACHRICHTEN",
-            "title": "D\u00fcrfte H\u00f6hen-R\u00e4tsel erkl\u00e4ren:Hilft ein Dopingmittel gegen Covid-19? - n-tv NACHRICHTEN",
-            "description": "Menschen, die in H\u00f6henlagen leben, zeigen seltener schwere Symptome bei einer Corona-Infektion als jene im Flachland. Des R\u00e4tsels L\u00f6sung k\u00f6nnte im k\u00f6rpereigenen Hormon Epo liegen. Forscher glauben daher, dass es ein wirksames Medikament gegen Covid-19 sein k\u00f6\u2026",
-            "url": "https://www.n-tv.de/wissen/Hilft-ein-Dopingmittel-gegen-Covid-19-article21889122.html",
-            "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop21889159/632132384-cImg_16_9-w1200/imago0073985675h.jpg",
-            "publishedAt": "2020-07-03T17:27:04Z",
-            "content": "Menschen, die in H\u00f6henlagen leben, zeigen seltener schwere Symptome bei einer Corona-Infektion als jene im Flachland. Des R\u00e4tsels L\u00f6sung k\u00f6nnte im k\u00f6rpereigenen Hormon Epo liegen. Forscher glauben da\u2026 [+3687 chars]"
+            "author": "Reuters Editorial",
+            "title": "German states appeal to U.S. Congress not to withdraw troops - Reuters",
+            "description": "The premiers of four German states have appealed to members of the U.S. Congress to block plans to withdraw U.S. troops from Germany, according to letters seen by Reuters on Sunday.",
+            "url": "https://www.reuters.com/article/us-usa-germany-military-idUSKCN24K0MZ",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200719&t=2&i=1526321608&w=1200&r=LYNXNPEG6I0EF",
+            "publishedAt": "2020-07-19T17:14:00Z",
+            "content": "BERLIN (Reuters) - The premiers of four German states have appealed to members of the U.S. Congress to block plans to withdraw U.S. troops from Germany, according to letters seen by Reuters on Sunday\u2026 [+1132 chars]"
+        },
+		{
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Intel's Mobileye will test self-driving cars at up to 80 MPH in Germany",
+            "description": "Intel\u2019s Mobileye self-driving division has received regulatory approval to test its vehicles on German roads, Intel announced. With a safety driver at the wheel, it can shake down its systems on city streets and the Autobahn at up to 130 km/h (81 mph). Mobile\u2026",
+            "url": "https://www.engadget.com/mobileye-testing-autonomous-cars-germany-104521486.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fd5f2e2a0-c813-11ea-aeff-0b8af02ce9f4&client=amp-blogside-v2&signature=18fad82d65053cfa3bccc7e096f5f22b2bcea451",
+            "publishedAt": "2020-07-17T10:45:21Z",
+            "content": "Intel recently purchased mobility startup Moovit for $900 million and intends to create an app-based ride-hailing service using Moovit and Mobileye technology. The company is already doing autonomous\u2026 [+657 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Heilpraxisnet.de"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Volker Blasek",
-            "title": "COVID-19: Birgt diese Gicht-Heilpflanze ein Heilmittel? - Heilpraxisnet.de",
-            "description": "Colchicin scheint gegen COVID-19 zu wirken Die Herbstzeitlose (Colchicum autumnale) ist hochgiftig und kann bereits in kleinen Mengen f\u00fcr den Menschen t\u00f6dlich sein. Ausgerechnet in dieser Giftpflanze scheint laut einer aktuellen Studie ein Wirkstoff zu schlum\u2026",
-            "url": "https://www.heilpraxisnet.de/naturheilpraxis/covid-19-birgt-diese-gicht-heilpflanze-ein-heilmittel-20200703517909/",
-            "urlToImage": "https://www.heilpraxisnet.de/wp-content/uploads/2020/07/Herbstzeitlose.jpeg",
-            "publishedAt": "2020-07-03T14:05:34Z",
-            "content": "Colchicin scheint gegen COVID-19 zu wirken\r\nDie Herbstzeitlose (Colchicum autumnale) ist hochgiftig und kann bereits in kleinen Mengen f\u00fcr den Menschen t\u00f6dlich sein. Ausgerechnet in dieser Giftpflanz\u2026 [+3467 chars]"
+            "author": "Reuters Editorial",
+            "title": "Germany introduces localised lockdowns to contain COVID-19 outbreaks - Reuters",
+            "description": "Germany took steps on Thursday to fine-tune its response to localised coronavirus outbreaks, introducing tighter restrictions on affected residents over smaller areas.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-idUSKCN24H2CS",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525992493&w=1200&r=LYNXNPEG6F1DF",
+            "publishedAt": "2020-07-16T14:37:00Z",
+            "content": "BERLIN (Reuters) - Germany took steps on Thursday to fine-tune its response to localised coronavirus outbreaks, introducing tighter restrictions on affected residents over smaller areas. \r\nUnlike som\u2026 [+1480 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Aerzteblatt.de"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Deutscher \u00c4rzteverlag GmbH, Redaktion Deutsches \u00c4rzteblatt",
-            "title": "SARS-CoV-2: Wie gef\u00e4hrlich ist die Virusvariante G614? - Deutsches \u00c4rzteblatt",
-            "description": "Los Alamos/New Mexico \u2013Eine Variante von SARS-CoV-2, die durch eine Mutation an Position 614 des Spike-Proteins gekennzeichnet ist, hat sich von Europa...",
-            "url": "https://www.aerzteblatt.de/nachrichten/114358/SARS-CoV-2-Wie-gefaehrlich-ist-die-Virusvariante-G614",
-            "urlToImage": "https://www.aerzteblatt.de/bilder/cache/00/00/12/07/img-120755-476-0.JPG",
-            "publishedAt": "2020-07-03T13:44:17Z",
-            "content": "Los Alamos/New Mexico Eine Variante von SARS-CoV-2, die durch eine Mutation an Position 614 des Spike-Proteins gekennzeichnet ist, hat sich von Europa ausgehend innerhalb weniger Wochen weltweit ausg\u2026 [+4155 chars]"
+            "author": "Reuters Editorial",
+            "title": "U.S. judge approves transfer of jailed former VW executive to Germany - Reuters",
+            "description": "A U.S. judge in Detroit on Thursday approved the transfer to Germany of a former Volkswagen AG executive imprisoned in the automaker's diesel emissions scandal.",
+            "url": "https://www.reuters.com/article/us-volkswagen-emissions-idUSKCN24H367",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1526037929&w=1200&r=LYNXNPEG6F1U6",
+            "publishedAt": "2020-07-16T20:25:00Z",
+            "content": "WASHINGTON/MUNICH (Reuters) - A U.S. judge in Detroit on Thursday approved the transfer to Germany of a former Volkswagen AG (VOWG_p.DE) executive imprisoned in the automaker\u2019s diesel emissions scand\u2026 [+623 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Businessinsider.de"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": null,
-            "title": "Covid-19: Impfung gegen Masern, Mumps und R\u00f6teln k\u00f6nnte helfen - Business Insider Deutschland",
-            "description": "Impfstoffe, wie sie gegen Masern, Mumps und R\u00f6teln eingesetzt werden, k\u00f6nnten laut einer Studie Komplikationen wie etwa eine Sepsis bei Covid-19 verhindern.",
-            "url": "https://www.businessinsider.de/wissenschaft/gesundheit/impfung-gegen-masern-mumps-und-roeteln-koennte-vor-komplikationen-bei-covid-19-schuetzen/",
-            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2020/07/shutterstock_1622456521.jpg",
-            "publishedAt": "2020-07-03T08:55:10Z",
-            "content": "Billion Photos/Shutterstock\r\nImpfstoffe, wie sie gegen Masern, Mumps und R\u00f6teln eingesetzt werden, k\u00f6nnten laut einer Studie Komplikationen wie schwere Lungenentz\u00fcndungen bei einer Covid-19-Erkrankun\u2026 [+3855 chars]"
+            "author": "Reuters Editorial",
+            "title": "Germany's confirmed coronavirus cases rise by 583 to 200843: - Reuters",
+            "description": "The number of confirmed coronavirus cases in Germany increased by 583 to 200,843, data from the Robert Koch Institute (RKI) for infectious diseases showed on Friday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-cases-idUSKCN24I09Z",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200717&t=2&i=1526075653&w=1200&r=LYNXNPEG6G05N",
+            "publishedAt": "2020-07-17T03:31:21Z",
+            "content": "BERLIN (Reuters) - The number of confirmed coronavirus cases in Germany increased by 583 to 200,843, data from the Robert Koch Institute (RKI) for infectious diseases showed on Friday. \r\nThe reported\u2026 [+105 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "futurezone.de"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Bianca Brien",
-            "title": "Coronavirus-Schutz durch Ern\u00e4hrung: Das hilft dir wirklich - futurezone.de",
-            "description": "F\u00fcr einen Coronavirus-Schutz w\u00fcrden wir alles tun. Vielleicht solltest du dar\u00fcber nachdenken deine Ern\u00e4hrung umzustellen. Das sagt ein Experte.",
-            "url": "https://www.futurezone.de/science/article229438754/Coronavirus-Schutz-ueber-die-Ernaehrung-gewinnen-das-empfiehlt-ein-Experte.html",
-            "urlToImage": "https://img.futurezone.de/img/digital-life/crop228529045/0712605045-w820-cv16_9-q85/handy-essen-foto.jpg",
-            "publishedAt": "2020-07-03T06:46:06Z",
-            "content": "Kannst du dich durch die richtige Ern\u00e4hrung gegen Covid-19 sch\u00fctzen? Inwiefern das wirklich einen Coronavirus-Schutz bietet, erkl\u00e4ren wir dir.\r\nUm Krankheiten jeder Art abzuwehren, spielt unser Immun\u2026 [+3378 chars]"
+            "author": "Caroline Copley",
+            "title": "German abattoir scandal puts cooling systems under COVID spotlight - Reuters",
+            "description": "A COVID-19 outbreak in Germany is forcing meatpacking plants to review infection risks posed by their cooling systems, placing the industry at the sharp end of growing global concerns over airborne transmission of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-ventilatio-idUSKCN24I1ON",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200717&t=2&i=1526133576&w=1200&r=LYNXNPEG6G0VT",
+            "publishedAt": "2020-07-17T12:38:55Z",
+            "content": "BERLIN (Reuters) - A COVID-19 outbreak in Germany is forcing meatpacking plants to review infection risks posed by their cooling systems, placing the industry at the sharp end of growing global conce\u2026 [+3400 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Www.nw.de"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Jemima Wittig",
-            "title": "Schwerer Krankheitsverlauf: Welche Rolle spielt Vitamin D? - Neue Westf\u00e4lische",
-            "description": "Eine Studie weist auf einen Zusammenhang zwischen Risikogruppen, einem niedrigen Vitamin D-Spiegel und dem schweren Verlauf einer Covid-19-Erkrankung hin. Wie sinnvoll sind Vitamin-D-Produkte?",
-            "url": "https://www.nw.de/nachrichten/zwischen_weser_und_rhein/22817386_Schwerer-Krankheitsverlauf-Welche-Rolle-spielt-Vitamin-D.html",
-            "urlToImage": "https://www.nw.de/_em_daten/201901985/_/1xNhGwGlaCxpW8yCTbZ7v7yZPz2KMTetHIQphd9WqMBv4eyvHF9rOmgjs__Pq-XcGJBmEXvCG1D2YZwxivTLLFFrRkWTMxEeWr/200702-1500-293402141.jpg",
-            "publishedAt": "2020-07-02T17:40:00Z",
-            "content": "Paderborn. Bislang gibt es keinen Wirkstoff gegen das Coronavirus. Daf\u00fcr gibt es diverse Theorien, welche Mittel entweder vor einem schweren Verlauf sch\u00fctzen oder eine Ansteckung gar ganz verhindern.\u2026 [+157 chars]"
+            "author": "Reuters Editorial",
+            "title": "Germany eyes subsidies for steel, chemicals sectors to cut CO2 - Reuters",
+            "description": "Germany is planning to seek EU approval to support the steel and chemicals industry in its efforts to become climate-neutral, its economy minister said on Wednesday, adding he hoped to make substantial headway in the second half of 2020.",
+            "url": "https://www.reuters.com/article/us-germany-steel-subsidies-idUSKCN24G1IJ",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525804926&w=1200&r=LYNXNPEG6E0U4",
+            "publishedAt": "2020-07-15T11:40:00Z",
+            "content": "FRANKFURT (Reuters) - Germany is planning to seek EU approval to support the steel and chemicals industry in its efforts to become climate-neutral, its economy minister said on Wednesday, adding he h\u2026 [+416 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "t-online.de"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Melanie Weiner, Manfred Sch\u00e4fer, Nicole Sagener, Sandra Simonsen, Anna Aridzanjan",
-            "title": "Coronavirus: Wer k\u00f6nnte ein gef\u00e4hrlicher \"Superspreader\" sein? - t-online.de",
-            "description": "Wie gef\u00e4hrlich ist das Coronavirus?\u00a0Was unterscheidet Covid-19 von einer Grippe oder einer Allergie?\u00a0Bei welchen Vorerkrankungen sind Infizierte besonders gef\u00e4hrdet?",
-            "url": "https://www.t-online.de/gesundheit/krankheiten-symptome/id_87342884/coronavirus-wer-koennte-ein-gefaehrlicher-superspreader-sein-.html",
-            "urlToImage": "https://bilder.t-online.de/b/87/66/62/34/id_87666234/tid_da/ein-mann-muss-husten-beim-ungeschuetzten-husten-kann-sekret-aus-den-atemwegen-in-form-von-troepfchen-und-aerosol-in-die-umgebung-gelangen-.jpg",
-            "publishedAt": "2020-07-02T14:51:28Z",
-            "content": "Mit den ersten Lockerungen der Corona-Ma\u00dfnahmen in Deutschland sinkt bei einigen Menschen die Sorge vor dem Virus. t-online.de erkl\u00e4rt, warum Vorsicht noch immer wichtig ist, welche Risikogruppen bes\u2026 [+26912 chars]"
+            "author": "Reuters Editorial",
+            "title": "Germany urges WHO to hasten review of its handling of pandemic - Reuters",
+            "description": "Germany's health minister urged the World Health Organisation (WHO) to speed up its review of how it handled the pandemic, apparently signalling Europe's tougher line on the United Nations body.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-eu-who-idUSKCN24H21X",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525978252&w=1200&r=LYNXNPEG6F18H",
+            "publishedAt": "2020-07-16T12:59:00Z",
+            "content": "BRUSSELS/BERLIN (Reuters) - Germany\u2019s health minister urged the World Health Organisation (WHO) to speed up its review of how it handled the pandemic, apparently signalling Europe\u2019s tougher line on t\u2026 [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Germany's World Cup winner Schuerrle announces retirement at 29 - Reuters UK",
+            "description": "Germany's World Cup winner Andre Schuerrle announced his retirement from football at the age of 29 on Friday, two days after his contract with Borussia Dortmund was terminated by mutual consent.",
+            "url": "https://uk.reuters.com/article/uk-soccer-germany-schuerrle-idUKKCN24I1TN",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200717&t=2&i=1526140540&w=1200&r=LYNXNPEG6G0YV",
+            "publishedAt": "2020-07-17T14:02:04Z",
+            "content": "(Reuters) - Germany\u2019s World Cup winner Andre Schuerrle announced his retirement from football at the age of 29 on Friday, two days after his contract with Borussia Dortmund was terminated by mutual c\u2026 [+909 chars]"
         }
     ],
 	"menu": [

@@ -1,6 +1,4 @@
 {
-    "status": "ok",
-    "totalResults": 28,
     "articles": [
         {
             "source": {
@@ -8,11 +6,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Doctor says states should consider going into lockdown again as COVID cases rise",
-            "description": "The U.S. just reported its largest single-day increase in coronavirus cases since the outbreak began, with more than 38,600 reported Wednesday. CBS News' Manuel Bojorquez reports on the latest, and Dr. Angela Rasmussen, a virologist at Columbia University, jo\u2026",
-            "url": "https://www.cbsnews.com/video/coronavirus-doctor-states-should-consider-going-into-lockdown-again/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/25/d6e2cad2-7ef6-4017-bb59-29121b6062a1/thumbnail/1200x630/5fe65365c717f2c8f39ab4f693c3aa26/cbsn-fusion-doctor-says-states-should-consider-going-into-lockdown-again-thumbnail-504942-640x360.jpg",
-            "publishedAt": "2020-06-25T19:12:11+00:00",
+            "title": "House Democrats and Senate Republicans split on portions of coronavirus relief legislation",
+            "description": "The clock is ticking for congressional lawmakers to pass another federal stimulus package, as unemployment benefits for roughly 25 million Americans are set to expire this week. CBS News' Skyler Henry and Wall Street Journal's Capitol Hill reporter Siobhan Hu\u2026",
+            "url": "https://www.cbsnews.com/video/house-democrats-senate-gop-split-on-portions-of-coronavirus-relief-legislation/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/28/a325356d-bad2-40bb-9fb4-35765348556e/thumbnail/1200x630/c14b7beda5c1441e7f47cc87e8139c66/cbsn-fusion-house-democrats-senate-gop-split-on-portions-of-coronavirus-relief-legislation-thumbnail-521276-640x360.jpg",
+            "publishedAt": "2020-07-28T00:27:33+00:00",
             "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
         },
         {
@@ -21,64 +19,38 @@
                 "name": "Fox News"
             },
             "author": "Fox News",
-            "title": "Bolton: Biden admin would essentially be another 4 years of the Obama admin",
-            "description": "Former National Security Adviser John Bolton discusses the 2020 election, the future of the Republican Party and Trump\u2019s handling of the coronavirus with Dana Perino on \u2018The Daily Briefing.\u2019",
-            "url": "https://video.foxnews.com/v/6167261942001/",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05397d06-afbd-4491-ace1-1c5747ec5f27/4d6a71a2-193d-4b5e-bf4a-0689258da90a/1280x720/match/image.jpg",
-            "publishedAt": "2020-06-25T19:07:16.9656425Z",
+            "title": "Dr. Scott Atlas sees many reasons to be optimistic about response to COVID, says pandemic is temporary",
+            "description": "You don't eradicate coronavirus by locking down, says Dr. Scott Atlas, senior fellow at Stanford University's Hoover Institution.",
+            "url": "https://video.foxnews.com/v/6175684811001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c401ea0f-b214-4dee-9a47-6bcd37550549/b667c324-22a6-4f31-bf0f-28f563e73841/1280x720/match/image.jpg",
+            "publishedAt": "2020-07-28T00:22:17.070758Z",
             "content": null
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Jonathan Allen",
-            "title": "Trump says the coronavirus is 'going away.' His own task force disagrees.",
-            "description": "New internal data obtained by NBC News show the White House is closely tracking big virus spikes around the nation.",
-            "url": "https://www.nbcnews.com/politics/politics-news/trump-says-coronavirus-going-away-his-own-task-force-disagrees-n1232061",
-            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_26/3392674/200625-donald-trump-al-1404_81504244fa92304483abeb27294141d6.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-06-25T19:06:48Z",
-            "content": "WASHINGTON President Donald Trump keeps spinning a tale about COVID-19 that is at odds with his own administration's disease experts and data compiled by his own coronavirus task force, which was obt\u2026 [+5015 chars]"
+            "author": "CBS News",
+            "title": "Over 40 infected with coronavirus after church revival event in Alabama: \"We knew what we were getting into\"",
+            "description": "\"The whole church has got it, just about,\" said pastor Daryl Ross of Warrior Creek Missionary Baptist Church.",
+            "url": "https://www.cbsnews.com/news/coronavirus-40-infected-warrior-creek-missionary-baptist-church-alabama/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/27/2fe4f88e-330d-4541-b2b6-125ea830bd75/thumbnail/1200x630g8/45c89c7090d071b96b93ef9c1f97d9b0/church.jpg",
+            "publishedAt": "2020-07-28T00:20:00+00:00",
+            "content": "More than 40 people were infected with the coronavirus after attending a multi-day revival event at a north Alabama Baptist church, according to the congregation's pastor. \"The whole church has got i\u2026 [+1459 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": null,
-            "title": "CDC: For every coronavirus case, 10 go undiagnosed - CNN Video",
-            "description": "CNN senior medical correspondent Elizabeth Cohen discusses the latest CDC finding saying there are 10 undiagnosed cases of coronavirus for every reported case.",
-            "url": "http://us.cnn.com/videos/health/2020/06/25/cdc-says-ten-times-more-coronavirus-cases-than-reported-nr-vpx.cnn",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625125202-elizabeth-cohen-brianna-keilar-0625-super-tease.jpg",
-            "publishedAt": "2020-06-25T18:52:23.6924853Z",
-            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Elizabeth Cohen and Dakin Andone, CNN",
-            "title": "Florida is seeing Covid-19 cases skyrocket among young people",
-            "description": "Months ago, as the coronavirus was first spreading across the country, public health officials warned of the heightened risk it posed to older populations and those with underlying health conditions.",
-            "url": "http://us.cnn.com/2020/06/25/health/florida-coronavirus-cases-young-people/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200624210543-02-florida-coronavirus-testing-0624-super-tease.jpg",
-            "publishedAt": "2020-06-25T17:50:59Z",
-            "content": "(CNN)Months ago, as the coronavirus was first spreading across the country, public health officials warned of the heightened risk it posed to older populations and those with underlying health condit\u2026 [+3917 chars]"
-        },
-        {
-            "source": {
-                "id": "the-globe-and-mail",
-                "name": "The Globe And Mail"
-            },
-            "author": "Zeke Miller, Marilynn Marchione",
-            "title": "U.S. health officials believe as many as 20 million Americans have contracted novel coronavirus",
-            "description": "That\u2019s nearly 10 times as many infections as the 2.3 million cases that have been confirmed",
-            "url": "https://www.theglobeandmail.com/world/article-us-health-officials-believe-as-many-as-20-million-americans-have/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/aY3PB4KdJ1ieqh1htKkJvL3u2rY=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/LDRGKPKOU5ODTIMNALK6IVQOBU.jpg",
-            "publishedAt": "2020-06-25T17:46:06Z",
-            "content": "A health care worker administers a coronavirus test to a patient at the Lee Davis Community Resource Center, in Tampa, Fla., on June 25, 2020.\r\nOctavio Jones/Getty Images\r\nU.S. officials believe as m\u2026 [+6904 chars]"
+            "author": "CBS News",
+            "title": "Major League Baseball postpones 2 games over Miami Marlins positive COVID-19 tests",
+            "description": "Two Major League Baseball games had to be postponed just four days after Opening Day because at least eight members of the Miami Marlins organization tested positive for the coronavirus. David Samson, host of CBS Sports' podcast \"Nothing Personal,\" joins CBSN\u2026",
+            "url": "https://www.cbsnews.com/video/major-league-baseball-postpones-2-games-over-miami-marlins-covid19-positive-tests/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/07/28/dc1c1e4e-6c95-4162-8ce3-26f9bd28cfa9/thumbnail/1200x630/396f54485d0882d4845b5ddc73242e2f/cbsn-fusion-major-league-baseball-postpones-2-games-over-miami-marlins-covid-19-positive-tests-thumbnail-521271-640x360.jpg",
+            "publishedAt": "2020-07-28T00:00:48+00:00",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
         },
         {
             "source": {
@@ -86,64 +58,25 @@
                 "name": "USA Today"
             },
             "author": null,
-            "title": "'Tip of the iceberg': Airbnb, Vrbo guests fighting for refunds after coronavirus cancellations",
-            "description": "Short-term rental services like Airbnb and Vrbo have created a complicated refund situation for guests and hosts during the coronavirus pandemic.",
-            "url": "https://www.usatoday.com/story/travel/hotels/2020/06/25/airbnb-covid-19-refund-struggles-anger-guests-after-cancellations/3248831001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2019/09/19/USAT/ec65bb7a-1679-476c-afcc-3b79a2aa6fac-AP_Airbnb-IPO.JPG?crop=2999,1687,x0,y133&width=1600&height=800&fit=bounds",
-            "publishedAt": "2020-06-25T17:40:14+00:00",
-            "content": "Airbnb is establishing a new \"cleaning protocol\" for their rental property hosts and guests, stemming from the coronavirus outbreak.\r\nUSA TODAY\r\nEvan Skowronski was supposed to stay in a Connecticut\u00a0\u2026 [+9653 chars]"
+            "title": "Vaccine trials hailed as 'historic'; Kentucky governor wants schools to open later; Google keeps workers home",
+            "description": "Moderna begins world's largest vaccine study. Marlins, others forced to cancel games, and baseball's season is in jeopardy. Latest on COVID-19.",
+            "url": "https://www.usatoday.com/story/news/health/2020/07/27/covid-updates-coronavirus-relief-bill-florida-case-numbers-mount/5515522002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/27/USAT/33212925-4503-44ad-9e0c-7f79db879f82-AP_Virus_Outbreak_Vaccine_Race.jpg?crop=8099,4556,x1,y240&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-07-27T23:00:36+00:00",
+            "content": "Dr. Anthony Fauci, the U.S. government's leading infectious disease expert, says he is cautiously optimistic a vaccine \"with some degree\" of effectiveness will be successfully developed by the beginn\u2026 [+18820 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": null,
-            "title": "Florida coronavirus mask rule upsets Palm Beach, Florida, residents  - CNN Video",
-            "description": "Residents of Palm Beach County in Florida erupted in anger at a commissioner's meeting after an unanimous vote to make masks mandatory.",
-            "url": "http://us.cnn.com/videos/politics/2020/06/24/mask-mandate-florida-anger-erupts-coronavirus-vpx.cnn",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200624141748-angry-residents-mask-super-tease.jpg",
-            "publishedAt": "2020-06-25T17:22:42.9275985Z",
-            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-            "title": "Donald Trump has been suggesting the coronavirus is under control for 156 days now",
-            "description": "On January 22, President Donald Trump did an interview with CNBC from Davos, Switzerland, where he was asked, for the first time, about the coronavirus in America.",
-            "url": "http://us.cnn.com/2020/06/25/politics/donald-trump-coronavirus-downplaying/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200623210500-donald-trump-campaa-coronavirus-super-tease.jpg",
-            "publishedAt": "2020-06-25T16:52:37Z",
-            "content": "(CNN)On January 22, President Donald Trump did an interview with CNBC from Davos, Switzerland, where he was asked, for the first time, about the coronavirus in America.\r\n\"We have it totally under con\u2026 [+3228 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": null,
-            "title": "Dr. Gupta: I can't believe we're in the position we're in - CNN Video",
-            "description": "CNN's chief medical correspondent Dr. Sanjay Gupta expresses his frustration over the country's current state in the coronavirus pandemic with CNN's John Berman.",
-            "url": "http://us.cnn.com/videos/us/2020/06/25/coronavirus-frustration-gupta-newday-vpx.cnn",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625081902-dr-sanjay-gupta-0625-super-tease.jpg",
-            "publishedAt": "2020-06-25T14:22:18.8741909Z",
-            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Christina Maxouris, CNN",
-            "title": "California is breaking coronavirus records. Gatherings in homes may fuel spread",
-            "description": "California, the most populous US state and the first to implement a statewide lockdown to combat the coronavirus outbreak, is setting daily records this week for new cases as officials urge caution and dangle enforcement threats to try to curb the spikes.",
-            "url": "http://us.cnn.com/2020/06/25/health/california-coronavirus-cases-surge/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625001809-california-coronavirus-cases-surge-super-tease.jpg",
-            "publishedAt": "2020-06-25T14:00:12Z",
-            "content": "(CNN)California, the most populous US state and the first to implement a statewide lockdown to combat the coronavirus outbreak, is setting daily records this week for new cases as officials urge caut\u2026 [+5688 chars]"
+            "author": "Fox News",
+            "title": "McConnell unveils 'HEALS Act,' the GOP coronavirus stimulus proposal",
+            "description": "Senate Republicans unveiled their version of a fresh round of coronavirus relief, as White House negotiators and House Speaker Nancy Pelosi are set to meet in the evening to begin negotiations.",
+            "url": "https://www.foxnews.com/politics/mcconnell-unveils-heals-act-gop-coronavirus-relief-bill",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20081616728314.jpg",
+            "publishedAt": "2020-07-27T22:52:18.0905267Z",
+            "content": "Senate Republicans unveiled their version of a fresh round of coronavirus relief on Monday, as White House negotiators and House Speaker Nancy Pelosi are set to meet in the evening to begin negotiati\u2026 [+4406 chars]"
         },
         {
             "source": {
@@ -151,12 +84,25 @@
                 "name": "BBC News"
             },
             "author": "BBC News",
-            "title": "Europe coronavirus resurgences alarm WHO",
-            "description": "If left unchecked the resurgences will \"push health systems to the brink once again\", the WHO warns.",
-            "url": "http://www.bbc.co.uk/news/world-europe-53175459",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12B7D/production/_113096667_mediaitem113096663.jpg",
-            "publishedAt": "2020-06-25T13:14:33Z",
-            "content": "Image copyrightPA MediaImage caption\r\n Close to 20,000 new cases are being recorded daily in the WHO's European region\r\nEurope has seen an increase in weekly cases of Covid-19 for the first time in m\u2026 [+2941 chars]"
+            "title": "US presidential debate venue moved over Covid",
+            "description": "The location of the first Biden-Trump debate is moved from Indiana to Ohio over coronavirus precautions.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-53562432",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1270C/production/_109723557_bidenandtrumptopimage.jpg",
+            "publishedAt": "2020-07-27T22:50:40Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Joe Biden, left, has been leading Donald Trump in the polls\r\nThe first US presidential debate between Donald Trump and Democratic challenger Joe Biden will \u2026 [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris and Eric Levenson, CNN",
+            "title": "The US sees early signs that new coronavirus cases may have hit a plateau",
+            "description": "After weeks of sharp increases, there are some signs that new coronavirus cases in the United States may be plateauing at a high daily rate.",
+            "url": "http://us.cnn.com/2020/07/27/health/us-coronavirus-monday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200726231554-miami-face-mask-0708-restricted-super-tease.jpg",
+            "publishedAt": "2020-07-27T19:53:35Z",
+            "content": "(CNN)After weeks of sharp increases, there are some signs that new coronavirus cases in the United States may be plateauing at a high daily rate.\r\nNationally, the seven-day daily average of new confi\u2026 [+7933 chars]"
         },
         {
             "source": {
@@ -164,12 +110,64 @@
                 "name": "CBC News"
             },
             "author": "CBC News",
-            "title": "Coronavirus: What's happening around the world on Thursday | CBC News",
-            "description": "Here's what's happening with COVID-19 in the United States and around the world on Thursday.",
-            "url": "http://www.cbc.ca/news/world/coronavirus-covid19-june25-world-thursday-1.5626409",
-            "urlToImage": "https://i.cbc.ca/1.5626433.1593082453!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1252246526.jpg",
-            "publishedAt": "2020-06-25T12:37:21.6539076Z",
-            "content": "The latest:\r\nThe United States\u00a0is dealing with an uptick in coronavirus cases in several states, prompting governors across the country\u00a0to take a range of measures from mandating masks to imposing fr\u2026 [+9164 chars]"
+            "title": "Coronavirus: What's happening around the world on Monday | CBC News",
+            "description": "The White House pushed ahead with Monday's planned rollout of the Senate Republicans' $1 trillion US pandemic relief package, as House Speaker Nancy Pelosi assailed the GOP 'disarray' as time-wasting during the crisis. Here's what's happening with the novel c\u2026",
+            "url": "http://www.cbc.ca/news/world/coronavirus-covid19-world-july27-1.5664064",
+            "urlToImage": "https://i.cbc.ca/1.5664088.1595847048!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1227797687.jpg",
+            "publishedAt": "2020-07-27T19:22:33.3817385Z",
+            "content": "The latest:\r\n<ul><li>White House, Senate GOP try again on $1 trillion US coronavirus aid.</li><li>Hong Kong bans public gatherings of more than two people.</li><li>WHO cites doubling of cases over th\u2026 [+11816 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus relief bill negotiations continue as benefits set to expire",
+            "description": "The federal jobless benefits Congress approved in April -- an extra $600 per person each week-- are about to expire as COVID-19 cases surge throughout the country. Details of a followup bill have yet to be worked out, but Congress did not meet on Saturday, an\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-relief-bill-negotiations-continue-as-benefits-set-to-expire/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/25/56d6e88e-d2f4-487c-9989-4f370439f93d/thumbnail/1200x630/aa74ba8c91373ee46ef6ce60e424ec9f/cbsn-fusion-coronavirus-relief-bill-negotiations-continue-as-benefits-set-to-expire-thumbnail-520261-640x360.jpg",
+            "publishedAt": "2020-07-26T16:46:11+00:00",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "How Covid-19 numbers are looking across the country - CNN Video",
+            "description": "CNN's John King looks at the coronavirus numbers throughout the country after the US recently topped four million Covid-19 cases.",
+            "url": "http://us.cnn.com/videos/health/2020/07/26/us-coronavirus-cases-magic-wall-king-ip-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200314134018-01-coronavirus-seattle-0313-super-tease.jpg",
+            "publishedAt": "2020-07-26T16:07:29.3267975Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "North Korea reports its 1st case of coronavirus; South Korea pro baseball returns | CBC News",
+            "description": "While North Korea reported its first case of coronavirus on Sunday, South Koreans returned to a pro baseball game in Seoul for the first time this year, with special measures in place to prevent the spread of the virus.",
+            "url": "http://www.cbc.ca/news/world/coronavirus-july-26-covid-19-1.5663538",
+            "urlToImage": "https://i.cbc.ca/1.5663539.1595757374!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1258716582.jpg",
+            "publishedAt": "2020-07-26T14:22:20.4128108Z",
+            "content": "The latest:\r\n<ul><li>Global coronavirus case count now exceeds 16 million.</li><li>South Korean fans return to professional baseball game, observing\u00a0strict measures.</li><li>North Korea declares emer\u2026 [+10934 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Isobel van Hagen, Stella Kim, Nancy Ing",
+            "title": "North Korea's Kim Jong Un calls emergency meeting after first suspected coronavirus case: state media",
+            "description": "North Korean leader Kim Jong Un held an emergency meeting after putting the city of Kaesong under lockdown when a person showed coronavirus symptoms.",
+            "url": "https://www.nbcnews.com/news/world/north-korea-s-kim-jong-un-calls-emergency-meeting-after-n1234939",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_30/3399880/200726-kim-jong-un-jm-0920_1b0b3ef148f68ab2bfccb26af37f66b1.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-07-26T14:09:00Z",
+            "content": "North Korea's leader Kim Jong Un called an emergency meeting after imposing total lockdown measures on the city of Kaesong when a person there was found with suspected coronavirus symptoms, state med\u2026 [+4733 chars]"
         },
         {
             "source": {
@@ -177,25 +175,337 @@
                 "name": "BBC News"
             },
             "author": "BBC News",
-            "title": "Coronavirus: Eiffel Tower reopens after three-month lockdown",
-            "description": "Social distancing remains at the Paris landmark, and for the first week, the lifts will stay shut.",
-            "url": "http://www.bbc.co.uk/news/live/world-53174059",
-            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
-            "publishedAt": "2020-06-25T10:07:32.9069523Z",
-            "content": "Many Secret\r\nService agents who attended President Trump's rally in Oklahoma last weekend\r\nhave been quarantined as a precaution after some tested positive for\r\ncoronavirus, US media report.\r\nThe sto\u2026 [+942 chars]"
+            "title": "Spain insists it's safe amid new virus outbreaks",
+            "description": "Spain says new coronavirus cases are isolated, as the UK tells arriving passengers to self-isolate.",
+            "url": "http://www.bbc.co.uk/news/world-europe-53544586",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E3D/production/_113654630_ef1ac3b5-3127-4ec8-890e-bb8d47c22ab4.jpg",
+            "publishedAt": "2020-07-26T14:07:56Z",
+            "content": "Image copyrightAFPImage caption\r\n The National Art Museum of Barcelona. Spain has seen a surge in Covid-19 cases recently\r\nSpain has said outbreaks of new Covid-19 cases are isolated and under contro\u2026 [+4145 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Joseph Wilson",
+            "title": "Spain takes aim at nightclubs and beaches as coronavirus rebounds",
+            "description": "The northeast region of Catalonia now hosts two of the most worrying hot spots in Spain, prompting authorities to tighten restrictions in Barcelona and a rural area around Lleida",
+            "url": "https://www.theglobeandmail.com/business/article-spain-takes-aim-at-nightclubs-and-beaches-as-coronavirus-rebounds/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/4dKsZeY9Cz5zkZYNWgpsatxTfyI=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/TN7453FPMZNSZMAYWOGRJMZMBU.jpg",
+            "publishedAt": "2020-07-26T13:05:13Z",
+            "content": "People walk on Las Ramblas street in Barcelona on July 25, 2020. \r\nPAU BARRENA/AFP/Getty Images\r\nNightclubs, bars and beaches some of Spains most beloved summer venues are facing new lockdown restric\u2026 [+5274 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Faith Karimi and Douglas Wood, CNN",
-            "title": "'Apocalyptic' coronavirus surges feared in major cities as most populous states hit record numbers",
-            "description": "The three most populous states are setting records for new coronavirus cases daily -- and an expert fears major Texas cities could see \"apocalyptic\" numbers if the trend continues.",
-            "url": "http://us.cnn.com/2020/06/25/health/us-coronavirus-thursday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625001809-california-coronavirus-cases-surge-super-tease.jpg",
-            "publishedAt": "2020-06-25T08:30:48Z",
+            "author": "Opinion by Richard Galant, CNN",
+            "title": "Trump's new 100-day strategy",
+            "description": "That convention in Jacksonville, Florida? The months of sowing doubt about masks? The prediction that the coronavirus would 'just disappear'? Never mind. All of these were swept aside this week by President Donald Trump, as he began reacting to polls showing \u2026",
+            "url": "http://us.cnn.com/2020/07/26/opinions/trumps-new-100-day-strategy-opinion-weekly-column-galant/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200723170857-02-week-in-photos-0724-super-tease.jpg",
+            "publishedAt": "2020-07-26T11:57:35Z",
+            "content": "Sign up to get our new weekly column as a newsletter. We're looking back at the strongest, smartest opinion takes of the week from CNN and other outlets.\r\n (CNN)Never mind. That convention in Jackson\u2026 [+14729 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: 'I killed my mother with my own hands'",
+            "description": "Covid-19 is the latest enemy faced by families in Iraq, and it's overrunning its hospitals and cemeteries.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-53540022",
+            "urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
+            "publishedAt": "2020-07-26T11:00:14Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus updates: Major blow to Spain's tourism as UK orders quarantine",
+            "description": "The faltering recovery of Spain's vital tourism sector is likely to worsen after the UK decision.",
+            "url": "http://www.bbc.co.uk/news/live/world-53542500",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
+            "publishedAt": "2020-07-26T08:52:26.0721283Z",
+            "content": "Travellers arriving in the UK from Spain must now quarantine for 14 days under new coronavirus travel rules.\r\nThey were announced on Saturday after\r\na rise in infections in Spain, with more than 900 \u2026 [+808 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "US tops 1,000 coronavirus deaths 4 days in a row as experts urge the country to shutdown",
+            "description": "Coronavirus deaths in the US topped 1,000 four days in a row this week amid ongoing debates on the return of school and mask mandates.",
+            "url": "http://us.cnn.com/2020/07/26/health/us-coronavirus-sunday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200726013653-texas-hospital-0720-restricted-super-tease.jpg",
+            "publishedAt": "2020-07-26T07:14:31Z",
+            "content": "(CNN)Coronavirus deaths in the US topped 1,000 four days in a row this week amid ongoing debates on the return of school and mask mandates. \r\nThe country recorded 900 new virus-related deaths Saturda\u2026 [+6960 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/jessie-yeung\">Jessie Yeung</a> and <a href=\"/profiles/jenni-marsh-profile\">Jenni Marsh</a>, CNN",
+            "title": "The latest on the coronavirus pandemic",
+            "description": "The coronavirus pandemic has brought countries to a standstill. In many places, as countries reopen, Covid-19 cases are on the rise. Follow here for the latest.",
+            "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-26-20-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175736-02-coronavirus-0213-super-tease.jpg",
+            "publishedAt": "2020-07-26T04:18:35Z",
+            "content": "The Australian state of Victoria has conducted more than 1.5 million tests since the pandemic began, said its premier, Daniel Andrews, on Sunday.\r\nSince Saturday, 42,973 tests had been conducted, he \u2026 [+645 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "How coronavirus molecules 'camouflage' in host cell decoded, may lead to drug development",
+            "description": "Science News:  Scientists, including those of Indian-origin, have resolved the structure of a molecule which the novel coronavirus uses to make its genetic sequence",
+            "url": "http://timesofindia.indiatimes.com/home/science/how-coronavirus-molecules-camouflage-in-host-cell-decoded-may-lead-to-drug-development/articleshow/77180103.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-77182769,width-1070,height-580,imgsize-244211,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2020-07-26T02:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "What 'Miracle' Larry Kelly wants you to know about Covid-19 - CNN Video",
+            "description": "\"Miracle\" Larry Kelly recovered from being infected with coronavirus. He spoke to CNN's Brianna Keilar about his experience after 128 days of hospitalization.",
+            "url": "http://us.cnn.com/videos/us/2020/07/23/larry-kelly-covid-19-survivor-message-sot-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200723181001-miracle-larry-kelly-july-23-2020-super-tease.jpg",
+            "publishedAt": "2020-07-26T00:22:34.2971331Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Karen Weintraub, USA TODAY",
+            "title": "A quick, cheap test would help stop COVID-19. So why don't we have one?",
+            "description": "Experts say people need to know they're contagious when they're contagious, which means they should be tested a few times a week. It can be done.",
+            "url": "https://www.usatoday.com/story/news/health/2020/07/26/covid-testing-cheap-quick-home-rapid-test-needed-experts-say/5491744002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/24/USAT/8d51e64b-bd8e-4c94-8934-cd8d66c846ae-IMG_0729.jpeg?crop=4031,2268,x0,y373&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-07-26T13:30:23Z",
+            "content": "SportsPulse: There's one major reason why a fall without football is a real possibility: lack of robust COVID-19 testing. We dissect why.\r\nUSA TODAY\r\nOne major reason COVID-19 is raging out of contro\u2026 [+9538 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: What would working from home in Barbados really be like?",
+            "description": "Tempted by the scheme that lets foreigners \"work from home\" in Barbados? Here's what you need to know.",
+            "url": "https://www.bbc.co.uk/news/world-latin-america-53385227",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/998B/production/_113370393_bim2.jpg",
+            "publishedAt": "2020-07-25T23:10:51Z",
+            "content": "Image caption\r\n Barbados says its new visa \"lets you work remotely in paradise for up to a year\"\r\nBored of working from home, wishing you were on a beach instead?\r\nThat could be a real prospect under\u2026 [+8408 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Malaysia arrests Bangladeshi migrant who criticised government on TV",
+            "description": "The Bangladeshi man criticised the treatment of undocumented workers during the Covid-19 pandemic.",
+            "url": "https://www.bbc.co.uk/news/world-asia-53537312",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5EA0/production/_113642242_gettyimages-1212480576.jpg",
+            "publishedAt": "2020-07-25T15:05:22Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Hundreds of undocumented migrants were arrested in Kuala Lumpur\r\nMalaysian authorities say they have arrested a Bangladeshi man who criticised on television\u2026 [+3032 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Jayne O'Donnell and Khrysgiana Pineda, USA TODAY",
+            "title": "Long-lasting COVID symptoms from lungs to limbs linger in coronavirus 'long haulers'",
+            "description": "A growing number of people are suffering for months, but research is limited. Here are some of their stories.",
+            "url": "https://www.usatoday.com/in-depth/news/health/2020/07/25/covid-19-long-haulers-fight-months-lingering-symptoms/5420534002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/23/USAT/52aae494-8895-4c7f-bdd7-bae8a8424bf3-2_7.56.29_AM.png?crop=1912,1076,x278,y0&width=1200",
+            "publishedAt": "2020-07-25T12:13:59Z",
+            "content": "It's not all in their minds.\u00a0\r\nAn\u00a0unknown but growing number of the 4\u00a0million U.S. COVID-19 patients say they can't shake symptoms ranging from fatigue to serious respiratory or neurological problems\u2026 [+15030 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Parents decide whether to send kids back to school as coronavirus spreads faster than ever",
+            "description": "Health officials say the coronavirus is now spreading faster than at any point since the crisis began. As some schools reopen, parents across the country are faced with the difficult decision of whether or not it's safe to send their children back to school.",
+            "url": "https://www.cbsnews.com/video/parents-decide-whether-to-send-kids-back-to-school-as-coronavirus-spreads-faster-than-ever/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/25/489f6df2-a41f-4964-8f91-3ebe5f9a62ab/thumbnail/1200x630/96ef700a533191d7c9121944c02f39b4/cbsn-fusion-parents-decide-whether-to-send-kids-back-to-school-as-coronavirus-spreads-faster-than-ever-thumbnail-520059-640x360.jpg",
+            "publishedAt": "2020-07-25T11:39:01Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: 'Devastated' travellers react to Spain quarantine rules",
+            "description": "Holidaymakers arriving in the UK from Spain and its islands must self-isolate for 14 days.",
+            "url": "https://www.bbc.co.uk/news/uk-53541503",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/134D8/production/_113646097_michaelwilsonandgirlfriend.jpg",
+            "publishedAt": "2020-07-26T01:07:59Z",
+            "content": "New coronavirus quarantine rules have come into force in the UK, requiring travellers arriving from Spain to self-isolate for 14 days. So how have holidaymakers reacted to the changes?\r\nImage copyrig\u2026 [+4725 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Melissa Quinn",
+            "title": "Pelosi says Congress \"can't go home without\" a deal on coronavirus relief package",
+            "description": "Senate Republicans are expected to unveil their proposed coronavirus relief package Monday.",
+            "url": "https://www.cbsnews.com/news/pelosi-says-congress-cant-go-home-without-a-deal-on-coronavirus-relief-package/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/26/cbfd165f-18a3-4175-b80f-25a764684ac8/thumbnail/1200x630/8caf53152e206035ce7dc2aae02a9c0b/20200726-face-the-nation-frame-21676.png",
+            "publishedAt": "2020-07-26T16:36:41Z",
+            "content": "Washington \u2014 As negotiations continue on the next coronavirus relief package, House Speaker Nancy Pelosi said Congress will remain in session until there is agreement on the measure and it is approve\u2026 [+3597 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Shannon Pettypiece",
+            "title": "Trump's push to shift campaign-year fears from coronavirus to crime",
+            "description": "After struggling with messaging for months, with 100 days to go until Election Day, the campaign has rallied around an apocalyptic pitch: \u201cYou won\u2019t be safe in Joe Biden\u2019s America.\u201d",
+            "url": "https://www.nbcnews.com/politics/2020-election/behind-trump-s-push-shift-americans-campaign-year-fears-coronavirus-n1234677",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_30/3399748/200724-donald-trump-ac-807p_343bde9189254ed72a0694f3b8fce56b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-07-25T10:00:54Z",
+            "content": "WASHINGTON It was a week that brought President Donald Trump's summer campaign message into focus: With just over 100 days to go until Election Day, the president and his team are focusing their effo\u2026 [+6232 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe, CNN",
+            "title": "More than a third of coronavirus patients feel symptoms for weeks, CDC says",
+            "description": "Coronavirus symptoms can stick around for weeks, even in otherwise healthy people who don't have a severe case of the virus, the US Centers for Disease Control and Prevention said in a grim new analysis.",
+            "url": "https://www.cnn.com/2020/07/25/health/us-coronavirus-saturday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200725013337-coronavirus-patient-hospital-0702-super-tease.jpg",
+            "publishedAt": "2020-07-25T06:48:01Z",
+            "content": "(CNN)Coronavirus symptoms can stick around for weeks, even in otherwise healthy people who don't have a severe case of the virus, the US Centers for Disease Control and Prevention said in a grim new \u2026 [+5597 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Reuters",
+            "title": "Coronavirus: What's happening around the world on Sunday",
+            "description": "While North Korea reported its first case of coronavirus on Sunday, South Koreans returned to a pro baseball game in Seoul for the first time this year, with special measures in place to prevent the spread of the virus.",
+            "url": "https://www.cbc.ca/news/world/coronavirus-july-26-covid-19-1.5663538",
+            "urlToImage": "https://i.cbc.ca/1.5663539.1595757374!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1258716582.jpg",
+            "publishedAt": "2020-07-26T11:44:04Z",
+            "content": "The latest:\r\n<ul><li>Global coronavirus case count now exceeds 16 million.</li><li>South Korean fans return to professional baseball game, observing\u00a0strict measures.</li><li>North Korea declares emer\u2026 [+10911 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Margaret Evans",
+            "title": "Amid unprecedented economic crisis, many Lebanese despair",
+            "description": "Lebanon is hurting. And this time, say many Lebanese, who are no strangers to fortunes reversed, it's different.",
+            "url": "https://www.cbc.ca/news/world/lebanon-unprecedented-economic-crisis-1.5661851",
+            "urlToImage": "https://i.cbc.ca/1.5662319.1595618052!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/lebanon-crisis-imf.JPG",
+            "publishedAt": "2020-07-25T08:00:00Z",
+            "content": "Lebanon is hurting. And this time, say many Lebanese, who are no strangers to fortunes reversed, it's different.\u00a0\u00a0\u00a0\r\n\"I have never seen people killing themselves because of the economic situation,\" s\u2026 [+9689 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Kelly Lawler, USA TODAY",
+            "title": "COVID coping: How to make the most of quarantine mood swings",
+            "description": "Emotions are heightened amid the COVID-19 pandemic. The lows feel pretty low, but the highs feel pretty high, too.",
+            "url": "https://www.usatoday.com/story/life/2020/07/25/staying-apart-together-make-most-quarantine-mood-swings/5496468002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/12/10/USAT/84d03bf4-e45a-4801-81e1-a7ee0a10da42-gbbs.JPG?crop=4329,2436,x0,y220&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-07-25T15:00:12Z",
+            "content": "\"The Great British Baking Show\" never fails to make me happy. Even in quarantine.\r\n\u00a0(Photo: Mark Bourdillon/PBS/Netflix)\r\nEditor's Note: This is a preview of USA TODAY's newsletter Staying Apart, Tog\u2026 [+5021 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC",
+            "title": "Masks stop coronavirus. Getting AIDS showed me the stupidity of not wearing them.",
+            "description": "The COVID-19 surge means masks are important for protection, just like condoms are against HIV. I didn't listen in the 1980s, and people aren't listening now.",
+            "url": "https://www.nbcnews.com/think/opinion/masks-stop-coronavirus-getting-aids-showed-me-stupidity-not-wearing-ncna1234878",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_30/3399237/200723-think-aids-covid-main-cover-cs_0781ebf2019db4c1f7a29bcf0a8d9814.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-07-25T08:31:00Z",
+            "content": "In 1985, New York Gov. Mario Cuomo urged the public to have safe sex by using condoms to help stop the spread of AIDS. Condoms were the face masks of the 1980s.\r\nSome people wanted to use them during\u2026 [+6461 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Cydney Henderson, USA TODAY",
+            "title": "Mel Gibson has recovered from coronavirus after weeklong hospitalization",
+            "description": "Mel Gibson was hospitalized in Los Angeles for a week in April after testing positive for COVID-19, the Associated Press confirmed Friday.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2020/07/24/mel-gibson-has-recovered-coronavirus-after-hospitalization/5507669002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/25/USAT/9580dfa7-d07d-4558-993a-586b34d8a78d-XXX_2017_Golden_GlobesEntertainment__74th_Golden_Globe_Awards_3.JPG?crop=3455,1944,x0,y1036&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-07-25T01:07:51Z",
+            "content": "Tom Hanks and his wife Rita Wilson have tested positive for coronavirus while working in Australia.\r\nUSA TODAY\r\nMel Gibson is the latest celebrity to beat the coronavirus.\r\nThe \"Braveheart\" actor, 64\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Dalvin Brown, USA TODAY",
+            "title": "Apple Maps alert reminds people to self-isolate after traveling internationally",
+            "description": "A man who recently traveled out of the country said Apple Maps sent a push notification reminding him to self-isolate.",
+            "url": "https://www.usatoday.com/story/tech/2020/07/25/covid-apple-maps-alert-reminds-people-self-isolate-after-traveling/5509639002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/06/04/USAT/383bdc28-5601-4e54-b031-f0cdcbe66d39-Maps.png?crop=979,550,x0,y29&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-07-25T15:57:13Z",
+            "content": "Apple Maps is sending alerts to international travelers, reminding them to self-quarantine.\u00a0\r\nOne of the notifications was received\u00a0by\u00a0Twitter user Kyle Seth Gray who posted a screenshot of it Thursd\u2026 [+1807 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Morgan Hines, USA TODAY",
+            "title": "German cruise ship, Mein Schiff 2, sails with 1,200 people on board in first return voyage",
+            "description": "The German cruise line TUI Cruises\u00a0has restarted operations with its\u00a0\"Mein Schiff 2\" sailing for the first time\u00a0since the industry was shut down because of the coronavirus, with 1,200 people on board.",
+            "url": "https://www.usatoday.com/story/travel/cruises/2020/07/25/tui-cruises-mein-schiff-2-sails-return-voyage-1-200-people/5509762002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/25/USAT/6bd55747-8f85-4edc-84e9-39fa1a4a29a5-AP_Virus_Outbreak_Germany_Cruises.jpg?crop=4398,2474,x0,y217&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-07-25T16:30:52Z",
+            "content": "Passengers stand on board the Tui cruise ship 'Mein Schiff 2' during the departure from the port for a three-day trip on the North Sea in Hamburg, Germany, Friday, July 24, 2020. The cruise ship has \u2026 [+4131 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Morgan Hines, USA TODAY",
+            "title": "Cruise lines are dropping these ships from their fleets. And here's what it means for cruisers",
+            "description": "Some companies, including cruise giant Carnival Corp., have announced that they are making reductions to their fleets.",
+            "url": "https://www.usatoday.com/story/travel/cruises/2020/07/25/carnival-other-cruise-lines-cutting-ships-fleets-amid-covid-19/5449857002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/f8e8e4dbb93c58491ba96567817cd3497b476408/c=0-298-5848-3602/local/-/media/2018/08/09/USATODAY/USATODAY/636694027098784397-020.jpg?width=3200&height=1680&fit=crop",
+            "publishedAt": "2020-07-25T12:00:10Z",
+            "content": "Another venerable mid-1990s favorite is Holland America Lines Veendam.\r\n\u00a0(Photo: Aaron Saunders)\r\nAs the novel coronavirus emerged, the cruise industry\u00a0came to a screeching halt that has lasted for m\u2026 [+9708 chars]"
         }
     ]
 }

@@ -1,385 +1,270 @@
 {
  "youtube_playlist": [
-    {"July 6": [
+    {"July 28": [
 		{
-			"vid": "dKkJAKsfL78",
-			"title": "Entrepreneur in Turkey looks for opportunity amid pandemic - My Story",
-			"source": "TRT World"
-		},
-		{
-				"vid": "QZV7zxVWISk",
-				"title": "Afghan oxygen plant owner helps people fight Covid-19",
-				"source": "TRT World"
-		},
-		{
-				"vid": "6wZuZRCW7bI",
-				"title": "Studies suggest hydroxychloroquine could be useful against Covid-19",
-				"source": "TRT World"
-		},
-		{
-				"vid": "wiL2Fg7RhZA",
-				"title": "Scientists: Mexico&#39;s true caseload far higher than reported",
-				"source": "TRT World"
-		},
-		{
-				"vid": "DE7uqONQCoY",
-				"title": "Volunteer groups provide aid to Yemen&#39;s Covid-19 patients",
-				"source": "TRT World"
-		},
-		{
-				"vid": "IIFeGaX3nfk",
-				"title": "UK pubs, restaurants set to reopen on Saturday",
-				"source": "TRT World"
-		},
-		{
-				"vid": "cc69_B4lR5g",
-				"title": "Coronavirus: Massive support package for the arts promised",
-				"source": "Sky News"
-		},
-		{
-				"vid": "1T16L3e6CS8",
-				"title": "Black Lives Matter: Confronting History",
-				"source": "Sky News"
-		},
-		{
-				"vid": "rR2C7gkd_4E",
-				"title": "Former MI6 chief claims coronavirus came from Wuhan lab",
-				"source": "Sky News"
-		},
-		{
-				"vid": "XeEgBOmCTEM",
-				"title": "Coronavirus: Sky reporter called &#39;stupid&#39; for wearing mask",
-				"source": "Sky News"
-		},
-		{
-				"vid": "fh1Oaus6dCg",
-				"title": "‘Drunk people can’t socially distance’, police chief warns – UK COVID-19 update",
-				"source": "Sky News"
-		},
-		{
-				"vid": "jT6TEUR5Bz8",
-				"title": "A quarter of deaths if UK entered lockdown a week earlier",
-				"source": "Sky News"
-		},
-		{
-				"vid": "un9xApUP3AE",
-				"title": "Broadway star Nick Cordero dies after battle with COVID-19 | USA TODAY",
-				"source": "USA TODAY"
-		},
-		{
-				"vid": "Z61WalX3m_k",
-				"title": "President Trump participates in 2020 Mount Rushmore Fireworks Celebration (LIVE)  | USA TODAY",
-				"source": "USA TODAY"
-		},
-		{
-				"vid": "Kklm1DBF8Oo",
-				"title": "VP Pence holds press conference with Florida governor to discuss COVID-19 | USA TODAY",
-				"source": "USA TODAY"
-		},
-		{
-				"vid": "I2gS9MMpaq0",
-				"title": "Patient sobs when he realizes paramedic is his son | Humankind",
-				"source": "USA TODAY"
-		},
-		{
-				"vid": "P9tk5TGUNC8",
-				"title": "Trump remarks on jobs report",
-				"source": "USA TODAY"
-		},
-		{
-				"vid": "yMo-Gp_OXIk",
-				"title": "Pentagon holds briefing to provide update on COVID-19 (LIVE) | USA TODAY",
-				"source": "USA TODAY"
-		},
-		{
-				"vid": "nMNuGSYbKus",
-				"title": "GE2020: Government will not listen to opposition&#39;s COVID-19 proposals, says SDA",
-				"source": "CNA"
-		},
-		{
-				"vid": "xduVtfGIs8Y",
-				"title": "GE2020: SDP&#39;s &quot;4Y1N&quot; campaign tackles long-term recovery plans, says Chee Soon Juan",
-				"source": "CNA"
-		},
-		{
-				"vid": "Wz_UIug568s",
-				"title": "Hundreds of drones display motivational, COVID-19 awareness messages in Seoul",
-				"source": "CNA"
-		},
-		{
-				"vid": "j5EvIyNDdPw",
-				"title": "COVID-19: Indonesia records more than 1,200 new cases",
-				"source": "CNA"
-		},
-		{
-				"vid": "LSu8-FKalbA",
-				"title": "Analysis: EU countries using Covid-19 as excuse to keep out migrants",
-				"source": "FRANCE 24 English"
-		},
-		{
-				"vid": "khQeJUVE6WE",
-				"title": "Australian state hit by second wave of virus",
-				"source": "FRANCE 24 English"
-		},
-		{
-				"vid": "eM-JEwm4vDs",
-				"title": "What are the economic challenges facing the new French government?",
-				"source": "FRANCE 24 English"
-		},
-		{
-				"vid": "J1E3yjGoM3g",
-				"title": "Australia shuts internal border after Melbourne case spike",
-				"source": "FRANCE 24 English"
-		},
-		{
-				"vid": "5X2xC9gm__Q",
-				"title": "Italy to take in 180 migrants rescued at sea",
-				"source": "FRANCE 24 English"
-		},
-		{
-				"vid": "ZYw-LKEaeAc",
-				"title": "Australia closes state border for first time in 100 years to stop Covid-19 spread",
-				"source": "FRANCE 24 English"
-		},
-		{
-				"vid": "cNdZivjZHIQ",
-				"title": "Air Conditioning suspected to play major role in coronavirus spread | Covid-19 Special",
-				"source": "DW News"
-		},
-		{
-				"vid": "Ntu5dv6HuNc",
-				"title": "Trump&#39;s Mt. Rushmore 4th of July speech: Protesters want to &#39;wipe out our history&#39;",
-				"source": "DW News"
-		},
-		{
-				"vid": "GQGn9Ts_YWI",
-				"title": "Why we’re seeing the worst locust invasion in decades and how Covid-19 exacerbates it | DW Analysis",
-				"source": "DW News"
-		},
-		{
-				"vid": "JgkoKLDfUBw",
-				"title": "Researching coronavirus: What are the findings? | COVID-19 Special",
-				"source": "DW News"
-		},
-		{
-				"vid": "P1ZGcs0cBvY",
-				"title": "Dr. Nesheiwat on WHO shutting doing hydroxychloroquine trials",
-				"source": "Fox News"
-		},
-		{
-				"vid": "37H7PdFoHEg",
-				"title": "Secretary Eugene Scalia on job creation surge amid spike in coronavirus cases",
-				"source": "Fox News"
-		},
-		{
-				"vid": "ljKDAa6Hbd0",
-				"title": "Gutfeld: To say we&#39;ve had our freedom tested this year is an understatement",
-				"source": "Fox News"
-		},
-		{
-				"vid": "DDiu6vtPjYE",
-				"title": "Trump warns anarchists and looters as he heads to Mount Rushmore",
-				"source": "Fox News"
-		},
-		{
-				"vid": "wIPfRE3ggg8",
-				"title": "Social distancing not required at Mount Rushmore event",
-				"source": "Fox News"
-		},
-		{
-				"vid": "6vHZ50G0ryA",
-				"title": "Toronto hospital&#39;s ICU free of COVID-19 patients for first time in months",
-				"source": "CBC News"
-		},
-		{
-				"vid": "W4vi5kM-Jxk",
-				"title": "B.C. growers face shortage of fruit pickers during pandemic",
-				"source": "CBC News"
-		},
-		{
-				"vid": "rfwidBUYJb8",
-				"title": "Siksika First Nation may have spike in COVID-19 cases",
-				"source": "CBC News"
-		},
-		{
-				"vid": "4Tl_1gRlNE4",
-				"title": "COVID-19 outbreak in the U.S. is a concern, Canadian health officials say",
-				"source": "CBC News"
-		},
-		{
-				"vid": "HIZ_1rloFQw",
-				"title": "Coronavirus: UK police warn physical distancing and intoxication don&#39;t mix",
+				"vid": "-W42TN5IShc",
+				"title": "Coronavirus: Trump says &quot;many doctors&quot; think hydroxychloroquine is successful in treating COVID-19",
 				"source": "Global News"
 		},
 		{
-				"vid": "1_mL859goI8",
-				"title": "Coronavirus: Could 4th of July rallies fuel further outbreaks in the US?",
+				"vid": "cLe-7bujTUM",
+				"title": "Coronavirus: U.S. President Donald Trump announces deal with Kodak to make pharmaceuticals | FULL",
 				"source": "Global News"
 		},
 		{
-				"vid": "wdtM3v2Wtko",
-				"title": "Global National: July 5, 2020 | The high cost of the novel coronavirus pandemic",
+				"vid": "COromWTPeS4",
+				"title": "&quot;I was too fat&quot; UK PM Boris Johnson admits in new anti-obesity campaign",
 				"source": "Global News"
 		},
 		{
-				"vid": "ydy65acc_j0",
-				"title": "Broadway star Nick Cordero dies of coronavirus at 41",
-				"source": "Washington Post"
+				"vid": "fYhCOnyS0fk",
+				"title": "Pres. Trump’s National Security Advisor Tests Positive For Covid-19 | Morning Joe | MSNBC",
+				"source": "MSNBC"
 		},
 		{
-				"vid": "ScOcne-BlyM",
-				"title": "After Trump downplays coronavirus danger, officials call for national measures to stop rising spread",
-				"source": "Washington Post"
+				"vid": "kqJxh5WAtsY",
+				"title": "Trump Ditches &#39;New Tone&#39; On COVID-19, Pushes States To Reopen | The 11th Hour | MSNBC",
+				"source": "MSNBC"
 		},
 		{
-				"vid": "56TTAOp_qdg",
-				"title": "Nurses in Riverside, Calif. are on strike alleging unsafe staffing and inadequate PPE",
-				"source": "Washington Post"
+				"vid": "c5bOrfjpxaY",
+				"title": "Pandemic Expert: U.S. Schools Aren&#39;t Ready To Open Due To COVID-19 | The 11th Hour | MSNBC",
+				"source": "MSNBC"
 		},
 		{
-				"vid": "CqUF0PkmFT0",
-				"title": "Pence makes case for Trump amid pandemic | The 2020 Fix",
-				"source": "Washington Post"
+				"vid": "aUYzIbtOFR8",
+				"title": "Trump holds press conference on coronavirus | 7/28/20",
+				"source": "Fox News"
 		},
 		{
-				"vid": "GkIVYkKgJ8c",
-				"title": "The science behind reliable COVID-19 testing",
-				"source": "euronews (in English)"
+				"vid": "ZrU2_WvVVm0",
+				"title": "Don Jr. speaks out about temporary Twitter ban on ‘Tucker Carlson Tonight’",
+				"source": "Fox News"
 		},
 		{
-				"vid": "EBH6KJkAXh0",
-				"title": "Coronavirus: Spain imposes local lockdown in second region",
-				"source": "euronews (in English)"
+				"vid": "h_jwePqSzlU",
+				"title": "Coronavirus: Canada is seeing an “uptick” in COVID-19 curve, says top doctor",
+				"source": "Global News"
 		},
 		{
-				"vid": "KGYhG4mTWrY",
-				"title": "Latin America and the Caribbean surpass Europe&#39;s number of coronavirus cases",
-				"source": "euronews (in English)"
+				"vid": "U2jwFYib21A",
+				"title": "Paris feels brunt of Covid-19 tourism downturn",
+				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "IcFYIadmmlM",
-				"title": "Egypt reopens pyramids to tourists after virus closure",
-				"source": "euronews (in English)"
+				"vid": "KpZLKu0rUX8",
+				"title": "IMF approves $4.3 bn to help South Africa fight COVID-19",
+				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "nl1lGfi7i9k",
-				"title": "Lockdown rules: How to keep your guests safe from Covid-19 - BBC News",
+				"vid": "72iKL1HvnyU",
+				"title": "Saudi Arabia gears up for downsized Hajj rituals due to Covid-19",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "RJfE7dZkQvg",
+				"title": "Coronavirus-linked hunger kills 10,000 children per month, says UN",
+				"source": "FRANCE 24 English"
+		},
+		{
+				"vid": "30ZNTo8foyY",
+				"title": "The latest on COVID-19 antibodies and immunity",
+				"source": "ABC News"
+		},
+		{
+				"vid": "zT40eNKpV2A",
+				"title": "Scientists explain what went wrong with COVID-19 testing l GMA",
+				"source": "ABC News"
+		},
+		{
+				"vid": "3NBkI2UKmqk",
+				"title": "COVID-19 testing disparity hits minority communities | PRIME",
+				"source": "ABC News"
+		},
+		{
+				"vid": "uAueeAfNYfk",
+				"title": "Vaccine results appear promising as coronavirus grips US | WNT",
+				"source": "ABC News"
+		},
+		{
+				"vid": "wBtHk8kK-KY",
+				"title": "Coronavirus: Florida police crack down on &#39;illegal&#39; house gatherings",
+				"source": "Sky News"
+		},
+		{
+				"vid": "nnE7oE-IAWs",
+				"title": "Coronavirus: South Africa in midst of COVID-19 &#39;storm&#39;",
+				"source": "Sky News"
+		},
+		{
+				"vid": "EXDmaPkwjkI",
+				"title": "Does data show Europe set for a new coronavirus wave?",
+				"source": "Sky News"
+		},
+		{
+				"vid": "FZjwktfg0wU",
+				"title": "PM: We must react to threat of a second wave",
+				"source": "Sky News"
+		},
+		{
+				"vid": "s87wDTofA6c",
+				"title": "Confirmed Covid-19 cases reaches more than 16 million - BBC News",
 				"source": "BBC News"
 		},
 		{
-				"vid": "y4XQS_vPslQ",
-				"title": "“Enjoy summer safely” says PM as pubs and restaurants open in England - BBC News",
+				"vid": "28KKzTi2Za4",
+				"title": "India Covid-19: Delhi&#39;s mask-averse shoppers worry officials",
 				"source": "BBC News"
 		},
 		{
-				"vid": "-nMFoqfzEhA",
-				"title": "Why Texas is seeing a coronavirus surge - BBC News",
+				"vid": "KaSXQ9uJLjs",
+				"title": "Second wave of pandemic may be underway in Europe warns Boris Johnson - BBC News",
 				"source": "BBC News"
 		},
 		{
-				"vid": "91CBoU0GqBM",
-				"title": "Doctors warn coronavirus spreads more easily than first thought",
-				"source": "CNN"
+				"vid": "W2rIY9TREVw",
+				"title": "Coronavirus: &#39;We’re still waiting at home for them to come back&#39; - BBC News",
+				"source": "BBC News"
 		},
 		{
-				"vid": "nVUnAgGboNE",
-				"title": "FDA commissioner refuses to defend Trump claim",
-				"source": "CNN"
-		},
-		{
-				"vid": "qVOSONOlegQ",
-				"title": "Fareed: Coronavirus won&#39;t be a death knell for big cities. Here&#39;s why",
-				"source": "CNN"
-		},
-		{
-				"vid": "4oXMM2L88W4",
-				"title": "US setting records as Covid-19 cases soar",
-				"source": "CNN"
-		},
-		{
-				"vid": "rVjFt0gvpZw",
-				"title": "India registers record spike in Covid-19 cases, opens 10,000 bed temporary hospital",
+				"vid": "LBL9j5vx0Ck",
+				"title": "Spanish PM attacks &#39;error&#39; of UK quarantine travel restrictions",
 				"source": "Guardian News"
 		},
 		{
-				"vid": "mjhPBOQIyBo",
-				"title": "Seoul area sees influx of workers amid COVID-19",
+				"vid": "-jQKFLPFG5Q",
+				"title": "Boris Johnson: UK will act swiftly to impose new quarantines if necessary",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "NK3W5IPE9Oc",
+				"title": "Here&#39;s what Fauci thinks about the latest Covid-19 vaccine trial",
+				"source": "CNN"
+		},
+		{
+				"vid": "MSGtwCKbCQo",
+				"title": "Voter gets heated defending Trump response to Covid-19 pandemic",
+				"source": "CNN"
+		},
+		{
+				"vid": "2eRSOmEkuug",
+				"title": "Twitter restricts Donald Trump Jr. for sharing coronavirus misinformation video",
+				"source": "CNN"
+		},
+		{
+				"vid": "qFpGDYmbMjE",
+				"title": "Cuomo: White House can&#39;t contain the virus within its own walls",
+				"source": "CNN"
+		},
+		{
+				"vid": "TSIv8AdQ8kI",
+				"title": "10 wildest lines from Trump’s Fox News interview",
+				"source": "CNN"
+		},
+		{
+				"vid": "rlGW4s6RGJ4",
+				"title": "COVID-19 cases continue to rise among Canadians",
+				"source": "CBC News"
+		},
+		{
+				"vid": "VWo0RDLuy18",
+				"title": "Barbados offers 1-year visa to &#39;work from home&#39; there",
+				"source": "CBC News"
+		},
+		{
+				"vid": "nJIhk07ogiM",
+				"title": "Senate Republicans release info on $1 trillion COVID-19 stimulus package | USA TODAY",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "A07iahr8Soo",
+				"title": "President Trump holds press briefing | USA TODAY",
+				"source": "USA TODAY"
+		},
+		{
+				"vid": "-9nbYi4Wv6U",
+				"title": "Bill Gates predicts COVID-19 treatment drugs could reduce death rate substantially",
 				"source": "ARIRANG NEWS"
 		},
 		{
-				"vid": "8k9X4BLFcpU",
-				"title": "South Korea reports 48 new COVID-19 cases on Monday; distancing level to be adjusted by region",
+				"vid": "TumgYG2bFrY",
+				"title": "China, other countries seeing second wave of COVID-19",
 				"source": "ARIRANG NEWS"
 		},
 		{
-				"vid": "sMyGjNnAYzs",
-				"title": "COVID-19 is airborne and has mutated to be more infectious: Studies",
+				"vid": "tFp-IHdPdn4",
+				"title": "COVID-19 not just seasonal: WHO",
 				"source": "ARIRANG NEWS"
 		},
 		{
-				"vid": "AhGA5i4zltM",
-				"title": "In-depth: Global market wrap-up",
-				"source": "ARIRANG NEWS"
+				"vid": "yO5oyHXcu-E",
+				"title": "COVID-19: Vietnam suspends all flights to and from Da Nang",
+				"source": "CNA"
 		},
 		{
-				"vid": "1XRj9lAN77Q",
-				"title": "Hundreds of scientists say coronavirus is airborne",
-				"source": "Reuters"
+				"vid": "hOzZ08NFQbY",
+				"title": "Japan reports more than 750 new COVID-19 cases",
+				"source": "CNA"
 		},
 		{
-				"vid": "rFkOWz262rg",
-				"title": "&#39;I can&#39;t predict when a vaccine will be available&#39;: Dr. Stephen Hahn | ABC News",
-				"source": "ABC News"
+				"vid": "ysUoerZhsUw",
+				"title": "Singapore reports 359 new COVID-19 cases",
+				"source": "CNA"
 		},
 		{
-				"vid": "uvRKmwutpMs",
-				"title": "More pro athletes test positive for COVID-19",
-				"source": "ABC News"
+				"vid": "zUQi_NwdX_E",
+				"title": "Hong Kong reports 106 new COVID-19 cases",
+				"source": "CNA"
 		},
 		{
-				"vid": "w5pmWtXF55o",
-				"title": "Meet the combat medics who came to treat COVID-19 in New York City | Nightline",
-				"source": "ABC News"
+				"vid": "XZsVuz8VwOQ",
+				"title": "India records more than 47,000 new COVID-19 cases",
+				"source": "CNA"
 		},
 		{
-				"vid": "1ONTEnAj9o8",
-				"title": "U.S. Is Headed In &#39;Wrong Direction&#39; With Virus, Says Doctor | Morning Joe | MSNBC",
-				"source": "MSNBC"
+				"vid": "yVs43zJ81cA",
+				"title": "Will the coronavirus pandemic fuel the spread of hepatitis? | COVID-19 Special",
+				"source": "DW News"
 		},
 		{
-				"vid": "65XiJgHXh2g",
-				"title": "Island That Takes Tourists &#39;Back In Time&#39; Works To Make Visitors Feel Safe In The Age Of Coronavirus",
-				"source": "MSNBC"
+				"vid": "HizMJp0ShCs",
+				"title": "Coronavirus: Fears returning travelers will spark second wave in Germany | DW News",
+				"source": "DW News"
 		},
 		{
-				"vid": "2xaM_BFlg8Q",
-				"title": "Coronavirus mythbusters: Ultra-violet (UV) lamps and COVID-19",
-				"source": "World Health Organization (WHO)"
+				"vid": "AB7mx5B9vsw",
+				"title": "EU COVID-19 rescue package: what safeguards are in place against corruption?",
+				"source": "euronews (in English)"
 		},
 		{
-				"vid": "oDE8_4UTuRM",
-				"title": "Coronavirus mythbusters: 5G mobile networks DO NOT spread COVID-19",
-				"source": "World Health Organization (WHO)"
+				"vid": "g61fTOFO80w",
+				"title": "Is Sweden’s coronavirus strategy working after all?",
+				"source": "euronews (in English)"
 		},
 		{
-				"vid": "3xG1-EHdNb8",
-				"title": "Coronavirus Updates: China Reports Cases of Bubonic Plague; Experts Say Covid-19 Can Float in Air",
+				"vid": "5EkVQzcf1vM",
+				"title": "Coronavirus: Spanish PM Sanchez says UK quarantine rule is unjust",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "hB7lOvZ0o6M",
+				"title": "Viral &#39;misinformation&#39; video about hydroxychloroquine causes problems for social media platforms",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "MvGBlRPaICs",
+				"title": "Sweden&#39;s strategy: Infectious disease experts believe results are multifaceted",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "zP9WHuvfsJ0",
+				"title": "Algerians and Moroccans set to lose permission to travel to EU after COVID-19 spike",
+				"source": "euronews (in English)"
+		},
+		{
+				"vid": "_UJYXSghuvc",
+				"title": "Coronavirus Updates: McConnell Drops $1 Trillion Plan; Newsom Sends Central California $52 Million",
 				"source": "Bloomberg QuickTake News"
-		},
-		{
-				"vid": "oF8UKGFwTUA",
-				"title": "Covid19-Like Virus Was Sent to Wuhan in 2013, The Sunday Times Reports",
-				"source": "Bloomberg QuickTake News"
-		},
-		{
-				"vid": "p1bd1nFbxeM",
-				"title": "Pubs in Ireland After 3 Months of Coronavirus Lockdown",
-				"source": "Bloomberg QuickTake News"
-		},
-		{
-			"vid": "ZSKTnpDYgGs",
-			"title": "As Arizona becomes the coronavirus epicenter, a dire warning from health-care workers",
-			"source": "Washington Post"
 		}
     ]}
  ]

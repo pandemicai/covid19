@@ -21,43 +21,153 @@
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22", "5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
 		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
-		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6", "7/7", "7/8", "7/9", "7/10", "7/11", "7/12", "7/13", "7/14", "7/15",
+		"7/16", "7/17", "7/18", "7/19", "7/20", "7/21", "7/22", "7/23", "7/24", "7/25", "7/26", "7/27", "7/28", "7/29"
 	],
 	"confirmed_cases_by_day": [
-		15,15,15,15,15,17,19,21,22,22,22,23,23,25,25,29,33,39,53,60,63,74,83,93,116,128,156,199,248,300,401,455,596,756,928,1072,1609,1887,2317,2676,3050,3378,3635,4163,4460,4763,5048,5314,5454,5550,5750,5895,5988,6052,6152,6238,6303,6313,6359,6400,6447,6468,6533,6586,6612,6625,6645,6649,6667,6675,6695,6716,6720,6738,6746,6754,6767,6781,6801,6825,6849,6875,6896,6914,6929,6941,6948,6964,6980,6989,7019,7036,7045,7060,7068,7079,7081,7095,7111,7114,7118,7133,7139,7150,7173,7185,7195,7204,7221,7229,7240,7251,7255,7260,7265,7267,7276,7285,7290,7302,7320,7335,7347,7370,7391,7409,7436,7461,7474,7492,7521,7558,7595,7641,7686,7767,7836,7920,8001,8255,8362,8449,8586
+		15,15,15,15,15,17,19,21,22,22,22,23,23,25,25,29,33,39,53,60,63,74,83,93,116,128,156,199,248,300,401,455,596,756,928,1072,1609,1887,2317,2676,3050,3378,3635,4163,4460,4763,5048,5314,5454,5550,5750,5895,5988,6052,6152,6238,6303,6313,6359,6400,6447,6468,6533,6586,6612,6625,6645,6649,6667,6675,6695,6716,6720,6738,6746,6754,6767,6781,6801,6825,6849,6875,6896,6914,6929,6941,6948,6964,6980,6989,7019,7036,7045,7060,7068,7079,7081,7095,7111,7114,7118,7133,7139,7150,7173,7185,7195,7204,7221,7229,7240,7251,7255,7260,7265,7267,7276,7285,7290,7302,7320,7335,7347,7370,7391,7409,7436,7461,7474,7492,7521,7558,7595,7641,7686,7767,7836,7920,8001,8255,8362,8449,8586,8755,8886,9059,9359,9553,9796,9980,10250,10487,10810,11235,11441,11802,12069,12428,12896,13306,13595,13950,14403,14935,15304,15582
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,2,2,2,1,0,0,1,0,2,0,4,4,6,14,7,3,11,9,10,23,12,28,43,49,52,101,54,141,160,172,144,537,278,430,359,374,328,257,528,297,303,285,266,140,96,200,145,93,64,100,86,65,10,46,41,47,21,65,53,26,13,20,4,18,8,20,21,4,18,8,8,13,14,20,24,24,26,21,18,15,12,7,16,16,9,30,17,9,15,8,11,2,14,16,3,4,15,6,11,23,12,10,9,17,8,11,11,4,5,5,2,9,9,5,12,18,15,12,23,21,18,27,25,13,18,29,37,37,46,45,81,69,84,81,254,107,87,137
+		0,0,0,0,0,2,2,2,1,0,0,1,0,2,0,4,4,6,14,7,3,11,9,10,23,12,28,43,49,52,101,54,141,160,172,144,537,278,430,359,374,328,257,528,297,303,285,266,140,96,200,145,93,64,100,86,65,10,46,41,47,21,65,53,26,13,20,4,18,8,20,21,4,18,8,8,13,14,20,24,24,26,21,18,15,12,7,16,16,9,30,17,9,15,8,11,2,14,16,3,4,15,6,11,23,12,10,9,17,8,11,11,4,5,5,2,9,9,5,12,18,15,12,23,21,18,27,25,13,18,29,37,37,46,45,81,69,84,81,254,107,87,137,169,131,173,300,194,243,184,270,237,323,425,206,361,267,359,468,410,289,355,453,532,369,278
 	],
 	"active_cases_by_day": [
-		5,5,5,5,5,6,8,10,11,11,7,8,8,10,10,13,17,17,30,36,39,49,58,68,91,101,127,170,218,268,369,423,547,703,875,1019,1514,1762,2191,2547,2867,3195,3451,3902,4197,4398,4680,4704,4841,4935,4633,3418,3392,3189,3114,3043,2982,2916,2804,2741,2698,2658,2647,2349,2311,2296,1889,1655,1547,1460,1243,1073,1051,1024,990,947,929,899,889,871,864,794,759,738,697,681,672,638,611,590,584,576,580,569,555,535,509,515,515,504,485,478,471,468,489,477,479,483,493,487,490,466,463,455,457,445,430,422,405,388,380,382,392,409,412,429,453,463,469,486,503,523,533,558,603,655,724,776,807,832,903,946,1060
+		5,5,5,5,5,6,8,10,11,11,7,8,8,10,10,13,17,17,30,36,39,49,58,68,91,101,127,170,218,268,369,423,547,703,875,1019,1514,1762,2191,2547,2867,3195,3451,3902,4197,4398,4680,4704,4841,4935,4633,3418,3392,3189,3114,3043,2982,2916,2804,2741,2698,2658,2647,2349,2311,2296,1889,1655,1547,1460,1243,1073,1051,1024,990,947,929,899,889,871,864,794,759,738,697,681,672,638,611,590,584,576,580,569,555,535,509,515,515,504,485,478,471,468,489,477,479,483,493,487,490,466,463,455,457,445,430,422,405,388,380,382,392,409,412,429,453,463,469,486,503,523,533,558,603,655,724,776,807,832,903,946,1060,1194,1293,1380,1677,1716,1961,2104,2307,2448,2662,3002,3162,3407,3502,3858,4115,4398,4527,4788,5078,5463,5706,5787
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,3,3,3,3,3,3,5,5,5,6,7,7,7,7,7,8,11,13,13,14,17,19,20,23,25,28,30,37,45,49,50,51,54,56,59,61,61,63,63,65,70,71,71,71,74,75,79,80,83,83,88,89,92,93,93,95,95,96,97,97,97,97,97,97,97,98,98,98,98,98,99,100,100,100,101,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,103,104,104,104,104,104,104,104,104,104,104,104,106
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2,3,3,3,3,3,3,3,3,5,5,5,6,7,7,7,7,7,8,11,13,13,14,17,19,20,23,25,28,30,37,45,49,50,51,54,56,59,61,61,63,63,65,70,71,71,71,74,75,79,80,83,83,88,89,92,93,93,95,95,96,97,97,97,97,97,97,97,98,98,98,98,98,99,100,100,100,101,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,103,104,104,104,104,104,104,104,104,104,104,104,106,106,106,106,106,107,108,108,108,111,113,116,118,122,123,126,128,133,139,145,155,161,167,176
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,1,3,2,0,1,3,2,1,3,2,3,2,7,8,4,1,1,3,2,3,2,0,2,0,2,5,1,0,0,3,1,4,1,3,0,5,1,3,1,0,2,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,1,3,2,0,1,3,2,1,3,2,3,2,7,8,4,1,1,3,2,3,2,0,2,0,2,5,1,0,0,3,1,4,1,3,0,5,1,3,1,0,2,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,3,2,3,2,4,1,3,2,5,6,6,10,6,6,9
 	],
 	"new_recoveries_by_day": [
-		0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,6,0,1,0,0,0,0,0,2,2,0,1,0,0,0,16,3,0,0,42,30,0,0,52,0,0,74,0,101,0,240,0,0,495,1352,115,266,174,154,124,73,156,104,88,61,74,346,63,28,427,235,125,91,236,188,26,40,41,48,30,44,28,42,30,95,56,39,56,28,16,50,42,30,36,25,5,25,21,31,28,7,15,14,23,22,13,14,2,24,8,5,7,14,8,35,7,13,3,14,24,17,22,29,26,13,2,6,18,1,3,15,7,1,16,27,21,0,29,0,32,50,229,36,44,21
+		0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,6,0,1,0,0,0,0,0,2,2,0,1,0,0,0,16,3,0,0,42,30,0,0,52,0,0,74,0,101,0,240,0,0,495,1352,115,266,174,154,124,73,156,104,88,61,74,346,63,28,427,235,125,91,236,188,26,40,41,48,30,44,28,42,30,95,56,39,56,28,16,50,42,30,36,25,5,25,21,31,28,7,15,14,23,22,13,14,2,24,8,5,7,14,8,35,7,13,3,14,24,17,22,29,26,13,2,6,18,1,3,15,7,1,16,27,21,0,29,0,32,50,229,36,44,21,35,32,86,3,154,0,41,67,93,107,82,44,112,171,0,209,122,154,88,153,141,120,188
 	],
 	"youtube_playlist": [
-		{"vid": "rl4LQ0b0APs", "title": "The latest COVID-19 news for on Tuesday, April 21", "source": "7NEWS Australia"},
-		{"vid": "k3yHKRBw3VM", "title": "Coronavirus: Sydney students to return to school", "source": "Nine News Australia"},
-		{"vid": "aRgi8T0fBbI", "title": "Coronavirus: Scott Morrison provides update", "source": "Nine News Australia"},
-		{"vid": "rH8ef6vv2OY", "title": "Australia to resume elective surgeries as coronavirus cases dwindle", "source": "ABC News"},
-		{"vid": "jnu5UJGscHs", "title": "Coronavirus: New drug testing underway in Australia", "source": "Nine News Australia"},
-		{"vid": "zhSqCXCcy-0", "title": "Coronavirus: Virgin to go into administration", "source": "Nine News Australia"},
-		{"vid": "nj8OyxVXxZI", "title": "Coronavirus: The renewed call for more Australian manufacturing", "source": "7NEWS Australia"},
-		{"vid": "v93kIGICXDI", "title": "Coronavirus: Can Australia really reopen in four weeks?", "source": "7NEWS Australia"},
-		{"vid": "MWIpywKE5VQ", "title": "Aussie family-of-three all diagnosed with COVID-19", "source": "Nine News Australia"},
-		{"vid": "oEZZMqN7joI", "title": "Coronavirus restrictions force trial of flexible working for Australian dads", "source": "ABC News"},
-		{"vid": "c1kP6LkQ4-s", "title": "Catastrophic predictions of Victorian death toll revealed", "source": "Nine News Australia"},
-		{"vid": "svzaY0_9YHI", "title": "Coronavirus: Dozens of volunteers sewing medical scrubs", "source": "Nine News Australia"},
-		{"vid": "wQZ29vdDrzo", "title": "Coronavirus: QLD's battle plan, Grim jobs outlook", "source": "Nine News Australia"},
-		{"vid": "7BDA8bknmpc", "title": "Coronavirus data analysis from Australia and around the world", "source": "ABC News"},
-		{"vid": "TtKa4FVbsRg", "title": "Some beaches reopened with strict physical distancing rules", "source": "ABC News"},
-		{"vid": "BGmWPArhESE", "title": "Can we beat COVID-19 without a vaccine?", "source": "Nine News Australia"}
+		{
+				"vid": "rGgfHylQ8mc",
+				"title": "Coronavirus update July 12: Victoria records 273 new COVID-19 cases and one death | ABC News",
+				"source": "ABC News (Australia)"
+		},
+		{
+				"vid": "EtX19NPZMIA",
+				"title": "Coronavirus: Father with COVID-19 fears infecting family | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "mhuResz7uYw",
+				"title": "Coronavirus: Victoria&#39;s COVID-19 crisis reaches new heights with 288 new cases recorded | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "qGlNmoYQ1Aw",
+				"title": "Coronavirus update - July 11: Worst still ahead for Victoria; NSW loses COVID-19 tests | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "ZF6k7Y0GbXE",
+				"title": "Coronavirus: Mornington Peninsula calling to be removed from lockdown | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "I7uWe5KEv5M",
+				"title": "Why is Australia’s second-biggest city back in coronavirus lockdown?",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "E9vnlc5owU4",
+				"title": "Coronavirus: Victoria records second highest daily increase | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "XmaBHBKrvCA",
+				"title": "Victoria COVID-19 update - July 13: Premier Daniel Andrews press conference | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "3RG58-1vKmk",
+				"title": "Coronavirus: Are all residential towers at risk of COVID-19 outbreaks?  | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "nJ5ANoIvTL0",
+				"title": "Coronavirus: Government caps number of international flights | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "gtI5zyOVOJU",
+				"title": "7NEWS Update - Sunday July 12: Sydney pub cluster grows; VIC records 273 new COVID-19 cases | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "590lYhGzEXc",
+				"title": "Coronavirus: First medically approved treatment welcomed | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "L2cgXFWhod0",
+				"title": "Coronavirus: COVID-19 vaccine human trials begin in Queensland | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "HMSSFkwVs3w",
+				"title": "Coronavirus: Victoria records highest daily jump as enforcement tightens | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "L4XUtxAU_SI",
+				"title": "Coronavirus: Victorians to wear mask when leaving homes | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "FaAJcDpQamo",
+				"title": "Coronavirus: How to properly wear a face mask | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "NVcIMIctdyw",
+				"title": "Coronavirus: Five million Aussies to receive $750 cash payments | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "qld5x_IeFKM",
+				"title": "Coronavirus: Deputy Chief Medical Officer Dr Nick Coatsworth on VIC &amp; NSW outbreaks | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "hFYROloX7CQ",
+				"title": "Coronavirus: Victorian students back to home remote learning | 9 News Australia",
+				"source": "9 News Australia"
+		},
+		{
+				"vid": "tqlI2dp1HFI",
+				"title": "Remdesivir approved by the Therapeutic Goods Administration for severe coronavirus cases | ABC News",
+				"source": "ABC News (Australia)"
+		},
+		{
+				"vid": "0wPzJS19gLw",
+				"title": "Melburnians urged to wear masks as Victoria records 288 new coronavirus cases | ABC News",
+				"source": "ABC News (Australia)"
+		},
+		{
+				"vid": "Mx0bTZgGjHQ",
+				"title": "7NEWS Update - Monday July 13: 177 new COVID-19 cases in VIC; baby dies in NSW house fire | 7NEWS",
+				"source": "7NEWS Australia"
+		},
+		{
+				"vid": "cXBhw85r7Qk",
+				"title": "Coronavirus update 13 July - NSW fears further outbreaks from Crossroads Hotel | ABC News",
+				"source": "ABC News (Australia)"
+		},
+		{
+				"vid": "d7WwQqG6_Lg",
+				"title": "Coronavirus cases to double every five days in Victoria",
+				"source": "Sky News Australia"
+		},
+		{
+				"vid": "xxZ6fV8bg9c",
+				"title": "COVID-19: NSW to charge returnees for hotel quarantine | SBS News",
+				"source": "SBS News"
+		}
 	],
 	"map_data": [
 		{

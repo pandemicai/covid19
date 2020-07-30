@@ -1,0 +1,842 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Beth Skwarecki on Vitals, shared by Beth Skwarecki to Lifehacker",
+            "title": "How Masks Protect Us From the Coronavirus",
+            "description": "Masks protect us. That shouldn\u2019t be a surprise at this point, but since there\u2019s been so much confusion about what masks do, and there are\u00a0a lot of myths floating around about them, it\u2019s time for a little refresher.Read more...",
+            "url": "https://vitals.lifehacker.com/how-masks-protect-us-from-the-coronavirus-1844220877",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fmsifdkbrbjvck9tsfgr.jpg",
+            "publishedAt": "2020-06-30T19:30:00Z",
+            "content": "Masks protect us. That shouldnt be a surprise at this point, but since theres been so much confusion about what masks do, and there are\u00a0a lot of myths floating around about them, its time for a littl\u2026 [+3250 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Beth Skwarecki on Vitals, shared by Beth Skwarecki to Lifehacker",
+            "title": "How to Keep Track of All the Potential Coronavirus Treatments",
+            "description": "There\u2019s still no cure for the coronavirus, but dozens of drugs and treatments are being tested against it. And you\u2019re not alone if you\u2019ve gotten confused about which ones are mere possibilities and which are widely understood to be useful. The science changes\u2026",
+            "url": "https://vitals.lifehacker.com/how-to-keep-track-of-all-the-potential-coronavirus-trea-1844419504",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/wcjld3ipr32kmjr75go9.jpg",
+            "publishedAt": "2020-07-17T17:15:00Z",
+            "content": "Theres still no cure for the coronavirus, but dozens of drugs and treatments are being tested against it. And youre not alone if youve gotten confused about which ones are mere possibilities and whic\u2026 [+2342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Why Isn't Summer Stopping the Coronavirus?",
+            "description": "The U.S. is now firmly in the middle of a second peak of the covid-19 pandemic, if still nestled inside its first wave. But given the rapid spread of the coronavirus during a time of the year when many similar diseases tend to lay low, it\u2019s worth exploring: W\u2026",
+            "url": "https://gizmodo.com/why-isnt-summer-stopping-the-coronavirus-1844392050",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/xtum6gd98rf49qvum5zw.jpg",
+            "publishedAt": "2020-07-16T12:46:00Z",
+            "content": "The U.S. is now firmly in the middle of a second peak of the covid-19 pandemic, if still nestled inside its first wave. But given the rapid spread of the coronavirus during a time of the year when ma\u2026 [+7446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "'Airborne,' 'Asymptomatic,' and Other Misunderstood Coronavirus Terms",
+            "description": "Today, the World Health Organization formally announced a change in its stance over very two important issues concerning covid-19. The organization stated that people can spread the virus while asymptomatic and that airborne transmission of the virus is possi\u2026",
+            "url": "https://gizmodo.com/airborne-asymptomatic-and-other-misunderstood-coronav-1844322903",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/rd38oi7qrwwzlmwizosm.jpg",
+            "publishedAt": "2020-07-09T17:17:00Z",
+            "content": "Today, the World Health Organization formally announced a change in its stance over very two important issues concerning covid-19. The organization stated that people can spread the virus while asymp\u2026 [+7307 chars]"
+        },
+
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "James Rogers",
+            "title": "First person in US to receive experimental COVID-19 vaccine says she feels 'fantastic': report",
+            "description": "A Seattle woman who was the first person in the U.S. to receive an experimental COVID-19 vaccine test shot says she feels \u201cfantastic.\u201d",
+            "url": "https://www.foxnews.com/science/first-person-us-receive-experimental-covid-19-vaccine-feels-fantastic",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20139541521728.jpg",
+            "publishedAt": "2020-07-10T18:46:41Z",
+            "content": "A Seattle woman who was the first person in the U.S. to receive an experimental COVID-19 vaccine test shot says she feels \u201cfantastic.\u201d\r\nJennifer Haller from Seattle received the shot in March as part\u2026 [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Elizabeth Weise, USA TODAY",
+            "title": "US cuts $1.95 billion deal with Pfizer for 100 million doses of COVID-19 vaccine",
+            "description": "Pfizer and BioNTech announced a $1.95 billion deal with the United States for pre-purchase of 100 million doses of an experimental vaccine candidate.",
+            "url": "https://www.usatoday.com/story/news/health/2020/07/22/us-pays-1-95-billion-100-million-doses-pfizer-covid-19-vaccine/5489964002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/22/USAT/5f5237c3-5d58-4758-af27-52ff7c8f7fc5-AP_Virus_Outbreak-Pfizer.jpg?crop=4406,2479,x0,y269&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-07-22T21:28:11Z",
+            "content": "The Trump administration will pay Pfizer nearly $2 billion for a December delivery of 100 million doses of a COVID-19 vaccine the pharmaceutical company is developing. (July 22)\r\nAP Domestic\r\nPfizer \u2026 [+3155 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Elizabeth Weise and Karen Weintraub, USA TODAY",
+            "title": "Early success of COVID-19 vaccine candidates fuels optimism, but experts warn 'a lot has to go right'",
+            "description": "USA TODAY created a panel of experts to estimate how far we are from when a  COVID-19 vaccine will be available to all Americans.",
+            "url": "https://www.usatoday.com/in-depth/news/health/2020/07/23/covid-vaccine-race-early-success-fuels-cautious-optimism-panel-finds/5480173002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/22/USAT/26f00a4d-1a10-4a26-9ef3-e723afa21a18-vaccine-clock_JULY_promo.png?crop=844,475,x0,y70&width=1200",
+            "publishedAt": "2020-07-23T11:34:25Z",
+            "content": "Propelled by encouraging results from early experiments, the clock has ticked forward one hour since June in USA TODAYs countdown to\u00a0a vaccine against COVID-19. For July, the hands sit at 5 a.m., our\u2026 [+10652 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Elizabeth Weise, USA TODAY",
+            "title": "Top COVID-19 vaccine makers say safe, effective and low-cost candidates possible by early 2021",
+            "description": "Lawmakers press coronavirus vaccine makers for assurances the speed of development won't compromise safety, regardless of government regulation.",
+            "url": "https://www.usatoday.com/story/news/health/2020/07/21/top-covid-vaccine-makers-safe-cheap-doses-may-ready-early-2021/5478232002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/ff08101970c9b392424972bf0f5861a9adca4d8f/c=0-110-2122-1304/local/-/media/2020/07/20/USATODAY/usatsports/MotleyFool-TMOT-0289bf12-covid-19-vaccine.jpg?width=1600&height=800&fit=crop",
+            "publishedAt": "2020-07-21T16:01:58Z",
+            "content": "COVID survivors' main symptoms can linger for weeks or even months, causing pain, trouble breathing, nightmares and even organ failure.\r\nUSA TODAY\r\nTop vaccine makers predict a vaccine or vaccines ma\u2026 [+8746 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Devon Link, USA TODAY",
+            "title": "Fact Check: No, schools will not require a COVID-19 vaccine, with RFID chip, for students",
+            "description": "A viral meme claims schools will require students take a deadly COVID-19 vaccine before returning. That vaccine has not yet been approved.",
+            "url": "https://www.usatoday.com/story/news/factcheck/2020/07/10/fact-check-schools-do-not-require-covid-19-vaccine-students/5401423002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/703d4466c0364cef0cf6086bcdaeffc2de341b5f/c=0-36-2245-1299/local/-/media/2020/07/02/USATODAY/usatsports/covid-19-vaccine-bottles-with-2-toppled-over.jpg?width=1600&height=800&fit=crop",
+            "publishedAt": "2020-07-10T17:43:19Z",
+            "content": "Dr. Anthony Fauci, the U.S. government's leading infectious disease expert, says he is cautiously optimistic a vaccine \"with some degree\" of effectiveness will be successfully developed by the beginn\u2026 [+6834 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Wyatte Grantham-Philips, USA TODAY",
+            "title": "CDC adds runny nose, nausea to the growing list of COVID-19 symptoms",
+            "description": "Congestion, runny nose, nausea and diarrhea: the four latest symptoms added to the CDC's growing list of coronavirus signs. Symptoms may last months.",
+            "url": "https://www.usatoday.com/story/news/nation/2020/07/10/coronavirus-symptoms-diarrhea-nausea-congestion-runny-nose/5412946002/",
+            "urlToImage": "https://www.gannett-cdn.com/media/2020/03/23/USATODAY/usatsports/247WallSt.com-247WS-657953-imageforentry1-k8d.jpg?crop=1364,767,x1,y0&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-07-10T17:15:08Z",
+            "content": "COVID survivors' main symptoms can linger for weeks or even months, causing pain, trouble breathing, nightmares and even organ failure.\r\nUSA TODAY\r\nCongestion, runny nose, nausea and diarrhea are the\u2026 [+2816 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte, CNN",
+            "title": "Covid-19 symptoms: What we know now and what to do",
+            "description": "More than a half a year into the battle against the novel coronavirus, here's what we know now about the typical (and unusual) symptoms of Covid-19 \u2014 and the best ways to stay safe.",
+            "url": "https://www.cnn.com/2020/07/10/health/covid-19-symptoms-new-knowledge-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200320110619-coronavirus-animation-super-tease.jpg",
+            "publishedAt": "2020-07-10T10:05:06Z",
+            "content": "(CNN)It may feel like years, but the world has only been battling the deadly novel coronavirus for months. As scientists feverishly work around the clock to unravel the mysteries of this deadly invad\u2026 [+18190 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jacqueline Stenson",
+            "title": "How blood type may affect your coronavirus risk",
+            "description": "Does blood type affect coronavirus risk? Some studies suggest people with Type O blood less likely to develop severe COVID-19 symptoms than people with Type A.",
+            "url": "https://www.nbcnews.com/health/health-news/how-blood-type-may-affect-your-coronavirus-risk-n1233022",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_28/3394934/200706-blood-vial-jm-1445_f9377ae122f11dd5ecdaafc92909609a.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-07-07T09:00:08Z",
+            "content": "Recent studies have suggested that people's blood types may affect their risk of contracting the COVID-19 virus or developing a serious case of the disease. Overall, the findings indicate that people\u2026 [+5171 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Adrianna Rodriguez, USA TODAY",
+            "title": "240 experts urge WHO, CDC to acknowledge airborne transmission of COVID-19",
+            "description": "WHO and CDC don't acknowledge it, but if airborne transmission plays a big role in COVID-19 spread, the US may have to rethink its prevention methods.",
+            "url": "https://www.usatoday.com/story/news/health/2020/07/06/covid-19-coronavirus-spreads-airborne-transmission-experts-say/5383598002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/06/USAT/b1c2efe8-6af5-44c1-b301-98b0b2a115fe-AP_Virus_Outbreak_Testing_Inequality.jpg?crop=4961,2791,x0,y330&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-07-06T19:20:14Z",
+            "content": "As coronavirus cases in some states start to rise again, make sure to remember these safety tips.\r\nUSA TODAY\r\nMicrodroplets of infectious coronavirus could be airborne for hours and current social di\u2026 [+4710 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "Fergus Walsh",
+            "title": "Coronavirus: What does Covid-19 do to the brain?",
+            "description": "How can coronavirus affect the brain? The BBC\u2019s medical correspondent investigates.",
+            "url": "https://www.bbc.co.uk/news/health-53081022",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DA90/production/_113125955_6247092e-fd21-44a3-b65d-b4e97a833b7e.jpg",
+            "publishedAt": "2020-07-01T01:11:21Z",
+            "content": "Image caption\r\n Consultant neurologist Arvind Chandratheva points out brain damage on a scan\r\nStroke, delirium, anxiety, confusion, fatigue - the list goeson. If you think Covid-19 is just a respira\u2026 [+7241 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, USA TODAY",
+            "title": "Terrifying new symptom of COVID-19 emerges, says doctor",
+            "description": "If you thought COVID-19 symptoms couldn't get worse, doctors say a new symptom has emerged. Hallucinations.",
+            "url": "https://www.usatoday.com/videos/news/health/2020/07/08/hallucinations-new-covid-19-symptom-doctor-says/5402781002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/08/USAT/31de4858-f9ff-48f3-82ed-915448989dc2-VPC_COVID_HALLUCINATIONS_GETTY_WIDE.jpg?quality=10",
+            "publishedAt": "2020-07-08T23:14:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Hydroxychloroquine trial to restart",
+            "description": "The UK's regulator says testing of the controversial anti-malarial drug can be resumed.",
+            "url": "https://www.bbc.co.uk/news/health-53233070",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13A7C/production/_112480508_antimalariagettyimages-1214260471-1.jpg",
+            "publishedAt": "2020-06-30T11:24:30Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Trials will discover whether hydroxychloroquine can prevent coronavirus infection\r\nTrials of the controversial anti-malarial drug taken by US President Dona\u2026 [+2511 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China bubonic plague: WHO 'monitoring' case but says it is 'not high risk'",
+            "description": "It says the confirmed case of a herdsman in China's Inner Mongolia is being \"well managed\".",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-53325988",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/35C7/production/_113276731_c80d74d6-9961-47fc-8c09-fd858f6deaa6.jpg",
+            "publishedAt": "2020-07-07T15:21:04Z",
+            "content": "Image copyrightScience Photo LibraryImage caption\r\n The bubonic plague was once the world's most feared disease, but can now be easily treated\r\nThe World Health Organization (WHO) says it is \"careful\u2026 [+2598 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ariana Eunjung Cha",
+            "title": "What autopsies reveal about coronavirus",
+            "description": "What we\u2019ve learned from the dead that could help the living.",
+            "url": "https://www.washingtonpost.com/health/2020/07/01/coronavirus-autopsies-findings/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLYSH4FQ7II6VGFVE6NGI6NB4Q.jpg&w=1440",
+            "publishedAt": "2020-07-01T16:11:19Z",
+            "content": "In dengue, a mosquito-borne tropical disease, she learned, the virus appeared to destroy these cells, which produce platelets, leading to uncontrolled bleeding. The novel coronavirus seemed to amplif\u2026 [+11737 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Karen Weintraub, USA TODAY",
+            "title": "Remdesivir and COVID-19: New data suggests the experimental drug can shorten how long people are sick",
+            "description": "According to new results from Gilead, new data shows 74% of patients treated with remdesivir had recovered by their 14th day of hospitalization.",
+            "url": "https://www.usatoday.com/story/news/2020/07/10/remdesivir-and-coronavirus-more-good-news-antiviral-covid-drug/5414326002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/04/29/USAT/ee7fed98-bc6c-4186-a0c9-d9a9e9c4c957-AP_Virus_Outbreak_Treatment.JPG?crop=2999,1687,x0,y241&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-07-10T17:30:24Z",
+            "content": "Remdesivir is reportedly showing promise, but there's no guarantee the initial reports will lead to a commercially available treatment for COVID-19.\r\nUSA TODAY\r\nNew data on the experimental drug remd\u2026 [+4053 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Experts warn coronavirus may spread more easily than first thought",
+            "description": "CNN's Elizabeth Cohen discusses a new letter from 239 doctors talking about how coronavirus travels through the air and the importance of wearing masks.",
+            "url": "https://www.cnn.com/videos/health/2020/07/06/coronavirus-transmission-masks-nr-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200706095351-elizabeth-cohen-0706-super-tease.jpg",
+            "publishedAt": "2020-07-06T15:11:36Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "NBCNews.com",
+            "title": "Doc: COVID-19 damages lungs of patients showing no symptoms",
+            "description": "Infectious disease expert Dr. Aileen Marty explains how tests are showing that the coronavirus is damaging the lungs of patients showing no symptoms.",
+            "url": "https://www.msnbc.com/11th-hour/watch/doc-covid-19-damages-lungs-of-patients-showing-no-symptoms-87129669600",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202007/n_bwms_doc_200706_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-07-07T03:34:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Dr. Marc Siegel, Opinion columnist",
+            "title": "Can hydroxychloroquine help COVID patients early on? We need more science and less politics.",
+            "description": "When Trump championed the drug this spring, it became a third rail political issue. Though it showed promise for early stage COVID, research faded.",
+            "url": "https://www.usatoday.com/story/opinion/2020/07/09/trump-covid-politics-hobbled-research-hydroxychloroquine-column/5397728002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/08/USAT/eb81ad81-f3da-4d34-8efc-134660a21704-AFP_AFP_1TH8QF.jpg?crop=1023,575,x1,y55&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-07-09T08:00:04Z",
+            "content": "Social distancing matters. Here is how to do it and how it can help curb the COVID-19 pandemic.\r\nUSA TODAY\r\nWhen Trump championed the drug this spring, it became a third rail political issue. Though \u2026 [+4772 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The people who think coronavirus is caused by 5G",
+            "description": "The idea that 5G could have health implications isn't new. But conspiracy theories linking 5G with Covid-19 went viral during lockdown.",
+            "url": "https://www.bbc.co.uk/news/av/stories-53285610/the-people-who-think-coronavirus-is-caused-by-5g",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9D0B/production/_113230204_p08jsm82.jpg",
+            "publishedAt": "2020-07-03T23:59:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "How coronavirus moves through the air beyond coughing",
+            "description": "A University of Minnesota professor tells CNN's Anderson Cooper about the \"emerging evidence\" that the coronavirus can be spread through airborne transmission.",
+            "url": "https://www.cnn.com/videos/health/2020/07/09/coronavirus-airborne-who-osterholm-ac360-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200625193649-face-mask-requirements-coronavirus-guidance-inconsistency-todd-dnt-tsr-vpx-00011218-super-tease.jpg",
+            "publishedAt": "2020-07-09T02:02:06Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Fear over rise in animal-to-human diseases",
+            "description": "A report says a rise in animal-to-human diseases will continue without urgent action.",
+            "url": "https://www.bbc.co.uk/news/health-53314432",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1549B/production/_113259178_780bb11d-7f49-4364-a8d4-3a2b15aad201.jpg",
+            "publishedAt": "2020-07-06T19:48:22Z",
+            "content": "Image copyrightReutersImage caption\r\n Bats were probably the source of the current coronavirus pandemic, epidemiologists says\r\nZoonotic diseases - which jump from animals to humans - are increasing a\u2026 [+2702 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Naomi Thomas, CNN",
+            "title": "Quick testing is needed for coronavirus contact tracing to be most effective, research finds",
+            "description": "With coronavirus, quick testing and quick reporting of results are needed for contact tracing to be as effective as it can be, new research published Thursday in the journal Lancet Public Health finds.",
+            "url": "https://www.cnn.com/2020/07/16/health/quick-testing-contact-tracing-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200427144340-contact-tracing-super-tease.jpg",
+            "publishedAt": "2020-07-16T22:47:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christopher Carbone",
+            "title": "COVID-19 prompts \u2018hyper-activity\u2019 in blood clotting cells, research shows",
+            "description": "COVID-19 triggered changes in blood platelets could be a contributing factor to the onset of heart attaks and strokes in some patients with the disease, new research reveals.",
+            "url": "https://www.foxnews.com/science/covid-19-prompts-hyper-activity-in-blood-clotting-cells-research-shows",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20180645284758.jpg",
+            "publishedAt": "2020-06-30T21:02:56Z",
+            "content": "COVID-19 triggered changes in blood platelets could be a contributing factor to the onset of heart attacks and strokes in some patients with the disease, new research reveals.\r\nScientists from the Un\u2026 [+2100 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Spanish study casts doubt on herd immunity",
+            "description": "A Lancet study estimates that around just 5% of the Spanish population has developed antibodies.",
+            "url": "https://www.bbc.co.uk/news/world-europe-53315983",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/874C/production/_113263643_mediaitem113263642.jpg",
+            "publishedAt": "2020-07-07T00:17:09Z",
+            "content": "Image copyrightAFPImage caption\r\n The study estimates that around just 5% of the Spanish population has developed antibodies\r\nA Spanish study has cast doubt on the prospect of herd immunity as a way \u2026 [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan, CNN Business",
+            "title": "Face masks could actually save the economy, Goldman Sachs says",
+            "description": "Wearing a face mask during the pandemic saves lives. And it may also save the economy, too, according to Goldman Sachs.",
+            "url": "https://www.cnn.com/2020/06/30/business/face-masks-economic-recovery-goldman-sachs/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200630084620-mask-mandate-0629-super-tease.jpg",
+            "publishedAt": "2020-06-30T18:50:55Z",
+            "content": "There is no way we are having a V-shaped recovery. It's a fantasy.\"\r\nConstance Hunter, chief economist at KPMG"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Jim Sergent and Jennifer Borresen, USA TODAY",
+            "title": "Why social bubbles work to curb viruses and protect the population",
+            "description": "A recent study in Nature shows reducing your contacts could dramatically slow the spread of COVID-19.",
+            "url": "https://www.usatoday.com/in-depth/news/2020/07/02/social-bubbles-why-they-could-help-slow-covid-19-infections/5357953002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/01/USAT/6730fd1f-ac8c-45c3-90e2-b78bdd7cd0ab-topper.png?crop=1911,1075,x304,y0&width=1200",
+            "publishedAt": "2020-07-02T14:01:00Z",
+            "content": "Weve heard that COVID-19 social bubbles can help protect you and your family from infections. Now theres research to back that up.\r\nA study published during June in Nature suggests that we can still \u2026 [+4010 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus face masks: Why men are less likely to wear masks",
+            "description": "Covid-19 kills more men than women, so why are they shunning protective masks the most?",
+            "url": "https://www.bbc.co.uk/news/world-53446827",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40CD/production/_113298561_a6a17a72-013c-4d04-ae38-542e6f78ea44.jpg",
+            "publishedAt": "2020-07-18T23:38:25Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Women around the world are much more likely than men to wear a face mask, evidence shows\r\nAfter much squabbling, Monica* took a drastic decision.\r\nHer husba\u2026 [+8311 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Timeline: How the global coronavirus pandemic unfolded - Reuters",
+            "description": "Here are some key developments as the novel coronavirus spread around the world:",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-timeline-idUSKBN23Z0UW",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200628&t=2&i=1523915218&w=1200&r=LYNXMPEG5R0N7",
+            "publishedAt": "2020-06-28T22:07:00Z",
+            "content": "(Reuters) - Here are some key developments as the novel coronavirus spread around the world: \r\nDec. 31, 2019: China alerts the World Health Organization of 27 cases of \u201cviral pneumonia\u201d in the centra\u2026 [+12160 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Jayme Fraser, Matt Wynn, Dan Keemahill and Karen Weintraub, USA TODAY",
+            "title": "Younger people are a factor in surge of COVID-19 cases, analysis shows",
+            "description": "A USA TODAY analysis finds that while most cases prior to late May were people 45 and older, most new cases since then are among younger people.",
+            "url": "https://www.usatoday.com/story/news/2020/06/26/covid-19-surge-featured-rapid-growth-among-younger-people/3258221001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/06/25/USAT/56b34d6d-27d0-4f70-a216-86a0f14d0697-coconuts_memorial_day.jpeg?crop=2082,1171,x1495,y2109&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-06-26T13:13:14Z",
+            "content": "Before Memorial Day, the majority of coronavirus cases were found in people 45 and older.\u00a0\r\nNow, the opposite is true.\u00a0\r\nPeople under 45 made up 42% of cases before Memorial Day weekend but 55% of ca\u2026 [+10737 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maggie Fox, CNN",
+            "title": "How coronavirus affects the entire body",
+            "description": "Coronavirus damages not only the lungs, but the kidneys, liver, heart, brain and nervous system, skin and gastrointestinal tract, doctors said Friday in a review of reports about Covid-19 patients.",
+            "url": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200616020913-covid-19-patient-04242020-super-tease.jpg",
+            "publishedAt": "2020-07-11T01:40:35Z",
+            "content": "(CNN)Coronavirus damages not only the lungs, but the kidneys, liver, heart, brain and nervous system, skin and gastrointestinal tract, doctors said Friday in a review of reports about Covid-19 patien\u2026 [+3917 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Emily Chung,Christine Birak,Marcy Cuttler",
+            "title": "Asymptomatic COVID-19 findings dim hopes for 'herd immunity' and 'immunity passports'",
+            "description": "A closer look at people who tested positive for COVID-19 but never developed symptoms has found that such asymptomatic carriers have few to no detectable antibodies just weeks after infection, suggesting they may not develop lasting immunity.",
+            "url": "https://www.cbc.ca/news/health/asymptomatic-covid-19-1.5629172",
+            "urlToImage": "https://i.cbc.ca/1.5535927.1587138217!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/antibody-test.jpg",
+            "publishedAt": "2020-06-28T08:00:00Z",
+            "content": "A closer look at people who tested positive for COVID-19 but never developed symptoms has found that such asymptomatic carriers\u00a0have few to no detectable antibodies just weeks after infection, sugges\u2026 [+5669 chars]"
+        },
+
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Donnelle Eller, USA TODAY",
+            "title": "Fact check: Doctors studying whether COVID-19 could trigger diabetes",
+            "description": "The claim that COVID-19 may trigger diabetes is true. Scientists around the world have launched studies into the connection.",
+            "url": "https://www.usatoday.com/story/news/factcheck/2020/06/27/fact-check-doctors-study-whether-covid-19-triggers-diabetes/3267863001/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/b471382ab9643494702af0815163b2550cf9409a/c=0-6-2297-1298/local/-/media/2020/06/22/USATODAY/usatsports/MotleyFool-TMOT-8950f7b3-a-coronavirus-colony.jpg?width=1600&height=800&fit=crop",
+            "publishedAt": "2020-06-27T13:46:07Z",
+            "content": "Scientists are beginning a new study to tell if the blood plasma of COVID-19 survivors might help prevent infection in the first place. (June 12)\r\nAP Domestic\r\nThe claim: Doctors warn COVID-19 may tr\u2026 [+4288 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Audrey McNamara",
+            "title": "As COVID cases rise, these are the symptoms to look out for",
+            "description": "COVID-19 is known as a respiratory illness, but it can cause a wide range of other symptoms.",
+            "url": "https://www.cbsnews.com/news/coronavirus-symptoms-cases-rise-cdc-list-updates/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/06/15/bc0ba511-93f9-4b74-9f4d-728d49d21ae4/thumbnail/1200x630g4/1ed89644aef6c81a4343112754ff0459/gettyimages-1211271020.jpg",
+            "publishedAt": "2020-06-24T16:08:45Z",
+            "content": "As the number of coronavirus cases continues to rise in many parts of the country, health officials say it's important to know what symptoms to look out for. Though COVID-19 has been commonly known a\u2026 [+3896 chars]"
+        },
+        {
+            "source": {
+                "id": "healthline",
+                "name": "healthline.com"
+            },
+            "author": "Shawn Radcliffe",
+            "title": "Here’s Exactly Where We Are with Vaccines and Treatments for COVID-19",
+            "description": "Scientists around the world are working on potential treatments and vaccines for the new coronavirus disease known as COVID-19. Several companies are working on antiviral drugs, some of which are already in use against other illnesses, to treat people who already have COVID-19. Other companies are working on vaccines that could be used as a preventive measure against the disease. As of May 8, two medicationsTrusted Source had received emergency use authorization (EUA) from the Food and Drug Administration (FDA): the antiviral remdesivir and a drug used to sedate people on a ventilator. The FDA issued an EUA in March for the antimalaria drugs chloroquine and hydroxychloroquine, but later revoked itTrusted Source after studies showed that they’re unlikely to be effective in treating COVID-19.",
+            "url": "https://www.healthline.com/health-news/heres-exactly-where-were-at-with-vaccines-and-treatments-for-covid-19",
+            "urlToImage": "https://post.healthline.com/wp-content/uploads/2020/04/COVID_Scientist_732x549-thumbnail-732x549.jpg",
+            "publishedAt": "2020-06-24",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jen Christensen, CNN",
+            "title": "A coronavirus vaccine is months away, but an antibody treatment could be closer",
+            "description": "Vaccines have gotten all the attention in the race to fight Covid-19, but there is a major push in the United States to develop antibody therapies to treat coronavirus. There's so much of a push that some scientists think these treatments may be available thi\u2026",
+            "url": "https://www.cnn.com/2020/06/26/health/antibody-therapies-covid-19-update-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200605161508-03-regeneron-manufacturing-antibody-super-tease.jpg",
+            "publishedAt": "2020-06-26T21:22:33Z",
+            "content": "(CNN)Vaccines have gotten all the attention in the race to fight Covid-19, but there is a major push in the United States to develop antibody therapies to treat coronavirus. There's so much of a push\u2026 [+6810 chars]"
+        },
+        {
+            "source": {
+                "id": "guardian-news",
+                "name": "The Guardian"
+            },
+            "author": "Nicola Davis",
+            "title": "Antibody test accuracy lower during first 14 days of Covid-19 symptoms",
+            "description": "Timing is crucial when it comes to antibody tests, experts have said, after a review of studies found their accuracy is far lower if used within the first fortnight of coronavirus symptoms rather than a week or two later. When carried out in the first week of a patient having symptoms only about 30% of people with Covid-19 were picked up by tests for two main types of antibodies, rising to about 70% between eight to 14 days after the onset of symptoms. From two weeks after symptoms began the figure was about 90%. Only 1% to 2% of people without Covid-19 received a positive result from antibody tests.",
+            "url": "https://www.theguardian.com/world/2020/jun/25/antibody-test-accuracy-lower-during-first-14-days-of-covid-19-symptoms",
+            "urlToImage": "https://i.guim.co.uk/img/media/2d8cbb8f9816a1e6f2ed8ea318d2ffff5bd4d5fd/0_0_3500_2101/master/3500.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=1459e1a3251648c8340eef37c0498d62",
+            "publishedAt": "2020-06-25",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Karen Weintraub and Ramon Padilla, USA TODAY",
+            "title": "Vaccines are not all created equal: a variety of ways to stop the virus that causes COVID-19",
+            "description": "The technology behind different approaches to designing a vaccine against COVID-19.",
+            "url": "https://www.usatoday.com/in-depth/news/health/2020/06/21/different-technologies-developing-vaccine-against-covid-19/5318458002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/06/18/USAT/8bd1efa4-7704-4d63-a18a-927ae0dd9257-topper1-4.png?crop=2494,1403,x460,y181&width=1200",
+            "publishedAt": "2020-06-21T10:00:26Z",
+            "content": "Cells from African green monkeys. Killed viruses. Spike proteins. People turned into factories.\r\nIt takes a lot to teach the human body to fight off disease.\r\nMaking a vaccine against the coronavirus\u2026 [+10646 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: How Delhi 'wasted' lockdown to become India's biggest hotspot",
+            "description": "India's capital now has the country's highest number of confirmed coronavirus cases.",
+            "url": "https://www.bbc.co.uk/news/world-asia-india-53190500",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD4A/production/_113105665_whatsubject.jpg",
+            "publishedAt": "2020-06-28T03:22:20Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Delhi has ramped up testing in recent weeks\r\nWith more than 77,000 cases of Covid-19, Indias capital, Delhi has become the countrys biggest hotspot. The BBC\u2026 [+7239 chars]"
+        },
+        {
+            "source": {
+                "id": "global-news",
+                "name": "Global News"
+            },
+            "author": "Byram W. Bridle and Shayan Sharif, University of Guelph",
+            "title": "Think a COVID-19 vaccine is months away? It could actually take years",
+            "description": "It typically takes a minimum of 10 years for a vaccine to complete the three consecutive phases of the clinical research pipeline. This is because of the scope and length of the experiments, the need to critically assess the results at each stage and the mountains of paperwork that are involved. What are the chances that this can be reduced to 12 months? Indeed, it has been implied that this process can be accelerated to “warp speed.”",
+            "url": "https://globalnews.ca/news/7070536/covid-19-vaccine/",
+            "urlToImage": "https://shawglobalnews.files.wordpress.com/2020/06/nycd504-316_2020_173707.jpg?quality=85&strip=all",
+            "publishedAt": "2020-06-20",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Scottie Andrew, CNN",
+            "title": "Here's the right (and wrong) way to wear a mask",
+            "description": "Masks are effective only if they cover your mouth, nose and chin. And however tempting it may be to remove your mask for a moment, doing that could expose y our fingers and face to the very virus you're trying to avoid.",
+            "url": "https://www.cnn.com/2020/07/07/health/how-to-wear-mask-properly-wellness-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200706162026-how-to-wear-mask-card-super-tease.jpg",
+            "publishedAt": "2020-07-07T11:02:06Z",
+            "content": "By Scottie Andrew, CNN\r\nUpdated 7:02 AM ET, Tue July 7, 2020\r\nChat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.\r\n( CNN)So, about masks -- they do next to nothin\u2026 [+3187 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "",
+            "title": "How Covid-19 can damage the brain",
+            "description": "Some scientists suspect that Covid-19 causes respiratory failure and death not through damage to the lungs, but the brain – and other symptoms include headaches, strokes and seizures. Julie Helms and her colleagues published a small study in the New England Journal of Medicine documenting the neurological symptoms in their Covid-19 patients, ranging from cognitive difficulties to confusion.",
+             "url": "https://www.bbc.com/future/article/20200622-the-long-term-effects-of-covid-19-infection",
+            "urlToImage": "https://ychef.files.bbci.co.uk/1600x900/p08hprmk.jpg",
+            "publishedAt": "2020-06-22",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Shawn Radcliffe",
+            "title": "Can my fan or air conditioner spread coronavirus?",
+            "description": "The scientific consensus is the coronavirus is primarily spread through droplets when an infected person coughs or sneezes. So could turning on the AC or a fan blow these droplets at you?. Public Health Agency of Canada said there's 'no evidence that the SARS-CoV-2 virus gets into and is dispersed by heating, ventilation and air conditioning systems.' If someone who has the virus coughs or sneezes, and there's a fan in the room, the fan could potentially spread droplets further than they'd normally go.",
+            "url": "https://www.cbc.ca/news/health/fans-air-conditioning-covid-questions-answered-1.5604437",
+            "urlToImage": "https://i.cbc.ca/1.5218397.1565707083!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_780/michigan-daily-life.jpg",
+            "publishedAt": "2020-06-22",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: 5G and microchip conspiracies around the world",
+            "description": "We've been tracking the global spread of two of the most popular coronavirus conspiracy theories.",
+            "url": "https://www.bbc.co.uk/news/53191523",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17F49/production/_113112189_5gprotestspanish.jpg",
+            "publishedAt": "2020-06-26T23:25:40Z",
+            "content": "Image copyrightNurPhoto\r\nSome of the most persistent conspiracy theories surrounding the coronavirus pandemic have continued to spread around the world.\r\nWe've picked out some of the most pervasive f\u2026 [+5704 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Haley Ott",
+            "title": "Oxford COVID vaccine trial results called \"extremely encouraging\"",
+            "description": "AstraZeneca says the trial data \"increases our confidence that the vaccine will work and allows us to continue our plans to manufacture the vaccine at scale.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-vaccine-oxford-university-jenner-institute-trial-results-encouraging/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/04/28/3f17c4e2-4fd0-4972-93be-c4649d54faee/thumbnail/1200x630/d5eb07fbf444ac68cf7f78bb8ddfb492/cbsn-fusion-oxford-says-coronavirus-vaccine-could-be-ready-by-september-thumbnail-476805-640x360.jpg",
+            "publishedAt": "2020-07-21T10:48:44Z",
+            "content": "A senior British official has called the latest news on an Oxford University team's potential coronavirus vaccine \"extremely encouraging.\" The results of the Phase I/II trial of the vaccine being dev\u2026 [+4853 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Tucker Reals",
+            "title": "How COVID almost killed a healthy woman with \"no normal symptoms\"",
+            "description": "Research shows the coronavirus may attack the brain more often than we think, including in young patients who don't get typical symptoms.",
+            "url": "https://www.cbsnews.com/news/coronavirus-covid-symptoms-healthy-woman-almost-killed/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/22/fd91b2d6-4b79-431a-91a5-c7d2686eba2e/thumbnail/1200x630/08765ee0bb95609964d544fb99c46768/wrixon-hospital.jpg",
+            "publishedAt": "2020-07-24T10:43:39Z",
+            "content": "London\u00a0\u2014 Rebecca Wrixon knew that working as a nanny for a pair of doctors could leave her exposed to the coronavirus, but as a healthy 44-year-old with young children, she didn't worry much about ca\u2026 [+10592 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Most children 'experience only mild disease'",
+            "description": "A study of nearly 600 children across Europe reports only four deaths and mainly mild symptoms.",
+            "url": "https://www.bbc.co.uk/news/health-53181525",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7381/production/_113096592_gettyimages-1211028448.jpg",
+            "publishedAt": "2020-06-25T23:28:24Z",
+            "content": "Image copyrightGetty Images\r\nA study of European children with Covid-19 suggests deaths are extremely rare.\r\nOnly four of 582 children died, two of whom had underlying health conditions.\r\nSymptoms we\u2026 [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC NewsT"
+            },
+            "author": "Dr. Ayodola Adigun",
+            "title": "COVID-19 disease in children is usually mild, fatalities rare, UK study says",
+            "description": "Mounting evidence out of the United Kingdom provides more insight into how COVID-19 affects children, further confirming what researchers have been saying for months: Children are not as adversely affected by COVID-19 as adults. A newly published study in Lancet found that children, including infants, generally have mild symptoms of COVID-19, and even those who develop the disease severely enough to warrant intensive care unit admission are unlikely to die.",
+            "url": "https://abcnews.go.com/Health/covid-19-disease-children-mild-fatalities-rare-uk/story?id=71462424",
+            "urlToImage": "https://s.abcnews.com/images/Health/child-camp-covid-mo_hpMain_20200625-182826_16x9_992.jpg",
+            "publishedAt": "2020-06-25",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Dr. Gupta's tips for how to stay safe at the office",
+            "description": "As more people return to work, CNN's Dr. Sanjay Gupta demonstrates how to stay safe at the office during the ongoing coronavirus pandemic.",
+            "url": "https://www.cnn.com/videos/health/2020/06/19/back-to-work-demo-gupta-coronavirus-town-hall-sot-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200618212137-sanjay-gupta-back-to-work-demo-town-hall-june-18-super-tease.jpg",
+            "publishedAt": "2020-06-19T01:31:13Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: 'Deadly masks' claims debunked",
+            "description": "The BBC's anti-disinformation team has been investigating misleading claims about the health risks of face masks.",
+            "url": "https://www.bbc.co.uk/news/53108405",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23E3/production/_112978190_maskguy.jpg",
+            "publishedAt": "2020-06-19T23:21:52Z",
+            "content": "Image copyrightNurPhoto\r\nThis week, face masks became mandatory on public transport in England, and changes to the use of face coverings in hospitals were introduced.\r\nThe BBC's anti-disinformation t\u2026 [+6109 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maggie Fox, CNN",
+            "title": "Mutation makes coronavirus more infectious, study suggests",
+            "description": "Researchers in Florida say they believe they have shown that the new coronavirus has mutated in a way that makes it more easily infect human cells.",
+            "url": "https://www.cnn.com/2020/06/12/health/coronavirus-mutations-scripps-gene/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213162341-02-cdc-novel-coronavirus-illustration-labeled-super-tease.jpg",
+            "publishedAt": "2020-06-13T01:14:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christopher Carbone",
+            "title": "Babies with COVID-19 tend to have mild illness, study finds",
+            "description": "Infants under three months old who test positive for COVID-19 tend to do well, mostly showing only a fever and few respiratory symptoms, a new study reveals.",
+            "url": "https://www.foxnews.com/science/babies-with-covid-19-mild-illness-fever-study-finds",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/iStock-1132264405.jpg",
+            "publishedAt": "2020-06-19T21:17:24Z",
+            "content": "Infants under 3 months old who test positive for COVID-19 tend to do well, mostly showing only a fever and few respiratory symptoms, a new study reveals.\r\nThe study, which included 18 infants, showed\u2026 [+2766 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Frailty 'indicator' to survival",
+            "description": "Researchers say it is as important as age or other health issues in determining if someone may die.",
+            "url": "https://www.bbc.co.uk/news/uk-wales-53238535",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14DEE/production/_113168458_cvni.jpg",
+            "publishedAt": "2020-06-30T23:41:20Z",
+            "content": "Image caption\r\n Patients who were considered to be severely frail were 2.4 times more likely to die from coronavirus, the research found\r\nFrailty is as important as age or underlying health issues in\u2026 [+2386 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY, Joshua Bote, USA TODAY",
+            "title": "Dexamethasone is touted to help COVID-19 survival rates. Here's what we know.",
+            "description": "Common steroid dexamethasone presents \"a significant improvement in the available therapeutic options\" for COVID-19, Dr. Anthony Fauci said.",
+            "url": "https://www.usatoday.com/story/news/health/2020/06/16/dexamethasone-what-we-know-drug-may-help-covid-19-survival/3198841001/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/1017073c49512f56ae5d28380de31f5a43454a62/c=0-156-2048-1308/local/-/media/2020/06/08/USATODAY/usatsports/gettyimages-1200706447.jpg?width=2048&height=1152&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2020-06-16T21:36:47Z",
+            "content": "A team of researchers in England has discovered that an affordable, widely available steroid has shown promise in improving survival outcomes in COVID-19 patients.\r\nDexamethasone, a common steroid us\u2026 [+4082 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lenny Bernstein",
+            "title": "More covid-19 patients are surviving ventilators in the ICU - The Washington Post",
+            "description": "Experts say it\u2019s because clinicians have become more skilled and are deploying new tactics as they learn more about the course of covid-19.",
+            "url": "https://www.washingtonpost.com/health/more-covid-19-patients-are-surviving-ventilators-in-the-icu/2020/07/03/2e3c3534-bbca-11ea-8cf5-9c1b8d7f84c6_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBDLPPF5HII6VPNPUEU7SIICN4.jpg&w=1440",
+            "publishedAt": "2020-07-03T15:54:01Z",
+            "content": "But as the pandemic has continued, U.S. hospitals are reporting much lower mortality rates, results on par with death rates for patients with similar severe lung problems caused by other diseases.\r\nE\u2026 [+6130 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Marnie Hunter, CNN",
+            "title": "Is it safer to fly or drive during the pandemic?",
+            "description": "So you've decided you'll take a trip during the coronavirus pandemic. Now you have to get there. CNN Travel explores whether it's safer to fly or to drive.",
+            "url": "https://www.cnn.com/travel/article/is-it-safer-to-fly-or-drive-pandemic/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200604084340-american-airline-cabin-0520-super-tease.jpg",
+            "publishedAt": "2020-06-13T10:10:09Z",
+            "content": "Marnie Hunter, CNNPublished 13th June 2020\r\n(CNN) People are undoubtedly moving around more as vacation season heats up and patience for sheltering at home wears thin.\r\nMany travelers are sticking cl\u2026 [+5173 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Ciaccia",
+            "title": "Researchers urge 'widespread' wearing of face masks to slow coronavirus pandemic",
+            "description": "As concerns about an expansion of the first wave of the coronavirus pandemic crop up, a new study notes the \"universal adoption\" of face masks could help bring down the number of infections and prevent additional waves.",
+            "url": "https://www.foxnews.com/science/researchers-urge-widespread-wearing-face-masks-slow-coronavirus-pandemic",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Facemask-iStock-2.jpg",
+            "publishedAt": "2020-06-11T13:08:24Z",
+            "content": "As concerns about an expansion of the first wave of the coronavirus pandemic crop up, a new study notes that the \"universal adoption\" of face masks could help bring down the number of infections and \u2026 [+3406 chars]"
+        },
+
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Reviewed.com, Amanda Tarlton, Reviewed.com",
+            "title": "Traveling this summer? These 12 things will keep you safe and comfortable",
+            "description": "These are the 12 things you need if you're traveling during the coronavirus pandemic (COVID-19) this summer, including a Phonesoap sanitizer and face masks.",
+            "url": "https://www.usatoday.com/story/tech/reviewedcom/2020/06/17/summer-travel-and-covid-19-12-products-keep-you-safe-and-comfortable/3204564001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/06/17/USAT/2b286e38-0fdd-429a-8a49-535669f5fc47-Travel.png?crop=1593,897,x3,y0&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-06-17T16:57:36Z",
+            "content": "12 things you need for safe travel during the coronavirus pandemic\r\n\u00a0(Photo: Getty Images)\r\nRecommendations are independently chosen by Revieweds editors. Purchases you make through our links may ear\u2026 [+9381 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Contact-tracing rumours debunked",
+            "description": "We've been fact-checking misleading posts on social media about technology used to fight coronavirus.",
+            "url": "https://www.bbc.co.uk/news/53021722",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B4A7/production/_112874264_gettyimages-1225212293.jpg",
+            "publishedAt": "2020-06-12T23:33:40Z",
+            "content": "Image copyrightGetty Images\r\nThere have been false rumours circulating on social media about contact-tracing apps that are being introduced by governments to stop the spread of coronavirus. \r\nWe've b\u2026 [+5054 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Joel Achenbach",
+            "title": "Children are only half as likely to get infected by the coronavirus, research shows - The Washington Post",
+            "description": "Children are only half as likely to get infected by the coronavirus, research shows\u00a0\u00a0The Washington Post",
+            "url": "https://www.washingtonpost.com/health/children-are-only-half-as-likely-to-get-infected-by-the-coronavirus-research-shows/2020/06/16/be86aff4-afb6-11ea-856d-5054296735e5_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7NYOAFPYYI6VBLNKBKCSZZV4U.jpg&w=1440",
+            "publishedAt": "2020-06-16T12:10:34Z",
+            "content": "These results have implications for the likely effectiveness of school closures in mitigating SARS-CoV-2 transmission, in that these might be less effective than for other respiratory infections, wri\u2026 [+2510 chars]"
+        },
+
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andrea Kane, CNN",
+            "title": "Is there really such a thing as a 'super spreader'?",
+            "description": "It has been apparent since the start of the Covid-19 pandemic that certain people are responsible for spreading more than their share of infections.",
+            "url": "https://www.cnn.com/2020/06/12/health/super-spreading-coronavirus-explainer/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200526213341-choir-super-tease.jpg",
+            "publishedAt": "2020-06-12T11:22:03Z",
+            "content": null
+        }
+    ]
+}

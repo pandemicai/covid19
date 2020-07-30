@@ -1,0 +1,391 @@
+{
+	"day": [
+		"2/15", "2/16", "2/17", "2/18", "2/19", "2/20", "2/21", "2/22", "2/23", "2/24", "2/25", "2/26", "2/27", "2/28", "2/29",
+		"3/1", "3/2", "3/3", "3/4", "3/5", "3/6", "3/7", "3/8", "3/9", "3/10", "3/11", "3/12", "3/13", "3/14", "3/15",
+		"3/16", "3/17", "3/18", "3/19", "3/20", "3/21", "3/22", "3/23", "3/24", "3/25", "3/26", "3/27", "3/28", "3/29", "3/30", "3/31",
+		"4/1", "4/2", "4/3", "4/4", "4/5", "4/6", "4/7", "4/8", "4/9", "4/10", "4/11", "4/12", "4/13", "4/14", "4/15", "4/16",
+		"4/17", "4/18", "4/19", "4/20", "4/21", "4/22", "4/23", "4/24", "4/25", "4/26", "4/27", "4/28", "4/29", "4/30",
+		"5/1", "5/2", "5/3", "5/4", "5/5", "5/6", "5/7", "5/8", "5/9", "5/10", "5/11", "5/12", "5/13", "5/14", "5/15",
+		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22", "5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
+		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
+		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6", "7/7", "7/8", "7/9", "7/10", "7/11", "7/12", "7/13", "7/14", "7/15",
+		"7/16", "7/17", "7/18", "7/19", "7/20",  "7/21",  "7/22", "7/23", "7/24", "7/25", "7/26", "7/27", "7/28", "7/29"
+	],
+	"confirmed_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,3,9,9,16,24,34,54,65,93,108,145,196,231,277,378,470,491,539,608,702,798,906,1065,1161,1267,1406,1485,1579,1780,2054,2223,2473,2709,2776,2852,2979,3105,3233,3439,3621,3792,3977,4149,4356,4561,4881,5142,5379,5597,5949,6207,6507,7006,7285,7668,7973,8613,8959,9456,10051,10495,11063,11613,12272,12930,13610,14216,14939,15574,16295,16935,17687,18330,19131,20177,21175,21981,23003,24104,25366,26688,28236,29383,30493,31833,33354,35120,36635,38027,39236,40719,42078,43682,45212,46858,48746,50939,53063,54931,57046,60217,63276,65633,68652,71183,73572,77113,80599,84442,88591,91769,95043,97846,102009,106110,109505,113389,117110,120281,124494,128638,133973,140776,145362,150445,154227,159898,165169,173206,182140,190700,197278,204005,211038,218428,226373,233541,240795,248976,257101,267385,276055
+	],
+	"new_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,0,7,8,10,20,11,28,15,37,51,35,46,101,92,21,48,69,94,96,108,159,96,106,139,79,94,201,274,169,250,236,67,76,127,126,128,206,182,171,185,172,207,205,320,261,237,218,352,258,300,499,279,383,305,640,346,497,595,444,568,550,659,658,680,606,723,635,721,640,752,643,801,1046,998,806,1022,1101,1262,1322,1548,1147,1110,1340,1521,1766,1515,1392,1209,1483,1359,1604,1530,1646,1888,2193,2124,1868,2115,3171,3059,2357,3019,2531,2389,3541,3486,3843,4149,3178,3274,2803,4163,4101,3395,3884,3721,3171,4213,4144,5335,6803,4586,5083,3832,5621,5271,8037,8934,8560,6578,6727,7033,7390,7945,7168,7254,8181,8125,10284,8670
+	],
+	"active_cases_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,3,9,9,16,24,34,53,64,92,107,144,195,226,271,369,458,477,523,592,682,769,859,1009,1087,1187,1289,1362,1445,1630,1876,1980,2196,2395,2397,2421,2498,2522,2539,2652,2764,2902,2984,3149,3280,3419,3653,3842,4002,4134,4412,4518,4775,5141,5295,5606,5808,6222,6414,6749,7199,7481,7895,8309,8808,9288,9727,10210,10790,11249,11800,12272,12801,13247,13874,14754,15432,15966,16716,17190,17879,18922,20225,19901,19863,19682,20021,21112,21852,22440,22655,22984,24172,24916,25934,26598,27728,29450,31385,32764,33856,35587,37243,38008,39055,39905,40709,42951,44596,46694,49379,50383,51866,52439,55132,57938,60394,62884,65165,65701,68274,70477,72987,77051,79057,81687,83013,85467,87619,91013,95215,98348,98749,101272,105032,109442,110734,111702,112859,115414,117163,121621,123824
+	],
+	"deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,4,6,6,6,10,14,16,17,19,25,32,35,46,50,55,69,80,100,109,112,127,131,144,153,166,179,189,196,206,215,225,233,244,253,269,278,293,314,324,340,358,378,397,407,428,445,463,479,493,509,525,546,562,574,592,613,630,652,682,705,727,750,776,803,822,853,890,939,969,1009,1045,1087,1145,1205,1259,1308,1372,1433,1488,1545,1592,1667,1726,1801,1864,1950,2045,2126,2237,2310,2404,2491,2654,2811,2939,3106,3223,3334,3470,3641,3777,3942,4064,4210,4359,4527,4714,4925,5119,5307,5455,5625,5814,6029,6288,6516,6736,6929,7166,7373,7688,7975,8269,8525,8777,9074,9454
+	],
+	"new_deaths_by_day": [
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,4,4,2,1,2,6,7,3,11,4,5,14,11,20,9,3,15,4,13,9,13,13,10,7,10,9,10,8,11,9,16,9,15,21,10,16,18,20,19,10,21,17,18,16,14,16,16,21,16,12,18,21,17,22,30,23,22,23,26,27,19,31,37,49,30,40,36,42,58,60,54,49,64,61,55,57,47,75,59,75,63,86,95,81,111,73,94,87,163,157,128,167,117,111,136,171,136,165,122,146,149,168,187,211,194,188,148,170,189,215,259,228,220,193,237,207,315,287,294,256,252,297,380
+	],
+	"new_recoveries_by_day": [
+	],
+	"youtube_playlist": [
+		{
+			"vid": "w7-vI8PhluA",
+			"title": "Coronavirus en Colombia: ¿cómo avanza la reactivación económica en el país? - El Espectador",
+			"source": "El Espectador"
+		},
+		{
+				"vid": "-g-dtXhPQh4",
+				"title": "COVID-19 en Colombia: &quot;Hay más de 400 municipios sin contagios&quot;, según MinSalud",
+				"source": "El Espectador"
+		},
+		{
+				"vid": "78832eKm8yw",
+				"title": "Jair Bolsonaro, positivo para coronavirus",
+				"source": "El Espectador"
+		},
+		{
+				"vid": "EkSG-oQdV2o",
+				"title": "Coronavirus en Colombia: Gobierno anuncia la compra de 1.509 ventiladores nuevos | El Espectador",
+				"source": "El Espectador"
+		},
+		{
+				"vid": "HwmU2W0Jp2o",
+				"title": "Coronavirus en Colombia: 72,9% de las muertes por la pandemia son personas mayores de 60 años",
+				"source": "El Espectador"
+		},
+		{
+				"vid": "rvnlxToedf8",
+				"title": "Iván Duque: &quot;Municipios con baja afectación de COVID-19 podrán abrir restaurantes y gimnasios&quot;",
+				"source": "El Espectador"
+		},
+		{
+				"vid": "YyDFQduyBXE",
+				"title": "¿Cómo será la implementación de ivermectina en tratamientos de pacientes con COVID-19 en Cali?",
+				"source": "Noticias Caracol"
+		},
+		{
+				"vid": "pON8AfDTIR4",
+				"title": "Cali empezará a usar ivermectina para tratar pacientes con coronavirus COVID-19",
+				"source": "Noticias Caracol"
+		},
+		{
+				"vid": "1VXnF055DEw",
+				"title": "El semáforo de riesgo del COVID-19 que le servirá para saber dónde es más fácil contagiarse",
+				"source": "Noticias Caracol"
+		},
+		{
+				"vid": "OU_b6h7vbP0",
+				"title": "Aislamiento por COVID-19 en Colombia se extiende hasta el primero de agosto, anuncia Duque",
+				"source": "Noticias Caracol"
+		},
+		{
+				"vid": "r73Hl1klmns",
+				"title": "Los peligros del tapabocas y otras noticias falsas sobre el coronavirus COVID-19 – Noticias Caracol",
+				"source": "Noticias Caracol"
+		},
+		{
+				"vid": "VT0rIvOXjfo",
+				"title": "¿Bogotá podría entrar en alerta roja por el coronavirus?",
+				"source": "Noticias Caracol"
+		},
+		{
+				"vid": "4RS0r7aKOOo",
+				"title": "Casos de coronavirus en Colombia julio 9: más de 133.000 contagios oficiales | Semana Noticias",
+				"source": "Revista Semana"
+		},
+		{
+				"vid": "Gj4D7AKeZF0",
+				"title": "Carlos Calero habla tras dar positivo para coronavirus | Semana Noticias",
+				"source": "Revista Semana"
+		}
+	],
+	"map_data": [
+	    {
+			"id": "CO-VID",
+			"name": "Vichada",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-VAU",
+			"name": "Vaup\u00e9s",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-VAC",
+			"name": "Valle del Cauca",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-TOL",
+			"name": "Tolima",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-SUC",
+			"name": "Sucre",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-SAP",
+			"name": "San Andr\u00e9s, Providencia y Santa Catalina",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-SAN",
+			"name": "Santander",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-RIS",
+			"name": "Risaralda",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-QUI",
+			"name": "Quindio",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-PUT",
+			"name": "Putumayo",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-NSA",
+			"name": "Norde de Santander",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-NAR",
+			"name": "Nari\u00f1o",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-MET",
+			"name": "Meta",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-MAG",
+			"name": "Magdalena",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-LAG",
+			"name": "La Guajira",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-HUI",
+			"name": "Huila",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-GUV",
+			"name": "Guaviare",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-GUA",
+			"name": "Guainia",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-DC",
+			"name": "Distrito Capital de Bogot\u00e1",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-CUN",
+			"name": "Cundinamarca",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-COR",
+			"name": "C\u00f3rdoba",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-CHO",
+			"name": "Choc\u00f3",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-CES",
+			"name": "Cesar",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-CAU",
+			"name": "Cauca",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-CAS",
+			"name": "Casanare",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-CAQ",
+			"name": "Caquet\u00e1",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-CAL",
+			"name": "Caldas",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-BOY",
+			"name": "Boyac\u00e1",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-BOL",
+			"name": "Bol\u00edvar",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-ATL",
+			"name": "Atl\u00e1ntico",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-ARA",
+			"name": "Arauca",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-ANT",
+			"name": "Antioquia",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		},
+		{
+			"id": "CO-AMA",
+			"name": "Amazonas",
+			"value": 0,
+			"death": 0,
+			"recovered": 0
+		}
+	],
+	"menu": [
+		{
+			"url": "index.html",
+			"section": "Go Back to Home Page"
+		},
+		{
+			"url": "#colombia-covid19-summary",
+			"section": "Colombia Covid-19 Summary"
+		},
+		{
+			"url": "#colombia-covid-19-map",
+			"section": "Colombia Covid-19 Map"
+		},
+		{
+			"url": "#colombia-charts",
+			"section": "Colombia COVID-19 Charts"
+		},
+		{
+			"url": "#epidemiological-charts",
+			"section": "Colombia Epidemiological Charts"
+		},
+		{
+			"url": "#colombia-testing-charts",
+			"section": "Colombia COVID-19 Testing"
+		},
+		{
+			"url": "#youtube-playlist",
+			"section": "Youtube Playlist"
+		},
+		{
+			"url": "index.html#summary-reports",
+			"section": "Global Summary Report"
+		},
+		{
+			"url": "index.html#outbreak-map",
+			"section": "Global Interactive Map"
+		},
+		{
+			"url": "index.html#live-update",
+			"section": "Global Live Updates"
+		},
+		{
+			"url": "index.html#outbreak-charts",
+			"section": "Global Outbreak Charts"
+		},
+		{
+			"url": "index.html#must-read",
+			"section": "Must Read"
+		},
+		{
+			"url": "index.html#youtube-playlist",
+			"section": "Global Youtube Playlist"
+		}
+	]
+}

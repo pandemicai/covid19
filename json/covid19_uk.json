@@ -21,45 +21,149 @@
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22", "5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
 		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
-		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6", "7/7", "7/8", "7/9", "7/10", "7/11", "7/12", "7/13", "7/14", "7/15",
+		"7/16", "7/17", "7/18", "7/19", "7/20", "7/21", "7/22", "7/23", "7/24", "7/25", "7/26", "7/27", "7/28", "7/29"
 	],
 	"confirmed_cases_by_day": [
-		9,9,9,9,9,9,9,9,13,13,13,13,16,20,23,35,38,49,82,108,151,192,254,293,349,419,536,724,1033,1260,1397,1765,2376,2957,3602,4537,5138,6012,7301,8613,10536,13142,15442,17640,20006,22724,26630,30464,34484,37858,43190,46624,49907,54867,58791,66628,71355,76132,80054,84798,88956,93127,98185,103176,108461,112685,116570,120591,124731,129596,134034,138066,141958,145568,149250,154699,160301,164642,168562,172162,176142,181662,186733,190933,194452,197996,201498,204572,207501,210614,213830,216947,220139,222588,224767,226135,228497,231466,234139,236312,237780,239590,241408,243113,245005,246454,248203,249621,251114,252804,254435,255926,257332,258530,259619,261192,262098,263242,264634,265921,267289,268163,269318,270325,271425,272641,273811,274914,275779,276611,277200,278210,279457,280261,281075,281810,282432,283181,283757,284276,284900,285416,285768
+		9,9,9,9,9,9,9,9,13,13,13,13,16,20,23,35,38,49,82,108,151,192,254,293,349,419,536,724,1033,1260,1397,1765,2376,2957,3602,4537,5138,6012,7301,8613,10536,13142,15442,17640,20006,22724,26630,30464,34484,37858,43190,46624,49907,54867,58791,66628,71355,76132,80054,84798,88956,93127,98185,103176,108461,112685,116570,120591,124731,129596,134034,138066,141958,145568,149250,154699,160301,164642,168562,172162,176142,181662,186733,190933,194452,197996,201498,204572,207501,210614,213830,216947,220139,222588,224767,226135,228497,231466,234139,236312,237780,239590,241408,243113,245005,246454,248203,249621,251114,252804,254435,255926,257332,258530,259619,261192,262098,263242,264634,265921,267289,268163,269318,270325,271425,272641,273811,274914,275779,276611,277200,278210,279457,280261,281075,281810,282432,283181,283757,284276,284900,285416,285768,286349,286979,287621,288133,288953,289603,290133,291373,291911,292552,293239,294066,294792,295372,295817,296377,297146,297914,298681,299426,300111,300692,301455
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,4,0,0,0,3,4,3,12,3,11,33,26,43,41,62,39,56,70,117,188,309,227,137,368,611,581,645,935,601,874,1289,1312,1923,2606,2300,2198,2366,2718,3906,3834,4020,3374,5332,3434,3283,4960,3924,7837,4727,4777,3922,4744,4158,4171,5058,4991,5285,4224,3885,4021,4140,4865,4438,4032,3892,3610,3682,5449,5602,4341,3920,3600,3980,5520,5071,4200,3519,3544,3502,3074,2929,3113,3216,3117,3192,2449,2179,1368,2362,2969,2673,2173,1468,1810,1818,1705,1892,1449,1749,1418,1493,1690,1631,1491,1406,1198,1089,1573,906,1144,1392,1287,1368,874,1155,1007,1100,1216,1170,1103,865,832,589,1010,1247,804,814,735,622,749,576,519,624,516,352
+		0,0,0,0,0,0,0,0,4,0,0,0,3,4,3,12,3,11,33,26,43,41,62,39,56,70,117,188,309,227,137,368,611,581,645,935,601,874,1289,1312,1923,2606,2300,2198,2366,2718,3906,3834,4020,3374,5332,3434,3283,4960,3924,7837,4727,4777,3922,4744,4158,4171,5058,4991,5285,4224,3885,4021,4140,4865,4438,4032,3892,3610,3682,5449,5602,4341,3920,3600,3980,5520,5071,4200,3519,3544,3502,3074,2929,3113,3216,3117,3192,2449,2179,1368,2362,2969,2673,2173,1468,1810,1818,1705,1892,1449,1749,1418,1493,1690,1631,1491,1406,1198,1089,1573,906,1144,1392,1287,1368,874,1155,1007,1100,1216,1170,1103,865,832,589,1010,1247,804,814,735,622,749,576,519,624,516,352,581,630,642,512,820,650,530,398,538,641,687,827,726,580,445,560,769,768,767,745,685,581,763
 	],
 	"active_cases_by_day": [
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7,7,9,10,28,43,65,81,115,158,194,250,285,359,508,694,877,1161,1455,1669,2043,2425,3095,3747,4461,5221,5865,6433,7471,8505,9608,10760,11599,12285,13029,14073,14915,15944,16879,17994,18492,19051,20223,21060,21787,22792,23635,24055,24393,25302,26097,26771,27510,28131,28446,28734,29427,30076,30615,31241,31587,31855,32065,32692,33186,33614,33998,34466,34636,34796,35341,35704,36042,36393,36675,37116,37237,37373,37807,38220,38593,38819,38934,39045,39369,39728,39904,40261,40465,40542,40597,40883,41128,41279,41481,41662,41698,41736,41969,42153,42288,42461,42589,42632,42647,42927,43081,43230,43414,43514,43550,43575,43730,43906,43995,44131,44198,44220,44236
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,7,7,9,10,28,43,65,81,115,158,194,250,285,359,508,694,877,1161,1455,1669,2043,2425,3095,3747,4461,5221,5865,6433,7471,8505,9608,10760,11599,12285,13029,14073,14915,15944,16879,17994,18492,19051,20223,21060,21787,22792,23635,24055,24393,25302,26097,26771,27510,28131,28446,28734,29427,30076,30615,31241,31587,31855,32065,32692,33186,33614,33998,34466,34636,34796,35341,35704,36042,36393,36675,37116,37237,37373,37807,38220,38593,38819,38934,39045,39369,39728,39904,40261,40465,40542,40597,40883,41128,41279,41481,41662,41698,41736,41969,42153,42288,42461,42589,42632,42647,42927,43081,43230,43414,43514,43550,43575,43730,43906,43995,44131,44198,44220,44236,44391,44517,44602,44650,44798,44819,44830,44968,45053,45119,45233,45273,45300,45312,45422,45501,45554,45677,45738,45752,45759,45878,45961
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,0,2,1,18,15,22,16,34,43,36,56,35,74,149,186,183,284,294,214,374,382,670,652,714,760,644,568,1038,1034,1103,1152,839,686,744,1044,842,1029,935,1115,498,559,1172,837,727,1005,843,420,338,909,795,674,739,621,315,288,693,649,539,626,346,268,210,627,494,428,384,468,170,160,545,363,338,351,282,441,121,136,434,413,373,226,115,111,324,359,176,357,204,77,55,286,245,151,202,181,36,38,233,184,135,173,128,43,15,280,154,149,184,100,36,25,155,176,89,136,67,22,16
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,0,2,1,18,15,22,16,34,43,36,56,35,74,149,186,183,284,294,214,374,382,670,652,714,760,644,568,1038,1034,1103,1152,839,686,744,1044,842,1029,935,1115,498,559,1172,837,727,1005,843,420,338,909,795,674,739,621,315,288,693,649,539,626,346,268,210,627,494,428,384,468,170,160,545,363,338,351,282,441,121,136,434,413,373,226,115,111,324,359,176,357,204,77,55,286,245,151,202,181,36,38,233,184,135,173,128,43,15,280,154,149,184,100,36,25,155,176,89,136,67,22,16,155,126,85,48,148,21,11,138,85,66,114,40,27,12,110,79,53,123,61,14,7,119,83
 	],
 	"youtube_playlist": [
-		{"vid": "4CJQYD5qCNk", "title": "Coronavirus press conference (4 May 2020)", "source": "10 Downing Street"},
-		{"vid": "mc5nU5WVMDk", "title": "UK to test contact tracing app on Isle of Wight ", "source": "BBC"},
-		{"vid": "F52hQhI_qI0", "title": "Boris Johnson releases video reiterating five steps to easing the coronavirus lockdown in the UK", "source": "The Telegraph"},
-		{"vid": "LW63FqvGIkk", "title": "What will Britain’s workplaces look like post-lockdown?", "source": "Evening Standard"},
-		{"vid": "ScIT_a2jF44", "title": "Boris Johnson says he almost died from coronavirus", "source": "ABC News"},
-		{"vid": "ZzfhpTNuugI", "title": "What will the UK's new 'norm' look like when the lockdown eases?", "source": "The Telegraph"},
-		{"vid": "nhHJun775xs", "title": "Boris Johnson addresses world leaders at the Coronavirus Global Response conference", "source": "The Telegraph"},
-		{"vid": "-nygLfErZzs", "title": "UK coronavirus hospital admissions 'past peak' -", "source": "BBC"},
-		{"vid": "-VeCzV5FMAk", "title": "Migrants intercepted at UK border", "source": "Sky News"},
-		{"vid": "GQRPrjjkhKo", "title": "Plans to ease lockdown are studied by ministers", "source": "BBC News"},
-		{"vid": "UMGgqt2hJnc", "title": "We will not open schools until it is safe - Hancock", "source": "BBC"},
-		{"vid": "eVOjpwuMZwA", "title": "Inside One U.K. Hospital’s Fight Against The Coronavirus", "source": "NBC News"},
-		{"vid": "fywQgmn6wJI", "title": "How are different UK regions coping with coronavirus?", "source": "Sky News"},
-		{"vid": "R8o2oJdPlNI", "title": "Coronavirus testing target of 100,000 hit by UK government", "source": "The Telegraph"},
-		{"vid": "zjsr8snRCp4", "title": "UK hospitals warned BAME staff may be at greater risk of coronavirus", "source": "Channel 4 News"},
-		{"vid": "TT780R1-1_k", "title": "How are we really coping in the UK?", "source": "BBC Newsnight"},
-		{"vid": "jsRtZ_g44gU", "title": "How close are we to passing the ‘five tests' to ease UK COVID-19 lockdown?", "source": "The Sun"},
-		{"vid": "4PGOp6WkkG4", "title": "Reopening of schools, PMQs and government's COVID-19 lockdown exit strategy", "source": "The Sun"},
-		{"vid": "iXxKdu2rTac", "title": "UK could be ‘worst affected’ country in Europe", "source": "5 News"},
-		{"vid": "aujX82XrN48", "title": "How London School of Economics Sees the Post-Virus Economy", "source": "Bloomberg Markets and Finance"},
-		{"vid": "7C4RWEJIHGk", "title": "BA warns of 12,000 job losses and years of weaker demand", "source": "BBC"},
-		{"vid": "dB4ccC09UWc", "title": "a third of deaths taking place in care homes", "source": "BBC"}
+		{
+			"vid": "H5UlTdyQTng",
+			"title": "Coronavirus vaccine: UK signs deals for 90 million doses - Covid-19: Top stories this morning - BBC",
+			"source": "BBC"
+		},
+		{
+				"vid": "yMF1xMV6Gk4",
+				"title": "UK to launch anti-obesity campaign to tackle COVID-19",
+				"source": "Al Jazeera English"
+		},
+		{
+				"vid": "4m0E4m4yUgo",
+				"title": "Coronavirus UK: A timeline of lockdown measures being lifted in England",
+				"source": "Evening Standard"
+		},
+		{
+				"vid": "-UO6qcqpNMo",
+				"title": "Warning that coronavirus track and trace isn’t working well, as new outbreaks emerge - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "v3eb204ATYw",
+				"title": "Protesters march on Hyde Park refusing to wear face coverings ahead of new coronavirus shop rules",
+				"source": "The Sun"
+		},
+		{
+				"vid": "hdg22l4F_Gw",
+				"title": "Why the UK blamed Apple for its failed COVID-19 tracing app",
+				"source": "Sky News"
+		},
+		{
+				"vid": "A6DjHfPtnSI",
+				"title": "Dominic Raab blasts Russia for &#39;reprehensible&#39; Covid-19 vaccine cyber hacks",
+				"source": "The Sun"
+		},
+		{
+				"vid": "evWH3BAACOs",
+				"title": "Coronavirus lockdown: timeline of measures being lifted in England",
+				"source": "The Independent"
+		},
+		{
+				"vid": "hI6qTbXBHWk",
+				"title": "Oxford Uni vaccine triggers COVID-19 immune response",
+				"source": "Sky News"
+		},
+		{
+				"vid": "HiLdEaSOJN4",
+				"title": "Oxford&#39;s scientists explain the Phase I/II results for the COVID-19 vaccine",
+				"source": "University of Oxford"
+		},
+		{
+			"vid": "xTwxgoapYZ0",
+			"title": "&#39;Work from home&#39;: UK chief scientific adviser warns of coronavirus risks",
+			"source": "Guardian News"
+		},
+		{
+				"vid": "yhGPFF-VbDk",
+				"title": "Boris Johnson plan for &#39;significant normality&#39; by Christmas",
+				"source": "BBC"
+		},
+		{
+				"vid": "aYbYFUGE2B4",
+				"title": "Coronavirus UK: science advisers Patrick Vallance and Chris Whitty testify to committee",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "aun7s2B0U8w",
+				"title": "UK payrolls shrink by 649,000 jobs in lockdown - Covid-19: Top stories this morning - BBC",
+				"source": "BBC"
+		},
+		{
+				"vid": "2ENULw3BaJU",
+				"title": "MPs quiz Vallance on report of UK second COVID-19 winter wave that could prove worse than last",
+				"source": "The Sun"
+		},
+		{
+				"vid": "cRU9-PtQl2o",
+				"title": "Coronavirus UK: Boris Johnson unveils £3bn plan to get NHS &#39;battle ready&#39; for winter",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "DZYaX_0cYl4",
+				"title": "120,000 UK deaths in second Covid wave: scientists warn of worst-case scenario - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "IS2386-PSD0",
+				"title": "Russia targeted Covid-19 researchers and interfered in 2019 UK election, says Raab",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "KQmWcPOkags",
+				"title": "Coronavirus UK: Blackburn facing threat of localised lockdown amid rising coronavirus cases",
+				"source": "Evening Standard"
+		},
+		{
+				"vid": "r1LxeeRuCTk",
+				"title": "Coronavirus: Boris Johnson defends UK&#39;s test and trace system in fiery debate in House of Commons",
+				"source": "Global News"
+		},
+		{
+				"vid": "5-BW0TZrq_U",
+				"title": "Coronavirus: Matt Hancock makes statement on outbreak in UK",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "diZ-GA_Oz4I",
+				"title": "Russian hackers target COVID-19 vaccine research in Canada, U.S. and U.K.: intelligence agency",
+				"source": "Global News"
+		},
+		{
+				"vid": "i4gZ6LC46r0",
+				"title": "Boris Johnson promises inquiry to investigate how the UK has handled coronavirus",
+				"source": "Channel 4 News"
+		},
+		{
+				"vid": "zUwiCtVmpYc",
+				"title": "Priti Patel unable to say how many people are entering UK with coronavirus",
+				"source": "The Independent"
+		},
+		{
+				"vid": "OdHWf8z15w8",
+				"title": "Blackburn facing &#39;rising tide&#39; of coronavirus cases as extra restrictions are imposed",
+				"source": "The Telegraph"
+		}
 	],
 	"map_data": [
 		{
@@ -176,148 +280,187 @@
 		}
 	],
 	"headline_news": [
-		{
+        {
             "source": {
                 "id": null,
                 "name": "Mirror Online"
             },
-            "author": "Adam Aspinall",
-            "title": "British town has an even higher coronavirus infection rate than Leicester - Mirror Online",
-            "description": "The former steel town of Merthyr Tydfil in the Welsh valleys has a weekly infection rate of 179 - far higher than the 141 in the Midlands Covid hotspot, figures from Public Health Wales show",
-            "url": "https://www.mirror.co.uk/news/uk-news/british-town-even-higher-coronavirus-22299325",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22269623.ece/ALTERNATES/s1200/0_Coronavirus-Lockdown-Eases-In-Wales.jpg",
-            "publishedAt": "2020-07-03T22:01:03Z",
-            "content": "One British town has an even higher coronavirus infection rate than Leicester.\r\nThe former steel town of Merthyr Tydfil in the Welsh valleys has a weekly infection rate of 179 compared to 141 in the \u2026 [+1657 chars]"
+            "author": "Ryan Merrifield",
+            "title": "Wearing face masks may help you beat coronavirus in second, less well-known way - Mirror Online",
+            "description": "Infectious disease experts from the University of California claim masks expose people to milder forms of coronavirus, allowing for better chance of immunity",
+            "url": "https://www.mirror.co.uk/news/uk-news/wearing-face-masks-help-you-22388249",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22388212.ece/ALTERNATES/s1200/0_masks-main.jpg",
+            "publishedAt": "2020-07-21T04:13:00Z",
+            "content": "Wearing a face mask could help beat coronavirus by exposing people to milder forms of the killer bug and so leading to community-level immunity, a new study claims.\r\nFace masks have been widely heral\u2026 [+2549 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Somerset Live"
+                "name": "Daily Record"
             },
-            "author": "Jack Colwill",
-            "title": "South West infection R rate rises above national average as lockdown eases - Somerset Live",
-            "description": "The region's rate was the lowest in the country two weeks ago",
-            "url": "https://www.somersetlive.co.uk/news/health/south-west-infection-r-rate-4292088",
-            "urlToImage": "https://i2-prod.somersetlive.co.uk/incoming/article4292112.ece/ALTERNATES/s1200/0_Coronavirus-Test-Centre.jpg",
-            "publishedAt": "2020-07-03T21:37:05Z",
-            "content": "The South West's regional 'R' rate range has climbed back above the national average, according to the latest official figures.\r\nThe latest government data on the rate, which was published today (Jul\u2026 [+1624 chars]"
+            "author": "Mark McGivern",
+            "title": "Labour MSP alerted police to Covid-hit call centre in April after terrified staff\u2019s complaints - Daily Record",
+            "description": "Monica Lennon warned cops about the Sitel site in Lanarkshire after workers contacted her over their safety concerns.",
+            "url": "https://www.dailyrecord.co.uk/news/scottish-news/labour-msp-alerted-cops-covid-22387645",
+            "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article22387662.ece/ALTERNATES/s1200/0_Coronavirus-Covid-19-Covd-19.jpg",
+            "publishedAt": "2020-07-21T03:30:00Z",
+            "content": "Police were asked to investigate the firm at the centre of the test and trace Covid-19 outbreak after workers feared they were being put at risk.\r\nA Labour MSP referred the call centre to Police Scot\u2026 [+5595 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Telegraph.co.uk"
+                "name": "BBC News"
             },
-            "author": "By\nBill Gardner",
-            "title": "NHS cleaners and porters were coronavirus 'super-spreaders' in hospitals, data reveals - Telegraph.co.uk",
-            "description": "Domiciliary workers in some hospitals found to have 'sky-high' levels of antibodies compared to intensive care doctors",
-            "url": "https://www.telegraph.co.uk/news/2020/07/03/nhs-cleaners-porters-coronavirus-super-spreaders-hospitals-data/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/06/29/TELEMMGLPICT000128478694_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7MUKrV3CVaer8GmnSDU9KzI.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2020-07-03T20:30:00Z",
-            "content": "According to one Whitehall source, however, frustration is growing among ministers over delays in collecting crucial data from individual NHS trusts in order to build up a national picture.\r\n\"Given t\u2026 [+1539 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Concerns over workplace outbreaks in Republic - BBC News",
+            "description": "Ireland's acting chief medical officer says there has been virus outbreaks in a range of work settings.",
+            "url": "https://www.bbc.com/news/world-europe-53480159",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12219/production/_113556247_ronanglynn.png",
+            "publishedAt": "2020-07-21T01:36:42Z",
+            "content": "Image caption\r\n Dr Ronan Glynn said clusters can develop very quickly\r\nThe Republic of Ireland's acting chief medical officer has expressed concern at the number of outbreaks of Covid-19 in workplace\u2026 [+1820 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Daily Mail"
             },
-            "author": "Nicola Davis",
-            "title": "Is coronavirus really in retreat in the UK? - The Guardian",
-            "description": "Key questions about Covid-19 answered as lockdowns ease across the four nations",
-            "url": "https://www.theguardian.com/world/2020/jul/03/is-coronavirus-really-in-retreat-in-the-uk",
-            "urlToImage": "https://i.guim.co.uk/img/media/3c304f8c315f968bed44caac0462661e7db59e13/640_753_5936_3562/master/5936.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=160edcc2397e9d51c7c864d934e00036",
-            "publishedAt": "2020-07-03T19:32:40Z",
+            "author": "By Mary Kekatos Senior Health Reporter For Dailymail.com",
+            "title": "Red rash-like splotches in the MOUTH may be a new symptom of coronavirus, study suggests - Daily Mail",
+            "description": "In a new study from Madrid, Spain, researchers found that one-third of 21 coronavirus patients with skin rashes had\u00a0enanthem, which are rash-like lesions that usually form in the mouth.",
+            "url": "https://www.dailymail.co.uk/health/article-8542579/Red-rash-like-splotches-MOUTH-new-symptom-coronavirus-study-suggests.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2020/07/20/23/30992560-0-image-a-56_1595283466169.jpg",
+            "publishedAt": "2020-07-20T22:24:29Z",
+            "content": "Mouth lesions and spots on the palate may be a new symptom of the novel coronavirus, a new study suggests.\r\nResearchers found that one-third of COVID-19 patients with skin rashes on their arms and le\u2026 [+2817 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "Pippa Crerar",
+            "title": "Coronavirus vaccine could be ready by Christmas after drug trial breakthrough - Mirror Online",
+            "description": "Researchers at Oxford University claim a vaccine they are developing is safe and sparks an immune reaction, and that NHS and care workers could be given the jab before Christmas",
+            "url": "https://www.mirror.co.uk/news/politics/hopes-coronavirus-vaccine-six-months-22387792",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22385604.ece/ALTERNATES/s1200/0_Oxford-University-scientists-suggest-they-found-working-Covid-19-vaccine-Johannesburg-South-Africa.jpg",
+            "publishedAt": "2020-07-20T21:45:00Z",
+            "content": "Hopes were growing a Covid-19 vaccine could be ready by Christmas after promising trial results.\r\nExperts at Oxford found a jab they are developing sparks an immune reaction.\r\nResearcher Professor Ad\u2026 [+5381 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.comsociety"
+            },
+            "author": "Sarah Boseley",
+            "title": "Coronavirus may cause 3,500 deaths in England from four main cancers - The Guardian",
+            "description": "Study shows diagnosis delays most likely to affect young or middle-aged in next five years",
+            "url": "https://amp.theguardian.comsociety/2020/jul/20/coronavirus-may-cause-3500-deaths-in-england-from-four-main-cancers",
+            "urlToImage": "https://i.guim.co.uk/img/media/25eb00a556fd1877f396fc7fe0e4b9ec869e8102/0_225_2496_1498/master/2496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8f2a6592fdefba50797a8fb7fbdfed4",
+            "publishedAt": "2020-07-20T21:30:00Z",
+            "content": "About 3,500 people in England may die within the next five years of one of the four main cancers breast, lung, oesophageal or bowel as a result of delays in being diagnosed because of Covid-19, resea\u2026 [+2781 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "By Mary Kekatos Senior Health Reporter For Dailymail.com",
+            "title": "More than 90% of coronavirus patients DO develop antibodies to the virus, study finds - Daily Mail",
+            "description": "A new study from Mount Sinai in New York found that at least 92% of recovered patients had moderate to high levels of antibodies that attach to the spike protein the virus uses to infect cells.",
+            "url": "https://www.dailymail.co.uk/health/article-8542197/More-90-coronavirus-patients-develop-antibodies-virus-study-finds.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2020/07/20/21/30990720-0-image-a-46_1595277114965.jpg",
+            "publishedAt": "2020-07-20T20:36:14Z",
+            "content": "The 'vast majority' of recovered coronavirus patients develop antibodies for several months,\u00a0a new study suggests.\u00a0\r\nResearchers found that more than 90 percent of people previously infected with COV\u2026 [+3006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "Lucy Thornton",
+            "title": "Hero NHS doctor may have just months to live - unless he gets a transplant - Mirror Online",
+            "description": "EXCLUSIVE: Dad and coronavirus hero Dr Abbas Al-Qafaji has battled for the NHS on the pandemic frontlines and now needs help himself as his wife pleads for a liver transplant donor",
+            "url": "https://www.mirror.co.uk/news/uk-news/wifes-plea-help-cancer-stricken-22387020",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22385011.ece/ALTERNATES/s1200/1_AE-doctor-Abbas-Al-Qafaji-transplant.jpg",
+            "publishedAt": "2020-07-20T20:31:00Z",
+            "content": "The wife of a cancer-stricken NHS doctor is making a desperate plea for a living donor to help save his life.\r\nDr Abbas Al-Qafaji has been heroically helping to save lives on the frontline throughout\u2026 [+3553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Tom Parmenter",
+            "title": "England's top 10 COVID hotspots as Blackburn overtakes Leicester - Sky News",
+            "description": "The Lancashire borough of Blackburn with Darwen has a rate of 79.2 COVID-19 cases per 100,000 in the seven days to 17 July.",
+            "url": "https://news.sky.com/story/englands-top-10-covid-hotspots-as-blackburn-overtakes-leicester-12032643",
+            "urlToImage": "https://e3.365dm.com/20/07/1600x900/skynews-mobile-testing-centre_5044908.jpg?20200720164100",
+            "publishedAt": "2020-07-20T19:58:09Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Daily Echo"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Maria Zaccaro",
-            "title": "Sharp increase in declared Hampshire coronavirus case figures - Daily Echo",
-            "description": "MORE than 6,000 coronavirus cases have been recorded in Hampshire since the start of the pandemic, according to new figures published for the first\u2026",
-            "url": "https://www.dailyecho.co.uk/news/18560894.sharp-increase-declared-hampshire-coronavirus-case-figures/",
-            "urlToImage": "https://www.dailyecho.co.uk/resources/images/11140480/",
-            "publishedAt": "2020-07-03T19:31:00Z",
-            "content": "MORE than 6,000 coronavirus cases have been recorded in Hampshire since the start of the pandemic, according to new figures published for the first time.\r\nThe total number of positive Covid-19 cases \u2026 [+2663 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "St Helens Star"
-            },
-            "author": "Kenny Lomas",
-            "title": "Massive jump in coronavirus cases in St Helens following 'hidden' data release - St Helens Star",
-            "description": "HUNDREDS of coronavirus infections that were not previously made public have now been added to the total for St Helens in Public Health England\u2019s\u2026",
-            "url": "https://www.sthelensstar.co.uk/news/18560862.massive-jump-coronavirus-cases-st-helens/",
-            "urlToImage": "https://www.sthelensstar.co.uk/resources/images/11472422/",
-            "publishedAt": "2020-07-03T19:00:00Z",
-            "content": "HUNDREDS of coronavirus infections that were not previously made public have now been added to the total for St Helens in Public Health England\u2019s (PHE) official coronavirus data.\r\nUp until Tuesday, t\u2026 [+2115 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": "By\nBen Riley-Smith,",
-            "title": "New mutation of coronavirus spreads disease more easily, warns Fauci - Telegraph.co.uk",
-            "description": "Mutation yet to be confirmed but appears to be more 'transmissable'",
-            "url": "https://www.telegraph.co.uk/news/2020/07/03/dr-fauci-warns-coronavirus-mutation-spreads-easily-may-have/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2020/05/12/TELEMMGLPICT000230953901_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2020-07-03T18:52:00Z",
-            "content": "Some exceptions were listed included for children who are under 10 years old or people who are exercising, eating or drinking outdoors.\r\nGreg Abbott, the Republican governor of Texas, said that if th\u2026 [+785 chars]"
+            "author": "Louise Hall",
+            "title": "Coronavirus: 13-year-old dies while self-isolating with Covid symptoms after virus test came back negative, family says - The Independent",
+            "description": "\u2018He wasn\u2019t answering. We found him passed out in the room\u2019",
+            "url": "https://www.independent.co.uk/news/world/americas/coronavirus-symptoms-death-california-teenager-self-isolating-covid-a9629161.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/20/18/pri158471479.jpg",
+            "publishedAt": "2020-07-20T19:44:04Z",
+            "content": "The Independent employs reporters around the world to bring you truly independent journalism. To support us, please consider a\u00a0contribution.\r\nA 13-year-old boy in California has died while self-isola\u2026 [+2421 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Lizzie Dearden",
-            "title": "Lockdown England: Gatherings of 30 people allowed but Matt Hancock given power to close any outdoor space - The Independent",
-            "description": "Relaxed restrictions do not apply to Leicester, which is subject to separate new laws",
-            "url": "https://www.independent.co.uk/news/uk/home-news/lockdown-new-laws-20-people-gathering-leicester-a9600716.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/03/13/pubs-reopen.jpg",
-            "publishedAt": "2020-07-03T17:51:31Z",
-            "content": "Gatherings of up to 30 people will be allowed anywhere in England apart from Leicester under new lockdown laws coming into force on Saturday.\r\nLarger meetings will be permitted if venues, such as pub\u2026 [+5780 chars]"
+            "author": "Samuel Lovett",
+            "title": "Coronavirus vaccine: Oxford trial is \u2018safe\u2019 and produces immune reaction, first study results show - The Independent",
+            "description": "Vaccine candidate\u00a0causes few side effects and trains\u00a0immune system to produce antibodies and white blood cells capable of fighting\u00a0virus",
+            "url": "https://www.independent.co.uk/news/health/coronavirus-vaccine-oxford-university-study-trial-result-covid-19-safe-a9628491.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/20/15/vaccine.jpg",
+            "publishedAt": "2020-07-20T19:19:00Z",
+            "content": "The coronavirus vaccine candidate being developed by AstraZeneca and Oxford University induces a strong immune response and appears to be safe, according to preliminary trial results.\r\nThe early stag\u2026 [+7654 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Zorba Delicacies staff tested after four positive cases - BBC News",
+            "description": "Public health chiefs say \"widespread, rapid testing\" of workers will begin on Tuesday as a precaution.",
+            "url": "https://www.bbc.co.uk/news/uk-wales-53478554",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1508F/production/_109195168_mediaitem109191520.jpg",
+            "publishedAt": "2020-07-20T18:51:55Z",
+            "content": "Image caption\r\n The company employs about 490 people\r\nWorkers at a food processing plant are to be tested for coronavirus after four people associated with the factory tested positive for Covid-19.\r\n\u2026 [+845 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Derbyshire Live"
+                "name": "Mirror Online"
             },
-            "author": "Eddie Bisknell",
-            "title": "More than 80 patients discharged to care homes without being tested for Covid-19 - Derbyshire Live",
-            "description": "82 were placed in a care home without a test",
-            "url": "https://www.derbytelegraph.co.uk/news/local-news/more-80-patients-discharged-care-4286925",
-            "urlToImage": "https://i2-prod.derbytelegraph.co.uk/incoming/article3862903.ece/ALTERNATES/s1200/0_DM_TEM_180220GV-5880GVJPG.jpg",
-            "publishedAt": "2020-07-03T17:11:00Z",
-            "content": "More than 80 Chesterfield Royal Hospital patients were discharged to local care homes without being tested for Covid-19 before wholesale checks were government policy.\r\nThe figures have been revealed\u2026 [+4854 chars]"
+            "author": "Joe Pagnelli",
+            "title": "Mosque forced to close as Imam tests positive for Covid-19 after 250-person funeral - Mirror Online",
+            "description": "Muslim leaders have urged those who attended the Jamia Ghosia mosque on July 13 in Blackburn, Lancs, to self isolate or undergo Covid-19 tests",
+            "url": "https://www.mirror.co.uk/news/uk-news/mosque-forced-close-imam-tests-22386784",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22386801.ece/ALTERNATES/s1200/0_SWNS_MOSQUE_RIOT_02.jpg",
+            "publishedAt": "2020-07-20T18:12:00Z",
+            "content": "A mosque has been forced to close after an Imam tested positive for coronavirus following a funeral with 250 mourners. \r\nJamia Ghosia mosque in Blackburn, Lancashire, has been shut to worshippers whi\u2026 [+5596 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Www.gov.uk"
+                "name": "The Sun"
             },
-            "author": "Prime Minister's Office, 10 Downing Street",
-            "title": "Prime Minister's statement on coronavirus (COVID-19): 3 July 2020 - GOV.UK",
-            "description": "Prime Minister Boris Johnson's statement on coronavirus.",
-            "url": "https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-3-july-2020",
-            "urlToImage": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/person/image/2792/10_Downing_Street.jpg",
-            "publishedAt": "2020-07-03T16:49:05Z",
-            "content": "Good evening,\r\nSince I last spoke to you from this podium, we have continued to make progress nationally against the virus.\r\nWe are now reporting regularly fewer than 1,000 new cases each day.\r\nThe O\u2026 [+8971 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Peter Stubley",
-            "title": "UK coronavirus death toll rises by 137 to 44,131 as England set to ease lockdown further - The Independent",
-            "description": "A further 544 people test\u00a0positive for Covid-19 in 24 hours",
-            "url": "https://www.independent.co.uk/news/uk/home-news/uk-coronavirus-death-toll-new-cases-lockdown-eased-pubs-reopen-england-a9600496.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/03/17/england-pubs.jpg",
-            "publishedAt": "2020-07-03T16:20:41Z",
-            "content": "The UKs coronavirus death toll has risen by 137 to 44,131, according to the latest government update.\r\nData from the Department of Health and Social Care shows the daily figure has fallen significant\u2026 [+1581 chars]"
+            "author": "Alice Fuller",
+            "title": "Cholesterol drug could reduce coronavirus symptoms to level of common cold, study claims - The Sun",
+            "description": "",
+            "url": "http://www.thesun.co.uk/news/12176602/cholesterol-drug-reduce-coronavirus-symptoms-common-cold/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2020/07/VP-COMP-COVD-MEDS.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2020-07-20T18:12:00Z",
+            "content": "A DRUG used to lower cholesterol could reduce coronavirus symptoms to the level of a common cold, a study claims.\u00a0\r\nDoctors found fenofibrate, which has been on the market for decades, significantly \u2026 [+2016 chars]"
         }
     ],
 	"menu": [

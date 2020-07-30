@@ -21,34 +21,118 @@
 		"5/16", "5/17", "5/18", "5/19", "5/20", "5/21", "5/22" ,"5/23", "5/24", "5/25", "5/26", "5/27", "5/28", "5/29", "5/30", "5/31",
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
 		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
-		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6"
+		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6", "7/7", "7/8", "7/9", "7/10", "7/11", "7/12", "7/13", "7/14", "7/15",
+		"7/16", "7/17", "7/18", "7/19", "7/20", "7/21", "7/22", "7/23", "7/24", "7/25", "7/26", "7/27", "7/28", "7/29"
 	],
 	"confirmed_cases_by_day": [
-		3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,7,29,30,31,34,40,47,62,62,74,82,100,114,129,143,169,194,249,332,396,499,536,657,727,887,987,1024,1251,1397,1998,2543,3059,3588,4289,4778,5351,5916,6725,7600,8446,9205,10453,11487,12370,13430,14352,16365,17615,18539,20080,21370,23039,24447,26283,27890,29451,31324,33062,34863,37257,39699,42505,46437,49400,52987,56351,59695,62808,67161,70768,74292,78055,81997,85784,90648,95698,100328,106475,112028,118226,124794,131423,138536,144950,150793,158086,165386,173491,181827,190609,198370,207191,216824,226713,236184,246622,257486,265928,276146,287155,298283,309603,321626,333008,343026,354161,367264,381091,395812,411727,426910,440450,456115,472985,491170,509446,529577,549197,567536,585792,605220,627168,649889,673904,697836,720346
+		3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6,7,29,30,31,34,40,47,62,62,74,82,100,114,129,143,169,194,249,332,396,499,536,657,727,887,987,1024,1251,1397,1998,2543,3059,3588,4289,4778,5351,5916,6725,7600,8446,9205,10453,11487,12370,13430,14352,16365,17615,18539,20080,21370,23039,24447,26283,27890,29451,31324,33062,34863,37257,39699,42505,46437,49400,52987,56351,59695,62808,67161,70768,74292,78055,81997,85784,90648,95698,100328,106475,112028,118226,124794,131423,138536,144950,150793,158086,165386,173491,181827,190609,198370,207191,216824,226713,236184,246622,257486,265928,276146,287155,298283,309603,321626,333008,343026,354161,367264,381091,395812,411727,426910,440450,456115,472985,491170,509446,529577,549197,567536,585792,605220,627168,649889,673904,697836,720346,743481,769052,794842,822603,850358,879466,907645,937487,970169,1005637,1040457,1077864,1118107,1154917,1194085,1239684,1288130,1337022,1385494,1436019,1482503,1532135,1584384
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,22,1,1,3,6,7,15,0,12,8,18,14,15,14,26,25,55,83,64,103,37,121,70,160,100,37,227,146,601,545,516,529,701,489,573,565,809,875,846,759,1248,1034,883,1060,922,2013,1250,924,1541,1290,1669,1408,1836,1607,1561,1873,1738,1801,2394,2442,2806,3932,2963,3587,3364,3344,3113,4353,3607,3524,3763,3942,3787,4864,5050,4630,6147,5553,6198,6568,6629,7113,6414,5843,7293,7300,8105,8336,8782,7761,8821,9633,9889,9471,10438,10864,8442,10218,12375,11128.11320,12023,11382,10243,11135,13103,13827,14721,15915,15183,13540,15665,16870,18185,18276,20131,19620,18339,18256,19428,21948,22721,24015,23932,22510
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,22,1,1,3,6,7,15,0,12,8,18,14,15,14,26,25,55,83,64,103,37,121,70,160,100,37,227,146,601,545,516,529,701,489,573,565,809,875,846,759,1248,1034,883,1060,922,2013,1250,924,1541,1290,1669,1408,1836,1607,1561,1873,1738,1801,2394,2442,2806,3932,2963,3587,3364,3344,3113,4353,3607,3524,3763,3942,3787,4864,5050,4630,6147,5553,6198,6568,6629,7113,6414,5843,7293,7300,8105,8336,8782,7761,8821,9633,9889,9471,10438,10864,8442,10218,12375,11128.11320,12023,11382,10243,11135,13103,13827,14721,15915,15183,13540,15665,16870,18185,18276,20131,19620,18339,18256,19428,21948,22721,24015,23932,22510,23135,25571,25790,27761,27755,29108,28179,29842,32682,35468,34820,37407,40243,36810,39168,45599,48446,48892,48472,50525,46484,49632,52249
 	],
 	"active_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,26,27,28,31,37,43,58,58,69,70,88,99,114,126,152,170,221,304,365,455,486,602,662,794,879,902,1117,1239,1792,2280,2781,3260,3843,4267,4723,5232,5863,6577,7189,7794,8914,9735,10440,11214,11825,13381,14202,14674,15460,16319,17306,18171,19519,20486,21375,22569,23546,24641,26027,27557,29339,32024,33565,35871,37686,39823,41406,43980,45925,47457,49104,51379,52773,53553,55878,57939,60864,63172,66089,69244,73170,76820,80072,82172,85803,89755,85884,89706,93349,97008,101077,106665,111900,116302,120981,126431,129360,133726,138069,142810,146482,150101,153799,152791,154688,160564,163305,168636,170269,175955,178298,183058,186390,190191,197840,203328,210936,215361,220546,227476,229041,236901,245563,253245,260022
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,26,27,28,31,37,43,58,58,69,70,88,99,114,126,152,170,221,304,365,455,486,602,662,794,879,902,1117,1239,1792,2280,2781,3260,3843,4267,4723,5232,5863,6577,7189,7794,8914,9735,10440,11214,11825,13381,14202,14674,15460,16319,17306,18171,19519,20486,21375,22569,23546,24641,26027,27557,29339,32024,33565,35871,37686,39823,41406,43980,45925,47457,49104,51379,52773,53553,55878,57939,60864,63172,66089,69244,73170,76820,80072,82172,85803,89755,85884,89706,93349,97008,101077,106665,111900,116302,120981,126431,129360,133726,138069,142810,146482,150101,153799,152791,154688,160564,163305,168636,170269,175955,178298,183058,186390,190191,197840,203328,210936,215361,220546,227476,229041,236901,245563,253245,260022,265770,271354,277259,284253,291440,301850,311806,320092,331505,343426,360094,373406,390205,402116,412922,425528,439892,455509,467163,484472,495866,509141,527770
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,3,3,4,5,5,7,10,10,12,20,20,24,27,32,35,58,72,86,99,118,136,160,178,227,249,288,331,358,393,422,448,486,521,559,592,645,681,721,780,825,881,939,1008,1079,1154,1223,1323,1391,1566,1693,1785,1889,1985,2101,2212,2294,2415,2551,2649,2753,2871,3025,3156,3302,3434,3584,3726,3868,4024,4172,4344,4534,4711,4980,5185,5408,5608,5829,6088,6363,6649,6946,7207,7473,7750,8107,8501,8890,9199,9520,9915,11921,12262,12604,12970,13277,13703,14015,14483,14907,15308,15689,16103,16487,16904,17410,17848,18225,18669,19279,19700,20174
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,3,3,4,5,5,7,10,10,12,20,20,24,27,32,35,58,72,86,99,118,136,160,178,227,249,288,331,358,393,422,448,486,521,559,592,645,681,721,780,825,881,939,1008,1079,1154,1223,1323,1391,1566,1693,1785,1889,1985,2101,2212,2294,2415,2551,2649,2753,2871,3025,3156,3302,3434,3584,3726,3868,4024,4172,4344,4534,4711,4980,5185,5408,5608,5829,6088,6363,6649,6946,7207,7473,7750,8107,8501,8890,9199,9520,9915,11921,12262,12604,12970,13277,13703,14015,14483,14907,15308,15689,16103,16487,16904,17410,17848,18225,18669,19279,19700,20174,20653,21144,21623,22144,22687,23187,23727,24315,24929,25609,26285,26828,27503,28099,28770,29890,30645,31406,32096,32812,33448,34224,35003
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,2,3,0,2,8,0,4,3,5,3,23,14,14,13,19,18,24,18,49,22,39,43,27,35,29,26,38,35,38,33,53,36,40,59,45,56,58,69,71,75,69,100,68,175,127,92,104,96,116,111,82,121,136,98,104,118,154,131,146,132,150,142,142,156,148,172,190,177,269,205,223,200,221,259,275,286,297,261,266,277,388,394,389,309,321,395,2006,341,342,366,307,426,312,468,424,401,381,414,384,417,506,438,377,444,610,421,474
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,2,3,0,2,8,0,4,3,5,3,23,14,14,13,19,18,24,18,49,22,39,43,27,35,29,26,38,35,38,33,53,36,40,59,45,56,58,69,71,75,69,100,68,175,127,92,104,96,116,111,82,121,136,98,104,118,154,131,146,132,150,142,142,156,148,172,190,177,269,205,223,200,221,259,275,286,297,261,266,277,388,394,389,309,321,395,2006,341,342,366,307,426,312,468,424,401,381,414,384,417,506,438,377,444,610,421,474,479,491,479,521,543,500,540,588,614,680,676,543,675,596,671,1120,755,761,690,716,636,776,779
 	],
 	"new_recoveries_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,3,0,1,0,6,3,0,1,10,6,3,2,28,11,11,7,21,25,43,1,37,99,47,93,38,129,139,195,111,101,178,149,260,273,422,391,419,702,395,642,484,443,584,614,610,690,631,939,812,956,1072,1295,1189,1445,1111,1414,1668,1580,1871,1980,1569,2289,3966,2571,2438,3076,3113,3131,3271,2561,3307,3014,3571,3472,3171,11707,4309,4916,3902,4531,3786,4379,4783,5462,5153,5247,5575,6814,5993,7259,8095,7363,10631,7232,6886,10744,9024,13975,9071,10885,10437,13114,13983,10246,14229,11628,13497,12565,12060,20006,14417,14743,15829,15259
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,3,0,1,0,6,3,0,1,10,6,3,2,28,11,11,7,21,25,43,1,37,99,47,93,38,129,139,195,111,101,178,149,260,273,422,391,419,702,395,642,484,443,584,614,610,690,631,939,812,956,1072,1295,1189,1445,1111,1414,1668,1580,1871,1980,1569,2289,3966,2571,2438,3076,3113,3131,3271,2561,3307,3014,3571,3472,3171,11707,4309,4916,3902,4531,3786,4379,4783,5462,5153,5247,5575,6814,5993,7259,8095,7363,10631,7232,6886,10744,9024,13975,9071,10885,10437,13114,13983,10246,14229,11628,13497,12565,12060,20006,14417,14743,15829,15259,16908,19496,19406,20246,20025,18198,17683,20968,20655,22867,17476,23552,22769,24303,27691,31873,33327,32514,36128,32500,34454,35581,32841
 	],
 	"youtube_playlist": [
-		{"vid": "uNd7KwFpW8A", "title": "Coronavirus and lockdown hit India's poor especially hard ", "source": "DW News"},
-		{"vid": "arU5SnUY1-4", "title": "Coronavirus Lockdown: India Now Needs Mitigation, Not Suppression ", "source": "The Quint"},
-		{"vid": "XHVh60NkA8U", "title": "Coronavirus vaccine update in India | How coronavirus vaccine works?", "source": "Shomu's Biology"},
-		{"vid": "xSKhvoklpeI", "title": "India Coronavirus: 933 Cases and 20 Deaths - Mar 28", "source": "Sakshi TV"},
-		{"vid": "OWprLUyRJRg", "title": "Coronavirus fear : 149 new cases in last 24 hrs, India count at 873", "source": "TV9"},
-		{"vid": "ADnYMvaeq_c", "title": " Indian police use the 'coronahelmet' to raise awareness during lockdown", "source": ""},
-		{"vid": "8IH68RJ4Fw0", "title": "Top 5 Developments On Coronavirus Pandemic In India", "source": "India Today"}
+		{
+				"vid": "KDT-JK0odhw",
+				"title": "India&#39;s growing Covid-19 waste challenges workers - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "eZLxgxWE1uE",
+				"title": "Bollywood legend Amitabh Bachchan and son Abhishek develop COVID-19",
+				"source": "Sky News"
+		},
+		{
+				"vid": "MVbhKJQ372U",
+				"title": "Coronavirus: India to reimpose restrictions as cases cross 820,000",
+				"source": "Global News"
+		},
+		{
+				"vid": "E0S3Zcg9ZJo",
+				"title": "Coronavirus: India overtakes Russia in Covid-19 cases - BBC News",
+				"source": "BBC News"
+		},
+		{
+				"vid": "H4EnxmeFBcM",
+				"title": "India&#39;s First COVID Vaccine Covaxin&#39;s Human Trails To Begin This Week | CNN News18",
+				"source": "CNN-News18"
+		},
+		{
+				"vid": "jVm7ntIjraE",
+				"title": "Covid-19 Update: Tracking Coronavirus Outbreak With India Today&#39;s Data Intelligence Unit",
+				"source": "India Today"
+		},
+		{
+				"vid": "fTvmDYc6fYU",
+				"title": "Covid-19 Tracker: Confirmed Covid-19 Cases In India Now Stands At 8,49,553 With Death Toll At 22,674",
+				"source": "India Today"
+		},
+		{
+				"vid": "RdGAEb0jPWs",
+				"title": "Covid-19 India Update: Coronavirus ने तोड़ा Record, 24 घंटे में सबसे ज्यादा मामले",
+				"source": "NDTV India"
+		},
+		{
+				"vid": "D1hZx4mP1ZM",
+				"title": "Fighting COVID-19: Is Coronavirus Airborne? Speaks Dr. Soumya Swaminathan | News Today with Rajdeep",
+				"source": "India Today"
+		},
+		{
+				"vid": "V2qqMgi5SOU",
+				"title": "COVID19 News: Corona Virus Vaccine के लिए अपनी ज़िंदगी दांव पर लगाने वाले Indian को जानते हैं?",
+				"source": "BBC News Hindi"
+		},
+		{
+				"vid": "eCY76BjQWmU",
+				"title": "Bollywood&#39;s Bachchan family tests positive for COVID-19",
+				"source": "CBC News"
+		},
+		{
+				"vid": "8x9ggjGPk2w",
+				"title": "Infection spikes in South Africa and India | Coronavirus Update",
+				"source": "DW News"
+		},
+		{
+				"vid": "F_ydelnlzWM",
+				"title": "Coronavirus: Fans pray for Bollywood star Amitabh Bachchan after COVID-19 diagnosis",
+				"source": "Global News"
+		},
+		{
+				"vid": "JUMARe-EEaQ",
+				"title": "Vikram Chandra on MIT study saying India may have 2.87 lakh Covid cases/day",
+				"source": "Hindustan Times"
+		},
+		{
+				"vid": "1OLlRftMLAQ",
+				"title": "COVID-19 update, July 3: India reports highest daily spike of over 20,000 new cases",
+				"source": "CNA"
+		},
+		{
+				"vid": "4GGX_k3lBSE",
+				"title": "COVID-19: India’s War Against the Virus | Promo",
+				"source": "DiscoveryChannelInd"
+		},
+		{
+				"vid": "rVjFt0gvpZw",
+				"title": "India registers record spike in Covid-19 cases, opens 10,000 bed temporary hospital",
+				"source": "Guardian News"
+		},
+		{
+				"vid": "uhPAeOQOQd4",
+				"title": "Is Covid-19 Vaccine By August 15 Possible? Know What Experts Think | News Today With Rajdeep",
+				"source": "India Today"
+		}
 	],
 	"map_data": [
 		{
@@ -305,58 +389,71 @@
 		}
 	],
 	"headline_news": [
-		{
+        {
             "source": {
-                "id": null,
-                "name": "The Indian Express"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "IE Online",
-            "title": "Testing on throat secretions reduces false negatives: study - The Indian Express",
-            "description": "Researchers have reported that testing of oropharyngeal secretions \u2014 secretions from the part of the throat at the back of the mouth \u2014 may reduce the number of false negative results. They have published their findings in the Journal of Dental Research.",
-            "url": "https://indianexpress.com/article/explained/covid-19-testing-on-throat-secretions-reduces-false-negatives-study-6489088/",
-            "urlToImage": "https://images.indianexpress.com/2020/07/covid-swab-testing.jpg?w=759",
-            "publishedAt": "2020-07-03T19:59:28Z",
-            "content": "Published: July 4, 2020 1:14:54 am\r\nSwabbing in Gurgaon. (PTI)False negatives when a person carrying a pathogen tests negative have been reported several times during the Covid-19pandemic. These resu\u2026 [+2109 chars]"
+            "author": "Rajendra Jadhav",
+            "title": "India gold dealers charge premiums as imports, smuggling stall - Reuters India",
+            "description": "Physical gold sold at a premium in India this week for the first time this year, driven by plunging imports and a near halt in smuggling that offset the impact of high unemployment and a rise in domestic prices across Asia that could deter buyers.",
+            "url": "https://in.reuters.com/article/asia-gold-demand-idINKBN24B1I1",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200710&t=2&i=1525285403&w=1200&r=LYNXMPEG690TK",
+            "publishedAt": "2020-07-10T11:47:00Z",
+            "content": "MUMBAI/BENGALURU (Reuters) - Physical gold sold at a premium in India this week for the first time this year, driven by plunging imports and a near halt in smuggling that offset the impact of high un\u2026 [+1869 chars]"
         },
         {
             "source": {
-                "id": "the-hindu",
-                "name": "The Hindu"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Special Correspondent",
-            "title": "Punjab sees 5 more COVID deaths; Haryana reports 4 - The Hindu",
-            "description": "Punjab recorded 153 fresh COVID-19 cases on Friday and reported five more deaths, according to an official statement.The number of positive cases has reached 5,937. The patients who died were from Amr",
-            "url": "https://www.thehindu.com/news/national/other-states/punjab-sees-5-more-covid-deaths-haryana-reports-4/article31984937.ece",
-            "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
-            "publishedAt": "2020-07-03T19:50:00Z",
-            "content": "Punjab recorded 153 fresh COVID-19 cases on Friday and reported five more deaths, according to an official statement.\r\nThe number of positive cases has reached 5,937. The patients who died were from \u2026 [+569 chars]"
+            "author": "Aditya Kalra",
+            "title": "Exclusive: India panel proposes new regulator for non-personal data - draft report - Reuters India",
+            "description": "India should set up a data regulator and require companies to disclose how they collect and store data devoid of personal details or which has been anonymised, a panel tasked to draw up such regulations has said in a draft report seen by Reuters.",
+            "url": "https://in.reuters.com/article/india-data-idINKBN24B0YI",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200710&t=2&i=1525267802&w=1200&r=LYNXMPEG690HO",
+            "publishedAt": "2020-07-10T08:47:00Z",
+            "content": "NEW DELHI (Reuters) - India should set up a data regulator and require companies to disclose how they collect and store data devoid of personal details or which has been anonymised, a panel tasked to\u2026 [+2337 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Hindustan Times"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Press Trust of India | Posted by Jasra Afreen",
-            "title": "Scientists decode how smell, taste sensation loss in Covid-19 patients improves with time - Hindustan Times",
-            "description": "The scientists said smell and taste dysfunction in Covid-19 might be a consequence of nasal obstruction, or may reflect a direct effect on olfactory mucosa and the olfactory sensory neurons.",
-            "url": "https://www.hindustantimes.com/science/scientists-decode-how-smell-taste-sensation-loss-in-covid-19-patients-improves-with-time/story-4ASauMvfCGQSUsWgRT1sOP.html",
-            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/07/03/Pictures/australia-health-virus_28eb06b0-bd18-11ea-9fb0-50c382f93f50.jpg",
-            "publishedAt": "2020-07-03T18:01:00Z",
-            "content": "Scientists have assessed the evolution of sudden-onset altered sense of smell or taste in people with confirmed Covid-19, and have found that in nearly half of the patients the symptom may disappear \u2026 [+1929 chars]"
+            "author": "Reuters Editorial",
+            "title": "India suspends release of industrial output data for lockdown period - Reuters India",
+            "description": "India said on Friday it was suspending the release of headline industrial output numbers for May, part of a more-than two-month lockdown imposed to combat the coronavirus pandemic, due to inadequate data collection.",
+            "url": "https://in.reuters.com/article/us-india-economy-industrialoutput-idINKBN24B1RL",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-07-10T12:32:00Z",
+            "content": "NEW DELHI (Reuters) - India said on Friday it was suspending the release of headline industrial output numbers for May, part of a more-than two-month lockdown imposed to combat the coronavirus pandem\u2026 [+670 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Swarajya"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Swarajya Staff",
-            "title": "Coronavirus: Hydroxychloroquine Administered Early Decreased Mortality Hazard Ratio By 66%, A New Study Finds - Swarajya",
-            "description": "Coronavirus: Hydroxychloroquine Administered Early Decreased Mortality Hazard Ratio By 66%, A New Study Finds",
-            "url": "https://swarajyamag.com/insta/coronavirus-hydroxychloroquine-administered-early-decreased-mortality-hazard-ratio-by-66-a-new-study-finds",
-            "urlToImage": "https://images.assettype.com/swarajya%2F2020-05%2Ff6de2e5e-aa7a-485e-96cf-9f6688a62d16%2F960x0.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-            "publishedAt": "2020-07-03T14:30:54Z",
-            "content": "Covid-19 patients treated with anti-malarial drug hydroxychloroquine within the first two days of admission were more likely to survive than patients who received other treatment, according to a new \u2026 [+1777 chars]"
-		}
+            "author": "Manish Singh",
+            "title": "Qualcomm to invest $97 million in India\u2019s Reliance Jio Platforms",
+            "description": "Qualcomm has become the latest high-profile investor in four-year-old Reliance Jio Platforms, which has raised more than $15.7 billion in the past 12 weeks from as many investors. On Sunday evening, Qualcomm Ventures said it will invest $97 million in Relianc\u2026",
+            "url": "http://techcrunch.com/2020/07/12/qualcomm-to-invest-97-million-in-indias-reliance-jio-platforms/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1221070558.jpg?w=600",
+            "publishedAt": "2020-07-12T15:13:43Z",
+            "content": "Qualcomm has become the latest high-profile investor in four-year-old Reliance Jio Platforms, which has raised more than $15.7 billion in the past 12 weeks from as many investors.\r\nOn Sunday evening,\u2026 [+1536 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "What you need to know about the coronavirus right now - Reuters India",
+            "description": "What you need to know about the coronavirus right now\u00a0\u00a0Reuters India",
+            "url": "https://in.reuters.com/article/health-coronavirus-snapshot-idINKCN24E15S",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200713&t=2&i=1525513562&w=1200&r=LYNXNPEG6C0LA",
+            "publishedAt": "2020-07-13T10:42:00Z",
+            "content": "(Reuters) - Here\u2019s what you need to know about the coronavirus right now: \r\nFourth in the world for most new cases \r\nFlorida reported a record increase of more than 15,000 new coronavirus cases in 24\u2026 [+3970 chars]"
+        }
     ],
 	"menu": [
 		{
