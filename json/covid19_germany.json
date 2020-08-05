@@ -22,121 +22,117 @@
 		"6/1", "6/2", "6/3", "6/4", "6/5", "6/6", "6/7", "6/8", "6/9", "6/10", "6/11", "6/12", "6/13", "6/14", "6/15",
 		"6/16", "6/17", "6/18", "6/19", "6/20", "6/21", "6/22", "6/23", "6/24", "6/25", "6/26", "6/27", "6/28", "6/29", "6/30",
 		"7/1", "7/2", "7/3", "7/4", "7/5", "7/6", "7/7", "7/8", "7/9", "7/10", "7/11", "7/12", "7/13", "7/14", "7/15",
-		"7/16", "7/17", "7/18", "7/19", "7/20", "7/21", "7/22", "7/23", "7/24", "7/25", "7/26", "7/27", "7/28", "7/29"
+		"7/16", "7/17", "7/18", "7/19", "7/20", "7/21", "7/22", "7/23", "7/24", "7/25", "7/26", "7/27", "7/28", "7/29", "7/30", "7/31",
+		"8/1", "8/2", "8/3", "8/4"
 	],
 	"confirmed_cases_by_day": [
-		16,16,16,16,16,16,16,16,16,16,18,26,48,74,79,130,165,203,262,545,670,800,1040,1224,1565,1966,2745,3675,4599,5813,7272,9367,12327,15320,19848,22364,24873,29056,32991,37323,43938,50871,57695,62435,66885,71808,77981,84794,91159,96092,100123,103375,107663,113296,118235,122171,125452,127854,130072,132210,134753,137698,141397,143724,145742,147065,148453,150648,153129,154999,156513,157770,158758,159912,161539,163009,164077,164967,165664,166152,167007,168162,169430,170588,171324,171879,172576,173171,174098,174975,175699,176244,176651,177289,177827,178531,179021,179713,179986,180328,180789,181288,181895,182452,183019,183294,183494,183765,184091,184425,184923,185414,185696,185869,186205,186516,186510,186795,187251,187423,187671,188044,188382,190179,190126,190660,191216,191575,192119,192778,193254,193785,194399,194689,194864,195392,195832,196324,196717,197000,197418,197558,198057,198355,198765,199198,199588,199812,199950,200436,200766,201252,201836,202345,202572,202845,203487,203890,204470,205142,205960,206332,206741,207379,207951,208811
+		16,16,16,16,16,16,16,16,16,16,18,26,48,74,79,130,165,203,262,545,670,800,1040,1224,1565,1966,2745,3675,4599,5813,7272,9367,12327,15320,19848,22364,24873,29056,32991,37323,43938,50871,57695,62435,66885,71808,77981,84794,91159,96092,100123,103375,107663,113296,118235,122171,125452,127854,130072,132210,134753,137698,141397,143724,145742,147065,148453,150648,153129,154999,156513,157770,158758,159912,161539,163009,164077,164967,165664,166152,167007,168162,169430,170588,171324,171879,172576,173171,174098,174975,175699,176244,176651,177289,177827,178531,179021,179713,179986,180328,180789,181288,181895,182452,183019,183294,183494,183765,184091,184425,184923,185414,185696,185869,186205,186516,186510,186795,187251,187423,187671,188044,188382,190179,190126,190660,191216,191575,192119,192778,193254,193785,194399,194689,194864,195392,195832,196324,196717,197000,197418,197558,198057,198355,198765,199198,199588,199812,199950,200436,200766,201252,201836,202345,202572,202845,203487,203890,204470,205142,205960,206332,206741,207379,207951,208811,209653,210665,211077,211462,212320,212331
 	],
 	"new_cases_by_day": [
-		0,0,0,0,0,0,0,0,0,0,2,8,22,26,5,51,35,38,59,283,125,130,240,184,341,401,779,930,924,1214,1459,2095,2960,2993,4528,2516,2509,4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218,2138,2543,2945,3699,2327,2018,1323,1388,2195,2481,1870,1514,1257,988,1154,1627,1470,1068,890,697,488,855,1155,1268,1158,736,555,697,595,927,877,724,545,407,638,538,704,490,692,273,342,461,499,607,557,567,275,200,271,326,334,498,491,282,173,336,311,0,285,456,172,248,373,338,1797,622,534,556,359,544,659,476,531,614,290,175,528,440,492,393,283,418,140,499,298,410,433,390,224,138,486,330,486,584,509,227,273,642,403,580,672,818,372,409,638,572,860
+		0,0,0,0,0,0,0,0,0,0,2,8,22,26,5,51,35,38,59,283,125,130,240,184,341,401,779,930,924,1214,1459,2095,2960,2993,4528,2516,2509,4183,3935,4332,6615,6933,6824,4740,4450,4923,6173,6813,6365,4933,4031,3252,4288,5633,4939,3936,3281,2402,2218,2138,2543,2945,3699,2327,2018,1323,1388,2195,2481,1870,1514,1257,988,1154,1627,1470,1068,890,697,488,855,1155,1268,1158,736,555,697,595,927,877,724,545,407,638,538,704,490,692,273,342,461,499,607,557,567,275,200,271,326,334,498,491,282,173,336,311,0,285,456,172,248,373,338,1797,622,534,556,359,544,659,476,531,614,290,175,528,440,492,393,283,418,140,499,298,410,433,390,224,138,486,330,486,584,509,227,273,642,403,580,672,818,372,409,638,572,860,842,1012,412,385,858,11
 	],
 	"active_cases_by_day": [
-		13,13,9,7,7,3,2,2,2,2,3,11,32,58,63,114,149,187,246,528,652,782,1022,1204,1545,1938,2714,3621,4544,5754,7188,9274,12194,15161,19600,22071,24513,28480,29542,33570,37998,43862,48781,52683,52740,54933,58350,61247,65309,68248,69839,72865,69566,64647,63221,65522,65181,64532,62578,60515,58349,56646,53931,53786,53100,50703,48167,45933,44254,42439,40836,39794,38132,36198,34672,32886,30441,29155,28198,26459,24914,23191,22138,21378,20475,19910,19298,18233,17537,16747,15998,15617,15202,14566,13934,13361,12712,12361,11720,11657,11161,10790,10562,10682,10325,9794,9689,9247,9017,8426,8387,8151,8027,7993,7822,7485,6966,6744,6788,6656,6601,6559,6372,7652,7080,7300,7555,7713,7850,8092,7951,7973,8273,8163,8135,8251,7680,7463,7353,6927,7037,6772,6765,6552,6950,6473,6458,6178,6216,6197,6122,6104,6279,5985,5910,5882,6514,6610,6688,6955,6359,6530,6938,6774,6744,7599
+		13,13,9,7,7,3,2,2,2,2,3,11,32,58,63,114,149,187,246,528,652,782,1022,1204,1545,1938,2714,3621,4544,5754,7188,9274,12194,15161,19600,22071,24513,28480,29542,33570,37998,43862,48781,52683,52740,54933,58350,61247,65309,68248,69839,72865,69566,64647,63221,65522,65181,64532,62578,60515,58349,56646,53931,53786,53100,50703,48167,45933,44254,42439,40836,39794,38132,36198,34672,32886,30441,29155,28198,26459,24914,23191,22138,21378,20475,19910,19298,18233,17537,16747,15998,15617,15202,14566,13934,13361,12712,12361,11720,11657,11161,10790,10562,10682,10325,9794,9689,9247,9017,8426,8387,8151,8027,7993,7822,7485,6966,6744,6788,6656,6601,6559,6372,7652,7080,7300,7555,7713,7850,8092,7951,7973,8273,8163,8135,8251,7680,7463,7353,6927,7037,6772,6765,6552,6950,6473,6458,6178,6216,6197,6122,6104,6279,5985,5910,5882,6514,6610,6688,6955,6359,6530,6938,6774,6744,7599,8432,9141,8251,8636,8388,8399
 	],
 	"deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,8,9,13,17,26,28,44,68,84,94,123,159,206,267,351,433,541,645,775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194,3495,3804,4052,4352,4538,4642,4862,5086,5315,5575,5760,5877,5976,6126,6314,6467,6623,6736,6812,6866,6993,6993,7275,7392,7510,7549,7569,7661,7738,7861,7928,8001,8027,8049,8123,8193,8270,8309,8352,8366,8371,8428,8498,8533,8570,8594,8600,8605,8618,8674,8699,8736,8763,8769,8776,8783,8831,8844,8851,8863,8867,8870,8885,8910,8927,8946,8960,8961,8962,8969,8986,9003,9012,9026,9026,9029,9041,9052,9061,9064,9073,9081,9086,9092,9103,9115,9125,9130,9134,9134,9139,9144,9148,9157,9160,9162,9163,9173,9180,9182,9187,9201,9202,9203,9205,9207,9212
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,8,9,13,17,26,28,44,68,84,94,123,159,206,267,351,433,541,645,775,931,1107,1275,1444,1584,1810,2016,2349,2607,2736,2871,3022,3194,3495,3804,4052,4352,4538,4642,4862,5086,5315,5575,5760,5877,5976,6126,6314,6467,6623,6736,6812,6866,6993,6993,7275,7392,7510,7549,7569,7661,7738,7861,7928,8001,8027,8049,8123,8193,8270,8309,8352,8366,8371,8428,8498,8533,8570,8594,8600,8605,8618,8674,8699,8736,8763,8769,8776,8783,8831,8844,8851,8863,8867,8870,8885,8910,8927,8946,8960,8961,8962,8969,8986,9003,9012,9026,9026,9029,9041,9052,9061,9064,9073,9081,9086,9092,9103,9115,9125,9130,9134,9134,9139,9144,9148,9157,9160,9162,9163,9173,9180,9182,9187,9201,9202,9203,9205,9207,9212,9221,9224,9226,9226,9232,9232
 	],
 	"new_deaths_by_day": [
-		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1,4,4,9,2,16,24,16,10,29,36,47,61,84,82,108,104,130,156,176,168,169,140,226,206,333,258,129,135,151,172,301,309,248,300,186,104,220,224,229,260,185,117,99,150,188,153,156,113,76,54,127,0,282,117,118,39,20,92,77,123,67,73,26,22,74,70,77,39,43,14,5,57,70,35,37,24,6,5,13,56,25,37,27,6,7,7,48,13,7,12,4,3,15,25,17,19,14,1,1,7,17,17,9,14,0,3,12,11,9,3,9,8,5,6,11,12,10,5,4,0,5,5,4,9,3,2,1,10,7,2,5,14,1,1,2,2,5
+		0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1,4,4,9,2,16,24,16,10,29,36,47,61,84,82,108,104,130,156,176,168,169,140,226,206,333,258,129,135,151,172,301,309,248,300,186,104,220,224,229,260,185,117,99,150,188,153,156,113,76,54,127,0,282,117,118,39,20,92,77,123,67,73,26,22,74,70,77,39,43,14,5,57,70,35,37,24,6,5,13,56,25,37,27,6,7,7,48,13,7,12,4,3,15,25,17,19,14,1,1,7,17,17,9,14,0,3,12,11,9,3,9,8,5,6,11,12,10,5,4,0,5,5,4,9,3,2,1,10,7,2,5,14,1,1,2,2,5,9,3,2,0,6,0
 	],
 	"new_recoveries_by_day": [
-		0,0,4,2,0,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,7,0,21,0,0,21,0,38,10,65,29,57,187,2837,257,2126,985,1823,730,4289,2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000,3900,4400,4400,6114,2286,2600,3500,3700,4200,3900,3500,3000,2200,2500,2900,3000,3100,3400,2100,1600,2100,2400,2596,2204,1800,1600,1100,1217,1583,1500,1600,1400,900,800,1200,1100,1200,1100,1000,900,400,900,800,800,400,900,800,300,700,500,900,500,700,400,200,500,600,500,500,400,300,300,400,500,500,500,300,300,200,400,400,600,500,300,400,200,400,1000,700,500,700,300,400,500,500,0,900,400,500,100,500,400,500,400,800,300,300,0,300,500,400,1400,200,0,800,600,0
+		0,0,4,2,0,4,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,7,0,21,0,0,21,0,38,10,65,29,57,187,2837,257,2126,985,1823,730,4289,2600,2600,3740,2135,1825,2300,0,7381,10219,6107,1506,3487,2900,4000,3900,4400,4400,6114,2286,2600,3500,3700,4200,3900,3500,3000,2200,2500,2900,3000,3100,3400,2100,1600,2100,2400,2596,2204,1800,1600,1100,1217,1583,1500,1600,1400,900,800,1200,1100,1200,1100,1000,900,400,900,800,800,400,900,800,300,700,500,900,500,700,400,200,500,600,500,500,400,300,300,400,500,500,500,300,300,200,400,400,600,500,300,400,200,400,1000,700,500,700,300,400,500,500,0,900,400,500,100,500,400,500,400,800,300,300,0,300,500,400,1400,200,0,800,600,0,0,300,1300,0,1100,0
 	],
 	"youtube_playlist": [
 		{
-				"vid": "uO2l83j9lVI",
-				"title": "Coat of arms of German city of Coburg sparks racism charges | DW News",
-				"source": "DW News"
+			"vid": "iVZyMokSvIw",
+			"title": "Back to school: Pupils return to classrooms in parts of Germany",
+			"source": "euronews (in English)"
 		},
 		{
-			"vid": "8ySTHHp-ecs",
-			"title": "How safe are Jewish citizens in Germany? | DW News",
-			"source": "DW News"
+				"vid": "huRz1o_XeCc",
+				"title": "US troops pullout: Nearly 12,000 US military to withdraw from german bases",
+				"source": "euronews (in English)"
 		},
 		{
-				"vid": "POvw6pdd_7I",
-				"title": "Here&#39;s why the Black Lives Matter movement spread to Germany",
-				"source": "Bloomberg QuickTake News"
+				"vid": "1W4El1ipDSA",
+				"title": "Germans more optimistic about post-lockdown world than French, Spanish and Italians - poll",
+				"source": "euronews (in English)"
 		},
 		{
-			"vid": "_oWH5mRkzEs",
-			"title": "Manhunt continues for armed fugitive in Germany&#39;s Black Forest | DW News",
-			"source": "DW News"
+				"vid": "-8rhfPmN2VE",
+				"title": "German town with economy reliant on US presence reacts with dismay",
+				"source": "euronews (in English)"
 		},
 		{
-				"vid": "mhzE-NI7UNk",
-				"title": "Coronavirus curses a German meat-processing plant",
-				"source": "DW News"
+				"vid": "IeFLKqRyxIw",
+				"title": "Majority of French, Germans, Italians &amp; Spanish scrap holiday plans amid coronavirus outbreak - poll",
+				"source": "euronews (in English)"
 		},
 		{
-				"vid": "M6QmkxCBDMM",
-				"title": "UK to ban Huawei from 5G networks +++ Germany debates spyware law | DW Tech Report",
-				"source": "DW News"
+				"vid": "LzfJboYDkmM",
+				"title": "Police injured in Berlin protest against COVID-19 measures",
+				"source": "euronews (in English)"
 		},
 		{
-				"vid": "2093O621M9Q",
-				"title": "Germany slow to condemn China&#39;s Hong Kong security law | DW News",
-				"source": "DW News"
-		},
-		{
-				"vid": "SX4ktiGyZ9k",
-				"title": "Merkel&#39;s visits Bavaria:  Is she meeting with her successor? | DW News",
-				"source": "DW News"
-		},
-		{
-				"vid": "7By5DGCVIc4",
-				"title": "Coronavirus vaccine update: How close are we? | COVID-19 Special",
-				"source": "DW News"
-		},
-		{
-				"vid": "ZpBX_qqfC0M",
-				"title": "Coronavirus immunity: What do we know? | COVID-19 Special",
-				"source": "DW News"
-		},
-		{
-				"vid": "lkbx2anzwzk",
-				"title": "EU leaders discuss pandemic recovery plan: What&#39;s at stake? | DW News",
-				"source": "DW News"
-		},
-		{
-				"vid": "gMJFuuRDPJM",
-				"title": "Elbow bumps and bows: masked EU leaders join physically distant summit",
-				"source": "Guardian News"
-		},
-		{
-				"vid": "zc-my8oAlgY",
-				"title": "Germany assumes EU presidency as Merkel pushes for massive bloc-wide recovery plan",
+				"vid": "xJz73ZA8KHA",
+				"title": "Strong Franco-German alliance key to securing coronavirus recovery deal",
 				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "lYrmZcdDpcM",
-				"title": "The new normal: FRANCE 24 reports from Cameroon to Germany",
+				"vid": "hJ23Vd_7INU",
+				"title": "Covid-19: Some German children back in school as case numbers rise",
 				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "zmNYxpDD_9Q",
-				"title": "Covid-19 drug buyout: US&#39;s EU representative denies &#39;America First&#39; policy on Remdesivir",
+				"vid": "yiP0rKR9qVk",
+				"title": "Protest against coronavirus curbs draws crowds in Berlin",
 				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "4IoM1ndKuVs",
-				"title": "Germany EU presidency: Pandemic and financial recovery top priorities for Berlin&#39;s six month term",
-				"source": "euronews (in English)"
+				"vid": "omWMiJrsgEo",
+				"title": "Germany issues Spain travel warning",
+				"source": "FRANCE 24 English"
 		},
 		{
-				"vid": "S3ECBwsdKGk",
-				"title": "Germany EU presidency: Berlin takes on six-month presidency during unprecedented health crisis",
-				"source": "euronews (in English)"
+				"vid": "6At1TH-gbW0",
+				"title": "Politicians angry over coronavirus protest in Germany | DW News",
+				"source": "DW News"
 		},
 		{
-				"vid": "lBQ-AXzXACk",
-				"title": "Germany outbreak: Guetersloh restrictions extended in bid to curb new cases",
-				"source": "euronews (in English)"
+				"vid": "3F2i0wDCfug",
+				"title": "Berlin protests for and against coronavirus restrictions as cases soar in Germany | DW News",
+				"source": "DW News"
 		},
 		{
-				"vid": "B5spOT4A8Q8",
-				"title": "France and Germany under increased pressure to collect racial data",
-				"source": "euronews (in English)"
+				"vid": "gXymemR6gdQ",
+				"title": "Berlin police break up protest against coronavirus restrictions | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "Y1bJ8COeJx0",
+				"title": "What does Trump&#39;s withdrawal of US troops mean for Germany and NATO? | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "HizMJp0ShCs",
+				"title": "Coronavirus: Fears returning travelers will spark second wave in Germany | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "w1PVE_Gn1vQ",
+				"title": "US and Germany report record GDP declines due to coronavirus | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "dl8SPYPElTI",
+				"title": "US Defense Sec. Esper details plan to pull troops from Germany | DW News",
+				"source": "DW News"
+		},
+		{
+				"vid": "zAn-Qi6rv9U",
+				"title": "German army lost 100,000 rounds of ammunition | 5 Things in 5 Minutes in Germany",
+				"source": "TRT World"
 		}
 	],
 	"map_data": [
@@ -254,6 +250,123 @@
 		}
 	],
 	"headline_news": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Thousands protest in Germany against restrictions",
+            "description": "Demonstrators march though Berlin, saying face masks and other measures violate their rights.",
+            "url": "https://www.bbc.co.uk/news/world-europe-53622797",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8581/production/_113777143_mediaitem113777140.jpg",
+            "publishedAt": "2020-08-01T13:35:45Z",
+            "content": "Image copyrightReutersImage caption\r\n The mood is peaceful but few people are wearing masks\r\nThousands of people in the German capital Berlin are taking part in a protest against the country's corona\u2026 [+1458 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Fiat offices raided over diesel emissions fraud claims",
+            "description": "Investigators visit sites in Germany, Italy and Switzerland, and two UK firms are asked to provide documents.",
+            "url": "https://www.bbc.co.uk/news/business-53504642",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CAE5/production/_105814915_fca.jpg",
+            "publishedAt": "2020-07-22T16:16:33Z",
+            "content": "Image copyrightGetty Images\r\nAuthorities in Germany, Italy and Switzerland have raided the offices of car giant Fiat-Chrysler and truck maker CNH Industrial over claims some engines produced illegal \u2026 [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicole Gaouette and Ryan Browne, CNN",
+            "title": "Trump's decision to move troops from Germany slammed as 'a gift to Putin'",
+            "description": "President Donald Trump's decision to pull nearly 12,000 US troops from Germany triggered an onslaught of disapproval from Republicans, Democrats and former senior military officials, who said the move will benefit Russia, degrade US national security and mili\u2026",
+            "url": "https://www.cnn.com/2020/07/29/politics/us-troops-germany-criticism/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200509205438-trump-joint-chiefs-military-leaders-cabinet-room-may-9-super-tease.jpg",
+            "publishedAt": "2020-07-30T00:37:07Z",
+            "content": "Washington (CNN)President Donald Trump's decision to pull nearly 12,000 US troops from Germany triggered an onslaught of disapproval from Republicans, Democrats and former senior military officials, \u2026 [+8453 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Pentagon details troop withdraw from Germany - Reuters",
+            "description": "The U.S. military unveiled plans on Wednesday to withdraw about 12,000 troops from Germany following a decision by President Donald Trump.  The U.S. said it plans to keep nearly half of them in Europe to address poterntial tensions with Russia.",
+            "url": "https://www.reuters.com/video/watch/idPVqB?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/5f219c8ce4b09631f6473efd-1596038284547?location=LANDSCAPE",
+            "publishedAt": "2020-07-29T16:44:21Z",
+            "content": "Posted \r\nThe U.S. military unveiled plans on Wednesday to withdraw about 12,000 troops from Germany following a decision by President Donald Trump. The U.S. said it plans to keep nearly half of them \u2026 [+52 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Germany reports 870 new coronavirus cases - Reuters.com",
+            "description": "Germany reported 870 more confirmed coronavirus cases on Friday, according to a tally from the Robert Koch Institute for infectious diseases.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-cases-idUSKCN24W0TD",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527818629&w=1200&r=LYNXNPEG6U0GU",
+            "publishedAt": "2020-07-31T06:58:00Z",
+            "content": "BERLIN (Reuters) - Germany reported 870 more confirmed coronavirus cases on Friday, according to a tally from the Robert Koch Institute for infectious diseases. \r\nThat brought the total number to 208\u2026 [+99 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Bavaria slams U.S. decision to withdraw troops from Germany - Reuters",
+            "description": "Bavarian Prime Minister Markus Soeder on Wednesday criticised the U.S. decision to withdraw about 12,000 troops from Germany, adding that Germany still hoped the next U.S. administration would scrap the plan.",
+            "url": "https://www.reuters.com/article/us-usa-trump-germany-military-soeder-idUSKCN24U2P9",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200729&t=2&i=1527571381&w=1200&r=LYNXNPEG6S1H8",
+            "publishedAt": "2020-07-29T16:43:00Z",
+            "content": "BERLIN (Reuters) - Bavarian Prime Minister Markus Soeder on Wednesday criticised the U.S. decision to withdraw about 12,000 troops from Germany, adding that Germany still hoped the next U.S. administ\u2026 [+509 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Germany considers compulsory coronavirus testing for holidaymakers - Reuters India",
+            "description": "Germany may introduce compulsory coronavirus testing for holidaymakers returning from high-risk destinations after the number of new infections in the country hit a two-month high, the health minister said on Saturday.",
+            "url": "https://in.reuters.com/article/health-coronavirus-germany-idINKCN24Q0I9",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200725&t=2&i=1527096734&w=1200&r=LYNXNPEG6O09Q",
+            "publishedAt": "2020-07-25T13:32:00Z",
+            "content": "BERLIN (Reuters) - Germany may introduce compulsory coronavirus testing for holidaymakers returning from high-risk destinations after the number of new infections in the country hit a two-month high,\u2026 [+1874 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Germany begins mass coronavirus testing at airports - Reuters",
+            "description": "Berlin's Tegel airport began large scale coronavirus testing on Wednesday, as airports across Germany prepared for the advent of free, compulsory testing for many passengers from next week.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-tests-idUSKCN24U2DG",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200729&t=2&i=1527560082&w=1200&r=LYNXNPEG6S19R",
+            "publishedAt": "2020-07-29T14:55:00Z",
+            "content": "BERLIN (Reuters) - Berlin\u2019s Tegel airport began large scale coronavirus testing on Wednesday, as airports across Germany prepared for the advent of free, compulsory testing for many passengers from n\u2026 [+1503 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Germany suspends extradition agreement with Hong Kong: Foreign Minister - Reuters",
+            "description": "Germany will suspend its extradition agreement with Hong Kong, Foreign Minister Heiko Maas said after Hong Kong leader Carrie Lam postponed a Sept. 6 election to the Chinese-ruled city's legislature by a year.",
+            "url": "https://www.reuters.com/article/us-hongkong-security-germany-idUSKCN24W2JA",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527887537&w=1200&r=LYNXNPEG6U1I2",
+            "publishedAt": "2020-07-31T16:28:00Z",
+            "content": "BERLIN (Reuters) - Germany will suspend its extradition agreement with Hong Kong, Foreign Minister Heiko Maas said after Hong Kong leader Carrie Lam postponed a Sept. 6 election to the Chinese-ruled \u2026 [+551 chars]"
+        },
 		{
             "source": {
                 "id": "bbc-news",
@@ -325,32 +438,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Germany introduces localised lockdowns to contain COVID-19 outbreaks - Reuters",
-            "description": "Germany took steps on Thursday to fine-tune its response to localised coronavirus outbreaks, introducing tighter restrictions on affected residents over smaller areas.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-idUSKCN24H2CS",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525992493&w=1200&r=LYNXNPEG6F1DF",
-            "publishedAt": "2020-07-16T14:37:00Z",
-            "content": "BERLIN (Reuters) - Germany took steps on Thursday to fine-tune its response to localised coronavirus outbreaks, introducing tighter restrictions on affected residents over smaller areas. \r\nUnlike som\u2026 [+1480 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "U.S. judge approves transfer of jailed former VW executive to Germany - Reuters",
-            "description": "A U.S. judge in Detroit on Thursday approved the transfer to Germany of a former Volkswagen AG executive imprisoned in the automaker's diesel emissions scandal.",
-            "url": "https://www.reuters.com/article/us-volkswagen-emissions-idUSKCN24H367",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1526037929&w=1200&r=LYNXNPEG6F1U6",
-            "publishedAt": "2020-07-16T20:25:00Z",
-            "content": "WASHINGTON/MUNICH (Reuters) - A U.S. judge in Detroit on Thursday approved the transfer to Germany of a former Volkswagen AG (VOWG_p.DE) executive imprisoned in the automaker\u2019s diesel emissions scand\u2026 [+623 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "Germany's confirmed coronavirus cases rise by 583 to 200843: - Reuters",
             "description": "The number of confirmed coronavirus cases in Germany increased by 583 to 200,843, data from the Robert Koch Institute (RKI) for infectious diseases showed on Friday.",
             "url": "https://www.reuters.com/article/us-health-coronavirus-germany-cases-idUSKCN24I09Z",
@@ -370,45 +457,6 @@
             "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200717&t=2&i=1526133576&w=1200&r=LYNXNPEG6G0VT",
             "publishedAt": "2020-07-17T12:38:55Z",
             "content": "BERLIN (Reuters) - A COVID-19 outbreak in Germany is forcing meatpacking plants to review infection risks posed by their cooling systems, placing the industry at the sharp end of growing global conce\u2026 [+3400 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Germany eyes subsidies for steel, chemicals sectors to cut CO2 - Reuters",
-            "description": "Germany is planning to seek EU approval to support the steel and chemicals industry in its efforts to become climate-neutral, its economy minister said on Wednesday, adding he hoped to make substantial headway in the second half of 2020.",
-            "url": "https://www.reuters.com/article/us-germany-steel-subsidies-idUSKCN24G1IJ",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525804926&w=1200&r=LYNXNPEG6E0U4",
-            "publishedAt": "2020-07-15T11:40:00Z",
-            "content": "FRANKFURT (Reuters) - Germany is planning to seek EU approval to support the steel and chemicals industry in its efforts to become climate-neutral, its economy minister said on Wednesday, adding he h\u2026 [+416 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Germany urges WHO to hasten review of its handling of pandemic - Reuters",
-            "description": "Germany's health minister urged the World Health Organisation (WHO) to speed up its review of how it handled the pandemic, apparently signalling Europe's tougher line on the United Nations body.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-eu-who-idUSKCN24H21X",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525978252&w=1200&r=LYNXNPEG6F18H",
-            "publishedAt": "2020-07-16T12:59:00Z",
-            "content": "BRUSSELS/BERLIN (Reuters) - Germany\u2019s health minister urged the World Health Organisation (WHO) to speed up its review of how it handled the pandemic, apparently signalling Europe\u2019s tougher line on t\u2026 [+1911 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Germany's World Cup winner Schuerrle announces retirement at 29 - Reuters UK",
-            "description": "Germany's World Cup winner Andre Schuerrle announced his retirement from football at the age of 29 on Friday, two days after his contract with Borussia Dortmund was terminated by mutual consent.",
-            "url": "https://uk.reuters.com/article/uk-soccer-germany-schuerrle-idUKKCN24I1TN",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200717&t=2&i=1526140540&w=1200&r=LYNXNPEG6G0YV",
-            "publishedAt": "2020-07-17T14:02:04Z",
-            "content": "(Reuters) - Germany\u2019s World Cup winner Andre Schuerrle announced his retirement from football at the age of 29 on Friday, two days after his contract with Borussia Dortmund was terminated by mutual c\u2026 [+909 chars]"
         }
     ],
 	"menu": [

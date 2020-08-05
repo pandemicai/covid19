@@ -4,17 +4,17 @@
 			"province": "Quebec",
 			"id": "CA-QC",
 			"img_url": "QC.png",
-			"confirmed": "59073",
-			"new": "176",
+			"confirmed": "59845",
+			"new": "123",
 			"probable": "",
-			"death": "5670",
-			"death_new": "",
-			"hospitalization": "190",
-			"icu": "9",
+			"death": "5685",
+			"death_new": "2",
+			"hospitalization": "169",
+			"icu": "21",
 			"ventilator": "",
 			"resolved": "50886",
-			"under_investigation": "12295",
-			"tested": "796549",
+			"under_investigation": "10325",
+			"tested": "858016",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -29,39 +29,39 @@
 			"pending": "",
 			"population": "8537674",
 			"twitter_url": "https://twitter.com/sante_qc",
-			"url": "https://globalnews.ca/news/7229889/coronavirus-cases-quebec-july-29-covid19/",
-			"death_url": "https://globalnews.ca/news/7225547/coronavirus-quebec-july-28/",
+			"url": "https://globalnews.ca/news/7249462/coronavirus-kahnawake-hits-pause-on-reopening-plans-as-quebec-numbers-remain-steady/",
+			"death_url": "https://globalnews.ca/news/7249462/coronavirus-kahnawake-hits-pause-on-reopening-plans-as-quebec-numbers-remain-steady/",
 			"official_url": "https://www.inspq.qc.ca/covid-19/donnees",
 			"yesterday": {
-				"date": "July 29",
-				"confirmed": "59073",
-				"new": "176",
+				"date": "Aug 3",
+				"confirmed": "59722",
+				"new": "123",
 				"probable": "",
-				"death": "5670",
-				"death_new": "",
-				"hospitalization": "190",
-				"icu": "9",
+				"death": "5683",
+				"death_new": "2",
+				"hospitalization": "169",
+				"icu": "21",
 				"ventilator": "",
 				"resolved": "50886",
-				"under_investigation": "12295",
-				"tested": "796549"
+				"under_investigation": "10325",
+				"tested": "858016"
 			}
 		},
 		{
 			"province": "Ontario",
 			"id": "CA-ON",
 			"img_url": "ON.png",
-			"confirmed": "38986",
-			"new": "76",
+			"confirmed": "39628",
+			"new": "179",
 			"probable": "",
-			"death": "2769",
-			"death_new": "1",
-			"hospitalization": "91",
+			"death": "2782",
+			"death_new": "4",
+			"hospitalization": "78",
 			"icu": "28",
-			"ventilator": "17",
-			"resolved": "34741",
-			"under_investigation": "18268",
-			"tested": "2114263",
+			"ventilator": "15",
+			"resolved": "35601",
+			"under_investigation": "9285",
+			"tested": "2277887",
 			"male": "45.1",
 			"female": "54.3",
 			"age_group_19_under": "2.4",
@@ -76,39 +76,39 @@
 			"pending": "46.1",
 			"population": "14711827",
 			"twitter_url": "https://twitter.com/ONThealth",
-			"url": "https://globalnews.ca/news/7229393/ontario-coronavirus-cases-july-29-covid19/",
-			"death_url": "https://globalnews.ca/news/7229393/ontario-coronavirus-cases-july-29-covid19/",
+			"url": "https://globalnews.ca/news/7249098/ontario-coronavirus-cases-covid-19-august-4/",
+			"death_url": "https://globalnews.ca/news/7249098/ontario-coronavirus-cases-covid-19-august-4/",
 			"official_url": "https://www.ontario.ca/page/2019-novel-coronavirus#section-0",
 			"yesterday": {
-				"date": "July 29",
-				"confirmed": "38986",
-				"new": "76",
+				"date": "August 4",
+				"confirmed": "39628",
+				"new": "179",
 				"probable": "",
-				"death": "2769",
-				"death_new": "1",
-				"hospitalization": "91",
+				"death": "2782",
+				"death_new": "4",
+				"hospitalization": "78",
 				"icu": "28",
-				"ventilator": "17",
-				"resolved": "34741",
-				"under_investigation": "18268",
-				"tested": "2114263"
+				"ventilator": "15",
+				"resolved": "35601",
+				"under_investigation": "9285",
+				"tested": "2277887"
 			}
 		},
 		{
 			"province": "Alberta",
 			"id": "CA-AB",
 			"img_url": "AB.png",
-			"confirmed": "10603",
-			"new": "133",
+			"confirmed": "11146",
+			"new": "303",
 			"probable": "",
-			"death": "190",
-			"death_new": "3",
-			"hospitalization": "87",
-			"icu": "17",
+			"death": "201",
+			"death_new": "5",
+			"hospitalization": "85",
+			"icu": "23",
 			"ventilator": "",
-			"resolved": "8983",
+			"resolved": "9754",
 			"under_investigation": "",
-			"tested": "559932",
+			"tested": "596714",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -123,39 +123,39 @@
 			"pending": "",
 			"population": "4413146",
 			"twitter_url": "https://twitter.com/GoAHealth",
-			"url": "https://globalnews.ca/news/7232096/alberta-covid-19-update-july-29/",
-			"death_url": "https://globalnews.ca/news/7232096/alberta-covid-19-update-july-29/",
+			"url": "https://globalnews.ca/news/7249611/covid-19-alberta-update-aug-4/",
+			"death_url": "https://globalnews.ca/news/7249611/covid-19-alberta-update-aug-4/",
 			"official_url": "https://www.alberta.ca/coronavirus-info-for-albertans.aspx",
 			"yesterday": {
-				"date": "July 29",
-				"confirmed": "10603",
-				"new": "133",
+				"date": "August 4",
+				"confirmed": "11146",
+				"new": "303",
 				"probable": "",
-				"death": "190",
-				"death_new": "3",
-				"hospitalization": "87",
-				"icu": "17",
+				"death": "201",
+				"death_new": "5",
+				"hospitalization": "85",
+				"icu": "23",
 				"ventilator": "",
-				"resolved": "8983",
+				"resolved": "9754",
 				"under_investigation": "",
-				"tested": "559932"
+				"tested": "596714"
 			}
 		},
 		{
 			"province": "British Columbia",
 			"id": "CA-BC",
 			"img_url": "BC.png",
-			"confirmed": "3562",
-			"new": "39",
+			"confirmed": "3787",
+			"new": "146",
 			"probable": "",
-			"death": "194",
+			"death": "195",
 			"death_new": "",
-			"hospitalization": "6",
-			"icu": "2",
+			"hospitalization": "8",
+			"icu": "4",
 			"ventilator": "",
-			"resolved": "3109",
+			"resolved": "3273",
 			"under_investigation": "",
-			"tested": "258368",
+			"tested": "272453",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -170,39 +170,86 @@
 			"pending": "",
 			"population": "5110917",
 			"twitter_url": "https://twitter.com/PHSAofBC",
-			"url": "https://globalnews.ca/news/7232154/bc-coronavirus-update-july-29/",
-			"death_url": "https://globalnews.ca/news/7232154/bc-coronavirus-update-july-29/",
+			"url": "https://globalnews.ca/news/7250282/bc-coronavirus-update-august-4/",
+			"death_url": "https://globalnews.ca/news/7241582/bc-coronavirus-update-july-31/",
 			"official_url": "http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus",
 			"yesterday": {
-				"date": "July 29",
-				"confirmed": "3562",
-				"new": "39",
+				"date": "August 4",
+				"confirmed": "3787",
+				"new": "146",
 				"probable": "",
-				"death": "194",
+				"death": "195",
 				"death_new": "",
-				"hospitalization": "6",
-				"icu": "2",
+				"hospitalization": "8",
+				"icu": "4",
 				"ventilator": "",
-				"resolved": "3109",
+				"resolved": "3273",
 				"under_investigation": "",
-				"tested": "258368"
+				"tested": "272453"
+			}
+		},
+		{
+			"province": "Saskatchewan",
+			"id": "CA-SK",
+			"img_url": "SK.png",
+			"confirmed": "1368",
+			"new": "9",
+			"probable": "",
+			"death": "18",
+			"death_new": "",
+			"hospitalization": "14",
+			"icu": "7",
+			"ventilator": "",
+			"resolved": "1097",
+			"under_investigation": "",
+			"tested": "104279",
+			"male": "",
+			"female": "",
+			"age_group_19_under": "",
+			"age_group_20_39": "",
+			"age_group_40_59": "",
+			"age_group_60_79": "",
+			"age_group_80_over": "",
+			"heath_care_workers": "",
+			"travel": "",
+			"close contact": "",
+			"community transmission": "",
+			"pending": "",
+			"population": "1181666",
+			"twitter_url": "",
+			"url": "https://globalnews.ca/news/7250080/coronavirus-covid-19-saskatchewan-update-august-4/",
+			"death_url": "https://globalnews.ca/news/7236194/coronavirus-covid-19-saskatchewan-update-july-30/",
+			"official_url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus",
+			"yesterday": {
+				"date": "August 4",
+				"confirmed": "1368",
+				"new": "9",
+				"probable": "",
+				"death": "18",
+				"death_new": "",
+				"hospitalization": "14",
+				"icu": "7",
+				"ventilator": "",
+				"resolved": "1097",
+				"under_investigation": "",
+				"tested": "104279"
 			}
 		},
 		{
 			"province": "Nova Scotia",
 			"id": "CA-NS",
 			"img_url": "NS.png",
-			"confirmed": "1067",
+			"confirmed": "1071",
 			"new": "",
 			"probable": "",
 			"death": "64",
-			"death_new": "1",
+			"death_new": "",
 			"hospitalization": "",
 			"icu": "",
 			"ventilator": "",
-			"resolved": "1003",
+			"resolved": "1005",
 			"under_investigation": "",
-			"tested": "63928",
+			"tested": "65543",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -221,82 +268,35 @@
 			"death_url": "https://novascotia.ca/coronavirus/data/",
 			"official_url": "https://novascotia.ca/coronavirus/",
 			"yesterday": {
-				"date": "July 29",
-				"confirmed": "1067",
+				"date": "August 4",
+				"confirmed": "1071",
 				"new": "",
 				"probable": "",
 				"death": "64",
-				"death_new": "1",
+				"death_new": "",
 				"hospitalization": "",
 				"icu": "",
 				"ventilator": "",
-				"resolved": "1003",
+				"resolved": "1005",
 				"under_investigation": "",
-				"tested": "63928"
-			}
-		},
-		{
-			"province": "Saskatchewan",
-			"id": "CA-SK",
-			"img_url": "SK.png",
-			"confirmed": "1268",
-			"new": "50",
-			"probable": "",
-			"death": "17",
-			"death_new": "",
-			"hospitalization": "15",
-			"icu": "5",
-			"ventilator": "",
-			"resolved": "929",
-			"under_investigation": "",
-			"tested": "95024",
-			"male": "",
-			"female": "",
-			"age_group_19_under": "",
-			"age_group_20_39": "",
-			"age_group_40_59": "",
-			"age_group_60_79": "",
-			"age_group_80_over": "",
-			"heath_care_workers": "",
-			"travel": "",
-			"close contact": "",
-			"community transmission": "",
-			"pending": "",
-			"population": "1181666",
-			"twitter_url": "",
-			"url": "https://globalnews.ca/news/7231347/coronavirus-covid-19-saskatchewan-update-july-29/",
-			"death_url": "https://globalnews.ca/news/7226603/coronavirus-saskatchewan-covid-19-update-july-28/",
-			"official_url": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus",
-			"yesterday": {
-				"date": "July 29",
-				"confirmed": "1268",
-				"new": "50",
-				"probable": "",
-				"death": "17",
-				"death_new": "",
-				"hospitalization": "15",
-				"icu": "5",
-				"ventilator": "",
-				"resolved": "929",
-				"under_investigation": "",
-				"tested": "95024"
+				"tested": "65543"
 			}
 		},
 		{
 			"province": "Manitoba",
 			"id": "CA-MB",
 			"img_url": "MB.png",
-			"confirmed": "407",
-			"new": "2",
+			"confirmed": "443",
+			"new": "1",
 			"probable": "",
 			"death": "8",
 			"death_new": "",
-			"hospitalization": "6",
+			"hospitalization": "9",
 			"icu": "4",
 			"ventilator": "",
-			"resolved": "325",
+			"resolved": "341",
 			"under_investigation": "",
-			"tested": "86367",
+			"tested": "91697",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -311,22 +311,22 @@
 			"pending": "",
 			"population": "1377517",
 			"twitter_url": "https://twitter.com/MBGov",
-			"url": "https://www.gov.mb.ca/covid19/updates/updates.html",
+			"url": "https://globalnews.ca/news/7247891/7-new-covid-19-cases-in-manitoba-monday/",
 			"death_url": "https://www.gov.mb.ca/covid19/updates/index.html",
 			"official_url": "https://www.gov.mb.ca/health/coronavirus/",
 			"yesterday": {
-				"date": "July 29",
-				"confirmed": "407",
-				"new": "2",
+				"date": "August 4",
+				"confirmed": "443",
+				"new": "1",
 				"probable": "",
 				"death": "8",
 				"death_new": "",
-				"hospitalization": "6",
+				"hospitalization": "9",
 				"icu": "4",
 				"ventilator": "",
-				"resolved": "325",
+				"resolved": "341",
 				"under_investigation": "",
-				"tested": "86367"
+				"tested": "91697"
 			}
 		},
 		{
@@ -341,9 +341,9 @@
 			"hospitalization": "",
 			"icu": "",
 			"ventilator": "",
-			"resolved": "259",
+			"resolved": "260",
 			"under_investigation": "",
-			"tested": "24445",
+			"tested": "17807",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -362,7 +362,7 @@
 			"death_url": "https://www.theguardian.pe.ca/news/canada/we-are-in-different-times-first-covid-19-death-confirmed-in-newfoundland-and-labrador-431622/",
 			"official_url": "https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/",
 			"yesterday": {
-				"date": "July 29",
+				"date": "August 4",
 				"confirmed": "266",
 				"new": "",
 				"probable": "",
@@ -371,9 +371,9 @@
 				"hospitalization": "",
 				"icu": "",
 				"ventilator": "",
-				"resolved": "259",
+				"resolved": "260",
 				"under_investigation": "",
-				"tested": "24445"
+				"tested": "17807"
 			}
 		},
 		{
@@ -388,9 +388,9 @@
 			"hospitalization": "",
 			"icu": "",
 			"ventilator": "",
-			"resolved": "165",
+			"resolved": "168",
 			"under_investigation": "",
-			"tested": "51792",
+			"tested": "53401",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -409,7 +409,7 @@
 			"death_url": "https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/maps_graphs.html",
 			"official_url": "https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html",
 			"yesterday": {
-				"date": "July 29",
+				"date": "August 4",
 				"confirmed": "170",
 				"new": "",
 				"probable": "",
@@ -418,9 +418,9 @@
 				"hospitalization": "",
 				"icu": "",
 				"ventilator": "",
-				"resolved": "165",
+				"resolved": "168",
 				"under_investigation": "",
-				"tested": "51792"
+				"tested": "53401"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"ventilator": "",
 			"resolved": "36",
 			"under_investigation": "238",
-			"tested": "18895",
+			"tested": "20085",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -456,7 +456,7 @@
 			"death_url": "",
 			"official_url": "https://www.princeedwardisland.ca/en/topic/covid-19",
 			"yesterday": {
-				"date": "July 28",
+				"date": "August 2",
 				"confirmed": "36",
 				"new": "",
 				"probable": "",
@@ -467,7 +467,7 @@
 				"ventilator": "",
 				"resolved": "36",
 				"under_investigation": "238",
-				"tested": "18895"
+				"tested": "20085"
 			}
 		},
 		{
@@ -483,8 +483,8 @@
 			"icu": "",
 			"ventilator": "",
 			"resolved": "11",
-			"under_investigation": "34",
-			"tested": "1547",
+			"under_investigation": "36",
+			"tested": "1612",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -499,11 +499,11 @@
 			"pending": "",
 			"population": "41078",
 			"twitter_url": "https://twitter.com/HSSYukon",
-			"url": "https://globalnews.ca/news/7215123/yukon-coronavirus-july-24/",
+			"url": "https://yukon.ca/en/case-counts-covid-19",
 			"death_url": "",
-			"official_url": "https://yukon.ca/en/health-and-wellness/covid-19/current-covid-19-situation",
+			"official_url": "https://yukon.ca/en/case-counts-covid-19",
 			"yesterday": {
-				"date": "July 28",
+				"date": "July 31",
 				"confirmed": "14",
 				"new": "",
 				"probable": "",
@@ -513,8 +513,8 @@
 				"icu": "",
 				"ventilator": "",
 				"resolved": "11",
-				"under_investigation": "34",
-				"tested": "1547"
+				"under_investigation": "36",
+				"tested": "1612"
 			}
 		},
 		{
@@ -577,8 +577,8 @@
 			"icu": "",
 			"ventilator": "",
 			"resolved": "5",
-			"under_investigation": "102",
-			"tested": "3163",
+			"under_investigation": "77",
+			"tested": "2878",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -597,7 +597,7 @@
 			"death_url": "",
 			"official_url": "https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19",
 			"yesterday": {
-				"date": "July 29",
+				"date": "July 31",
 				"confirmed": "5",
 				"new": "",
 				"probable": "",
@@ -607,8 +607,8 @@
 				"icu": "",
 				"ventilator": "",
 				"resolved": "5",
-				"under_investigation": "102",
-				"tested": "3163"
+				"under_investigation": "77",
+				"tested": "2878"
 			}
 		},
 		{
@@ -624,8 +624,8 @@
 			"icu": "",
 			"ventilator": "",
 			"resolved": "",
-			"under_investigation": "236",
-			"tested": "1751",
+			"under_investigation": "272",
+			"tested": "1404",
 			"male": "",
 			"female": "",
 			"age_group_19_under": "",
@@ -644,7 +644,7 @@
 			"death_url": "",
 			"official_url": "https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus",
 			"yesterday": {
-				"date": "July 29",
+				"date": "August 3",
 				"confirmed": "",
 				"new": "",
 				"probable": "",
@@ -654,8 +654,8 @@
 				"icu": "",
 				"ventilator": "",
 				"resolved": "",
-				"under_investigation": "236",
-				"tested": "1751"
+				"under_investigation": "272",
+				"tested": "1404"
 			}
 		}
 	],
@@ -2884,6 +2884,30 @@
 		{
 			"day": "7/28",
 			"confirmed": 114994
+		},
+		{
+			"day": "7/30",
+			"confirmed": 115799
+		},
+		{
+			"day": "7/31",
+			"confirmed": 116312
+		},
+		{
+			"day": "8/1",
+			"confirmed": 116599
+		},
+		{
+			"day": "8/2",
+			"confirmed": 116884
+		},
+		{
+			"day": "8/3",
+			"confirmed": 117031
+		},
+		{
+			"day": "8/4",
+			"confirmed": 117792
 		}
 	],
 	"canada_new_confirmed_cases_by_day": [
@@ -3630,6 +3654,34 @@
 		{
 			"day": "7/28",
 			"confirmed": 397
+		},
+		{
+			"day": "7/29",
+			"confirmed": 476
+		},
+		{
+			"day": "7/30",
+			"confirmed": 329
+		},
+		{
+			"day": "7/31",
+			"confirmed": 513
+		},
+		{
+			"day": "8/1",
+			"confirmed": 287
+		},
+		{
+			"day": "8/2",
+			"confirmed": 285
+		},
+		{
+			"day": "8/3",
+			"confirmed": 147
+		},
+		{
+			"day": "8/4",
+			"confirmed": 761
 		}
 	],
 	"canada_cases_by_day": [
@@ -6679,6 +6731,146 @@
 			"day": "7/28",
 			"type": "Alberta",
 			"cases,": 10470
+		},
+		{
+			"day": "7/29",
+			"type": "Quebec",
+			"cases": 59073
+		},
+		{
+			"day": "7/29",
+			"type": "Ontario",
+			"cases": 38986
+		},
+		{
+			"day": "7/29",
+			"type": "B.C.",
+			"cases": 3562
+		},
+		{
+			"day": "7/29",
+			"type": "Alberta",
+			"cases,": 10603
+		},
+		{
+			"day": "7/30",
+			"type": "Quebec",
+			"cases": 59131
+		},
+		{
+			"day": "7/30",
+			"type": "Ontario",
+			"cases": 39075
+		},
+		{
+			"day": "7/30",
+			"type": "B.C.",
+			"cases": 3591
+		},
+		{
+			"day": "7/30",
+			"type": "Alberta",
+			"cases,": 10716
+		},
+		{
+			"day": "7/31",
+			"type": "Quebec",
+			"cases": 59312
+		},
+		{
+			"day": "7/31",
+			"type": "Ontario",
+			"cases": 39209
+		},
+		{
+			"day": "7/31",
+			"type": "B.C.",
+			"cases": 3641
+		},
+		{
+			"day": "7/31",
+			"type": "Alberta",
+			"cases,": 10843
+		},
+		{
+			"day": "8/1",
+			"type": "Quebec",
+			"cases": 59458
+		},
+		{
+			"day": "8/1",
+			"type": "Ontario",
+			"cases": 39333
+		},
+		{
+			"day": "8/1",
+			"type": "B.C.",
+			"cases": 3641
+		},
+		{
+			"day": "8/1",
+			"type": "Alberta",
+			"cases,": 10843
+		},
+		{
+			"day": "8/2",
+			"type": "Quebec",
+			"cases": 59599
+		},
+		{
+			"day": "8/2",
+			"type": "Ontario",
+			"cases": 39449
+		},
+		{
+			"day": "8/2",
+			"type": "B.C.",
+			"cases": 3641
+		},
+		{
+			"day": "8/2",
+			"type": "Alberta",
+			"cases,": 10843
+		},
+		{
+			"day": "8/3",
+			"type": "Quebec",
+			"cases": 59722
+		},
+		{
+			"day": "8/3",
+			"type": "Ontario",
+			"cases": 39449
+		},
+		{
+			"day": "8/3",
+			"type": "B.C.",
+			"cases": 3641
+		},
+		{
+			"day": "8/3",
+			"type": "Alberta",
+			"cases,": 10843
+		},
+		{
+			"day": "8/4",
+			"type": "Quebec",
+			"cases": 59845
+		},
+		{
+			"day": "8/4",
+			"type": "Ontario",
+			"cases": 39628
+		},
+		{
+			"day": "8/4",
+			"type": "B.C.",
+			"cases": 3787
+		},
+		{
+			"day": "8/4",
+			"type": "Alberta",
+			"cases,": 11146
 		}
 	],
 	"canada_cases_by_province_by_day_group_2": [
@@ -12116,21 +12308,444 @@
 			"day": "7/28",
 			"type": "N.W.T.",
 			"cases": 5
+		},
+		{
+			"day": "7/29",
+			"type": "Saskatchewan",
+			"cases": 1268
+		},
+		{
+			"day": "7/29",
+			"type": "N.L.",
+			"cases": 266
+		},
+		{
+			"day": "7/29",
+			"type": "Nova Scotia",
+			"cases": 1067
+		},
+		{
+			"day": "7/29",
+			"type": "Manitoba",
+			"cases": 407
+		},
+		{
+			"day": "7/29",
+			"type": "New Brunswick",
+			"cases": 170
+		},
+		{
+			"day": "7/29",
+			"type": "P.E.I.",
+			"cases": 36
+		},
+		{
+			"day": "7/29",
+			"type": "Yukon",
+			"cases": 14
+		},
+		{
+			"day": "7/29",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "7/30",
+			"type": "Saskatchewan",
+			"cases": 1306
+		},
+		{
+			"day": "7/30",
+			"type": "N.L.",
+			"cases": 266
+		},
+		{
+			"day": "7/30",
+			"type": "Nova Scotia",
+			"cases": 1067
+		},
+		{
+			"day": "7/30",
+			"type": "Manitoba",
+			"cases": 409
+		},
+		{
+			"day": "7/30",
+			"type": "New Brunswick",
+			"cases": 170
+		},
+		{
+			"day": "7/30",
+			"type": "P.E.I.",
+			"cases": 36
+		},
+		{
+			"day": "7/30",
+			"type": "Yukon",
+			"cases": 14
+		},
+		{
+			"day": "7/30",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "7/31",
+			"type": "Saskatchewan",
+			"cases": 1319
+		},
+		{
+			"day": "7/31",
+			"type": "N.L.",
+			"cases": 266
+		},
+		{
+			"day": "7/31",
+			"type": "Nova Scotia",
+			"cases": 1069
+		},
+		{
+			"day": "7/31",
+			"type": "Manitoba",
+			"cases": 415
+		},
+		{
+			"day": "7/31",
+			"type": "New Brunswick",
+			"cases": 170
+		},
+		{
+			"day": "7/31",
+			"type": "P.E.I.",
+			"cases": 36
+		},
+		{
+			"day": "7/31",
+			"type": "Yukon",
+			"cases": 14
+		},
+		{
+			"day": "7/31",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "8/1",
+			"type": "Saskatchewan",
+			"cases": 1334
+		},
+		{
+			"day": "8/1",
+			"type": "N.L.",
+			"cases": 266
+		},
+		{
+			"day": "8/1",
+			"type": "Nova Scotia",
+			"cases": 1069
+		},
+		{
+			"day": "8/1",
+			"type": "Manitoba",
+			"cases": 417
+		},
+		{
+			"day": "8/1",
+			"type": "New Brunswick",
+			"cases": 170
+		},
+		{
+			"day": "8/1",
+			"type": "P.E.I.",
+			"cases": 36
+		},
+		{
+			"day": "8/1",
+			"type": "Yukon",
+			"cases": 14
+		},
+		{
+			"day": "8/1",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "8/2",
+			"type": "Saskatchewan",
+			"cases": 1342
+		},
+		{
+			"day": "8/2",
+			"type": "N.L.",
+			"cases": 266
+		},
+		{
+			"day": "8/2",
+			"type": "Nova Scotia",
+			"cases": 1071
+		},
+		{
+			"day": "8/2",
+			"type": "Manitoba",
+			"cases": 435
+		},
+		{
+			"day": "8/2",
+			"type": "New Brunswick",
+			"cases": 170
+		},
+		{
+			"day": "8/2",
+			"type": "P.E.I.",
+			"cases": 36
+		},
+		{
+			"day": "8/2",
+			"type": "Yukon",
+			"cases": 14
+		},
+		{
+			"day": "8/2",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "8/3",
+			"type": "Saskatchewan",
+			"cases": 1359
+		},
+		{
+			"day": "8/3",
+			"type": "N.L.",
+			"cases": 266
+		},
+		{
+			"day": "8/3",
+			"type": "Nova Scotia",
+			"cases": 1071
+		},
+		{
+			"day": "8/3",
+			"type": "Manitoba",
+			"cases": 442
+		},
+		{
+			"day": "8/3",
+			"type": "New Brunswick",
+			"cases": 170
+		},
+		{
+			"day": "8/3",
+			"type": "P.E.I.",
+			"cases": 36
+		},
+		{
+			"day": "8/3",
+			"type": "Yukon",
+			"cases": 14
+		},
+		{
+			"day": "8/3",
+			"type": "N.W.T.",
+			"cases": 5
+		},
+		{
+			"day": "8/4",
+			"type": "Saskatchewan",
+			"cases": 1368
+		},
+		{
+			"day": "8/4",
+			"type": "N.L.",
+			"cases": 266
+		},
+		{
+			"day": "8/4",
+			"type": "Nova Scotia",
+			"cases": 1071
+		},
+		{
+			"day": "8/4",
+			"type": "Manitoba",
+			"cases": 443
+		},
+		{
+			"day": "8/4",
+			"type": "New Brunswick",
+			"cases": 170
+		},
+		{
+			"day": "8/4",
+			"type": "P.E.I.",
+			"cases": 36
+		},
+		{
+			"day": "8/4",
+			"type": "Yukon",
+			"cases": 14
+		},
+		{
+			"day": "8/4",
+			"type": "N.W.T.",
+			"cases": 5
 		}
 	],
 	"headline_news": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "The National for August 2nd",
+            "description": "What Australia\u2019s spike in COVID-19 cases could teach Canada. Plus, SpaceX\u2019s splashdown moves space travel forward.",
+            "url": "https://www.cbc.ca/player/play/978965571558",
+            "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/592/787/TheNational_Ian_Hanomansing_1920x1080_620x350_1750295619919.jpg",
+            "publishedAt": "2020-08-03T00:54:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Homeless encampments, COVID-19, and Canada's housing crisis",
+            "description": "Since the start of the pandemic, homeless encampments have multiplied in parks across Canada. City officials are worried about safety and sanitation, and as a result, many have tried to dismantle such camps, with varying degrees of success. That's because som\u2026",
+            "url": "https://www.cbc.ca/player/play/1771899971841",
+            "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/216/507/frontburner-640x360__534265.jpg",
+            "publishedAt": "2020-08-04T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "The latest on the coronavirus outbreak for August 3 - CBC.ca",
+            "description": "The latest on the coronavirus outbreak for August 3. Coronavirus conspiracies spreading at alarming rates across Canada. COVID-19 conspiracies theories are creating a 'public health crisis' in Canada\u2026",
+            "url": "https://www.cbc.ca/news/the-latest-on-the-coronavirus-outbreak-for-august-3-1.5672979",
+            "urlToImage": "https://i.cbc.ca/1.5672912.1596487685!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/various-covid-pictures.jpg",
+            "publishedAt": "2020-08-03T20:48:00Z",
+            "content": "COVID-19 conspiracies are creating a 'public health crisis' in Canada, experts say\r\nResearchers say conspiracy theories about COVID-19 are spreading at an alarming rate across the country and they wa\u2026 [+12381 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Briar Stewart",
+            "title": "Province-sanctioned safe supply not enough to get some B.C. addicts off fentanyl-laced street drugs",
+            "description": "Nearly 2,000 people in B.C. have been prescribed hydromorphone, a synthetic opioid, under the province's safe-supply program, but fatal overdoses continue to rise and reached a historic high in June, with 175 deaths.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/drugs-covid-supply-1.5668370",
+            "urlToImage": "https://i.cbc.ca/1.5668377.1596079675!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/david-keeler.JPG",
+            "publishedAt": "2020-08-03T08:00:00Z",
+            "content": "In the morning, David Keeler starts off with a dose of methadone dispensed by a pharmacist.\u00a0A few hours later, he swallows 28 prescription pills of hydromorphone, a synthetic opioid prescribed by a d\u2026 [+7316 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Jordan Press",
+            "title": "Ottawa keeps lid on company names, dollar amounts in some COVID-19 contracts",
+            "description": "The federal Liberals have given companies more than $5.8 billion in pandemic-related contracts for personal protective gear and medical supplies.",
+            "url": "https://www.cbc.ca/news/politics/federal-spending-ppe-medical-supplies-1.5673904",
+            "urlToImage": "https://i.cbc.ca/1.5673965.1596566361!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-cda-20200428.jpg",
+            "publishedAt": "2020-08-04T20:07:07Z",
+            "content": "The federal Liberals have given companies more than $5.8 billion in pandemic-related contracts for personal protective gear and medical supplies.\r\nThe latest figures provided by the government also s\u2026 [+3406 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "7 more potential COVID-19 cases identified on Vancouver flights in past 2 weeks",
+            "description": "The B.C. Centre for Disease Control has added seven more flights to its list of possible novel coronavirus exposures.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/covid-19-flights-vancouver-1.5673035",
+            "urlToImage": "https://i.cbc.ca/1.5510619.1585229156!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vancouver-airport-travel-yvr-covid-19.jpg",
+            "publishedAt": "2020-08-03T21:51:21Z",
+            "content": "Seven more flights that took off in the past 14 days have been added to the B.C. Centre for Disease Control's list of\u00a0possible novel coronavirus exposures.\r\nIt releases the information when a case of\u2026 [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Less than a third of Canadians willing to travel without a COVID-19 vaccine, says new poll",
+            "description": "Most Canadians and Americans aren\u2019t rushing to travel anywhere, even within their own countries, before a vaccine is developed against COVID-19, according to a new online survey.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/covid-vaccine-poll-1.5672571",
+            "urlToImage": "https://i.cbc.ca/1.5590559.1590775295!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/quebec-cruise-ship-industry.jpg",
+            "publishedAt": "2020-08-03T01:13:48Z",
+            "content": "Most Canadians and Americans aren't rushing to travel anywhere, even within their own countries, before a COVID-19 vaccine is developed, according to a new online survey.\r\nLess than a third of Canadi\u2026 [+1850 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Kevin Bissett",
+            "title": "U.S. border communities feel loss of Canadian tourists, shoppers and friends - The Globe and Mail",
+            "description": "U.S. border communities feel loss of Canadian tourists, shoppers and friends\u00a0\u00a0The Globe and MailView Full coverage on Google News",
+            "url": "https://www.theglobeandmail.com/business/article-us-border-communities-feel-loss-of-canadian-tourists-shoppers-and/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/KRUDS_uDYy783ZlcGPjSwimU0xE=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/Z3HKGMHTHNM3DF3TW7NMXJD5DE.jpg",
+            "publishedAt": "2020-08-03T21:26:47Z",
+            "content": "The COVID-19 pandemic has meant the Canada - U.S. border has been closed to regular cross-border shopping trips and vacations since May, and many American businesses near the border say they miss bot\u2026 [+4289 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Natalia Goodwin",
+            "title": "Lawyers sound alarm bells as in-person refugee hearings resume",
+            "description": "Immigration lawyers in Ottawa are worried about the way the Immigration and Refugee Board of Canada is resuming\u00a0in-person hearings Monday, after being closed\u00a0for months due to COVID-19.",
+            "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-immigration-refugee-hearings-covid-19-1.5672357",
+            "urlToImage": "https://i.cbc.ca/1.5672381.1596397380!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/arghavan-gerami.jpg",
+            "publishedAt": "2020-08-03T08:00:00Z",
+            "content": "Immigration lawyers in Ottawa are worried about plans to\u00a0resume in-person hearings at the Immigration and Refugee Board of Canada (IRB)\u00a0this week, after being closed\u00a0for months due to COVID-19.\u00a0\r\nThe\u2026 [+2703 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Jillian Kestler-D'Amours",
+            "title": "COVID-19 conspiracies creating a 'public health crisis' in Canada, experts say",
+            "description": "Researchers say conspiracy theories about COVID-19 are spreading at an alarming rate across the country \u2014\u00a0and they warn misinformation shared online may lead to devastating consequences and push Canadians to shun important safety measures.",
+            "url": "https://www.cbc.ca/news/politics/covid-19-conspiracy-theories-1.5672766",
+            "urlToImage": "https://i.cbc.ca/1.5672783.1596466432!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-conspiracy-theories-20200803.jpg",
+            "publishedAt": "2020-08-03T15:57:46Z",
+            "content": "A lively crowd gathered outside Fran\u00e7ois Legault's office in downtown Montreal in mid-July to send a message to the Quebec premier: His government cannot force them to wear masks in indoor public spa\u2026 [+5981 chars]"
+        },
 		{
             "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Peat fires, like those raging in Siberia, will become more common in Canada - CBC.ca",
+            "description": "A study published earlier this year showed that peatlands in Canada are drying up and that fires there will become more common in the future.",
+            "url": "https://www.cbc.ca/radio/whatonearth/peat-fires-like-those-raging-in-siberia-will-become-more-common-in-canada-1.5670662",
+            "urlToImage": "https://i.cbc.ca/1.5645482.1594407985!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/russia-fires-siberia.JPG",
+            "publishedAt": "2020-08-01T08:00:00Z",
+            "content": "Among the most unsettling images of 2020 next to the fallout of the coronavirus pandemic have been the photos of wildfires in the Siberia region of Russia\r\n.\u00a0\r\nThe notion of wildfires in Siberia, an \u2026 [+6043 chars]"
+        },
+        {
+            "source": {
                 "id": "the-globe-and-mail",
                 "name": "The Globe And Mail"
             },
             "author": null,
-            "title": "Nova Scotia reaches milestone with zero confirmed COVID cases\u2019 other provinces see resurgence - The Globe and Mail",
-            "description": "Nova Scotia reaches milestone with zero confirmed COVID cases\u2019 other provinces see resurgence. Nova Scotia now free of known active COVID-19 cases. No new cases of COVID-19 for 11 days\u2026",
-            "url": "https://www.theglobeandmail.com/canada/article-nova-scotia-reaches-milestone-with-zero-confirmed-covid-cases-other/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/E0tcPbEuhH1bkyjlZDxHdjNn9Ig=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/I3N5WSEHQFN2XC6MGITBCKQNHA.jpg",
-            "publishedAt": "2020-07-27T01:40:56Z",
-            "content": "Passengers wear face masks on a Halifax Transit ferry as it arrives in Dartmouth, N.S. on Friday, July 24, 2020, the first day they have been mandatory on public transit. \r\nAndrew Vaughan/The Canadia\u2026 [+4799 chars]"
+            "title": "Parents and teachers express concern over Alberta\u2019s school reopening plan - The Globe and Mail",
+            "description": "Parents and teachers express concern over Alberta\u2019s school reopening plan. Back-to-school: COVID-19 rules across Canada. Remote learning turns kids into zombies because we're doing it all wron\u2026",
+            "url": "https://www.theglobeandmail.com/canada/alberta/article-parents-and-teachers-express-concern-over-albertas-school-reopening/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/hmN3BLoHkkuGLrJfF9q7EvkswxM=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/54XBIEIATNHO5JXCOPKUEMCX2Q.JPG",
+            "publishedAt": "2020-08-01T11:00:00Z",
+            "content": "Stacey Speta, pictured here with her husband Kevin Hallman and sons Anders and Bergen, in Beaumont, Alberta on Friday, July 31, 2020, is concerned about the provinces back to school plan, especially \u2026 [+7664 chars]"
         },
         {
             "source": {
@@ -12138,51 +12753,116 @@
                 "name": "The Globe And Mail"
             },
             "author": null,
-            "title": "WE Charity contract called for Ottawa to pay $33-million in administration fees in its first weeks - The Globe and Mail",
-            "description": "WE Charity contract called for Ottawa to pay $33-million in administration fees in its first weeks. Commons finance committee to hash out details of Trudeau testimony on WE deal. Trudeau\u2019s approval ratin\u2026",
-            "url": "https://www.theglobeandmail.com/politics/article-we-charity-contract-came-into-effect-may-5-ottawa-paid-most/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/mTTWOpdRFJUeuErQH6ATam87qj4=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/O2N4ZPL6JBEJDGBDY2XU3TPHQQ.jpg",
-            "publishedAt": "2020-07-27T17:15:16Z",
-            "content": "WE Charity co-founders Craig and Marc Kielburger are seen in an undated file photo.\r\nThe deal that WE Charity struck with the federal government allowed it to collect most of the fee for administerin\u2026 [+5380 chars]"
+            "title": "Ottawa launches 'COVID Alert' app that notifies users about contact with coronavirus cases - The Globe and Mail",
+            "description": "Ottawa launches 'COVID Alert' app that notifies users about contact with coronavirus cases. New COVID-19 notification app rolls out in Ontario. COVID-19 exposure notification app now available\u2026",
+            "url": "https://www.theglobeandmail.com/canada/article-ottawa-launches-covid-alert-app-that-notifies-users-about-contact/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/r9WjO5fFAdoPtDTyerteaBrAzGo=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/6Z67D67OO5LMNGP35KF3EPT3BI.jpg",
+            "publishedAt": "2020-08-01T00:17:35Z",
+            "content": "The COVID Alert app is seen on an iPhone in Ottawa, on July 31, 2020. It is available to anyone through both the Apple or Google app stores, though currently only applicable to those living in Ontari\u2026 [+5806 chars]"
         },
         {
             "source": {
                 "id": "cbc-news",
                 "name": "CBC News"
             },
-            "author": "The Canadian Press",
-            "title": "Government extends 2019 tax payment deadline to September",
-            "description": "Anyone who owes the federal government taxes will now have until the end of September to pay as the Canada Revenue Agency has moved the deadline for individuals, corporations and trusts that had various deadlines through the month.",
-            "url": "https://www.cbc.ca/news/business/cra-tax-payment-1.5664805",
-            "urlToImage": "https://i.cbc.ca/1.5179983.1587767361!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-revenue-agency.jpg",
-            "publishedAt": "2020-07-27T19:57:29Z",
-            "content": "Anyone who owes the federal government taxes will now have until the end of September to pay.\r\nThe Canada Revenue Agency says the payment deadline has been moved to Sept. 30 for individuals, corporat\u2026 [+877 chars]"
+            "author": null,
+            "title": "What you need to know about COVID-19 in Ottawa on Saturday, Aug. 1 - CBC.ca",
+            "description": "What you need to know about COVID-19 in Ottawa on Saturday, Aug. 1. Ontario health official says scenarios in place for potential COVID-19 cases in schools. Health officials considering drive-thru te\u2026",
+            "url": "https://www.cbc.ca/news/canada/ottawa/covid19-coronavirus-ottawa-symptoms-information-aug-1-1.5671501",
+            "urlToImage": "https://i.cbc.ca/1.5671514.1596242032!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-feature-20200722.jpg",
+            "publishedAt": "2020-08-01T18:51:00Z",
+            "content": "Recent developments:\r\n<ul><li>Ottawa Public Health reported 17 new cases Saturday. </li><li>There are 124 new cases across Ontario.</li><li>Realtors say COVID-19 has sparked a wave of buyers looking \u2026 [+8287 chars]"
         },
         {
             "source": {
                 "id": "cbc-news",
                 "name": "CBC News"
             },
-            "author": "Elizabeth McMillan",
-            "title": "Charity Gospel for Asia files for creditor protection after $170M lawsuit",
-            "description": "Gospel for Asia, a Christian charity facing a multimillion-dollar class-action lawsuit launched by former donors, has filed for creditor protection, claiming that the coronavirus and the negative publicity from the claims against it have led to a decline in d\u2026",
-            "url": "https://www.cbc.ca/news/canada/nova-scotia/gospel-for-asia-creditor-protection-subject-of-class-action-1.5656224",
-            "urlToImage": "https://i.cbc.ca/1.5476328.1582712151!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gospel-for-asia-chapel.JPG",
-            "publishedAt": "2020-07-27T08:00:00Z",
-            "content": "A Christian charity facing a multimillion-dollar class-action lawsuit launched in Nova Scotia has filed for creditor protection, arguing that the coronavirus\u00a0and the negative publicity from $170 mill\u2026 [+9110 chars]"
+            "author": "Emily Chung",
+            "title": "When a COVID-19 vaccine arrives, which Canadians will get it first?",
+            "description": "When the first COVID-19 vaccines become available, there won\u2019t be enough for everyone who wants it. Within Canada, who should get it first and how will that be decided? Here\u2019s a closer look.",
+            "url": "https://www.cbc.ca/news/technology/covid-vaccine-priority-canada-1.5669216",
+            "urlToImage": "https://i.cbc.ca/1.5669262.1596134498!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-virus-outbreak-vaccine-race.jpg",
+            "publishedAt": "2020-08-01T08:00:00Z",
+            "content": "When the first COVID-19 vaccines become available, there won't be enough for everyone who wants it, both nationally and internationally.\r\nWe'll take a closer look at the issue with global vaccine dis\u2026 [+9609 chars]"
         },
         {
             "source": {
                 "id": "cbc-news",
                 "name": "CBC News"
             },
-            "author": "The Canadian Press",
-            "title": "Google Canada extends work from home option for employees into July 2021 at least",
-            "description": "Google says it is extending the ability for most of its 1,500 Canadian employees to work from home until at least next July.",
-            "url": "https://www.cbc.ca/news/business/google-work-from-home-canada-1.5664763",
-            "urlToImage": "https://i.cbc.ca/1.5454559.1581018236!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/google-jobs.jpg",
-            "publishedAt": "2020-07-27T19:27:04Z",
-            "content": "Google says it is extending the ability for most of its 1,500 Canadian employees to work from home until at least next July.\r\nA company spokesperson says it announced the extension of its global volu\u2026 [+746 chars]"
+            "author": "Sophia Harris",
+            "title": "Canadian-American couple devastated after Canada won't recognize their FaceTime wedding",
+            "description": "A woman from Ontario and her American groom are crestfallen that Ottawa won\u2019t recognize their marriage \u2014 performed via FaceTime as they took part in different countries \u2014 and allow him to enter Canada during the COVID-19 pandemic.",
+            "url": "https://www.cbc.ca/news/business/couple-border-proxy-marriage-covid-19-1.5667527",
+            "urlToImage": "https://i.cbc.ca/1.5667596.1596233576!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mark-maksymiuk-and-lauren-pickrell.jpg",
+            "publishedAt": "2020-08-01T08:00:00Z",
+            "content": "A Canadian-American couple were\u00a0devastated\u00a0to discover\u00a0that Canada won't recognize\u00a0their marriage, performed with only the groom present at the wedding\u00a0while the the bride participated via\u00a0FaceTime.\r\u2026 [+5391 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "The Associated Press",
+            "title": "California company likely source of North American salmonella outbreak linked to onions",
+            "description": "U.S. federal health officials say an outbreak of salmonella infecting nearly 400 people in more than 30 states has been linked to red onions, and they identified a California company as the likely source.",
+            "url": "https://www.cbc.ca/news/canada/salmonella-outbreak-canada-red-onions-united-states-1.5671809",
+            "urlToImage": "https://i.cbc.ca/1.5670263.1596205996!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/salmonella-red-onions-20200731.JPG",
+            "publishedAt": "2020-08-01T16:51:52Z",
+            "content": "U.S. federal health officials say an outbreak of salmonella infecting nearly 400 people in more than 30 states has been linked to red onions, and they identified a California company as the likely so\u2026 [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Joshua Clipperton",
+            "title": "NHL set to resume against complicated backdrop of pandemic, battle for equality",
+            "description": "It was certainly a very different world the evening of March 11, hours before the league would suspend its schedule, when the Los Angeles Kings beat the Ottawa Senators in what would turn out to be the final game of the 2019-20 regular season. Now, 142 days l\u2026",
+            "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-hub-city-bubble-restart-preview-1.5671319",
+            "urlToImage": "https://i.cbc.ca/1.5671438.1596237992!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nhl-toronto-bubble-20200726.jpg",
+            "publishedAt": "2020-08-01T00:48:56Z",
+            "content": "A lot has changed since the last time the puck was dropped in a National Hockey League\u00a0game that mattered.\r\nThe COVID-19 pandemic which saw countries locked down and economies devastated has already \u2026 [+6265 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Ryan Patrick Jones",
+            "title": "Liberals, Conservatives see drop in donations during height of COVID-19 pandemic",
+            "description": "Canada's two main federal political parties took in less money from individual donations during the second quarter of this year compared with the same time in 2018 \u2014 the last non-election year\u00a0\u2014\u00a0as the financial slowdown caused by COVID-19 continues.",
+            "url": "https://www.cbc.ca/news/politics/political-donations-june-2020-1.5671891",
+            "urlToImage": "https://i.cbc.ca/1.5671897.1596317623!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/weather-feature-20200721.jpg",
+            "publishedAt": "2020-08-01T21:37:53Z",
+            "content": "Canada's two main federal political parties took in less money from individual donations during the second quarter of this year compared with\u00a0the same time in 2018 the last non-election year\u00a0\u00a0as the \u2026 [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Michelle Ghoussoub",
+            "title": "One month after Canada Day outbreak, Kelowna struggles to balance tourism and COVID-19 sense",
+            "description": "Kelowna Mayor Colin Basran said this weekend is a tough test.\u00a0The city is deferring to the province's authority\u00a0\u2014 and recognizes the need to maintain its vital tourism industry while preventing a second outbreak.",
+            "url": "https://www.cbc.ca/news/canada/british-columbia/one-month-after-canada-day-outbreak-kelowna-struggles-to-balance-tourism-and-covid-19-sense-1.5671801",
+            "urlToImage": "https://i.cbc.ca/1.5649715.1594773026!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/downtown-kelowna.jpg",
+            "publishedAt": "2020-08-01T18:56:29Z",
+            "content": "Kelowna is known for its beaches, wineries, golf courses, and stunning views\u00a0 a perfect summer getaway\u00a0 but this\u00a0long weekend, there is also apprehension about welcoming tourists as the city continue\u2026 [+3865 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Joyita Sengupta & Tashauna Reid",
+            "title": "Toronto Caribbean Carnival keeps spirit of celebration, community solidarity alive in face of pandemic",
+            "description": "For first time in 53 years, COVID-19 concerns mean the Toronto Caribbean Carnival - previously called Caribana - isn't the traditional vibrant multi-day festival people have come to love.",
+            "url": "https://www.cbc.ca/news/canada/toronto/toronto-caribbean-carnival-covid-19-pandemic-1.5664953",
+            "urlToImage": "https://i.cbc.ca/1.5670404.1596210899!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/denise-herrera-jackson.JPG",
+            "publishedAt": "2020-08-01T08:00:00Z",
+            "content": "\"Being in here and it's empty is just heartbreaking. There would [normally] be a lot of energy going on right now,\" Candice Dixon says as she and her husband, Dwayne, stand in the middle of a desolat\u2026 [+9658 chars]"
         },
         {
             "source": {
@@ -12190,129 +12870,25 @@
                 "name": "CBC News"
             },
             "author": "CBC News",
-            "title": "Trudeau to appear before Commons committee Thursday to answer questions about WE Charity deal",
-            "description": "Prime Minister Justin Trudeau and his chief of staff Katie Telford will appear before the House of Commons finance committee Thursday to explain their roles in the decision to strike a partnership with We Charity\u00a0\u2014 which has close ties with the Trudeau family\u2026",
-            "url": "https://www.cbc.ca/news/politics/trudeau-telford-we-charity-committee-1.5664627",
-            "urlToImage": "https://i.cbc.ca/1.5664658.1595874141!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/press-gallery-dinner-20170603.jpg",
-            "publishedAt": "2020-07-27T18:30:12Z",
-            "content": "Prime Minister Justin Trudeau and his chief of staff Katie Telford will appear before the House of Commons finance committee Thursday to explain their roles in the decision to strike a partnership wi\u2026 [+1449 chars]"
+            "title": "Tornado warnings, watches in effect for parts of eastern Ontario, Gatineau",
+            "description": "Environment Canada has issued tornado warnings and watches for a large swath of eastern Ontario, including the National Capital Region.",
+            "url": "https://www.cbc.ca/news/canada/ottawa/tornado-watch-national-capital-region-1.5672358",
+            "urlToImage": "https://i.cbc.ca/1.5646543.1594500397!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/funnel-cloud-near-almonte-ont-july-11-20.jpg",
+            "publishedAt": "2020-08-02T20:28:17Z",
+            "content": "Environment Canada has issued tornado warnings and watches\u00a0for a large swath of eastern Ontario, including the National Capital Region.\r\nThe weather agency has issued a tornado warning for Ottawa, Sm\u2026 [+686 chars]"
         },
         {
             "source": {
                 "id": "cbc-news",
                 "name": "CBC News"
-            },
-            "author": "Eva Uguen-Csenge",
-            "title": "B.C. brewery says it was denied COVID-relief funds because of CRA clerical error",
-            "description": "A\u00a0brewery in Langford, B.C., says it hasn't received any financial help during the COVID-19 pandemic because of a clerical error by the Canada Revenue Agency.",
-            "url": "https://www.cbc.ca/news/canada/british-columbia/bc-brewery-denied-relief-cra-error-1.5662793",
-            "urlToImage": "https://i.cbc.ca/1.5662806.1595632160!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/v2v-black-hops-brewery-langford.jpg",
-            "publishedAt": "2020-07-27T11:00:00Z",
-            "content": "A new brewery in Langford, B.C., says it hasn't received any financial help during the COVID-19 pandemic because of a clerical error by the Canada Revenue Agency.\r\nV2V Black Hops Brewery, which gives\u2026 [+3564 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": "The Canadian Press",
-            "title": "Border jumper leads RCMP on hours long 'float chase' down B.C. river",
-            "description": "An American man is in custody after police allege he illegally jumped the border then tried to evade officers by floating down a river in British Columbia.",
-            "url": "https://www.cbc.ca/news/canada/british-columbia/float-chase-bc-border-1.5665133",
-            "urlToImage": "https://i.cbc.ca/1.4297221.1505851510!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/kettle-river.png",
-            "publishedAt": "2020-07-27T23:28:22Z",
-            "content": "An American man is in custody after police allege he illegally jumped the border then tried to evade officers by floating down a river in British Columbia.\r\nThe RCMP said in a news release that offic\u2026 [+1503 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": "Muriel Draaisma",
-            "title": "3 women begin work on COVID-19 memorial blanket, call for knitters across Canada to help",
-            "description": "Three Ontario knitters have begun work on a COVID-19 memorial blanket that they hope, with the help of other craftspeople across the country, will contain squares for every person who has died of the infectious disease in Canada.",
-            "url": "https://www.cbc.ca/news/canada/toronto/three-knitters-project-covid-19-memorial-blanket-canada-art-installation-1.5663792",
-            "urlToImage": "https://i.cbc.ca/1.5663861.1595796708!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/heather-breadner-covid-19-memorial-blanket.JPG",
-            "publishedAt": "2020-07-27T09:00:00Z",
-            "content": "Three Ontario knitters have begun work on a COVID-19 memorial blanket that is intended to\u00a0honour the lives of all people who have died from the virus\u00a0in Canada.\r\nBut the three women spearheading the \u2026 [+6055 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": "Janyce McGregor",
-            "title": "Agreement between WE and federal government set aside only $500 million for student grants: documents",
-            "description": "Documents shared with the Commons finance committee Monday suggest that although the Canada Student Service Grant was allocated a $900 million budget, officials had drawn up a plan with the WE Charity Foundation to\u00a0spend only\u00a0some of that amount.",
-            "url": "https://www.cbc.ca/news/politics/we-charity-student-grants-trudeau-covid-pandemic-1.5664391",
-            "urlToImage": "https://i.cbc.ca/1.5645487.1594731081!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trudeau-new-york-20170920.jpg",
-            "publishedAt": "2020-07-27T16:20:07Z",
-            "content": "Documents shared with the Commons finance committee Monday suggest that although the Canada Student Service Grant program was allocated a $900 million budget, officials had drawn up a plan with the W\u2026 [+1579 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": "Roshini Nair",
-            "title": "Nervous about driving a U.S.-registered car in B.C.? Change your plates or take transit, premier advises",
-            "description": "Premier John Horgan offered blunt advice to drivers with American licence plates who are nervous about judgment from B.C. residents during the COVID-19 pandemic.",
-            "url": "https://www.cbc.ca/news/canada/british-columbia/american-plates-horgan-comments-1.5664515",
-            "urlToImage": "https://i.cbc.ca/1.5664518.1595869092!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/john-horgan.jpg",
-            "publishedAt": "2020-07-27T19:27:39Z",
-            "content": "Premier John Horgan had some blunt advice Monday for those drivers in B.C. with American licence plates who are nervous about being judged by B.C. residents.\u00a0\r\n\"With respect to those who have offshor\u2026 [+2567 chars]"
-        },
-        {
-            "source": {
-                "id": "the-globe-and-mail",
-                "name": "The Globe And Mail"
             },
             "author": null,
-            "title": "What are my chances of catching COVID-19 if I take a flight? - The Globe and Mail",
-            "description": "Your odds of catching the virus while onboard a plane may be actually less than you think",
-            "url": "https://www.theglobeandmail.com/life/health-and-fitness/article-what-are-my-chances-of-catching-covid-19-if-i-take-a-flight/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/6dhx12CIhSaMq-ASsOdLohMg3ps=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BWVPFSUJOJHD7OHNZ4ME7LNUIY.JPG",
-            "publishedAt": "2020-07-26T11:00:00Z",
-            "content": "The question:\r\nI need to travel to see a sick relative. What are my chances of catching COVID-19 if I go via airplane?\r\nThe answer:\r\nMost people assume that being cooped up in a commercial airliner i\u2026 [+5005 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": "Courtney Dickson",
-            "title": "Latitudes and attitudes: How COVID-19 is impacting border towns in the West",
-            "description": "The COVID-19 pandemic has highlighted some stark similarities, and vast differences, between Canadian and American border towns.",
-            "url": "https://www.cbc.ca/news/canada/british-columbia/canada-us-border-closure-impacts-attitudes-1.5659175",
-            "urlToImage": "https://i.cbc.ca/1.5659194.1595447649!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/montana-border-crossing.jpeg",
-            "publishedAt": "2020-07-25T08:00:00Z",
-            "content": "Latitudes and Attitudes is a collaboration between CBC Radio and NPR's\u00a0Mountain West News Bureau that explores how the closure of the Canada-U.S. border is impacting towns that rely on tourists from \u2026 [+5927 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": "\u00c9ric Grenier",
-            "title": "Sask. Party's quest for 4th term in power could put it in rare company",
-            "description": "No provincial party currently in office has governed for longer than Premier Scott Moe's Saskatchewan Party. They hope to extend their election-winning streak to four in October, something most parties have failed to do in the past.",
-            "url": "https://www.cbc.ca/news/canada/saskatchewan/grenier-saskatchewan-election-history-1.5660835",
-            "urlToImage": "https://i.cbc.ca/1.5660848.1595535832!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/saskbudget-20200615.jpg",
-            "publishedAt": "2020-07-26T10:00:00Z",
-            "content": "When Saskatchewan voters are called to the polls in three months, Premier Scott Moe will be seeking a fourth consecutive term in government for his Saskatchewan Party. The polls suggest he's likely t\u2026 [+5086 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": "\u00c9ric Grenier",
-            "title": "Why some Canadian governments might be thinking about early elections \u2014 and why that might be a bad idea",
-            "description": "There are minority governments in Ottawa and other provincial capitals across the country \u2014 but none of them have dared pulled the plug on an election, despite their surging poll numbers. Fear of COVID-19 \u2014 and the cautionary tale to the south \u2014 could keep it\u2026",
-            "url": "https://www.cbc.ca/news/politics/grenier-covid-minority-election-1.5662235",
-            "urlToImage": "https://i.cbc.ca/1.5662264.1595616503!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-parliament-20200721.jpg",
-            "publishedAt": "2020-07-25T08:00:00Z",
-            "content": "Even in the best of times, there's always an element of political\u00a0risk when a minority government calls a snap election. That risk is exponentially greater in the midst of a pandemic and yet, some go\u2026 [+8144 chars]"
+            "title": "Trudeau makes public health announcement and takes questions LIVE",
+            "description": "Prime Minister Justin Trudeau is at the Public Health Agency of Canada headquarters to meet employees and take reporters' questions.",
+            "url": "https://www.cbc.ca/player/play/1770651203882",
+            "urlToImage": "https://liveimages.cbc.ca/WUGib1wINPG4Rnre9AQk/thumbnail.jpeg",
+            "publishedAt": "2020-07-31T14:52:48Z",
+            "content": null
         },
         {
             "source": {
@@ -12320,12 +12896,12 @@
                 "name": "CBC News"
             },
             "author": "CBC News",
-            "title": "Southern B.C. is about to experience 'first heat of the season,' says Environment Canada",
-            "description": "If you thought this week was hot, get ready for the next few days.",
-            "url": "https://www.cbc.ca/news/canada/british-columbia/heat-warning-southern-bc-1.5663041",
-            "urlToImage": "https://i.cbc.ca/1.5663051.1595650643!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/pools-reopening.jpg",
-            "publishedAt": "2020-07-25T04:32:12Z",
-            "content": "If you thought this week was hot, get ready for the next few days.\r\nEnvironment Canada has issued a special weather statement for the Lower Mainland and the southern part of B.C.\u00a0in anticipation of t\u2026 [+1278 chars]"
+            "title": "Salmonella outbreak in Canada linked to American red onions",
+            "description": "Health officials have tracked a salmonella outbreak in Canada reported earlier this week\u00a0to red onions imported\u00a0from the United States and are asking residents of British Columbia, Alberta, Saskatchewan, Manitoba and Ontario to avoid any products that contain\u2026",
+            "url": "https://www.cbc.ca/news/canada/pei-salmonella-outbreak-canada-linked-to-red-onions-1.5670208",
+            "urlToImage": "https://i.cbc.ca/1.5087571.1554566662!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/mba-salmonella-deaths-20190405.jpg",
+            "publishedAt": "2020-07-31T14:20:01Z",
+            "content": "Health officials have tracked a salmonella outbreak in Canada reported earlier this week\u00a0to red onions imported\u00a0from the United States.\r\nAccording to a release from the Public Health Agency of Canada\u2026 [+926 chars]"
         }
     ],
 	"menu": [
